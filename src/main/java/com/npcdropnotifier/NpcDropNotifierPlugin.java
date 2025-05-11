@@ -19,7 +19,6 @@ import net.runelite.client.plugins.PluginDescriptor;
 import java.io.*;
 import java.lang.reflect.Type;
 import java.net.HttpURLConnection;
-import java.net.MalformedURLException;
 import java.net.URL;
 import java.nio.file.Files;
 import java.nio.file.Path;
@@ -110,7 +109,11 @@ public class NpcDropNotifierPlugin extends Plugin
 		}
 	}
 
-	private NpcDropData.Drop findDrop(Integer itemId, Integer quantity) {
+	NpcDropData.Drop findDrop(Integer itemId, Integer quantity) {
+		if (!currentNpcDropData.containsKey(itemId)) {
+			return null;
+		}
+
 		for (NpcDropData.Drop drop : currentNpcDropData.get(itemId)) {
 			if (quantity >= drop.minQuantity && quantity <= drop.maxQuantity) {
 				return drop;
@@ -121,7 +124,7 @@ public class NpcDropNotifierPlugin extends Plugin
 
 	// Notification formatting
 
-	private String getDropRateColor(Double rarity) {
+	String getDropRateColor(Double rarity) {
 		if (rarity == 1) {
 			return ALWAYS;
 		} else if (rarity >= 0.04) {
@@ -135,9 +138,9 @@ public class NpcDropNotifierPlugin extends Plugin
 		}
 	}
 
-	private String getPrettyDropRate(NpcDropData.Drop drop) {
+	String getPrettyDropRate(NpcDropData.Drop drop) {
 		if (drop.rarity == 1) {
-			return "Always";
+			return "<br><br><col=" + getDropRateColor(drop.rarity) + ">Always</col>";
 		}
 
 		String formattedDropRate = "";
@@ -151,7 +154,7 @@ public class NpcDropNotifierPlugin extends Plugin
 		return "<br><br><col=" + getDropRateColor(drop.rarity) + ">( " + formattedDropRate + " )</col>";
 	}
 
-	private String getPrettyNotificationMessage(String npcName, Integer itemId, Integer quantity) {
+	String getPrettyNotificationMessage(String npcName, Integer itemId, Integer quantity) {
 		String itemName = client.getItemDefinition(itemId).getName();
 
 		NpcDropData.Drop drop = findDrop(itemId, quantity);
