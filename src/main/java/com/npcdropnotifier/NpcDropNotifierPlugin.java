@@ -191,6 +191,10 @@ public class NpcDropNotifierPlugin extends Plugin {
     }
 
     String getPrettyDropRate(NpcDropData.Drop drop) {
+        if (drop == null) {
+            return "<br><br><col=" + getDropRateColor(drop.rarity) + ">" + "? / ?" + "</col>";
+        }
+
         if (drop.rarity == 1) {
             return "<br><br><col=" + getDropRateColor(drop.rarity) + ">Always</col>";
         }
@@ -210,13 +214,10 @@ public class NpcDropNotifierPlugin extends Plugin {
         String itemName = client.getItemDefinition(itemId).getName();
 
         NpcDropData.Drop drop = findDrop(itemId, quantity);
-        if (drop != null) {
-            if (drop.maxQuantity > 1) {
-                return npcName + ":<br>" + itemName + " (" + drop.quantity + ")" + this.getPrettyDropRate(drop);
-            }
-            return npcName + ":<br>" + itemName + this.getPrettyDropRate(drop);
+        if (drop.maxQuantity > 1) {
+            return npcName + ":<br><col=ffffff>" + itemName + " (" + drop.quantity + ")</col>" + this.getPrettyDropRate(drop);
         }
-        return npcName + ":<br>" + itemName;
+        return npcName + ":<br><col=ffffff>" + itemName + "</col>" + this.getPrettyDropRate(drop);
     }
 
     // File operations
