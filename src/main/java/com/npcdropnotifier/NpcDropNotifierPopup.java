@@ -12,6 +12,8 @@ import javax.inject.Inject;
 import java.util.ArrayList;
 import java.util.List;
 
+import static net.runelite.api.gameval.InterfaceID.NOTIFICATION_DISPLAY;
+
 @Slf4j
 public class NpcDropNotifierPopup {
     @Inject private Client client;
@@ -42,8 +44,8 @@ public class NpcDropNotifierPopup {
                         : RESIZABLE_CLASSIC_LAYOUT
                         : FIXED_CLASSIC_LAYOUT;
 
-                popupWidgetNode = client.openInterface(componentId, 660, WidgetModalMode.MODAL_CLICKTHROUGH);
-                client.runScript(3343, "New Monster Drop", message, -1);
+                popupWidgetNode = client.openInterface(componentId, NOTIFICATION_DISPLAY, WidgetModalMode.MODAL_CLICKTHROUGH);
+                client.runScript(3343, "New Drop", message, -1);
 
                 clientThread.invokeLater(this::tryClearMessage);
             } catch (IllegalStateException ex) {
