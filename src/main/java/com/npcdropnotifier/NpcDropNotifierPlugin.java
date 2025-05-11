@@ -192,7 +192,7 @@ public class NpcDropNotifierPlugin extends Plugin {
 
     String getPrettyDropRate(NpcDropData.Drop drop) {
         if (drop == null) {
-            return "<br><br><col=" + getDropRateColor(drop.rarity) + ">" + "? / ?" + "</col>";
+            return "<br><br>" + "? / ?" + "</col>";
         }
 
         if (drop.rarity == 1) {
@@ -214,7 +214,7 @@ public class NpcDropNotifierPlugin extends Plugin {
         String itemName = client.getItemDefinition(itemId).getName();
 
         NpcDropData.Drop drop = findDrop(itemId, quantity);
-        if (drop.maxQuantity > 1) {
+        if (drop != null && drop.maxQuantity > 1) {
             return npcName + ":<br><col=ffffff>" + itemName + " (" + drop.quantity + ")</col>" + this.getPrettyDropRate(drop);
         }
         return npcName + ":<br><col=ffffff>" + itemName + "</col>" + this.getPrettyDropRate(drop);
@@ -222,8 +222,8 @@ public class NpcDropNotifierPlugin extends Plugin {
 
     // File operations
 
-    private File ensureNpcFolderExists(String npcKey) {
-        File dir = new File(RuneLite.RUNELITE_DIR, "new-drop-notifier/" + npcKey);
+    private File createOrGetNpcFolder(String npcKey) {
+        File dir = new File(RuneLite.RUNELITE_DIR + "/new-drop-notifier/" + this.client.getAccountHash() + "/", npcKey);
         if (!dir.exists()) {
             dir.mkdirs();
         }
@@ -232,7 +232,7 @@ public class NpcDropNotifierPlugin extends Plugin {
     }
 
     NpcDropData readNpcDropData(String npcKey) {
-        File npcDataFile = new File(RuneLite.RUNELITE_DIR + "/new-drop-notifier/" + npcKey, "npc-data.json");
+        File npcDataFile = new File(createOrGetNpcFolder(npcKey), "npc-data.json");
         try (FileReader reader = new FileReader(npcDataFile)) {
             return gson.fromJson(reader, NpcDropData.class);
         } catch (JsonIOException | IOException e) {
@@ -242,11 +242,8 @@ public class NpcDropNotifierPlugin extends Plugin {
     }
 
     void downloadAndSaveMonsterDropJsonIfNeeded(int monsterId, String npcKey) throws IOException {
-        // Prepare the directory
-        this.ensureNpcFolderExists(npcKey);
-
         // For now only download it once - figure out something to check if stale?
-        File dataFile = new File(RuneLite.RUNELITE_DIR + "/new-drop-notifier/" + npcKey, "npc-data.json");
+        File dataFile = new File(this.createOrGetNpcFolder(npcKey), "npc-data.json");
         if (dataFile.exists())
             return;
 
@@ -282,7 +279,7 @@ public class NpcDropNotifierPlugin extends Plugin {
     }
 
     private void saveNpcDropsToFile(String npcKey, NpcDropRecord npcDropRecord) {
-        File dir = this.ensureNpcFolderExists(npcKey);
+        File dir = this.createOrGetNpcFolder(npcKey);
         File dataFile = new File(dir, "drop-log.json");
         try (FileWriter writer = new FileWriter(dataFile)) {
             gson.toJson(npcDropRecord, writer);
@@ -292,7 +289,7 @@ public class NpcDropNotifierPlugin extends Plugin {
     }
 
     private NpcDropRecord loadNpcDropsFromFile(String npcKey) {
-        File dataFile = new File(RuneLite.RUNELITE_DIR + "/new-drop-notifier/" + npcKey, "drop-log.json");
+        File dataFile = new File(createOrGetNpcFolder(npcKey), "drop-log.json");
         if (!dataFile.exists())
             return new NpcDropRecord();
 

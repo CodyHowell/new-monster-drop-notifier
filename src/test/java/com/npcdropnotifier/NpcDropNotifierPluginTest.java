@@ -396,16 +396,16 @@ public class NpcDropNotifierPluginTest {
     public void testGetPrettyNotificationMessage() {
         // Test normal item
         String message = plugin.getPrettyNotificationMessage("TestMonster", 555, 1);
-        assertTrue(message.contains("TestMonster:<br>Test Item"));
+        assertTrue(message.contains("TestMonster:<br><col=ffffff>Test Item</col>"));
         assertTrue(message.contains("1 / 10"));
 
         // Test item with quantity
         message = plugin.getPrettyNotificationMessage("TestMonster", 557, 7);
-        assertTrue(message.contains("TestMonster:<br>Test Item (5-10)"));
+        assertTrue(message.contains("TestMonster:<br><col=ffffff>Test Item (5-10)</col>"));
 
         // Test item not in drop table
         message = plugin.getPrettyNotificationMessage("TestMonster", 999, 1);
-        assertEquals("TestMonster:<br>Test Item", message);
+        assertTrue(message.contains("TestMonster:<br><col=ffffff>Test Item</col>"));
     }
 
     @Test
