@@ -1,0 +1,18 @@
+{
+  "id": 3297,
+  "name": "Knight of Ardougne",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    },
+    {
+      "name": "Coins",
+      "quantity": "50",
+      "rarity": "Always",
+      "itemId": 995
+    }
+  ]
+}

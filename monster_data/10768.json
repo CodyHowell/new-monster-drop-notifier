@@ -1,0 +1,12 @@
+{
+  "id": 10768,
+  "name": "Xarpus",
+  "drops": [
+    {
+      "name": "The wild hunt",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 22512
+    }
+  ]
+}

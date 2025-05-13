@@ -1,0 +1,12 @@
+{
+  "id": 6438,
+  "name": "Animated steel armour (Tarn's Lair)",
+  "drops": [
+    {
+      "name": "Iron platebody",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 1115
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": 9047,
+  "name": "Corrupted Dragon",
+  "drops": [
+    {
+      "name": "Corrupted shards",
+      "quantity": "Unknown",
+      "rarity": "Always",
+      "itemId": 23824
+    },
+    {
+      "name": "Raw paddlefish",
+      "quantity": "5",
+      "rarity": "Common",
+      "itemId": 23872
+    },
+    {
+      "name": "Corrupted teleport crystal",
+      "quantity": "1",
+      "rarity": "Uncommon",
+      "itemId": 23858
+    },
+    {
+      "name": "Corrupted orb",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 23833
+    }
+  ]
+}

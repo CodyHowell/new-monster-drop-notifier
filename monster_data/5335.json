@@ -1,0 +1,60 @@
+{
+  "id": 5335,
+  "name": "Cave goblin guard",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    },
+    {
+      "name": "Bone club",
+      "quantity": "1",
+      "rarity": "20/128",
+      "itemId": 5018
+    },
+    {
+      "name": "Bone spear",
+      "quantity": "1",
+      "rarity": "20/128",
+      "itemId": 5016
+    },
+    {
+      "name": "Iron chainbody",
+      "quantity": "1",
+      "rarity": "20/128",
+      "itemId": 1101
+    },
+    {
+      "name": "Coins",
+      "quantity": "12",
+      "rarity": "20/128",
+      "itemId": 995
+    },
+    {
+      "name": "Oil lantern",
+      "quantity": "1",
+      "rarity": "20/128",
+      "itemId": 4537
+    },
+    {
+      "name": "Tinderbox",
+      "quantity": "1",
+      "rarity": "20/128",
+      "itemId": 590
+    },
+    {
+      "name": "Cave goblin skull",
+      "quantity": "1",
+      "rarity": "1/4",
+      "itemId": 7905
+    },
+    {
+      "name": "Goblin champion scroll",
+      "quantity": "1",
+      "rarity": "1/5000",
+      "itemId": 6801
+    }
+  ]
+}

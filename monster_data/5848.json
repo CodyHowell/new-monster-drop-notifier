@@ -1,0 +1,12 @@
+{
+  "id": 5848,
+  "name": "Tanglefoot",
+  "drops": [
+    {
+      "name": "Queen's secateurs",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 7410
+    }
+  ]
+}

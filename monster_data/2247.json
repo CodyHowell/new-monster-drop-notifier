@@ -1,0 +1,246 @@
+{
+  "id": 2247,
+  "name": "Goblin (God Wars Dungeon)",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    },
+    {
+      "name": "Bronze axe",
+      "quantity": "1",
+      "rarity": "3/128",
+      "itemId": 1351
+    },
+    {
+      "name": "Bronze scimitar",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 1321
+    },
+    {
+      "name": "Bronze spear",
+      "quantity": "1",
+      "rarity": "9/128",
+      "itemId": 1237
+    },
+    {
+      "name": "Bronze arrow",
+      "quantity": "7",
+      "rarity": "3/128",
+      "itemId": 882
+    },
+    {
+      "name": "Mind rune",
+      "quantity": "2",
+      "rarity": "3/128",
+      "itemId": 558
+    },
+    {
+      "name": "Earth rune",
+      "quantity": "4",
+      "rarity": "3/128",
+      "itemId": 557
+    },
+    {
+      "name": "Body rune",
+      "quantity": "2",
+      "rarity": "3/128",
+      "itemId": 559
+    },
+    {
+      "name": "Bronze javelin",
+      "quantity": "5",
+      "rarity": "2/128",
+      "itemId": 825
+    },
+    {
+      "name": "Chaos rune",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 562
+    },
+    {
+      "name": "Nature rune",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 561
+    },
+    {
+      "name": "Grimy guam leaf",
+      "quantity": "1",
+      "rarity": "1/256",
+      "itemId": 199
+    },
+    {
+      "name": "Grimy marrentill",
+      "quantity": "1",
+      "rarity": "1/341.3",
+      "itemId": 201
+    },
+    {
+      "name": "Grimy tarromin",
+      "quantity": "1",
+      "rarity": "1/455.1",
+      "itemId": 203
+    },
+    {
+      "name": "Grimy harralander",
+      "quantity": "1",
+      "rarity": "1/585.1",
+      "itemId": 205
+    },
+    {
+      "name": "Grimy ranarr weed",
+      "quantity": "1",
+      "rarity": "1/744.7",
+      "itemId": 207
+    },
+    {
+      "name": "Grimy irit leaf",
+      "quantity": "1",
+      "rarity": "1/1024",
+      "itemId": 209
+    },
+    {
+      "name": "Grimy avantoe",
+      "quantity": "1",
+      "rarity": "1/1365.3",
+      "itemId": 211
+    },
+    {
+      "name": "Grimy kwuarm",
+      "quantity": "1",
+      "rarity": "1/1638.4",
+      "itemId": 213
+    },
+    {
+      "name": "Grimy cadantine",
+      "quantity": "1",
+      "rarity": "1/2048",
+      "itemId": 215
+    },
+    {
+      "name": "Grimy lantadyme",
+      "quantity": "1",
+      "rarity": "1/2730.7",
+      "itemId": 2485
+    },
+    {
+      "name": "Grimy dwarf weed",
+      "quantity": "1",
+      "rarity": "1/2730.7",
+      "itemId": 217
+    },
+    {
+      "name": "Coins",
+      "quantity": "1",
+      "rarity": "34/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "3",
+      "rarity": "13/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "5",
+      "rarity": "8/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "16",
+      "rarity": "7/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "24",
+      "rarity": "3/128",
+      "itemId": 995
+    },
+    {
+      "name": "Hammer",
+      "quantity": "1",
+      "rarity": "9/128",
+      "itemId": 2347
+    },
+    {
+      "name": "Goblin book",
+      "quantity": "1",
+      "rarity": "2/128",
+      "itemId": 10999
+    },
+    {
+      "name": "Goblin mail",
+      "quantity": "1",
+      "rarity": "10/128",
+      "itemId": 288
+    },
+    {
+      "name": "Grapes",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 1987
+    },
+    {
+      "name": "Red cape",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 1007
+    },
+    {
+      "name": "Tin ore",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 438
+    },
+    {
+      "name": "Goblin skull",
+      "quantity": "1",
+      "rarity": "1/4",
+      "itemId": 7812
+    },
+    {
+      "name": "Looting bag",
+      "quantity": "1",
+      "rarity": "1/11",
+      "itemId": 11941
+    },
+    {
+      "name": "Ensouled goblin head",
+      "quantity": "1",
+      "rarity": "1/30",
+      "itemId": 13448
+    },
+    {
+      "name": "Ecumenical key",
+      "quantity": "1",
+      "rarity": "1/60",
+      "itemId": 11942
+    },
+    {
+      "name": "Clue scroll (beginner)",
+      "quantity": "1",
+      "rarity": "1/80",
+      "itemId": 23182
+    },
+    {
+      "name": "Clue scroll (easy)",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 12179
+    },
+    {
+      "name": "Goblin champion scroll",
+      "quantity": "1",
+      "rarity": "1/5000",
+      "itemId": 6801
+    }
+  ]
+}

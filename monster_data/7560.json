@@ -1,0 +1,12 @@
+{
+  "id": 7560,
+  "name": "Deathly mage",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    }
+  ]
+}

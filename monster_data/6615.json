@@ -1,0 +1,234 @@
+{
+  "id": 6615,
+  "name": "Scorpia",
+  "drops": [
+    {
+      "name": "Odium shard 3",
+      "quantity": "1",
+      "rarity": "1/256",
+      "itemId": 11930
+    },
+    {
+      "name": "Malediction shard 3",
+      "quantity": "1",
+      "rarity": "1/256",
+      "itemId": 11933
+    },
+    {
+      "name": "Battlestaff",
+      "quantity": "5–8",
+      "rarity": "6/128",
+      "itemId": 1391
+    },
+    {
+      "name": "Rune 2h sword",
+      "quantity": "1",
+      "rarity": "5/128",
+      "itemId": 1319
+    },
+    {
+      "name": "Rune pickaxe",
+      "quantity": "1",
+      "rarity": "5/128",
+      "itemId": 1275
+    },
+    {
+      "name": "Rune kiteshield",
+      "quantity": "1",
+      "rarity": "5/128",
+      "itemId": 1201
+    },
+    {
+      "name": "Rune chainbody",
+      "quantity": "1",
+      "rarity": "4/128",
+      "itemId": 1113
+    },
+    {
+      "name": "Rune platelegs",
+      "quantity": "1",
+      "rarity": "4/128",
+      "itemId": 1079
+    },
+    {
+      "name": "Rune scimitar",
+      "quantity": "1",
+      "rarity": "4/128",
+      "itemId": 1333
+    },
+    {
+      "name": "Rune warhammer",
+      "quantity": "1",
+      "rarity": "4/128",
+      "itemId": 1347
+    },
+    {
+      "name": "Mystic earth staff",
+      "quantity": "1",
+      "rarity": "4/128",
+      "itemId": 1407
+    },
+    {
+      "name": "Mystic robe top",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 4091
+    },
+    {
+      "name": "Mystic robe bottom",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 4093
+    },
+    {
+      "name": "Dragon scimitar",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 4587
+    },
+    {
+      "name": "Dragon 2h sword",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 7158
+    },
+    {
+      "name": "Death rune",
+      "quantity": "100–150",
+      "rarity": "8/128",
+      "itemId": 560
+    },
+    {
+      "name": "Blood rune",
+      "quantity": "100–150",
+      "rarity": "8/128",
+      "itemId": 565
+    },
+    {
+      "name": "Chaos rune",
+      "quantity": "150–200",
+      "rarity": "8/128",
+      "itemId": 562
+    },
+    {
+      "name": "Grimy kwuarm",
+      "quantity": "10–15",
+      "rarity": "5/128",
+      "itemId": 213
+    },
+    {
+      "name": "Grimy dwarf weed",
+      "quantity": "10–15",
+      "rarity": "5/128",
+      "itemId": 217
+    },
+    {
+      "name": "Grimy torstol",
+      "quantity": "10–15",
+      "rarity": "5/128",
+      "itemId": 219
+    },
+    {
+      "name": "Grimy snapdragon",
+      "quantity": "4–7",
+      "rarity": "5/128",
+      "itemId": 3051
+    },
+    {
+      "name": "Uncut ruby",
+      "quantity": "15–20",
+      "rarity": "6/128",
+      "itemId": 1619
+    },
+    {
+      "name": "Uncut diamond",
+      "quantity": "10–15",
+      "rarity": "4/128",
+      "itemId": 1617
+    },
+    {
+      "name": "Runite ore",
+      "quantity": "3",
+      "rarity": "4/128",
+      "itemId": 451
+    },
+    {
+      "name": "Dragon javelin heads",
+      "quantity": "30–50",
+      "rarity": "4/128",
+      "itemId": 19582
+    },
+    {
+      "name": "Onyx bolt tips",
+      "quantity": "6–10",
+      "rarity": "2/128",
+      "itemId": 9194
+    },
+    {
+      "name": "Coins",
+      "quantity": "25002–34962",
+      "rarity": "7/128",
+      "itemId": 995
+    },
+    {
+      "name": "Blighted anglerfish",
+      "quantity": "15–25",
+      "rarity": "5/128",
+      "itemId": 24592
+    },
+    {
+      "name": "Blighted super restore(4)",
+      "quantity": "5",
+      "rarity": "5/128",
+      "itemId": 24598
+    },
+    {
+      "name": "Wilderness crabs teleport",
+      "quantity": "2",
+      "rarity": "2/128",
+      "itemId": 24251
+    },
+    {
+      "name": "Looting bag",
+      "quantity": "1",
+      "rarity": "1/3",
+      "itemId": 11941
+    },
+    {
+      "name": "Ensouled scorpion head",
+      "quantity": "1",
+      "rarity": "1/18",
+      "itemId": 13460
+    },
+    {
+      "name": "Brimstone key",
+      "quantity": "1",
+      "rarity": "1/75",
+      "itemId": 23083
+    },
+    {
+      "name": "Clue scroll (hard)",
+      "quantity": "1",
+      "rarity": "1/100",
+      "itemId": 3550
+    },
+    {
+      "name": "Scorpia's offspring",
+      "quantity": "1",
+      "rarity": "1/2015.75",
+      "itemId": 13181
+    },
+    {
+      "name": "Larran's key",
+      "quantity": "1",
+      "rarity": "1/72",
+      "itemId": 23490
+    },
+    {
+      "name": "Slayer's enchantment",
+      "quantity": "1",
+      "rarity": "1/30",
+      "itemId": 21257
+    }
+  ]
+}

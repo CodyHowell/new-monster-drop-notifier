@@ -1,0 +1,12 @@
+{
+  "id": 2912,
+  "name": "Black chinchompa (Hunter)",
+  "drops": [
+    {
+      "name": "Black chinchompa",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 11959
+    }
+  ]
+}

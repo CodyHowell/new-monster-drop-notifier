@@ -1,0 +1,12 @@
+{
+  "id": 11730,
+  "name": "Zebak",
+  "drops": [
+    {
+      "name": "Crondis' capture",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 27308
+    }
+  ]
+}

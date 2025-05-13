@@ -1,0 +1,90 @@
+{
+  "id": 2844,
+  "name": "Magic axe",
+  "drops": [
+    {
+      "name": "Iron battleaxe",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 1363
+    },
+    {
+      "name": "Looting bag",
+      "quantity": "1",
+      "rarity": "1/3",
+      "itemId": 11941
+    },
+    {
+      "name": "Larran's key",
+      "quantity": "1",
+      "rarity": "1/533",
+      "itemId": 23490
+    },
+    {
+      "name": "Slayer's enchantment",
+      "quantity": "1",
+      "rarity": "1/284",
+      "itemId": 21257
+    },
+    {
+      "name": "Iron battleaxe",
+      "quantity": "1",
+      "rarity": "475/500",
+      "itemId": 1363
+    },
+    {
+      "name": "Steel battleaxe",
+      "quantity": "1",
+      "rarity": "10/500",
+      "itemId": 1365
+    },
+    {
+      "name": "Mithril battleaxe",
+      "quantity": "1",
+      "rarity": "10/500",
+      "itemId": 1369
+    },
+    {
+      "name": "Adamant battleaxe",
+      "quantity": "1",
+      "rarity": "4/500",
+      "itemId": 1371
+    },
+    {
+      "name": "Rune battleaxe",
+      "quantity": "1",
+      "rarity": "1/500",
+      "itemId": 1373
+    },
+    {
+      "name": "Clue scroll (medium)",
+      "quantity": "1",
+      "rarity": "1/256",
+      "itemId": 2829
+    },
+    {
+      "name": "Ancient shard",
+      "quantity": "1",
+      "rarity": "1/303",
+      "itemId": 19677
+    },
+    {
+      "name": "Dark totem base",
+      "quantity": "1",
+      "rarity": "1/455",
+      "itemId": 19679
+    },
+    {
+      "name": "Dark totem middle",
+      "quantity": "1",
+      "rarity": "1/455",
+      "itemId": 19681
+    },
+    {
+      "name": "Dark totem top",
+      "quantity": "1",
+      "rarity": "1/455",
+      "itemId": 19683
+    }
+  ]
+}

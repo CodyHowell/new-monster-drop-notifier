@@ -1,0 +1,30 @@
+{
+  "id": 2646,
+  "name": "Ochre Blamish Snail",
+  "drops": [
+    {
+      "name": "Blamish ochre shell (round)",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 3349
+    },
+    {
+      "name": "Thin snail",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 3363
+    },
+    {
+      "name": "Blamish ochre shell (pointed)",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 3359
+    },
+    {
+      "name": "Thin snail",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 3363
+    }
+  ]
+}

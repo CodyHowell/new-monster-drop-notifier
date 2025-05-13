@@ -1,0 +1,336 @@
+{
+  "id": 3114,
+  "name": "Farmer",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    },
+    {
+      "name": "Bronze med helm",
+      "quantity": "1",
+      "rarity": "2/128",
+      "itemId": 1139
+    },
+    {
+      "name": "Iron dagger",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 1203
+    },
+    {
+      "name": "Bronze arrow",
+      "quantity": "7",
+      "rarity": "3/128",
+      "itemId": 882
+    },
+    {
+      "name": "Earth rune",
+      "quantity": "4",
+      "rarity": "2/128",
+      "itemId": 557
+    },
+    {
+      "name": "Fire rune",
+      "quantity": "6",
+      "rarity": "2/128",
+      "itemId": 554
+    },
+    {
+      "name": "Mind rune",
+      "quantity": "9",
+      "rarity": "2/128",
+      "itemId": 558
+    },
+    {
+      "name": "Chaos rune",
+      "quantity": "2",
+      "rarity": "1/128",
+      "itemId": 562
+    },
+    {
+      "name": "Coins",
+      "quantity": "3",
+      "rarity": "38/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "10",
+      "rarity": "23/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "5",
+      "rarity": "9/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "15",
+      "rarity": "4/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "25",
+      "rarity": "1/128",
+      "itemId": 995
+    },
+    {
+      "name": "Fishing bait",
+      "quantity": "1",
+      "rarity": "5/128",
+      "itemId": 313
+    },
+    {
+      "name": "Copper ore",
+      "quantity": "1",
+      "rarity": "2/128",
+      "itemId": 436
+    },
+    {
+      "name": "Earth talisman",
+      "quantity": "1",
+      "rarity": "2/128",
+      "itemId": 1440
+    },
+    {
+      "name": "Cabbage",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 1965
+    },
+    {
+      "name": "Clue scroll (beginner)",
+      "quantity": "1",
+      "rarity": "1/90",
+      "itemId": 23182
+    },
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    },
+    {
+      "name": "Earth rune",
+      "quantity": "4",
+      "rarity": "2/128",
+      "itemId": 557
+    },
+    {
+      "name": "Fire rune",
+      "quantity": "6",
+      "rarity": "2/128",
+      "itemId": 554
+    },
+    {
+      "name": "Mind rune",
+      "quantity": "9",
+      "rarity": "2/128",
+      "itemId": 558
+    },
+    {
+      "name": "Chaos rune",
+      "quantity": "2",
+      "rarity": "1/128",
+      "itemId": 562
+    },
+    {
+      "name": "Grimy guam leaf",
+      "quantity": "1",
+      "rarity": "1/46.5",
+      "itemId": 199
+    },
+    {
+      "name": "Grimy marrentill",
+      "quantity": "1",
+      "rarity": "1/62.1",
+      "itemId": 201
+    },
+    {
+      "name": "Grimy tarromin",
+      "quantity": "1",
+      "rarity": "1/82.7",
+      "itemId": 203
+    },
+    {
+      "name": "Grimy harralander",
+      "quantity": "1",
+      "rarity": "1/106.4",
+      "itemId": 205
+    },
+    {
+      "name": "Grimy ranarr weed",
+      "quantity": "1",
+      "rarity": "1/135.4",
+      "itemId": 207
+    },
+    {
+      "name": "Grimy irit leaf",
+      "quantity": "1",
+      "rarity": "1/186.2",
+      "itemId": 209
+    },
+    {
+      "name": "Grimy avantoe",
+      "quantity": "1",
+      "rarity": "1/248.2",
+      "itemId": 211
+    },
+    {
+      "name": "Grimy kwuarm",
+      "quantity": "1",
+      "rarity": "1/297.9",
+      "itemId": 213
+    },
+    {
+      "name": "Grimy cadantine",
+      "quantity": "1",
+      "rarity": "1/372.4",
+      "itemId": 215
+    },
+    {
+      "name": "Grimy lantadyme",
+      "quantity": "1",
+      "rarity": "1/496.5",
+      "itemId": 2485
+    },
+    {
+      "name": "Grimy dwarf weed",
+      "quantity": "1",
+      "rarity": "1/496.5",
+      "itemId": 217
+    },
+    {
+      "name": "Potato seed",
+      "quantity": "1–4",
+      "rarity": "1/9.5",
+      "itemId": 5318
+    },
+    {
+      "name": "Onion seed",
+      "quantity": "1–3",
+      "rarity": "1/19",
+      "itemId": 5319
+    },
+    {
+      "name": "Cabbage seed",
+      "quantity": "1–3",
+      "rarity": "1/37.9",
+      "itemId": 5324
+    },
+    {
+      "name": "Tomato seed",
+      "quantity": "1–2",
+      "rarity": "1/75.9",
+      "itemId": 5322
+    },
+    {
+      "name": "Sweetcorn seed",
+      "quantity": "1–2",
+      "rarity": "1/151.7",
+      "itemId": 5320
+    },
+    {
+      "name": "Strawberry seed",
+      "quantity": "1",
+      "rarity": "1/303.4",
+      "itemId": 5323
+    },
+    {
+      "name": "Watermelon seed",
+      "quantity": "1",
+      "rarity": "1/606.8",
+      "itemId": 5321
+    },
+    {
+      "name": "Snape grass seed",
+      "quantity": "1–3",
+      "rarity": "1/606.8",
+      "itemId": 22879
+    },
+    {
+      "name": "Coins",
+      "quantity": "3",
+      "rarity": "38/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "25",
+      "rarity": "1/128",
+      "itemId": 995
+    },
+    {
+      "name": "Fishing bait",
+      "quantity": "1",
+      "rarity": "5/128",
+      "itemId": 313
+    },
+    {
+      "name": "Rake",
+      "quantity": "1",
+      "rarity": "3/128",
+      "itemId": 5341
+    },
+    {
+      "name": "Earth talisman",
+      "quantity": "1",
+      "rarity": "2/128",
+      "itemId": 1440
+    },
+    {
+      "name": "Gardening boots",
+      "quantity": "1",
+      "rarity": "2/128",
+      "itemId": 5345
+    },
+    {
+      "name": "Seed dibber",
+      "quantity": "1",
+      "rarity": "2/128",
+      "itemId": 5343
+    },
+    {
+      "name": "Secateurs",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 5329
+    },
+    {
+      "name": "Watering can(8)",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 5340
+    },
+    {
+      "name": "Clue scroll (beginner)",
+      "quantity": "1",
+      "rarity": "1/90",
+      "itemId": 23182
+    },
+    {
+      "name": "Clue scroll (easy)",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 12179
+    },
+    {
+      "name": "Coins",
+      "quantity": "9",
+      "rarity": "123/128",
+      "itemId": 995
+    },
+    {
+      "name": "Potato seed",
+      "quantity": "1",
+      "rarity": "5/128",
+      "itemId": 5318
+    }
+  ]
+}

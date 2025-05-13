@@ -1,0 +1,222 @@
+{
+  "id": 7394,
+  "name": "Flaming pyrelord",
+  "drops": [
+    {
+      "name": "Fiendish ashes",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 25766
+    },
+    {
+      "name": "Steel axe",
+      "quantity": "1",
+      "rarity": "4/128",
+      "itemId": 1353
+    },
+    {
+      "name": "Steel full helm",
+      "quantity": "1",
+      "rarity": "4/128",
+      "itemId": 1157
+    },
+    {
+      "name": "Staff of fire",
+      "quantity": "1",
+      "rarity": "3/128",
+      "itemId": 1387
+    },
+    {
+      "name": "Mithril chainbody",
+      "quantity": "1",
+      "rarity": "2/128",
+      "itemId": 1109
+    },
+    {
+      "name": "Adamant med helm",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 1145
+    },
+    {
+      "name": "Steel boots",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 4123
+    },
+    {
+      "name": "Fire rune",
+      "quantity": "30",
+      "rarity": "21/128",
+      "itemId": 554
+    },
+    {
+      "name": "Fire rune",
+      "quantity": "60",
+      "rarity": "8/128",
+      "itemId": 554
+    },
+    {
+      "name": "Chaos rune",
+      "quantity": "12",
+      "rarity": "5/128",
+      "itemId": 562
+    },
+    {
+      "name": "Death rune",
+      "quantity": "3",
+      "rarity": "3/128",
+      "itemId": 560
+    },
+    {
+      "name": "Coins",
+      "quantity": "10",
+      "rarity": "7/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "40",
+      "rarity": "24/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "120",
+      "rarity": "20/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "200",
+      "rarity": "10/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "450",
+      "rarity": "2/128",
+      "itemId": 995
+    },
+    {
+      "name": "Gold ore",
+      "quantity": "1",
+      "rarity": "8/128",
+      "itemId": 444
+    },
+    {
+      "name": "Jug of wine",
+      "quantity": "1",
+      "rarity": "2/128",
+      "itemId": 1993
+    },
+    {
+      "name": "Uncut sapphire",
+      "quantity": "1",
+      "rarity": "1/170.67",
+      "itemId": 1623
+    },
+    {
+      "name": "Uncut emerald",
+      "quantity": "1",
+      "rarity": "1/341.33",
+      "itemId": 1621
+    },
+    {
+      "name": "Uncut ruby",
+      "quantity": "1",
+      "rarity": "1/682.67",
+      "itemId": 1619
+    },
+    {
+      "name": "Uncut diamond",
+      "quantity": "1",
+      "rarity": "1/2730.67",
+      "itemId": 1617
+    },
+    {
+      "name": "Chaos talisman",
+      "quantity": "1",
+      "rarity": "1/1820.44",
+      "itemId": 1452
+    },
+    {
+      "name": "Loop half of key",
+      "quantity": "1",
+      "rarity": "1/5461.33",
+      "itemId": 987
+    },
+    {
+      "name": "Tooth half of key",
+      "quantity": "1",
+      "rarity": "1/5461.33",
+      "itemId": 985
+    },
+    {
+      "name": "Rune javelin",
+      "quantity": "5",
+      "rarity": "1/5461.33",
+      "itemId": 830
+    },
+    {
+      "name": "Rune spear",
+      "quantity": "1",
+      "rarity": "1/87381.33",
+      "itemId": 1247
+    },
+    {
+      "name": "Shield left half",
+      "quantity": "1",
+      "rarity": "1/174762.67",
+      "itemId": 2366
+    },
+    {
+      "name": "Dragon spear",
+      "quantity": "1",
+      "rarity": "1/233016.89",
+      "itemId": 1249
+    },
+    {
+      "name": "Looting bag",
+      "quantity": "1",
+      "rarity": "1/3",
+      "itemId": 11941
+    },
+    {
+      "name": "Clue scroll (medium)",
+      "quantity": "1",
+      "rarity": "10/128",
+      "itemId": 2829
+    },
+    {
+      "name": "Ecumenical key",
+      "quantity": "1",
+      "rarity": "1/60",
+      "itemId": 11942
+    },
+    {
+      "name": "Mist battlestaff",
+      "quantity": "1",
+      "rarity": "1/327",
+      "itemId": 20730
+    },
+    {
+      "name": "Dust battlestaff",
+      "quantity": "1",
+      "rarity": "1/327",
+      "itemId": 20736
+    },
+    {
+      "name": "Eternal gem",
+      "quantity": "1",
+      "rarity": "1/1144",
+      "itemId": 21270
+    },
+    {
+      "name": "Imbued heart",
+      "quantity": "1",
+      "rarity": "1/1144",
+      "itemId": 20724
+    }
+  ]
+}

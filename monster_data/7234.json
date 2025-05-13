@@ -1,0 +1,48 @@
+{
+  "id": 7234,
+  "name": "Ent",
+  "drops": [
+    {
+      "name": "Logs",
+      "quantity": "1",
+      "rarity": "Varies",
+      "itemId": 1511
+    },
+    {
+      "name": "Oak logs",
+      "quantity": "1",
+      "rarity": "Varies",
+      "itemId": 1521
+    },
+    {
+      "name": "Willow logs",
+      "quantity": "1",
+      "rarity": "Varies",
+      "itemId": 1519
+    },
+    {
+      "name": "Maple logs",
+      "quantity": "1",
+      "rarity": "Varies",
+      "itemId": 1517
+    },
+    {
+      "name": "Yew logs",
+      "quantity": "1",
+      "rarity": "Varies",
+      "itemId": 1515
+    },
+    {
+      "name": "Magic logs",
+      "quantity": "1",
+      "rarity": "Varies",
+      "itemId": 1513
+    },
+    {
+      "name": "Slayer's enchantment",
+      "quantity": "1",
+      "rarity": "1/236",
+      "itemId": 21257
+    }
+  ]
+}

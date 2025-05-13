@@ -1,0 +1,276 @@
+{
+  "id": 11998,
+  "name": "Spindel",
+  "drops": [
+    {
+      "name": "Big bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 532
+    },
+    {
+      "name": "Dragon 2h sword",
+      "quantity": "1",
+      "rarity": "1/358",
+      "itemId": 7158
+    },
+    {
+      "name": "Dragon pickaxe",
+      "quantity": "1",
+      "rarity": "1/358",
+      "itemId": 11920
+    },
+    {
+      "name": "Fangs of venenatis",
+      "quantity": "1",
+      "rarity": "1/618",
+      "itemId": 27670
+    },
+    {
+      "name": "Treasonous ring",
+      "quantity": "1",
+      "rarity": "1/716",
+      "itemId": 12605
+    },
+    {
+      "name": "Voidwaker gem",
+      "quantity": "1",
+      "rarity": "1/912",
+      "itemId": 27687
+    },
+    {
+      "name": "Dark crab",
+      "quantity": "8",
+      "rarity": "5/128",
+      "itemId": 11936
+    },
+    {
+      "name": "Super restore(4)",
+      "quantity": "3",
+      "rarity": "5/128",
+      "itemId": 3024
+    },
+    {
+      "name": "Rune knife",
+      "quantity": "30",
+      "rarity": "5/128",
+      "itemId": 868
+    },
+    {
+      "name": "Rune pickaxe",
+      "quantity": "1",
+      "rarity": "12/128",
+      "itemId": 1275
+    },
+    {
+      "name": "Rune 2h sword",
+      "quantity": "1",
+      "rarity": "3/128",
+      "itemId": 1319
+    },
+    {
+      "name": "Chaos rune",
+      "quantity": "180",
+      "rarity": "7/128",
+      "itemId": 562
+    },
+    {
+      "name": "Blood rune",
+      "quantity": "150",
+      "rarity": "7/128",
+      "itemId": 565
+    },
+    {
+      "name": "Death rune",
+      "quantity": "220",
+      "rarity": "7/128",
+      "itemId": 560
+    },
+    {
+      "name": "Cannonball",
+      "quantity": "200",
+      "rarity": "4/128",
+      "itemId": 2
+    },
+    {
+      "name": "Diamond bolts (e)",
+      "quantity": "60",
+      "rarity": "5/128",
+      "itemId": 9243
+    },
+    {
+      "name": "Uncut diamond",
+      "quantity": "9",
+      "rarity": "8/128",
+      "itemId": 1617
+    },
+    {
+      "name": "Uncut dragonstone",
+      "quantity": "1",
+      "rarity": "2/128",
+      "itemId": 1631
+    },
+    {
+      "name": "Uncut ruby",
+      "quantity": "18",
+      "rarity": "1/128",
+      "itemId": 1619
+    },
+    {
+      "name": "Gold ore",
+      "quantity": "180",
+      "rarity": "6/128",
+      "itemId": 444
+    },
+    {
+      "name": "Magic logs",
+      "quantity": "60",
+      "rarity": "5/128",
+      "itemId": 1513
+    },
+    {
+      "name": "Red spiders' eggs",
+      "quantity": "250",
+      "rarity": "3/128",
+      "itemId": 223
+    },
+    {
+      "name": "Limpwurt root",
+      "quantity": "18",
+      "rarity": "5/128",
+      "itemId": 225
+    },
+    {
+      "name": "Onyx bolt tips",
+      "quantity": "35",
+      "rarity": "5/128",
+      "itemId": 9194
+    },
+    {
+      "name": "Grimy snapdragon",
+      "quantity": "60",
+      "rarity": "1/128",
+      "itemId": 3051
+    },
+    {
+      "name": "Unicorn horn",
+      "quantity": "60",
+      "rarity": "1/128",
+      "itemId": 237
+    },
+    {
+      "name": "Coins",
+      "quantity": "14000",
+      "rarity": "21/128",
+      "itemId": 995
+    },
+    {
+      "name": "Dark fishing bait",
+      "quantity": "200",
+      "rarity": "1/128",
+      "itemId": 11940
+    },
+    {
+      "name": "Magic seed",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 5316
+    },
+    {
+      "name": "Palm tree seed",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 5289
+    },
+    {
+      "name": "Supercompost",
+      "quantity": "60",
+      "rarity": "4/128",
+      "itemId": 6034
+    },
+    {
+      "name": "Antidote++(4)",
+      "quantity": "6",
+      "rarity": "3/128",
+      "itemId": 5952
+    },
+    {
+      "name": "Blighted anglerfish",
+      "quantity": "5–6",
+      "rarity": "5/54",
+      "itemId": 24592
+    },
+    {
+      "name": "Blighted karambwan",
+      "quantity": "5–6",
+      "rarity": "5/54",
+      "itemId": 24595
+    },
+    {
+      "name": "Blighted super restore(3)",
+      "quantity": "3–4",
+      "rarity": "5/54",
+      "itemId": 24601
+    },
+    {
+      "name": "Blighted super restore(4)",
+      "quantity": "3–4",
+      "rarity": "5/54",
+      "itemId": 24598
+    },
+    {
+      "name": "Ranging potion(2)",
+      "quantity": "2–3",
+      "rarity": "5/54",
+      "itemId": 171
+    },
+    {
+      "name": "Super combat potion(2)",
+      "quantity": "2–3",
+      "rarity": "5/54",
+      "itemId": 12699
+    },
+    {
+      "name": "Looting bag",
+      "quantity": "1",
+      "rarity": "1/3",
+      "itemId": 11941
+    },
+    {
+      "name": "Strange fruit",
+      "quantity": "1",
+      "rarity": "1/5",
+      "itemId": 464
+    },
+    {
+      "name": "Brimstone key",
+      "quantity": "1",
+      "rarity": "1/60",
+      "itemId": 23083
+    },
+    {
+      "name": "Clue scroll (elite)",
+      "quantity": "1",
+      "rarity": "1/100",
+      "itemId": 21524
+    },
+    {
+      "name": "Venenatis spiderling",
+      "quantity": "1",
+      "rarity": "1/2800",
+      "itemId": 13177
+    },
+    {
+      "name": "Larran's key",
+      "quantity": "1",
+      "rarity": "1/58",
+      "itemId": 23490
+    },
+    {
+      "name": "Slayer's enchantment",
+      "quantity": "1",
+      "rarity": "1/30",
+      "itemId": 21257
+    }
+  ]
+}

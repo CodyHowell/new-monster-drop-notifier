@@ -1,0 +1,30 @@
+{
+  "id": 2837,
+  "name": "Unicorn",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    },
+    {
+      "name": "Unicorn horn",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 237
+    },
+    {
+      "name": "Unicorn bone",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 7821
+    },
+    {
+      "name": "Ensouled unicorn head",
+      "quantity": "1",
+      "rarity": "1/35",
+      "itemId": 13466
+    }
+  ]
+}

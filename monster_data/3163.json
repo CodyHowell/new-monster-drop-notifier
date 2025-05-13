@@ -1,0 +1,132 @@
+{
+  "id": 3163,
+  "name": "Wingman Skree",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    },
+    {
+      "name": "Feather",
+      "quantity": "1–11",
+      "rarity": "Always",
+      "itemId": 314
+    },
+    {
+      "name": "Armadyl helmet",
+      "quantity": "1",
+      "rarity": "1/16129",
+      "itemId": 11826
+    },
+    {
+      "name": "Armadyl chestplate",
+      "quantity": "1",
+      "rarity": "1/16129",
+      "itemId": 11828
+    },
+    {
+      "name": "Armadyl chainskirt",
+      "quantity": "1",
+      "rarity": "1/16129",
+      "itemId": 11830
+    },
+    {
+      "name": "Coins",
+      "quantity": "1000–1100",
+      "rarity": "124/16129",
+      "itemId": 995
+    },
+    {
+      "name": "Godsword shard 1",
+      "quantity": "1",
+      "rarity": "1/1524",
+      "itemId": 11818
+    },
+    {
+      "name": "Godsword shard 2",
+      "quantity": "1",
+      "rarity": "1/1524",
+      "itemId": 11820
+    },
+    {
+      "name": "Godsword shard 3",
+      "quantity": "1",
+      "rarity": "1/1524",
+      "itemId": 11822
+    },
+    {
+      "name": "Coins",
+      "quantity": "1000–1100",
+      "rarity": "9/1524",
+      "itemId": 995
+    },
+    {
+      "name": "Steel arrow",
+      "quantity": "91–101",
+      "rarity": "7/127",
+      "itemId": 886
+    },
+    {
+      "name": "Steel dart",
+      "quantity": "91–101",
+      "rarity": "8/127",
+      "itemId": 808
+    },
+    {
+      "name": "Smoke rune",
+      "quantity": "10–15",
+      "rarity": "8/127",
+      "itemId": 4697
+    },
+    {
+      "name": "Manta ray",
+      "quantity": "2",
+      "rarity": "8/127",
+      "itemId": 391
+    },
+    {
+      "name": "Mushroom potato",
+      "quantity": "3",
+      "rarity": "8/127",
+      "itemId": 7058
+    },
+    {
+      "name": "Coins",
+      "quantity": "1000–1100",
+      "rarity": "70/127",
+      "itemId": 995
+    },
+    {
+      "name": "Crushed nest",
+      "quantity": "2",
+      "rarity": "8/127",
+      "itemId": 6693
+    },
+    {
+      "name": "Grimy kwuarm",
+      "quantity": "1",
+      "rarity": "8/127",
+      "itemId": 213
+    },
+    {
+      "name": "Frozen key piece (armadyl)",
+      "quantity": "1",
+      "rarity": "1/20",
+      "itemId": 26358
+    },
+    {
+      "name": "Brimstone key",
+      "quantity": "1",
+      "rarity": "1/92",
+      "itemId": 23083
+    },
+    {
+      "name": "Clue scroll (hard)",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 3550
+    }
+  ]
+}

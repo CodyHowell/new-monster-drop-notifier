@@ -1,0 +1,36 @@
+{
+  "id": 2849,
+  "name": "Black unicorn",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    },
+    {
+      "name": "Unicorn horn",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 237
+    },
+    {
+      "name": "Unicorn bone",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 7821
+    },
+    {
+      "name": "Looting bag",
+      "quantity": "1",
+      "rarity": "1/5",
+      "itemId": 11941
+    },
+    {
+      "name": "Ensouled unicorn head",
+      "quantity": "1",
+      "rarity": "1/35",
+      "itemId": 13466
+    }
+  ]
+}

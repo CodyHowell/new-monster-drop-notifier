@@ -1,0 +1,12 @@
+{
+  "id": 3316,
+  "name": "Chicken (Tutorial Island)",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": 5194,
+  "name": "Baby green dragon",
+  "drops": [
+    {
+      "name": "Babydragon bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 534
+    }
+  ]
+}

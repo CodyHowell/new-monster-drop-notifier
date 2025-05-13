@@ -1,0 +1,24 @@
+{
+  "id": 4184,
+  "name": "Crocodile",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    },
+    {
+      "name": "Clue scroll (elite)",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 21524
+    },
+    {
+      "name": "Reward casket (elite)",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 20543
+    }
+  ]
+}

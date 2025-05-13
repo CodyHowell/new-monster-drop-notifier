@@ -1,0 +1,12 @@
+{
+  "id": 10,
+  "name": "Death spawn",
+  "drops": [
+    {
+      "name": "Fiendish ashes",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 25766
+    }
+  ]
+}

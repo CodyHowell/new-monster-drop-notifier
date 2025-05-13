@@ -1,0 +1,570 @@
+{
+  "id": 2025,
+  "name": "Greater demon",
+  "drops": [
+    {
+      "name": "Vile ashes",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 25769
+    },
+    {
+      "name": "Steel 2h sword",
+      "quantity": "1",
+      "rarity": "4/128",
+      "itemId": 1311
+    },
+    {
+      "name": "Steel axe",
+      "quantity": "1",
+      "rarity": "3/128",
+      "itemId": 1353
+    },
+    {
+      "name": "Steel battleaxe",
+      "quantity": "1",
+      "rarity": "3/128",
+      "itemId": 1365
+    },
+    {
+      "name": "Mithril kiteshield",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 1197
+    },
+    {
+      "name": "Adamant platelegs",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 1073
+    },
+    {
+      "name": "Rune full helm",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 1163
+    },
+    {
+      "name": "Fire rune",
+      "quantity": "75",
+      "rarity": "8/128",
+      "itemId": 554
+    },
+    {
+      "name": "Chaos rune",
+      "quantity": "15",
+      "rarity": "3/128",
+      "itemId": 562
+    },
+    {
+      "name": "Death rune",
+      "quantity": "5",
+      "rarity": "3/128",
+      "itemId": 560
+    },
+    {
+      "name": "Fire rune",
+      "quantity": "37",
+      "rarity": "1/128",
+      "itemId": 554
+    },
+    {
+      "name": "Coins",
+      "quantity": "132",
+      "rarity": "40/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "44",
+      "rarity": "29/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "220",
+      "rarity": "10/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "11",
+      "rarity": "7/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "460",
+      "rarity": "1/128",
+      "itemId": 995
+    },
+    {
+      "name": "Tuna",
+      "quantity": "1",
+      "rarity": "3/128",
+      "itemId": 361
+    },
+    {
+      "name": "Gold bar",
+      "quantity": "1",
+      "rarity": "2/128",
+      "itemId": 2357
+    },
+    {
+      "name": "Thread",
+      "quantity": "10",
+      "rarity": "1/128",
+      "itemId": 1734
+    },
+    {
+      "name": "Uncut sapphire",
+      "quantity": "1",
+      "rarity": "1/102.4",
+      "itemId": 1623
+    },
+    {
+      "name": "Uncut emerald",
+      "quantity": "1",
+      "rarity": "1/204.8",
+      "itemId": 1621
+    },
+    {
+      "name": "Uncut ruby",
+      "quantity": "1",
+      "rarity": "1/409.6",
+      "itemId": 1619
+    },
+    {
+      "name": "Uncut diamond",
+      "quantity": "1",
+      "rarity": "1/1638.4",
+      "itemId": 1617
+    },
+    {
+      "name": "Chaos talisman",
+      "quantity": "1",
+      "rarity": "1/1092.27",
+      "itemId": 1452
+    },
+    {
+      "name": "Nature talisman",
+      "quantity": "1",
+      "rarity": "1/1092.27",
+      "itemId": 1462
+    },
+    {
+      "name": "Loop half of key",
+      "quantity": "1",
+      "rarity": "1/3276.8",
+      "itemId": 987
+    },
+    {
+      "name": "Tooth half of key",
+      "quantity": "1",
+      "rarity": "1/3276.8",
+      "itemId": 985
+    },
+    {
+      "name": "Rune javelin",
+      "quantity": "5",
+      "rarity": "1/3276.8",
+      "itemId": 830
+    },
+    {
+      "name": "Rune spear",
+      "quantity": "1",
+      "rarity": "1/52428.8",
+      "itemId": 1247
+    },
+    {
+      "name": "Shield left half",
+      "quantity": "1",
+      "rarity": "1/104857.6",
+      "itemId": 2366
+    },
+    {
+      "name": "Dragon spear",
+      "quantity": "1",
+      "rarity": "1/139810.13",
+      "itemId": 1249
+    },
+    {
+      "name": "Looting bag",
+      "quantity": "1",
+      "rarity": "1/3",
+      "itemId": 11941
+    },
+    {
+      "name": "Ensouled demon head",
+      "quantity": "1",
+      "rarity": "1/40",
+      "itemId": 13502
+    },
+    {
+      "name": "Brimstone key",
+      "quantity": "1",
+      "rarity": "1/112",
+      "itemId": 23083
+    },
+    {
+      "name": "Clue scroll (hard)",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 3550
+    },
+    {
+      "name": "Ancient shard",
+      "quantity": "1",
+      "rarity": "1/256",
+      "itemId": 19677
+    },
+    {
+      "name": "Dark totem base",
+      "quantity": "1",
+      "rarity": "1/385",
+      "itemId": 19679
+    },
+    {
+      "name": "Dark totem middle",
+      "quantity": "1",
+      "rarity": "1/385",
+      "itemId": 19681
+    },
+    {
+      "name": "Dark totem top",
+      "quantity": "1",
+      "rarity": "1/385",
+      "itemId": 19683
+    },
+    {
+      "name": "Larran's key",
+      "quantity": "1",
+      "rarity": "1/96",
+      "itemId": 23490
+    },
+    {
+      "name": "Slayer's enchantment",
+      "quantity": "1",
+      "rarity": "1/249",
+      "itemId": 21257
+    },
+    {
+      "name": "Vile ashes",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 25769
+    },
+    {
+      "name": "Adamant 2h sword",
+      "quantity": "1",
+      "rarity": "4/41",
+      "itemId": 1317
+    },
+    {
+      "name": "Adamant axe",
+      "quantity": "1",
+      "rarity": "3/41",
+      "itemId": 1357
+    },
+    {
+      "name": "Adamant battleaxe",
+      "quantity": "1",
+      "rarity": "2/41",
+      "itemId": 1371
+    },
+    {
+      "name": "Adamant kiteshield",
+      "quantity": "1",
+      "rarity": "1/41",
+      "itemId": 1199
+    },
+    {
+      "name": "Adamant platelegs",
+      "quantity": "1",
+      "rarity": "1/41",
+      "itemId": 1073
+    },
+    {
+      "name": "Rune full helm",
+      "quantity": "1",
+      "rarity": "1/41",
+      "itemId": 1163
+    },
+    {
+      "name": "Chaos rune",
+      "quantity": "40",
+      "rarity": "5/41",
+      "itemId": 562
+    },
+    {
+      "name": "Death rune",
+      "quantity": "5",
+      "rarity": "5/41",
+      "itemId": 560
+    },
+    {
+      "name": "Death rune",
+      "quantity": "15",
+      "rarity": "2/41",
+      "itemId": 560
+    },
+    {
+      "name": "Blood rune",
+      "quantity": "20",
+      "rarity": "1/41",
+      "itemId": 565
+    },
+    {
+      "name": "Coins",
+      "quantity": "150",
+      "rarity": "7/41",
+      "itemId": 995
+    },
+    {
+      "name": "Gold bar",
+      "quantity": "10",
+      "rarity": "3/41",
+      "itemId": 2357
+    },
+    {
+      "name": "Gold ore",
+      "quantity": "10",
+      "rarity": "1/41",
+      "itemId": 444
+    },
+    {
+      "name": "Uncut sapphire",
+      "quantity": "1",
+      "rarity": "1/32.8",
+      "itemId": 1623
+    },
+    {
+      "name": "Uncut emerald",
+      "quantity": "1",
+      "rarity": "1/65.6",
+      "itemId": 1621
+    },
+    {
+      "name": "Uncut ruby",
+      "quantity": "1",
+      "rarity": "1/131.2",
+      "itemId": 1619
+    },
+    {
+      "name": "Uncut diamond",
+      "quantity": "1",
+      "rarity": "1/524.8",
+      "itemId": 1617
+    },
+    {
+      "name": "Chaos talisman",
+      "quantity": "1",
+      "rarity": "1/349.87",
+      "itemId": 1452
+    },
+    {
+      "name": "Loop half of key",
+      "quantity": "1",
+      "rarity": "1/1049.6",
+      "itemId": 987
+    },
+    {
+      "name": "Tooth half of key",
+      "quantity": "1",
+      "rarity": "1/1049.6",
+      "itemId": 985
+    },
+    {
+      "name": "Rune javelin",
+      "quantity": "5",
+      "rarity": "1/1049.6",
+      "itemId": 830
+    },
+    {
+      "name": "Rune spear",
+      "quantity": "1",
+      "rarity": "1/16793.6",
+      "itemId": 1247
+    },
+    {
+      "name": "Shield left half",
+      "quantity": "1",
+      "rarity": "1/33587.2",
+      "itemId": 2366
+    },
+    {
+      "name": "Dragon spear",
+      "quantity": "1",
+      "rarity": "1/44782.93",
+      "itemId": 1249
+    },
+    {
+      "name": "Looting bag",
+      "quantity": "1",
+      "rarity": "1/3",
+      "itemId": 11941
+    },
+    {
+      "name": "Ensouled demon head",
+      "quantity": "1",
+      "rarity": "1/40",
+      "itemId": 13502
+    },
+    {
+      "name": "Clue scroll (hard)",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 3550
+    },
+    {
+      "name": "Larran's key",
+      "quantity": "1",
+      "rarity": "1/81",
+      "itemId": 23490
+    },
+    {
+      "name": "Slayer's enchantment",
+      "quantity": "1",
+      "rarity": "1/224",
+      "itemId": 21257
+    },
+    {
+      "name": "Blighted anglerfish",
+      "quantity": "1–2",
+      "rarity": "~1/10.9",
+      "itemId": 24592
+    },
+    {
+      "name": "Blighted manta ray",
+      "quantity": "1–2",
+      "rarity": "~1/10.9",
+      "itemId": 24589
+    },
+    {
+      "name": "Blighted karambwan",
+      "quantity": "1–2",
+      "rarity": "~1/16.3",
+      "itemId": 24595
+    },
+    {
+      "name": "Blighted teleport spell sack",
+      "quantity": "1–10",
+      "rarity": "~1/16.3",
+      "itemId": 24615
+    },
+    {
+      "name": "Blighted ancient ice sack",
+      "quantity": "1–10",
+      "rarity": "~1/16.3",
+      "itemId": 24607
+    },
+    {
+      "name": "Blighted vengeance sack",
+      "quantity": "1–10",
+      "rarity": "~1/16.3",
+      "itemId": 24621
+    },
+    {
+      "name": "Blighted entangle sack",
+      "quantity": "1–10",
+      "rarity": "~1/8.2",
+      "itemId": 24613
+    },
+    {
+      "name": "Blighted super restore(4)",
+      "quantity": "1",
+      "rarity": "~1/32.6",
+      "itemId": 24598
+    },
+    {
+      "name": "Revenant cave teleport",
+      "quantity": "1",
+      "rarity": "~1/32.6",
+      "itemId": 21802
+    },
+    {
+      "name": "Dareeyak teleport (tablet)",
+      "quantity": "1",
+      "rarity": "~1/163.2",
+      "itemId": 12777
+    },
+    {
+      "name": "Wilderness crabs teleport",
+      "quantity": "1",
+      "rarity": "~1/163.2",
+      "itemId": 24251
+    },
+    {
+      "name": "Carrallanger teleport (tablet)",
+      "quantity": "1",
+      "rarity": "~1/163.2",
+      "itemId": 12776
+    },
+    {
+      "name": "Paddewwa teleport (tablet)",
+      "quantity": "1",
+      "rarity": "~1/163.2",
+      "itemId": 12781
+    },
+    {
+      "name": "Annakarl teleport (tablet)",
+      "quantity": "1",
+      "rarity": "~1/163.2",
+      "itemId": 12775
+    },
+    {
+      "name": "Lassar teleport (tablet)",
+      "quantity": "1",
+      "rarity": "~1/163.2",
+      "itemId": 12780
+    },
+    {
+      "name": "Kharyrll teleport (tablet)",
+      "quantity": "1",
+      "rarity": "~1/163.2",
+      "itemId": 12779
+    },
+    {
+      "name": "Senntisten teleport (tablet)",
+      "quantity": "1",
+      "rarity": "~1/163.2",
+      "itemId": 12782
+    },
+    {
+      "name": "Ghorrock teleport (tablet)",
+      "quantity": "1",
+      "rarity": "~1/163.2",
+      "itemId": 12778
+    },
+    {
+      "name": "Target teleport",
+      "quantity": "1",
+      "rarity": "~1/163.2",
+      "itemId": 24336
+    },
+    {
+      "name": "Magic shortbow scroll",
+      "quantity": "1",
+      "rarity": "~1/408.1",
+      "itemId": 12786
+    },
+    {
+      "name": "Ring of wealth scroll",
+      "quantity": "1",
+      "rarity": "~1/408.1",
+      "itemId": 12783
+    },
+    {
+      "name": "Trouver parchment",
+      "quantity": "2",
+      "rarity": "~1/1632.4",
+      "itemId": 24187
+    },
+    {
+      "name": "Looting bag note",
+      "quantity": "1",
+      "rarity": "~1/1632.4",
+      "itemId": 24585
+    }
+  ]
+}

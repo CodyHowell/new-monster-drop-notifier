@@ -1,0 +1,24 @@
+{
+  "id": 738,
+  "name": "Bandit champion",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    },
+    {
+      "name": "Willow blackjack",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 4600
+    },
+    {
+      "name": "Adamant scimitar",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 1331
+    }
+  ]
+}

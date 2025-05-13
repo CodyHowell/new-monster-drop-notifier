@@ -1,0 +1,252 @@
+{
+  "id": 2999,
+  "name": "Tortured soul",
+  "drops": [
+    {
+      "name": "Body rune",
+      "quantity": "7",
+      "rarity": "7/128",
+      "itemId": 559
+    },
+    {
+      "name": "Water rune",
+      "quantity": "6",
+      "rarity": "6/128",
+      "itemId": 555
+    },
+    {
+      "name": "Law rune",
+      "quantity": "2",
+      "rarity": "3/128",
+      "itemId": 563
+    },
+    {
+      "name": "Grimy harralander",
+      "quantity": "1",
+      "rarity": "5/128",
+      "itemId": 205
+    },
+    {
+      "name": "Grimy tarromin",
+      "quantity": "1",
+      "rarity": "3/128",
+      "itemId": 203
+    },
+    {
+      "name": "Grimy marrentill",
+      "quantity": "1",
+      "rarity": "2/128",
+      "itemId": 201
+    },
+    {
+      "name": "Grimy guam leaf",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 199
+    },
+    {
+      "name": "Grimy ranarr weed",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 207
+    },
+    {
+      "name": "Limpwurt seed",
+      "quantity": "1",
+      "rarity": "1/49",
+      "itemId": 5100
+    },
+    {
+      "name": "Strawberry seed",
+      "quantity": "1",
+      "rarity": "1/51.2",
+      "itemId": 5323
+    },
+    {
+      "name": "Marrentill seed",
+      "quantity": "1",
+      "rarity": "1/53.7",
+      "itemId": 5292
+    },
+    {
+      "name": "Jangerberry seed",
+      "quantity": "1",
+      "rarity": "1/72.9",
+      "itemId": 5104
+    },
+    {
+      "name": "Tarromin seed",
+      "quantity": "1",
+      "rarity": "1/78.9",
+      "itemId": 5293
+    },
+    {
+      "name": "Wildblood seed",
+      "quantity": "1",
+      "rarity": "1/80.8",
+      "itemId": 5311
+    },
+    {
+      "name": "Watermelon seed",
+      "quantity": "1",
+      "rarity": "1/106.5",
+      "itemId": 5321
+    },
+    {
+      "name": "Harralander seed",
+      "quantity": "1",
+      "rarity": "1/119.8",
+      "itemId": 5294
+    },
+    {
+      "name": "Snape grass seed",
+      "quantity": "1",
+      "rarity": "1/167.7",
+      "itemId": 22879
+    },
+    {
+      "name": "Ranarr seed",
+      "quantity": "1",
+      "rarity": "1/172",
+      "itemId": 5295
+    },
+    {
+      "name": "Whiteberry seed",
+      "quantity": "1",
+      "rarity": "1/197.3",
+      "itemId": 5105
+    },
+    {
+      "name": "Mushroom spore",
+      "quantity": "1",
+      "rarity": "1/231.3",
+      "itemId": 5282
+    },
+    {
+      "name": "Toadflax seed",
+      "quantity": "1",
+      "rarity": "1/248.4",
+      "itemId": 5296
+    },
+    {
+      "name": "Belladonna seed",
+      "quantity": "1",
+      "rarity": "1/372.6",
+      "itemId": 5281
+    },
+    {
+      "name": "Irit seed",
+      "quantity": "1",
+      "rarity": "1/372.6",
+      "itemId": 5297
+    },
+    {
+      "name": "Poison ivy seed",
+      "quantity": "1",
+      "rarity": "1/515.9",
+      "itemId": 5106
+    },
+    {
+      "name": "Avantoe seed",
+      "quantity": "1",
+      "rarity": "1/558.9",
+      "itemId": 5298
+    },
+    {
+      "name": "Cactus seed",
+      "quantity": "1",
+      "rarity": "1/558.9",
+      "itemId": 5280
+    },
+    {
+      "name": "Kwuarm seed",
+      "quantity": "1",
+      "rarity": "1/745.2",
+      "itemId": 5299
+    },
+    {
+      "name": "Potato cactus seed",
+      "quantity": "1",
+      "rarity": "1/838.4",
+      "itemId": 22873
+    },
+    {
+      "name": "Snapdragon seed",
+      "quantity": "1",
+      "rarity": "1/1341.4",
+      "itemId": 5300
+    },
+    {
+      "name": "Cadantine seed",
+      "quantity": "1",
+      "rarity": "1/1676.8",
+      "itemId": 5301
+    },
+    {
+      "name": "Lantadyme seed",
+      "quantity": "1",
+      "rarity": "1/2235.7",
+      "itemId": 5302
+    },
+    {
+      "name": "Dwarf weed seed",
+      "quantity": "1",
+      "rarity": "1/3353.6",
+      "itemId": 5303
+    },
+    {
+      "name": "Torstol seed",
+      "quantity": "1",
+      "rarity": "1/6707.2",
+      "itemId": 5304
+    },
+    {
+      "name": "Coins",
+      "quantity": "12",
+      "rarity": "1/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "2",
+      "rarity": "2/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "6",
+      "rarity": "3/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "5",
+      "rarity": "3/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "3",
+      "rarity": "30/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "2",
+      "rarity": "21/128",
+      "itemId": 995
+    },
+    {
+      "name": "Limpwurt root",
+      "quantity": "1",
+      "rarity": "3/128",
+      "itemId": 225
+    },
+    {
+      "name": "Vial of water",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 227
+    }
+  ]
+}

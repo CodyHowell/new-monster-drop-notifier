@@ -1,0 +1,18 @@
+{
+  "id": 2910,
+  "name": "Chinchompa (Hunter)",
+  "drops": [
+    {
+      "name": "Chinchompa",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 10033
+    },
+    {
+      "name": "Chinchompa tuft",
+      "quantity": "1",
+      "rarity": "1/50",
+      "itemId": 29221
+    }
+  ]
+}

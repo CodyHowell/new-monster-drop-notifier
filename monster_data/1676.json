@@ -1,0 +1,12 @@
+{
+  "id": 1676,
+  "name": "Torag the Corrupted",
+  "drops": [
+    {
+      "name": "Brimstone key",
+      "quantity": "1",
+      "rarity": "1/97",
+      "itemId": 23083
+    }
+  ]
+}

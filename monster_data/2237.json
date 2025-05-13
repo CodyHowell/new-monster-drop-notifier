@@ -1,0 +1,192 @@
+{
+  "id": 2237,
+  "name": "Ork",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    },
+    {
+      "name": "Bronze 2h sword",
+      "quantity": "1",
+      "rarity": "5/128",
+      "itemId": 1307
+    },
+    {
+      "name": "Bronze battleaxe",
+      "quantity": "1",
+      "rarity": "5/128",
+      "itemId": 1375
+    },
+    {
+      "name": "Bronze dart",
+      "quantity": "2",
+      "rarity": "5/128",
+      "itemId": 806
+    },
+    {
+      "name": "Bronze halberd",
+      "quantity": "1",
+      "rarity": "5/128",
+      "itemId": 3190
+    },
+    {
+      "name": "Bronze scimitar",
+      "quantity": "1",
+      "rarity": "5/128",
+      "itemId": 1321
+    },
+    {
+      "name": "Bronze warhammer",
+      "quantity": "1",
+      "rarity": "5/128",
+      "itemId": 1337
+    },
+    {
+      "name": "Iron dart",
+      "quantity": "2",
+      "rarity": "5/128",
+      "itemId": 807
+    },
+    {
+      "name": "Iron longsword",
+      "quantity": "1",
+      "rarity": "5/128",
+      "itemId": 1293
+    },
+    {
+      "name": "Iron mace",
+      "quantity": "1",
+      "rarity": "5/128",
+      "itemId": 1420
+    },
+    {
+      "name": "Iron scimitar",
+      "quantity": "1",
+      "rarity": "5/128",
+      "itemId": 1323
+    },
+    {
+      "name": "Steel axe",
+      "quantity": "1",
+      "rarity": "5/128",
+      "itemId": 1353
+    },
+    {
+      "name": "Steel dagger",
+      "quantity": "1",
+      "rarity": "5/128",
+      "itemId": 1207
+    },
+    {
+      "name": "Steel mace",
+      "quantity": "1",
+      "rarity": "5/128",
+      "itemId": 1424
+    },
+    {
+      "name": "Iron spear",
+      "quantity": "1",
+      "rarity": "4/128",
+      "itemId": 1239
+    },
+    {
+      "name": "Bronze scimitar",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 1321
+    },
+    {
+      "name": "Bronze med helm",
+      "quantity": "1",
+      "rarity": "5/128",
+      "itemId": 1139
+    },
+    {
+      "name": "Bronze full helm",
+      "quantity": "1",
+      "rarity": "5/128",
+      "itemId": 1155
+    },
+    {
+      "name": "Bronze platelegs",
+      "quantity": "1",
+      "rarity": "5/128",
+      "itemId": 1075
+    },
+    {
+      "name": "Iron chainbody",
+      "quantity": "1",
+      "rarity": "5/128",
+      "itemId": 1101
+    },
+    {
+      "name": "Steel med helm",
+      "quantity": "1",
+      "rarity": "5/128",
+      "itemId": 1141
+    },
+    {
+      "name": "Coins",
+      "quantity": "10",
+      "rarity": "8/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "5",
+      "rarity": "5/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "8",
+      "rarity": "5/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "12",
+      "rarity": "5/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "23",
+      "rarity": "5/128",
+      "itemId": 995
+    },
+    {
+      "name": "Knife",
+      "quantity": "1",
+      "rarity": "5/128",
+      "itemId": 946
+    },
+    {
+      "name": "Looting bag",
+      "quantity": "1",
+      "rarity": "1/3",
+      "itemId": 11941
+    },
+    {
+      "name": "Ecumenical key",
+      "quantity": "1",
+      "rarity": "1/60",
+      "itemId": 11942
+    },
+    {
+      "name": "Clue scroll (easy)",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 12179
+    },
+    {
+      "name": "Clue scroll (hard)",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 3550
+    }
+  ]
+}

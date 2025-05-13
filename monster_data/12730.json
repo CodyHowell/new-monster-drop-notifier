@@ -1,0 +1,24 @@
+{
+  "id": 12730,
+  "name": "Armoured zombie (Defender of Varrock)",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    },
+    {
+      "name": "Zombie bone",
+      "quantity": "1",
+      "rarity": "1/4",
+      "itemId": 7863
+    },
+    {
+      "name": "Zombie champion scroll",
+      "quantity": "1",
+      "rarity": "1/5000",
+      "itemId": 6807
+    }
+  ]
+}

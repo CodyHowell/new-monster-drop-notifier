@@ -1,0 +1,144 @@
+{
+  "id": 2218,
+  "name": "Sergeant Grimspike",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    },
+    {
+      "name": "Bandos chestplate",
+      "quantity": "1",
+      "rarity": "1/16256",
+      "itemId": 11832
+    },
+    {
+      "name": "Bandos tassets",
+      "quantity": "1",
+      "rarity": "1/16256",
+      "itemId": 11834
+    },
+    {
+      "name": "Bandos boots",
+      "quantity": "1",
+      "rarity": "1/16256",
+      "itemId": 11836
+    },
+    {
+      "name": "Coins",
+      "quantity": "1400–1500",
+      "rarity": "125/16256",
+      "itemId": 995
+    },
+    {
+      "name": "Godsword shard 1",
+      "quantity": "1",
+      "rarity": "1/1524",
+      "itemId": 11818
+    },
+    {
+      "name": "Godsword shard 2",
+      "quantity": "1",
+      "rarity": "1/1524",
+      "itemId": 11820
+    },
+    {
+      "name": "Godsword shard 3",
+      "quantity": "1",
+      "rarity": "1/1524",
+      "itemId": 11822
+    },
+    {
+      "name": "Coins",
+      "quantity": "1400–1500",
+      "rarity": "9/1524",
+      "itemId": 995
+    },
+    {
+      "name": "Steel arrow",
+      "quantity": "95–100",
+      "rarity": "7/127",
+      "itemId": 886
+    },
+    {
+      "name": "Steel dart",
+      "quantity": "95–100",
+      "rarity": "8/127",
+      "itemId": 808
+    },
+    {
+      "name": "Nature rune",
+      "quantity": "15–20",
+      "rarity": "8/127",
+      "itemId": 561
+    },
+    {
+      "name": "Cosmic rune",
+      "quantity": "25–30",
+      "rarity": "8/127",
+      "itemId": 564
+    },
+    {
+      "name": "Shark",
+      "quantity": "2",
+      "rarity": "8/127",
+      "itemId": 385
+    },
+    {
+      "name": "Chilli potato",
+      "quantity": "3",
+      "rarity": "8/127",
+      "itemId": 7054
+    },
+    {
+      "name": "Coins",
+      "quantity": "1400–1500",
+      "rarity": "66/127",
+      "itemId": 995
+    },
+    {
+      "name": "Limpwurt root",
+      "quantity": "5",
+      "rarity": "8/127",
+      "itemId": 225
+    },
+    {
+      "name": "Combat potion(3)",
+      "quantity": "1",
+      "rarity": "2/127",
+      "itemId": 9741
+    },
+    {
+      "name": "Super strength(3)",
+      "quantity": "1",
+      "rarity": "2/127",
+      "itemId": 157
+    },
+    {
+      "name": "Right eye patch",
+      "quantity": "1",
+      "rarity": "1/6",
+      "itemId": 1025
+    },
+    {
+      "name": "Frozen key piece (bandos)",
+      "quantity": "1",
+      "rarity": "1/20",
+      "itemId": 26360
+    },
+    {
+      "name": "Clue scroll (hard)",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 3550
+    },
+    {
+      "name": "Goblin champion scroll",
+      "quantity": "1",
+      "rarity": "1/5000",
+      "itemId": 6801
+    }
+  ]
+}

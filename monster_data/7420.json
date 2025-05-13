@@ -1,0 +1,54 @@
+{
+  "id": 7420,
+  "name": "Zamorak ranger",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    },
+    {
+      "name": "Willow shortbow",
+      "quantity": "1",
+      "rarity": "2/50",
+      "itemId": 849
+    },
+    {
+      "name": "Willow longbow",
+      "quantity": "1",
+      "rarity": "1/50",
+      "itemId": 847
+    },
+    {
+      "name": "Steel arrow",
+      "quantity": "10",
+      "rarity": "2/50",
+      "itemId": 886
+    },
+    {
+      "name": "Mithril arrow",
+      "quantity": "10",
+      "rarity": "2/50",
+      "itemId": 888
+    },
+    {
+      "name": "Mithril arrow",
+      "quantity": "20",
+      "rarity": "1/50",
+      "itemId": 888
+    },
+    {
+      "name": "Coins",
+      "quantity": "100",
+      "rarity": "40/50",
+      "itemId": 995
+    },
+    {
+      "name": "Bow string",
+      "quantity": "10",
+      "rarity": "2/50",
+      "itemId": 1777
+    }
+  ]
+}

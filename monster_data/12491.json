@@ -1,0 +1,210 @@
+{
+  "id": 12491,
+  "name": "Warped Terrorbird",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    },
+    {
+      "name": "Adamant warhammer",
+      "quantity": "1",
+      "rarity": "2/64",
+      "itemId": 1345
+    },
+    {
+      "name": "Adamant platebody",
+      "quantity": "1",
+      "rarity": "2/64",
+      "itemId": 1123
+    },
+    {
+      "name": "Rune battleaxe",
+      "quantity": "1",
+      "rarity": "1/64",
+      "itemId": 1373
+    },
+    {
+      "name": "Rune kiteshield",
+      "quantity": "1",
+      "rarity": "1/64",
+      "itemId": 1201
+    },
+    {
+      "name": "Rune warhammer",
+      "quantity": "1",
+      "rarity": "1/64",
+      "itemId": 1347
+    },
+    {
+      "name": "Air rune",
+      "quantity": "80–120",
+      "rarity": "6/64",
+      "itemId": 556
+    },
+    {
+      "name": "Earth rune",
+      "quantity": "80–100",
+      "rarity": "6/64",
+      "itemId": 557
+    },
+    {
+      "name": "Death rune",
+      "quantity": "15–20",
+      "rarity": "3/64",
+      "itemId": 560
+    },
+    {
+      "name": "Law rune",
+      "quantity": "15–20",
+      "rarity": "3/64",
+      "itemId": 563
+    },
+    {
+      "name": "Soul rune",
+      "quantity": "10–15",
+      "rarity": "3/64",
+      "itemId": 566
+    },
+    {
+      "name": "Coins",
+      "quantity": "600–800",
+      "rarity": "8/64",
+      "itemId": 995
+    },
+    {
+      "name": "Adamantite ore",
+      "quantity": "3–5",
+      "rarity": "2/64",
+      "itemId": 449
+    },
+    {
+      "name": "Weapon poison",
+      "quantity": "1",
+      "rarity": "3/64",
+      "itemId": 187
+    },
+    {
+      "name": "Diamond bolt tips",
+      "quantity": "24–32",
+      "rarity": "3/64",
+      "itemId": 9192
+    },
+    {
+      "name": "Feather",
+      "quantity": "100–200",
+      "rarity": "4/64",
+      "itemId": 314
+    },
+    {
+      "name": "Raw shark",
+      "quantity": "3–7",
+      "rarity": "5/64",
+      "itemId": 383
+    },
+    {
+      "name": "Swamp tar",
+      "quantity": "40–60",
+      "rarity": "5/64",
+      "itemId": 1939
+    },
+    {
+      "name": "Chocolate bomb",
+      "quantity": "2–3",
+      "rarity": "3/64",
+      "itemId": 2185
+    },
+    {
+      "name": "Uncut sapphire",
+      "quantity": "1",
+      "rarity": "1/85.33",
+      "itemId": 1623
+    },
+    {
+      "name": "Uncut emerald",
+      "quantity": "1",
+      "rarity": "1/170.67",
+      "itemId": 1621
+    },
+    {
+      "name": "Uncut ruby",
+      "quantity": "1",
+      "rarity": "1/341.33",
+      "itemId": 1619
+    },
+    {
+      "name": "Uncut diamond",
+      "quantity": "1",
+      "rarity": "1/1365.33",
+      "itemId": 1617
+    },
+    {
+      "name": "Nature talisman",
+      "quantity": "1",
+      "rarity": "1/910.22",
+      "itemId": 1462
+    },
+    {
+      "name": "Loop half of key",
+      "quantity": "1",
+      "rarity": "1/2730.67",
+      "itemId": 987
+    },
+    {
+      "name": "Tooth half of key",
+      "quantity": "1",
+      "rarity": "1/2730.67",
+      "itemId": 985
+    },
+    {
+      "name": "Rune javelin",
+      "quantity": "5",
+      "rarity": "1/2730.67",
+      "itemId": 830
+    },
+    {
+      "name": "Rune spear",
+      "quantity": "1",
+      "rarity": "1/43690.67",
+      "itemId": 1247
+    },
+    {
+      "name": "Shield left half",
+      "quantity": "1",
+      "rarity": "1/87381.33",
+      "itemId": 2366
+    },
+    {
+      "name": "Dragon spear",
+      "quantity": "1",
+      "rarity": "1/116508.44",
+      "itemId": 1249
+    },
+    {
+      "name": "Terrorbird wing",
+      "quantity": "1",
+      "rarity": "1/4",
+      "itemId": 7878
+    },
+    {
+      "name": "Clue scroll (hard)",
+      "quantity": "1",
+      "rarity": "Rare",
+      "itemId": 3550
+    },
+    {
+      "name": "Warped sceptre (uncharged)",
+      "quantity": "1",
+      "rarity": "1/320",
+      "itemId": 28583
+    },
+    {
+      "name": "Brimstone key",
+      "quantity": "1",
+      "rarity": "1/82",
+      "itemId": 23083
+    }
+  ]
+}

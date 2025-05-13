@@ -1,0 +1,126 @@
+{
+  "id": 1640,
+  "name": "Eclectic impling",
+  "drops": [
+    {
+      "name": "Mithril pickaxe",
+      "quantity": "1",
+      "rarity": "1/10",
+      "itemId": 1273
+    },
+    {
+      "name": "Curry leaf",
+      "quantity": "1",
+      "rarity": "1/10",
+      "itemId": 5970
+    },
+    {
+      "name": "Snape grass",
+      "quantity": "1",
+      "rarity": "1/10",
+      "itemId": 231
+    },
+    {
+      "name": "Air rune",
+      "quantity": "30–58",
+      "rarity": "1/10",
+      "itemId": 556
+    },
+    {
+      "name": "Oak plank",
+      "quantity": "4",
+      "rarity": "1/10",
+      "itemId": 8778
+    },
+    {
+      "name": "Empty candle lantern",
+      "quantity": "1",
+      "rarity": "1/10",
+      "itemId": 4527
+    },
+    {
+      "name": "Gold ore",
+      "quantity": "1",
+      "rarity": "1/10",
+      "itemId": 444
+    },
+    {
+      "name": "Gold bar",
+      "quantity": "5",
+      "rarity": "1/10",
+      "itemId": 2357
+    },
+    {
+      "name": "Unicorn horn",
+      "quantity": "1",
+      "rarity": "1/10",
+      "itemId": 237
+    },
+    {
+      "name": "Adamant kiteshield",
+      "quantity": "1",
+      "rarity": "1/100",
+      "itemId": 1199
+    },
+    {
+      "name": "Blue d'hide chaps",
+      "quantity": "1",
+      "rarity": "1/100",
+      "itemId": 2493
+    },
+    {
+      "name": "Red spiky vambraces",
+      "quantity": "1",
+      "rarity": "1/100",
+      "itemId": 10083
+    },
+    {
+      "name": "Rune dagger",
+      "quantity": "1",
+      "rarity": "1/100",
+      "itemId": 1213
+    },
+    {
+      "name": "Battlestaff",
+      "quantity": "1",
+      "rarity": "1/100",
+      "itemId": 1391
+    },
+    {
+      "name": "Adamantite ore",
+      "quantity": "10",
+      "rarity": "1/100",
+      "itemId": 449
+    },
+    {
+      "name": "Slayer's respite",
+      "quantity": "2",
+      "rarity": "1/100",
+      "itemId": 5759
+    },
+    {
+      "name": "Wild pie",
+      "quantity": "1",
+      "rarity": "1/100",
+      "itemId": 7208
+    },
+    {
+      "name": "Watermelon seed",
+      "quantity": "3",
+      "rarity": "1/100",
+      "itemId": 5321
+    },
+    {
+      "name": "Diamond",
+      "quantity": "1",
+      "rarity": "1/100",
+      "itemId": 1601
+    },
+    {
+      "name": "Clue scroll (medium)",
+      "quantity": "1",
+      "rarity": "1/25",
+      "itemId": 2829
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 3551,
+  "name": "Tough Guy",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    },
+    {
+      "name": "Willow blackjack",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 4600
+    }
+  ]
+}

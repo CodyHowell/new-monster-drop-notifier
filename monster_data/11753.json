@@ -1,0 +1,12 @@
+{
+  "id": 11753,
+  "name": "Elidinis' Warden",
+  "drops": [
+    {
+      "name": "The wardens",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 27310
+    }
+  ]
+}

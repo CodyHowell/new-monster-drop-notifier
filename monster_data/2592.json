@@ -1,0 +1,288 @@
+{
+  "id": 2592,
+  "name": "Mogre",
+  "drops": [
+    {
+      "name": "Big bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 532
+    },
+    {
+      "name": "Water rune",
+      "quantity": "5",
+      "rarity": "4/128",
+      "itemId": 555
+    },
+    {
+      "name": "Water rune",
+      "quantity": "7",
+      "rarity": "4/128",
+      "itemId": 555
+    },
+    {
+      "name": "Water rune",
+      "quantity": "14",
+      "rarity": "4/128",
+      "itemId": 555
+    },
+    {
+      "name": "Limpwurt seed",
+      "quantity": "1",
+      "rarity": "1/75.3",
+      "itemId": 5100
+    },
+    {
+      "name": "Strawberry seed",
+      "quantity": "1",
+      "rarity": "1/78.8",
+      "itemId": 5323
+    },
+    {
+      "name": "Marrentill seed",
+      "quantity": "1",
+      "rarity": "1/82.6",
+      "itemId": 5292
+    },
+    {
+      "name": "Jangerberry seed",
+      "quantity": "1",
+      "rarity": "1/112.2",
+      "itemId": 5104
+    },
+    {
+      "name": "Tarromin seed",
+      "quantity": "1",
+      "rarity": "1/121.4",
+      "itemId": 5293
+    },
+    {
+      "name": "Wildblood seed",
+      "quantity": "1",
+      "rarity": "1/124.3",
+      "itemId": 5311
+    },
+    {
+      "name": "Watermelon seed",
+      "quantity": "1",
+      "rarity": "1/163.8",
+      "itemId": 5321
+    },
+    {
+      "name": "Harralander seed",
+      "quantity": "1",
+      "rarity": "1/184.3",
+      "itemId": 5294
+    },
+    {
+      "name": "Snape grass seed",
+      "quantity": "1",
+      "rarity": "1/258",
+      "itemId": 22879
+    },
+    {
+      "name": "Ranarr seed",
+      "quantity": "1",
+      "rarity": "1/264.6",
+      "itemId": 5295
+    },
+    {
+      "name": "Whiteberry seed",
+      "quantity": "1",
+      "rarity": "1/303.5",
+      "itemId": 5105
+    },
+    {
+      "name": "Mushroom spore",
+      "quantity": "1",
+      "rarity": "1/355.8",
+      "itemId": 5282
+    },
+    {
+      "name": "Toadflax seed",
+      "quantity": "1",
+      "rarity": "1/382.2",
+      "itemId": 5296
+    },
+    {
+      "name": "Belladonna seed",
+      "quantity": "1",
+      "rarity": "1/573.3",
+      "itemId": 5281
+    },
+    {
+      "name": "Irit seed",
+      "quantity": "1",
+      "rarity": "1/573.3",
+      "itemId": 5297
+    },
+    {
+      "name": "Poison ivy seed",
+      "quantity": "1",
+      "rarity": "1/793.8",
+      "itemId": 5106
+    },
+    {
+      "name": "Avantoe seed",
+      "quantity": "1",
+      "rarity": "1/859.9",
+      "itemId": 5298
+    },
+    {
+      "name": "Cactus seed",
+      "quantity": "1",
+      "rarity": "1/859.9",
+      "itemId": 5280
+    },
+    {
+      "name": "Kwuarm seed",
+      "quantity": "1",
+      "rarity": "1/1146.5",
+      "itemId": 5299
+    },
+    {
+      "name": "Potato cactus seed",
+      "quantity": "1",
+      "rarity": "1/1289.8",
+      "itemId": 22873
+    },
+    {
+      "name": "Snapdragon seed",
+      "quantity": "1",
+      "rarity": "1/2063.8",
+      "itemId": 5300
+    },
+    {
+      "name": "Cadantine seed",
+      "quantity": "1",
+      "rarity": "1/2579.7",
+      "itemId": 5301
+    },
+    {
+      "name": "Lantadyme seed",
+      "quantity": "1",
+      "rarity": "1/3439.6",
+      "itemId": 5302
+    },
+    {
+      "name": "Dwarf weed seed",
+      "quantity": "1",
+      "rarity": "1/5159.4",
+      "itemId": 5303
+    },
+    {
+      "name": "Torstol seed",
+      "quantity": "1",
+      "rarity": "1/10318.8",
+      "itemId": 5304
+    },
+    {
+      "name": "Raw swordfish",
+      "quantity": "1",
+      "rarity": "20/128",
+      "itemId": 371
+    },
+    {
+      "name": "Raw tuna",
+      "quantity": "1",
+      "rarity": "9/128",
+      "itemId": 359
+    },
+    {
+      "name": "Raw pike",
+      "quantity": "1",
+      "rarity": "7/128",
+      "itemId": 349
+    },
+    {
+      "name": "Raw salmon",
+      "quantity": "1",
+      "rarity": "4/128",
+      "itemId": 331
+    },
+    {
+      "name": "Raw herring",
+      "quantity": "1",
+      "rarity": "3/128",
+      "itemId": 345
+    },
+    {
+      "name": "Raw sardine",
+      "quantity": "1",
+      "rarity": "3/128",
+      "itemId": 327
+    },
+    {
+      "name": "Raw shark",
+      "quantity": "1",
+      "rarity": "3/128",
+      "itemId": 383
+    },
+    {
+      "name": "Fishing bait",
+      "quantity": "5",
+      "rarity": "30/128",
+      "itemId": 313
+    },
+    {
+      "name": "Fishing bait",
+      "quantity": "15",
+      "rarity": "10/128",
+      "itemId": 313
+    },
+    {
+      "name": "Mudskipper hat",
+      "quantity": "1",
+      "rarity": "5/128",
+      "itemId": 6665
+    },
+    {
+      "name": "Oyster",
+      "quantity": "1",
+      "rarity": "3/128",
+      "itemId": 407
+    },
+    {
+      "name": "Flippers",
+      "quantity": "1",
+      "rarity": "2/128",
+      "itemId": 6666
+    },
+    {
+      "name": "Seaweed",
+      "quantity": "1",
+      "rarity": "2/128",
+      "itemId": 401
+    },
+    {
+      "name": "Staff of water",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 1383
+    },
+    {
+      "name": "Fishbowl",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 6668
+    },
+    {
+      "name": "Mogre bone",
+      "quantity": "1",
+      "rarity": "1/4",
+      "itemId": 7851
+    },
+    {
+      "name": "Long bone",
+      "quantity": "1",
+      "rarity": "1/400",
+      "itemId": 10976
+    },
+    {
+      "name": "Curved bone",
+      "quantity": "1",
+      "rarity": "1/5012.5",
+      "itemId": 10977
+    }
+  ]
+}

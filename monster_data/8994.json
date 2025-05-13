@@ -1,0 +1,18 @@
+{
+  "id": 8994,
+  "name": "Othainian",
+  "drops": [
+    {
+      "name": "Vile ashes",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 25769
+    },
+    {
+      "name": "Amulet of othanian",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 1497
+    }
+  ]
+}

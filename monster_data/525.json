@@ -1,0 +1,180 @@
+{
+  "id": 525,
+  "name": "Thug",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    },
+    {
+      "name": "Iron med helm",
+      "quantity": "1",
+      "rarity": "4/128",
+      "itemId": 1137
+    },
+    {
+      "name": "Iron battleaxe",
+      "quantity": "1",
+      "rarity": "2/128",
+      "itemId": 1363
+    },
+    {
+      "name": "Steel axe",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 1353
+    },
+    {
+      "name": "Nature rune",
+      "quantity": "2",
+      "rarity": "13/128",
+      "itemId": 561
+    },
+    {
+      "name": "Chaos rune",
+      "quantity": "2",
+      "rarity": "4/128",
+      "itemId": 562
+    },
+    {
+      "name": "Cosmic rune",
+      "quantity": "2",
+      "rarity": "1/128",
+      "itemId": 564
+    },
+    {
+      "name": "Law rune",
+      "quantity": "2",
+      "rarity": "1/128",
+      "itemId": 563
+    },
+    {
+      "name": "Death rune",
+      "quantity": "2",
+      "rarity": "1/128",
+      "itemId": 560
+    },
+    {
+      "name": "Grimy guam leaf",
+      "quantity": "1",
+      "rarity": "1/21.3",
+      "itemId": 199
+    },
+    {
+      "name": "Grimy marrentill",
+      "quantity": "1",
+      "rarity": "1/28.4",
+      "itemId": 201
+    },
+    {
+      "name": "Grimy tarromin",
+      "quantity": "1",
+      "rarity": "1/37.9",
+      "itemId": 203
+    },
+    {
+      "name": "Grimy harralander",
+      "quantity": "1",
+      "rarity": "1/48.8",
+      "itemId": 205
+    },
+    {
+      "name": "Grimy ranarr weed",
+      "quantity": "1",
+      "rarity": "1/62.1",
+      "itemId": 207
+    },
+    {
+      "name": "Grimy irit leaf",
+      "quantity": "1",
+      "rarity": "1/85.3",
+      "itemId": 209
+    },
+    {
+      "name": "Grimy avantoe",
+      "quantity": "1",
+      "rarity": "1/113.8",
+      "itemId": 211
+    },
+    {
+      "name": "Grimy kwuarm",
+      "quantity": "1",
+      "rarity": "1/136.5",
+      "itemId": 213
+    },
+    {
+      "name": "Grimy cadantine",
+      "quantity": "1",
+      "rarity": "1/170.7",
+      "itemId": 215
+    },
+    {
+      "name": "Grimy lantadyme",
+      "quantity": "1",
+      "rarity": "1/227.6",
+      "itemId": 2485
+    },
+    {
+      "name": "Grimy dwarf weed",
+      "quantity": "1",
+      "rarity": "1/227.6",
+      "itemId": 217
+    },
+    {
+      "name": "Iron ore",
+      "quantity": "1",
+      "rarity": "4/128",
+      "itemId": 440
+    },
+    {
+      "name": "Iron bar",
+      "quantity": "1",
+      "rarity": "3/128",
+      "itemId": 2351
+    },
+    {
+      "name": "Coal",
+      "quantity": "1",
+      "rarity": "2/128",
+      "itemId": 453
+    },
+    {
+      "name": "Coins",
+      "quantity": "8",
+      "rarity": "23/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "15",
+      "rarity": "12/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "30",
+      "rarity": "2/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "20",
+      "rarity": "1/128",
+      "itemId": 995
+    },
+    {
+      "name": "Looting bag",
+      "quantity": "1",
+      "rarity": "1/15",
+      "itemId": 11941
+    },
+    {
+      "name": "Clue scroll (easy)",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 12179
+    }
+  ]
+}

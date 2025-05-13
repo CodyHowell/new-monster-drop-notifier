@@ -1,0 +1,18 @@
+{
+  "id": 300,
+  "name": "Jailer",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    },
+    {
+      "name": "Jail key",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 1591
+    }
+  ]
+}

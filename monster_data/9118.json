@@ -1,0 +1,12 @@
+{
+  "id": 9118,
+  "name": "Rabbit (Prifddinas)",
+  "drops": [
+    {
+      "name": "Crystal grail",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 24000
+    }
+  ]
+}

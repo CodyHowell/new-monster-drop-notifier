@@ -1,0 +1,144 @@
+{
+  "id": 450,
+  "name": "Crawling Hand",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    },
+    {
+      "name": "Leather gloves",
+      "quantity": "1",
+      "rarity": "21/128",
+      "itemId": 1059
+    },
+    {
+      "name": "Purple gloves",
+      "quantity": "1",
+      "rarity": "2/128",
+      "itemId": 2942
+    },
+    {
+      "name": "Yellow gloves",
+      "quantity": "1",
+      "rarity": "2/128",
+      "itemId": 2922
+    },
+    {
+      "name": "Red gloves",
+      "quantity": "1",
+      "rarity": "2/128",
+      "itemId": 2912
+    },
+    {
+      "name": "Teal gloves",
+      "quantity": "1",
+      "rarity": "2/128",
+      "itemId": 2932
+    },
+    {
+      "name": "Gold ring",
+      "quantity": "1",
+      "rarity": "3/128",
+      "itemId": 1635
+    },
+    {
+      "name": "Sapphire ring",
+      "quantity": "1",
+      "rarity": "2/128",
+      "itemId": 1637
+    },
+    {
+      "name": "Emerald ring",
+      "quantity": "1",
+      "rarity": "2/128",
+      "itemId": 1639
+    },
+    {
+      "name": "Coins",
+      "quantity": "5",
+      "rarity": "21/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "8",
+      "rarity": "23/128",
+      "itemId": 995
+    },
+    {
+      "name": "Uncut sapphire",
+      "quantity": "1",
+      "rarity": "1/256",
+      "itemId": 1623
+    },
+    {
+      "name": "Uncut emerald",
+      "quantity": "1",
+      "rarity": "1/512",
+      "itemId": 1621
+    },
+    {
+      "name": "Uncut ruby",
+      "quantity": "1",
+      "rarity": "1/1024",
+      "itemId": 1619
+    },
+    {
+      "name": "Uncut diamond",
+      "quantity": "1",
+      "rarity": "1/4096",
+      "itemId": 1617
+    },
+    {
+      "name": "Chaos talisman",
+      "quantity": "1",
+      "rarity": "1/2730.67",
+      "itemId": 1452
+    },
+    {
+      "name": "Nature talisman",
+      "quantity": "1",
+      "rarity": "1/2730.67",
+      "itemId": 1462
+    },
+    {
+      "name": "Loop half of key",
+      "quantity": "1",
+      "rarity": "1/8192",
+      "itemId": 987
+    },
+    {
+      "name": "Tooth half of key",
+      "quantity": "1",
+      "rarity": "1/8192",
+      "itemId": 985
+    },
+    {
+      "name": "Rune javelin",
+      "quantity": "5",
+      "rarity": "1/8192",
+      "itemId": 830
+    },
+    {
+      "name": "Rune spear",
+      "quantity": "1",
+      "rarity": "1/131072",
+      "itemId": 1247
+    },
+    {
+      "name": "Shield left half",
+      "quantity": "1",
+      "rarity": "1/262144",
+      "itemId": 2366
+    },
+    {
+      "name": "Dragon spear",
+      "quantity": "1",
+      "rarity": "1/349525.33",
+      "itemId": 1249
+    }
+  ]
+}

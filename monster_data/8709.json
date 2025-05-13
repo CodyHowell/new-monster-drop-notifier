@@ -1,0 +1,12 @@
+{
+  "id": 8709,
+  "name": "Shaeded Beast",
+  "drops": [
+    {
+      "name": "Temple coin",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 23497
+    }
+  ]
+}

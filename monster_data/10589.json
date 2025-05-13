@@ -1,0 +1,12 @@
+{
+  "id": 10589,
+  "name": "Urium Shade",
+  "drops": [
+    {
+      "name": "Urium remains",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 25419
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": 7418,
+  "name": "Zamorak warrior",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    },
+    {
+      "name": "Rune dagger",
+      "quantity": "1",
+      "rarity": "2/50",
+      "itemId": 1213
+    },
+    {
+      "name": "Adamant longsword",
+      "quantity": "1",
+      "rarity": "1/50",
+      "itemId": 1301
+    },
+    {
+      "name": "Steel scimitar",
+      "quantity": "1",
+      "rarity": "2/50",
+      "itemId": 1325
+    },
+    {
+      "name": "Steel dagger",
+      "quantity": "1",
+      "rarity": "2/50",
+      "itemId": 1207
+    },
+    {
+      "name": "Rune scimitar",
+      "quantity": "1",
+      "rarity": "1/50",
+      "itemId": 1333
+    },
+    {
+      "name": "Coins",
+      "quantity": "100",
+      "rarity": "40/50",
+      "itemId": 995
+    },
+    {
+      "name": "Lobster",
+      "quantity": "3",
+      "rarity": "2/50",
+      "itemId": 379
+    }
+  ]
+}

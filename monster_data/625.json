@@ -1,0 +1,12 @@
+{
+  "id": 625,
+  "name": "Evil spirit",
+  "drops": [
+    {
+      "name": "Ashes",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 592
+    }
+  ]
+}

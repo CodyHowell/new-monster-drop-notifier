@@ -1,0 +1,12 @@
+{
+  "id": 69,
+  "name": "Summoned Zombie",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    }
+  ]
+}

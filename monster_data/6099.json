@@ -1,0 +1,12 @@
+{
+  "id": 6099,
+  "name": "Gnome Mage",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    }
+  ]
+}

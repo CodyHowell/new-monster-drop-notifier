@@ -1,0 +1,228 @@
+{
+  "id": 6725,
+  "name": "Rock Golem (monster)",
+  "drops": [
+    {
+      "name": "Earth rune",
+      "quantity": "5",
+      "rarity": "30/78",
+      "itemId": 557
+    },
+    {
+      "name": "Earth rune",
+      "quantity": "42",
+      "rarity": "4/78",
+      "itemId": 557
+    },
+    {
+      "name": "Chaos rune",
+      "quantity": "2",
+      "rarity": "4/78",
+      "itemId": 562
+    },
+    {
+      "name": "Bronze bar",
+      "quantity": "1",
+      "rarity": "7/78",
+      "itemId": 2349
+    },
+    {
+      "name": "Iron ore",
+      "quantity": "1",
+      "rarity": "4/78",
+      "itemId": 440
+    },
+    {
+      "name": "Tin ore",
+      "quantity": "1",
+      "rarity": "3/78",
+      "itemId": 438
+    },
+    {
+      "name": "Copper ore",
+      "quantity": "1",
+      "rarity": "3/78",
+      "itemId": 436
+    },
+    {
+      "name": "Hammer",
+      "quantity": "1",
+      "rarity": "10/78",
+      "itemId": 2347
+    },
+    {
+      "name": "Dwarven stout",
+      "quantity": "1",
+      "rarity": "13/78",
+      "itemId": 1913
+    },
+    {
+      "name": "Bronze pickaxe",
+      "quantity": "1",
+      "rarity": "4/128",
+      "itemId": 1265
+    },
+    {
+      "name": "Adamant pickaxe",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 1271
+    },
+    {
+      "name": "Rune pickaxe",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 1275
+    },
+    {
+      "name": "Earth rune",
+      "quantity": "5",
+      "rarity": "30/128",
+      "itemId": 557
+    },
+    {
+      "name": "Earth rune",
+      "quantity": "42",
+      "rarity": "4/128",
+      "itemId": 557
+    },
+    {
+      "name": "Chaos rune",
+      "quantity": "2",
+      "rarity": "4/128",
+      "itemId": 562
+    },
+    {
+      "name": "Bronze bar",
+      "quantity": "1",
+      "rarity": "7/128",
+      "itemId": 2349
+    },
+    {
+      "name": "Iron bar",
+      "quantity": "1",
+      "rarity": "3/128",
+      "itemId": 2351
+    },
+    {
+      "name": "Tin ore",
+      "quantity": "1",
+      "rarity": "3/128",
+      "itemId": 438
+    },
+    {
+      "name": "Copper ore",
+      "quantity": "1",
+      "rarity": "3/128",
+      "itemId": 436
+    },
+    {
+      "name": "Coal",
+      "quantity": "1",
+      "rarity": "25/128",
+      "itemId": 453
+    },
+    {
+      "name": "Iron ore",
+      "quantity": "1",
+      "rarity": "4/128",
+      "itemId": 440
+    },
+    {
+      "name": "Mithril ore",
+      "quantity": "1",
+      "rarity": "10/128",
+      "itemId": 447
+    },
+    {
+      "name": "Adamantite ore",
+      "quantity": "1",
+      "rarity": "3/128",
+      "itemId": 449
+    },
+    {
+      "name": "Runite ore",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 451
+    },
+    {
+      "name": "Hammer",
+      "quantity": "1",
+      "rarity": "10/128",
+      "itemId": 2347
+    },
+    {
+      "name": "Dwarven stout",
+      "quantity": "1",
+      "rarity": "13/128",
+      "itemId": 1913
+    },
+    {
+      "name": "Uncut sapphire",
+      "quantity": "1",
+      "rarity": "1/256",
+      "itemId": 1623
+    },
+    {
+      "name": "Uncut emerald",
+      "quantity": "1",
+      "rarity": "1/512",
+      "itemId": 1621
+    },
+    {
+      "name": "Uncut ruby",
+      "quantity": "1",
+      "rarity": "1/1024",
+      "itemId": 1619
+    },
+    {
+      "name": "Uncut diamond",
+      "quantity": "1",
+      "rarity": "1/4096",
+      "itemId": 1617
+    },
+    {
+      "name": "Nature talisman",
+      "quantity": "1",
+      "rarity": "1/2730.67",
+      "itemId": 1462
+    },
+    {
+      "name": "Loop half of key",
+      "quantity": "1",
+      "rarity": "1/8192",
+      "itemId": 987
+    },
+    {
+      "name": "Tooth half of key",
+      "quantity": "1",
+      "rarity": "1/8192",
+      "itemId": 985
+    },
+    {
+      "name": "Rune javelin",
+      "quantity": "5",
+      "rarity": "1/8192",
+      "itemId": 830
+    },
+    {
+      "name": "Rune spear",
+      "quantity": "1",
+      "rarity": "1/131072",
+      "itemId": 1247
+    },
+    {
+      "name": "Shield left half",
+      "quantity": "1",
+      "rarity": "1/262144",
+      "itemId": 2366
+    },
+    {
+      "name": "Dragon spear",
+      "quantity": "1",
+      "rarity": "1/349525.33",
+      "itemId": 1249
+    }
+  ]
+}

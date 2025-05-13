@@ -1,0 +1,18 @@
+{
+  "id": 3299,
+  "name": "Woman (East Ardougne)",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    },
+    {
+      "name": "Coins",
+      "quantity": "3",
+      "rarity": "Always",
+      "itemId": 995
+    }
+  ]
+}

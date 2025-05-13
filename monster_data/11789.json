@@ -1,0 +1,18 @@
+{
+  "id": 11789,
+  "name": "Akkha",
+  "drops": [
+    {
+      "name": "Het's capture",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 27302
+    },
+    {
+      "name": "Eldritch ashes",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 27223
+    }
+  ]
+}

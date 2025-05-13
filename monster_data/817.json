@@ -1,0 +1,12 @@
+{
+  "id": 817,
+  "name": "Elvarg",
+  "drops": [
+    {
+      "name": "Dragon bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 536
+    }
+  ]
+}

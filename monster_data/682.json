@@ -1,0 +1,12 @@
+{
+  "id": 682,
+  "name": "Damis",
+  "drops": [
+    {
+      "name": "Shadow diamond",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 4673
+    }
+  ]
+}

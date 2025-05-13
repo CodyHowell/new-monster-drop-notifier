@@ -1,0 +1,12 @@
+{
+  "id": 6272,
+  "name": "Large mosquito",
+  "drops": [
+    {
+      "name": "Proboscis",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 6319
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": 4655,
+  "name": "Bedabin Nomad Fighter",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    }
+  ]
+}

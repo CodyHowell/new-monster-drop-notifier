@@ -1,0 +1,102 @@
+{
+  "id": 6732,
+  "name": "River troll",
+  "drops": [
+    {
+      "name": "Raw tuna",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 359
+    },
+    {
+      "name": "Raw salmon",
+      "quantity": "1",
+      "rarity": "4/128",
+      "itemId": 331
+    },
+    {
+      "name": "Raw herring",
+      "quantity": "1",
+      "rarity": "3/128",
+      "itemId": 345
+    },
+    {
+      "name": "Raw pike",
+      "quantity": "1",
+      "rarity": "6/128",
+      "itemId": 349
+    },
+    {
+      "name": "Raw sardine",
+      "quantity": "1",
+      "rarity": "4/128",
+      "itemId": 327
+    },
+    {
+      "name": "Raw swordfish",
+      "quantity": "1",
+      "rarity": "19/128",
+      "itemId": 371
+    },
+    {
+      "name": "Raw shark",
+      "quantity": "1",
+      "rarity": "12/128",
+      "itemId": 383
+    },
+    {
+      "name": "Fishing bait",
+      "quantity": "5",
+      "rarity": "27/128",
+      "itemId": 313
+    },
+    {
+      "name": "Fishing bait",
+      "quantity": "15",
+      "rarity": "9/128",
+      "itemId": 313
+    },
+    {
+      "name": "Fishing bait",
+      "quantity": "30",
+      "rarity": "13/128",
+      "itemId": 313
+    },
+    {
+      "name": "Fishing bait",
+      "quantity": "50",
+      "rarity": "2/128",
+      "itemId": 313
+    },
+    {
+      "name": "Feather",
+      "quantity": "20",
+      "rarity": "4/128",
+      "itemId": 314
+    },
+    {
+      "name": "Feather",
+      "quantity": "40",
+      "rarity": "4/128",
+      "itemId": 314
+    },
+    {
+      "name": "Oyster",
+      "quantity": "1",
+      "rarity": "12/128",
+      "itemId": 407
+    },
+    {
+      "name": "Fishing potion(3)",
+      "quantity": "1",
+      "rarity": "3/128",
+      "itemId": 151
+    },
+    {
+      "name": "Casket",
+      "quantity": "1",
+      "rarity": "5/128",
+      "itemId": 405
+    }
+  ]
+}

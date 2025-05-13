@@ -1,0 +1,12 @@
+{
+  "id": 5732,
+  "name": "Market Guard (Draynor)",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    }
+  ]
+}

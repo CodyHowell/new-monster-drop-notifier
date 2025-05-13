@@ -1,0 +1,24 @@
+{
+  "id": 289,
+  "name": "Ghoul",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    },
+    {
+      "name": "Ghoul bone",
+      "quantity": "1",
+      "rarity": "1/4",
+      "itemId": 7881
+    },
+    {
+      "name": "Ghoul champion scroll",
+      "quantity": "1",
+      "rarity": "1/5000",
+      "itemId": 6799
+    }
+  ]
+}

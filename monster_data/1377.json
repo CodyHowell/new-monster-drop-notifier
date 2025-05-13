@@ -1,0 +1,18 @@
+{
+  "id": 1377,
+  "name": "The Kendal",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    },
+    {
+      "name": "Bearhead",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 4502
+    }
+  ]
+}

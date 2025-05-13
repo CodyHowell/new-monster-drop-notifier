@@ -1,0 +1,78 @@
+{
+  "id": 10695,
+  "name": "Flawed Golem",
+  "drops": [
+    {
+      "name": "Clay",
+      "quantity": "1",
+      "rarity": "8/52",
+      "itemId": 434
+    },
+    {
+      "name": "Clay",
+      "quantity": "2",
+      "rarity": "5/52",
+      "itemId": 434
+    },
+    {
+      "name": "Clay",
+      "quantity": "3",
+      "rarity": "3/52",
+      "itemId": 434
+    },
+    {
+      "name": "Rune essence",
+      "quantity": "1–3",
+      "rarity": "12/52",
+      "itemId": 1436
+    },
+    {
+      "name": "Rune essence",
+      "quantity": "2–4",
+      "rarity": "9/52",
+      "itemId": 1436
+    },
+    {
+      "name": "Tin ore",
+      "quantity": "1–2",
+      "rarity": "6/52",
+      "itemId": 438
+    },
+    {
+      "name": "Copper ore",
+      "quantity": "1–2",
+      "rarity": "6/52",
+      "itemId": 436
+    },
+    {
+      "name": "Uncut sapphire",
+      "quantity": "1",
+      "rarity": "2/52",
+      "itemId": 1623
+    },
+    {
+      "name": "Uncut emerald",
+      "quantity": "1",
+      "rarity": "1/52",
+      "itemId": 1621
+    },
+    {
+      "name": "Barronite shards",
+      "quantity": "6–12",
+      "rarity": "~1/16",
+      "itemId": 25676
+    },
+    {
+      "name": "Barronite guard",
+      "quantity": "1",
+      "rarity": "1/800",
+      "itemId": 25639
+    },
+    {
+      "name": "Clue scroll (beginner)",
+      "quantity": "1",
+      "rarity": "Rare",
+      "itemId": 23182
+    }
+  ]
+}

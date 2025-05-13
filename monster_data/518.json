@@ -1,0 +1,30 @@
+{
+  "id": 518,
+  "name": "Highwayman",
+  "drops": [
+    {
+      "name": "Black cape",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 1019
+    },
+    {
+      "name": "Iron bolts",
+      "quantity": "2–12",
+      "rarity": "5/100",
+      "itemId": 9140
+    },
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    },
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    }
+  ]
+}

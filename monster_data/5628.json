@@ -1,0 +1,18 @@
+{
+  "id": 5628,
+  "name": "Giant snail",
+  "drops": [
+    {
+      "name": "Snail shell",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 7800
+    },
+    {
+      "name": "Perfect snail shell",
+      "quantity": "1",
+      "rarity": "1/50",
+      "itemId": 10996
+    }
+  ]
+}

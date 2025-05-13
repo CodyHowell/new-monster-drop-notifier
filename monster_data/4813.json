@@ -1,0 +1,126 @@
+{
+  "id": 4813,
+  "name": "Icefiend",
+  "drops": [
+    {
+      "name": "Air rune",
+      "quantity": "1–5",
+      "rarity": "1/128",
+      "itemId": 556
+    },
+    {
+      "name": "Water rune",
+      "quantity": "1–5",
+      "rarity": "4/128",
+      "itemId": 555
+    },
+    {
+      "name": "Coins",
+      "quantity": "1–30",
+      "rarity": "4/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "1–20",
+      "rarity": "4/128",
+      "itemId": 995
+    },
+    {
+      "name": "Uncut sapphire",
+      "quantity": "1",
+      "rarity": "1/170.67",
+      "itemId": 1623
+    },
+    {
+      "name": "Uncut emerald",
+      "quantity": "1",
+      "rarity": "1/341.33",
+      "itemId": 1621
+    },
+    {
+      "name": "Uncut ruby",
+      "quantity": "1",
+      "rarity": "1/682.67",
+      "itemId": 1619
+    },
+    {
+      "name": "Uncut diamond",
+      "quantity": "1",
+      "rarity": "1/2730.67",
+      "itemId": 1617
+    },
+    {
+      "name": "Chaos talisman",
+      "quantity": "1",
+      "rarity": "1/1820.44",
+      "itemId": 1452
+    },
+    {
+      "name": "Nature talisman",
+      "quantity": "1",
+      "rarity": "1/1820.44",
+      "itemId": 1462
+    },
+    {
+      "name": "Loop half of key",
+      "quantity": "1",
+      "rarity": "1/5461.33",
+      "itemId": 987
+    },
+    {
+      "name": "Tooth half of key",
+      "quantity": "1",
+      "rarity": "1/5461.33",
+      "itemId": 985
+    },
+    {
+      "name": "Rune javelin",
+      "quantity": "5",
+      "rarity": "1/5461.33",
+      "itemId": 830
+    },
+    {
+      "name": "Rune spear",
+      "quantity": "1",
+      "rarity": "1/87381.33",
+      "itemId": 1247
+    },
+    {
+      "name": "Shield left half",
+      "quantity": "1",
+      "rarity": "1/174762.67",
+      "itemId": 2366
+    },
+    {
+      "name": "Dragon spear",
+      "quantity": "1",
+      "rarity": "1/233016.89",
+      "itemId": 1249
+    },
+    {
+      "name": "Looting bag",
+      "quantity": "1",
+      "rarity": "1/8",
+      "itemId": 11941
+    },
+    {
+      "name": "Ecumenical key",
+      "quantity": "1",
+      "rarity": "1/60",
+      "itemId": 11942
+    },
+    {
+      "name": "Clue scroll (easy)",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 12179
+    },
+    {
+      "name": "Frozen tear",
+      "quantity": "Unknown",
+      "rarity": "Unknown",
+      "itemId": 29895
+    }
+  ]
+}

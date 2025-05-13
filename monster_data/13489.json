@@ -1,0 +1,378 @@
+{
+  "id": 13489,
+  "name": "Zombie pirate",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    },
+    {
+      "name": "Blood rune",
+      "quantity": "30–60",
+      "rarity": "4/378",
+      "itemId": 565
+    },
+    {
+      "name": "Death rune",
+      "quantity": "30–90",
+      "rarity": "4/378",
+      "itemId": 560
+    },
+    {
+      "name": "Chaos rune",
+      "quantity": "30–90",
+      "rarity": "4/378",
+      "itemId": 562
+    },
+    {
+      "name": "Mind rune",
+      "quantity": "30–90",
+      "rarity": "4/378",
+      "itemId": 558
+    },
+    {
+      "name": "Battlestaff",
+      "quantity": "1–3",
+      "rarity": "8/378",
+      "itemId": 1391
+    },
+    {
+      "name": "Adamant platebody",
+      "quantity": "1",
+      "rarity": "6/378",
+      "itemId": 1123
+    },
+    {
+      "name": "Rune med helm",
+      "quantity": "1",
+      "rarity": "6/378",
+      "itemId": 1147
+    },
+    {
+      "name": "Rune warhammer",
+      "quantity": "1",
+      "rarity": "6/378",
+      "itemId": 1347
+    },
+    {
+      "name": "Rune battleaxe",
+      "quantity": "1",
+      "rarity": "6/378",
+      "itemId": 1373
+    },
+    {
+      "name": "Rune longsword",
+      "quantity": "1",
+      "rarity": "6/378",
+      "itemId": 1303
+    },
+    {
+      "name": "Rune sword",
+      "quantity": "1",
+      "rarity": "6/378",
+      "itemId": 1289
+    },
+    {
+      "name": "Rune mace",
+      "quantity": "1",
+      "rarity": "6/378",
+      "itemId": 1432
+    },
+    {
+      "name": "Dragon dagger",
+      "quantity": "1",
+      "rarity": "1/378",
+      "itemId": 1215
+    },
+    {
+      "name": "Dragon longsword",
+      "quantity": "1",
+      "rarity": "1/378",
+      "itemId": 1305
+    },
+    {
+      "name": "Dragon scimitar",
+      "quantity": "1",
+      "rarity": "1/378",
+      "itemId": 4587
+    },
+    {
+      "name": "Blighted ancient ice sack",
+      "quantity": "10–30",
+      "rarity": "12/378",
+      "itemId": 24607
+    },
+    {
+      "name": "Blighted anglerfish",
+      "quantity": "5–15",
+      "rarity": "12/378",
+      "itemId": 24592
+    },
+    {
+      "name": "Blighted manta ray",
+      "quantity": "5–15",
+      "rarity": "12/378",
+      "itemId": 24589
+    },
+    {
+      "name": "Blighted karambwan",
+      "quantity": "5–15",
+      "rarity": "12/378",
+      "itemId": 24595
+    },
+    {
+      "name": "Blighted super restore(4)",
+      "quantity": "1–3",
+      "rarity": "12/378",
+      "itemId": 24598
+    },
+    {
+      "name": "Coins",
+      "quantity": "1000–8000",
+      "rarity": "12/378",
+      "itemId": 995
+    },
+    {
+      "name": "Zombie pirate key",
+      "quantity": "1",
+      "rarity": "16/378",
+      "itemId": 29449
+    },
+    {
+      "name": "Adamant seeds",
+      "quantity": "5–10",
+      "rarity": "8/378",
+      "itemId": 29458
+    },
+    {
+      "name": "Teleport anchoring scroll",
+      "quantity": "1",
+      "rarity": "~1/20000",
+      "itemId": 29455
+    },
+    {
+      "name": "Cannonball",
+      "quantity": "20–100",
+      "rarity": "12/378",
+      "itemId": 2
+    },
+    {
+      "name": "Gold ore",
+      "quantity": "5–15",
+      "rarity": "12/378",
+      "itemId": 444
+    },
+    {
+      "name": "Looting bag",
+      "quantity": "1",
+      "rarity": "1/3",
+      "itemId": 11941
+    },
+    {
+      "name": "Zombie champion scroll",
+      "quantity": "1",
+      "rarity": "1/5000",
+      "itemId": 6807
+    },
+    {
+      "name": "Larran's key",
+      "quantity": "1",
+      "rarity": "1/1109",
+      "itemId": 23490
+    },
+    {
+      "name": "Slayer's enchantment",
+      "quantity": "1",
+      "rarity": "1/296",
+      "itemId": 21257
+    },
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    },
+    {
+      "name": "Blood rune",
+      "quantity": "30–60",
+      "rarity": "4/1260",
+      "itemId": 565
+    },
+    {
+      "name": "Death rune",
+      "quantity": "30–90",
+      "rarity": "4/1260",
+      "itemId": 560
+    },
+    {
+      "name": "Chaos rune",
+      "quantity": "30–90",
+      "rarity": "4/1260",
+      "itemId": 562
+    },
+    {
+      "name": "Mind rune",
+      "quantity": "30–90",
+      "rarity": "4/1260",
+      "itemId": 558
+    },
+    {
+      "name": "Battlestaff",
+      "quantity": "1–3",
+      "rarity": "8/1260",
+      "itemId": 1391
+    },
+    {
+      "name": "Adamant platebody",
+      "quantity": "1",
+      "rarity": "6/1260",
+      "itemId": 1123
+    },
+    {
+      "name": "Rune med helm",
+      "quantity": "1",
+      "rarity": "6/1260",
+      "itemId": 1147
+    },
+    {
+      "name": "Rune warhammer",
+      "quantity": "1",
+      "rarity": "6/1260",
+      "itemId": 1347
+    },
+    {
+      "name": "Rune battleaxe",
+      "quantity": "1",
+      "rarity": "6/1260",
+      "itemId": 1373
+    },
+    {
+      "name": "Rune longsword",
+      "quantity": "1",
+      "rarity": "6/1260",
+      "itemId": 1303
+    },
+    {
+      "name": "Rune sword",
+      "quantity": "1",
+      "rarity": "6/1260",
+      "itemId": 1289
+    },
+    {
+      "name": "Rune mace",
+      "quantity": "1",
+      "rarity": "6/1260",
+      "itemId": 1432
+    },
+    {
+      "name": "Dragon dagger",
+      "quantity": "1",
+      "rarity": "1/1260",
+      "itemId": 1215
+    },
+    {
+      "name": "Dragon longsword",
+      "quantity": "1",
+      "rarity": "1/1260",
+      "itemId": 1305
+    },
+    {
+      "name": "Dragon scimitar",
+      "quantity": "1",
+      "rarity": "1/1260",
+      "itemId": 4587
+    },
+    {
+      "name": "Blighted ancient ice sack",
+      "quantity": "10–30",
+      "rarity": "12/1260",
+      "itemId": 24607
+    },
+    {
+      "name": "Blighted anglerfish",
+      "quantity": "5–15",
+      "rarity": "12/1260",
+      "itemId": 24592
+    },
+    {
+      "name": "Blighted manta ray",
+      "quantity": "5–15",
+      "rarity": "12/1260",
+      "itemId": 24589
+    },
+    {
+      "name": "Blighted karambwan",
+      "quantity": "5–15",
+      "rarity": "12/1260",
+      "itemId": 24595
+    },
+    {
+      "name": "Blighted super restore(4)",
+      "quantity": "1–3",
+      "rarity": "12/1260",
+      "itemId": 24598
+    },
+    {
+      "name": "Coins",
+      "quantity": "1000–8000",
+      "rarity": "12/1260",
+      "itemId": 995
+    },
+    {
+      "name": "Zombie pirate key",
+      "quantity": "1",
+      "rarity": "16/1260",
+      "itemId": 29449
+    },
+    {
+      "name": "Adamant seeds",
+      "quantity": "5–10",
+      "rarity": "8/1260",
+      "itemId": 29458
+    },
+    {
+      "name": "Teleport anchoring scroll",
+      "quantity": "1",
+      "rarity": "~3/200000",
+      "itemId": 29455
+    },
+    {
+      "name": "Cannonball",
+      "quantity": "20–100",
+      "rarity": "12/1260",
+      "itemId": 2
+    },
+    {
+      "name": "Gold ore",
+      "quantity": "5–15",
+      "rarity": "12/1260",
+      "itemId": 444
+    },
+    {
+      "name": "Looting bag",
+      "quantity": "1",
+      "rarity": "1/3",
+      "itemId": 11941
+    },
+    {
+      "name": "Zombie champion scroll",
+      "quantity": "1",
+      "rarity": "1/5000",
+      "itemId": 6807
+    },
+    {
+      "name": "Larran's key",
+      "quantity": "1",
+      "rarity": "1/1109",
+      "itemId": 23490
+    },
+    {
+      "name": "Slayer's enchantment",
+      "quantity": "1",
+      "rarity": "1/296",
+      "itemId": 21257
+    }
+  ]
+}

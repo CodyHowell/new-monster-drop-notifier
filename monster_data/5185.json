@@ -1,0 +1,12 @@
+{
+  "id": 5185,
+  "name": "Guard (dwarf)",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    }
+  ]
+}

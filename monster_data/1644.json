@@ -1,0 +1,126 @@
+{
+  "id": 1644,
+  "name": "Dragon impling",
+  "drops": [
+    {
+      "name": "Dragonstone bolt tips",
+      "quantity": "10–30",
+      "rarity": "1/19",
+      "itemId": 9193
+    },
+    {
+      "name": "Dragonstone bolt tips",
+      "quantity": "36",
+      "rarity": "1/19",
+      "itemId": 9193
+    },
+    {
+      "name": "Mystic robe bottom",
+      "quantity": "1",
+      "rarity": "1/19",
+      "itemId": 4093
+    },
+    {
+      "name": "Amulet of glory",
+      "quantity": "3",
+      "rarity": "1/19",
+      "itemId": 1704
+    },
+    {
+      "name": "Dragonstone amulet",
+      "quantity": "2",
+      "rarity": "1/19",
+      "itemId": 1702
+    },
+    {
+      "name": "Dragon arrow",
+      "quantity": "100–250",
+      "rarity": "1/19",
+      "itemId": 11212
+    },
+    {
+      "name": "Dragonstone bolts",
+      "quantity": "10–40",
+      "rarity": "1/19",
+      "itemId": 9341
+    },
+    {
+      "name": "Dragon longsword",
+      "quantity": "1",
+      "rarity": "1/19",
+      "itemId": 1305
+    },
+    {
+      "name": "Dragon dagger(p++)",
+      "quantity": "3",
+      "rarity": "1/19",
+      "itemId": 5698
+    },
+    {
+      "name": "Dragon dart",
+      "quantity": "100–250",
+      "rarity": "1/19",
+      "itemId": 11230
+    },
+    {
+      "name": "Dragonstone",
+      "quantity": "3",
+      "rarity": "1/19",
+      "itemId": 1615
+    },
+    {
+      "name": "Dragon dart tip",
+      "quantity": "100–350",
+      "rarity": "1/19",
+      "itemId": 11232
+    },
+    {
+      "name": "Dragon arrowtips",
+      "quantity": "100–350",
+      "rarity": "1/19",
+      "itemId": 11237
+    },
+    {
+      "name": "Dragon javelin heads",
+      "quantity": "25–35",
+      "rarity": "1/19",
+      "itemId": 19582
+    },
+    {
+      "name": "Babydragon bones",
+      "quantity": "100–300",
+      "rarity": "1/19",
+      "itemId": 534
+    },
+    {
+      "name": "Dragon bones",
+      "quantity": "50–100",
+      "rarity": "1/19",
+      "itemId": 536
+    },
+    {
+      "name": "Magic seed",
+      "quantity": "1",
+      "rarity": "1/19",
+      "itemId": 5316
+    },
+    {
+      "name": "Snapdragon seed",
+      "quantity": "6",
+      "rarity": "1/19",
+      "itemId": 5300
+    },
+    {
+      "name": "Summer pie",
+      "quantity": "15",
+      "rarity": "1/19",
+      "itemId": 7218
+    },
+    {
+      "name": "Clue scroll (elite)",
+      "quantity": "1",
+      "rarity": "1/50",
+      "itemId": 21524
+    }
+  ]
+}

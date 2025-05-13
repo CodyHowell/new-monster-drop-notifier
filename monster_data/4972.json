@@ -1,0 +1,18 @@
+{
+  "id": 4972,
+  "name": "Khazard commander",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    },
+    {
+      "name": "Orb of protection",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 587
+    }
+  ]
+}

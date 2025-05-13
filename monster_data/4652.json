@@ -1,0 +1,18 @@
+{
+  "id": 4652,
+  "name": "Ugthanki",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    },
+    {
+      "name": "Raw ugthanki meat",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 1859
+    }
+  ]
+}

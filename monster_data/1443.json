@@ -1,0 +1,12 @@
+{
+  "id": 1443,
+  "name": "Jungle Demon",
+  "drops": [
+    {
+      "name": "Malicious ashes",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 25772
+    }
+  ]
+}

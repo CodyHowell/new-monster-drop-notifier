@@ -1,0 +1,12 @@
+{
+  "id": 12369,
+  "name": "Crimson sanguisphera",
+  "drops": [
+    {
+      "name": "Crimson fibre",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 28462
+    }
+  ]
+}

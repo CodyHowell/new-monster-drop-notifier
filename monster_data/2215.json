@@ -1,0 +1,318 @@
+{
+  "id": 2215,
+  "name": "General Graardor",
+  "drops": [
+    {
+      "name": "Big bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 532
+    },
+    {
+      "name": "Frozen key piece (bandos)",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 26360
+    },
+    {
+      "name": "Bandos chestplate",
+      "quantity": "1",
+      "rarity": "1/381",
+      "itemId": 11832
+    },
+    {
+      "name": "Bandos tassets",
+      "quantity": "1",
+      "rarity": "1/381",
+      "itemId": 11834
+    },
+    {
+      "name": "Bandos boots",
+      "quantity": "1",
+      "rarity": "1/381",
+      "itemId": 11836
+    },
+    {
+      "name": "Bandos hilt",
+      "quantity": "1",
+      "rarity": "1/508",
+      "itemId": 11812
+    },
+    {
+      "name": "Godsword shard 1",
+      "quantity": "1",
+      "rarity": "1/762",
+      "itemId": 11818
+    },
+    {
+      "name": "Godsword shard 2",
+      "quantity": "1",
+      "rarity": "1/762",
+      "itemId": 11820
+    },
+    {
+      "name": "Godsword shard 3",
+      "quantity": "1",
+      "rarity": "1/762",
+      "itemId": 11822
+    },
+    {
+      "name": "Rune longsword",
+      "quantity": "1",
+      "rarity": "8/127",
+      "itemId": 1303
+    },
+    {
+      "name": "Rune 2h sword",
+      "quantity": "1",
+      "rarity": "8/127",
+      "itemId": 1319
+    },
+    {
+      "name": "Rune platebody",
+      "quantity": "1",
+      "rarity": "8/127",
+      "itemId": 1127
+    },
+    {
+      "name": "Rune pickaxe",
+      "quantity": "1",
+      "rarity": "6/127",
+      "itemId": 1275
+    },
+    {
+      "name": "Coins",
+      "quantity": "19500–20000",
+      "rarity": "31.7/127",
+      "itemId": 995
+    },
+    {
+      "name": "Grimy snapdragon",
+      "quantity": "3",
+      "rarity": "8/127",
+      "itemId": 3051
+    },
+    {
+      "name": "Snapdragon seed",
+      "quantity": "1",
+      "rarity": "8/127",
+      "itemId": 5300
+    },
+    {
+      "name": "Super restore(4)",
+      "quantity": "3",
+      "rarity": "8/127",
+      "itemId": 3024
+    },
+    {
+      "name": "Adamantite ore",
+      "quantity": "15–20",
+      "rarity": "8/127",
+      "itemId": 449
+    },
+    {
+      "name": "Coal",
+      "quantity": "115–120",
+      "rarity": "8/127",
+      "itemId": 453
+    },
+    {
+      "name": "Magic logs",
+      "quantity": "15–20",
+      "rarity": "8/127",
+      "itemId": 1513
+    },
+    {
+      "name": "Nature rune",
+      "quantity": "65–70",
+      "rarity": "8/127",
+      "itemId": 561
+    },
+    {
+      "name": "Coins",
+      "quantity": "20100–20600",
+      "rarity": "1.25/127",
+      "itemId": 995
+    },
+    {
+      "name": "Loop half of key",
+      "quantity": "1",
+      "rarity": "1/94.93",
+      "itemId": 987
+    },
+    {
+      "name": "Tooth half of key",
+      "quantity": "1",
+      "rarity": "1/99.58",
+      "itemId": 985
+    },
+    {
+      "name": "Uncut sapphire",
+      "quantity": "1",
+      "rarity": "1/156.31",
+      "itemId": 1623
+    },
+    {
+      "name": "Uncut emerald",
+      "quantity": "1",
+      "rarity": "1/312.62",
+      "itemId": 1621
+    },
+    {
+      "name": "Rune sword",
+      "quantity": "1",
+      "rarity": "1/406.4",
+      "itemId": 1289
+    },
+    {
+      "name": "Uncut ruby",
+      "quantity": "1",
+      "rarity": "1/625.23",
+      "itemId": 1619
+    },
+    {
+      "name": "Nature rune",
+      "quantity": "62–67",
+      "rarity": "1/677.33",
+      "itemId": 561
+    },
+    {
+      "name": "Rune 2h sword",
+      "quantity": "1",
+      "rarity": "1/677.33",
+      "itemId": 1319
+    },
+    {
+      "name": "Rune battleaxe",
+      "quantity": "1",
+      "rarity": "1/677.33",
+      "itemId": 1373
+    },
+    {
+      "name": "Law rune",
+      "quantity": "40–45",
+      "rarity": "1/1016",
+      "itemId": 563
+    },
+    {
+      "name": "Death rune",
+      "quantity": "40–45",
+      "rarity": "1/1016",
+      "itemId": 560
+    },
+    {
+      "name": "Steel arrow",
+      "quantity": "145–150",
+      "rarity": "1/1016",
+      "itemId": 886
+    },
+    {
+      "name": "Rune arrow",
+      "quantity": "38–43",
+      "rarity": "1/1016",
+      "itemId": 892
+    },
+    {
+      "name": "Adamant javelin",
+      "quantity": "15–20",
+      "rarity": "1/1016",
+      "itemId": 829
+    },
+    {
+      "name": "Rune sq shield",
+      "quantity": "1",
+      "rarity": "1/1016",
+      "itemId": 1185
+    },
+    {
+      "name": "Dragonstone",
+      "quantity": "1",
+      "rarity": "1/1016",
+      "itemId": 1615
+    },
+    {
+      "name": "Silver ore",
+      "quantity": "100",
+      "rarity": "1/1016",
+      "itemId": 442
+    },
+    {
+      "name": "Chaos talisman",
+      "quantity": "1",
+      "rarity": "1/1667.28",
+      "itemId": 1452
+    },
+    {
+      "name": "Rune kiteshield",
+      "quantity": "1",
+      "rarity": "1/2032",
+      "itemId": 1201
+    },
+    {
+      "name": "Dragon med helm",
+      "quantity": "1",
+      "rarity": "1/2032",
+      "itemId": 1149
+    },
+    {
+      "name": "Rune spear",
+      "quantity": "1",
+      "rarity": "1/2110.31",
+      "itemId": 1247
+    },
+    {
+      "name": "Uncut diamond",
+      "quantity": "1",
+      "rarity": "1/2500.92",
+      "itemId": 1617
+    },
+    {
+      "name": "Shield left half",
+      "quantity": "1",
+      "rarity": "1/4220.62",
+      "itemId": 2366
+    },
+    {
+      "name": "Rune javelin",
+      "quantity": "5",
+      "rarity": "1/5001.85",
+      "itemId": 830
+    },
+    {
+      "name": "Dragon spear",
+      "quantity": "1",
+      "rarity": "1/5627.5",
+      "itemId": 1249
+    },
+    {
+      "name": "Brimstone key",
+      "quantity": "1",
+      "rarity": "1/50",
+      "itemId": 23083
+    },
+    {
+      "name": "Clue scroll (elite)",
+      "quantity": "1",
+      "rarity": "1/250",
+      "itemId": 21524
+    },
+    {
+      "name": "Long bone",
+      "quantity": "1",
+      "rarity": "1/400",
+      "itemId": 10976
+    },
+    {
+      "name": "Pet general graardor",
+      "quantity": "1",
+      "rarity": "1/5000",
+      "itemId": 12650
+    },
+    {
+      "name": "Curved bone",
+      "quantity": "1",
+      "rarity": "1/5012.5",
+      "itemId": 10977
+    }
+  ]
+}

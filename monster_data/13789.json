@@ -1,0 +1,228 @@
+{
+  "id": 13789,
+  "name": "Frost Crab",
+  "drops": [
+    {
+      "name": "Bronze pickaxe",
+      "quantity": "1",
+      "rarity": "~12/180",
+      "itemId": 1265
+    },
+    {
+      "name": "Iron pickaxe",
+      "quantity": "1",
+      "rarity": "~10/180",
+      "itemId": 1267
+    },
+    {
+      "name": "Coins",
+      "quantity": "2",
+      "rarity": "~16/180",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "4",
+      "rarity": "~39/180",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "8",
+      "rarity": "~8/180",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "24",
+      "rarity": "~12/180",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "36",
+      "rarity": "~11/180",
+      "itemId": 995
+    },
+    {
+      "name": "Water rune",
+      "quantity": "1",
+      "rarity": "~7/180",
+      "itemId": 555
+    },
+    {
+      "name": "Water rune",
+      "quantity": "2",
+      "rarity": "~7/180",
+      "itemId": 555
+    },
+    {
+      "name": "Water rune",
+      "quantity": "5",
+      "rarity": "~4/180",
+      "itemId": 555
+    },
+    {
+      "name": "Water rune",
+      "quantity": "10",
+      "rarity": "~4/180",
+      "itemId": 555
+    },
+    {
+      "name": "Water rune",
+      "quantity": "15",
+      "rarity": "~4/180",
+      "itemId": 555
+    },
+    {
+      "name": "Tin ore",
+      "quantity": "3",
+      "rarity": "~8/180",
+      "itemId": 438
+    },
+    {
+      "name": "Copper ore",
+      "quantity": "3",
+      "rarity": "~4/180",
+      "itemId": 436
+    },
+    {
+      "name": "Iron ore",
+      "quantity": "1",
+      "rarity": "~4/180",
+      "itemId": 440
+    },
+    {
+      "name": "Iron ore",
+      "quantity": "2",
+      "rarity": "~2/180",
+      "itemId": 440
+    },
+    {
+      "name": "Coal",
+      "quantity": "1",
+      "rarity": "~2/180",
+      "itemId": 453
+    },
+    {
+      "name": "Coal",
+      "quantity": "2",
+      "rarity": "~4/180",
+      "itemId": 453
+    },
+    {
+      "name": "Coal",
+      "quantity": "3",
+      "rarity": "~2/180",
+      "itemId": 453
+    },
+    {
+      "name": "Chisel",
+      "quantity": "1",
+      "rarity": "~6/180",
+      "itemId": 1755
+    },
+    {
+      "name": "Bucket of water",
+      "quantity": "1",
+      "rarity": "~6/180",
+      "itemId": 1929
+    },
+    {
+      "name": "Spinach roll",
+      "quantity": "1",
+      "rarity": "~2/180",
+      "itemId": 1969
+    },
+    {
+      "name": "Casket",
+      "quantity": "1",
+      "rarity": "~2/180",
+      "itemId": 405
+    },
+    {
+      "name": "Soft clay",
+      "quantity": "1",
+      "rarity": "~4/180",
+      "itemId": 1761
+    },
+    {
+      "name": "Uncut sapphire",
+      "quantity": "1",
+      "rarity": "1/360",
+      "itemId": 1623
+    },
+    {
+      "name": "Uncut emerald",
+      "quantity": "1",
+      "rarity": "1/720",
+      "itemId": 1621
+    },
+    {
+      "name": "Uncut ruby",
+      "quantity": "1",
+      "rarity": "1/1440",
+      "itemId": 1619
+    },
+    {
+      "name": "Uncut diamond",
+      "quantity": "1",
+      "rarity": "1/5760",
+      "itemId": 1617
+    },
+    {
+      "name": "Nature talisman",
+      "quantity": "1",
+      "rarity": "1/3840",
+      "itemId": 1462
+    },
+    {
+      "name": "Loop half of key",
+      "quantity": "1",
+      "rarity": "1/11520",
+      "itemId": 987
+    },
+    {
+      "name": "Tooth half of key",
+      "quantity": "1",
+      "rarity": "1/11520",
+      "itemId": 985
+    },
+    {
+      "name": "Rune javelin",
+      "quantity": "5",
+      "rarity": "1/11520",
+      "itemId": 830
+    },
+    {
+      "name": "Rune spear",
+      "quantity": "1",
+      "rarity": "1/184320",
+      "itemId": 1247
+    },
+    {
+      "name": "Shield left half",
+      "quantity": "1",
+      "rarity": "1/368640",
+      "itemId": 2366
+    },
+    {
+      "name": "Dragon spear",
+      "quantity": "1",
+      "rarity": "1/491520",
+      "itemId": 1249
+    },
+    {
+      "name": "Frozen tear",
+      "quantity": "5",
+      "rarity": "~1/90",
+      "itemId": 29895
+    },
+    {
+      "name": "Clue scroll (easy)",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 12179
+    }
+  ]
+}

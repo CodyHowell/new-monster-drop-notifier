@@ -1,0 +1,126 @@
+{
+  "id": 1641,
+  "name": "Nature impling",
+  "drops": [
+    {
+      "name": "Limpwurt seed",
+      "quantity": "1",
+      "rarity": "1/10",
+      "itemId": 5100
+    },
+    {
+      "name": "Jangerberry seed",
+      "quantity": "1",
+      "rarity": "1/10",
+      "itemId": 5104
+    },
+    {
+      "name": "Belladonna seed",
+      "quantity": "1",
+      "rarity": "1/10",
+      "itemId": 5281
+    },
+    {
+      "name": "Harralander seed",
+      "quantity": "1",
+      "rarity": "1/10",
+      "itemId": 5294
+    },
+    {
+      "name": "Cactus spine",
+      "quantity": "1",
+      "rarity": "1/10",
+      "itemId": 6016
+    },
+    {
+      "name": "Magic logs",
+      "quantity": "1",
+      "rarity": "1/10",
+      "itemId": 1513
+    },
+    {
+      "name": "Tarromin",
+      "quantity": "4",
+      "rarity": "1/10",
+      "itemId": 253
+    },
+    {
+      "name": "Coconut",
+      "quantity": "1",
+      "rarity": "1/10",
+      "itemId": 5974
+    },
+    {
+      "name": "Irit seed",
+      "quantity": "1",
+      "rarity": "1/10",
+      "itemId": 5297
+    },
+    {
+      "name": "Curry tree seed",
+      "quantity": "1",
+      "rarity": "1/100",
+      "itemId": 5286
+    },
+    {
+      "name": "Orange tree seed",
+      "quantity": "1",
+      "rarity": "1/100",
+      "itemId": 5285
+    },
+    {
+      "name": "Snapdragon",
+      "quantity": "1",
+      "rarity": "1/100",
+      "itemId": 3000
+    },
+    {
+      "name": "Kwuarm seed",
+      "quantity": "1",
+      "rarity": "1/100",
+      "itemId": 5299
+    },
+    {
+      "name": "Avantoe seed",
+      "quantity": "5",
+      "rarity": "1/100",
+      "itemId": 5298
+    },
+    {
+      "name": "Willow seed",
+      "quantity": "1",
+      "rarity": "1/100",
+      "itemId": 5313
+    },
+    {
+      "name": "Torstol seed",
+      "quantity": "1",
+      "rarity": "1/100",
+      "itemId": 5304
+    },
+    {
+      "name": "Ranarr seed",
+      "quantity": "1",
+      "rarity": "1/100",
+      "itemId": 5295
+    },
+    {
+      "name": "Torstol",
+      "quantity": "2",
+      "rarity": "1/100",
+      "itemId": 269
+    },
+    {
+      "name": "Dwarf weed seed",
+      "quantity": "1",
+      "rarity": "1/100",
+      "itemId": 5303
+    },
+    {
+      "name": "Clue scroll (hard)",
+      "quantity": "1",
+      "rarity": "1/100",
+      "itemId": 3550
+    }
+  ]
+}

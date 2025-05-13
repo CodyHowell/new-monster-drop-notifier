@@ -1,0 +1,174 @@
+{
+  "id": 7416,
+  "name": "Obor",
+  "drops": [
+    {
+      "name": "Big bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 532
+    },
+    {
+      "name": "Clue scroll (beginner)",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 23182
+    },
+    {
+      "name": "Ensouled giant head",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 13475
+    },
+    {
+      "name": "Rune kiteshield",
+      "quantity": "1",
+      "rarity": "3/118",
+      "itemId": 1201
+    },
+    {
+      "name": "Rune full helm",
+      "quantity": "1",
+      "rarity": "5/118",
+      "itemId": 1163
+    },
+    {
+      "name": "Rune med helm",
+      "quantity": "1",
+      "rarity": "6/118",
+      "itemId": 1147
+    },
+    {
+      "name": "Rune chainbody",
+      "quantity": "1",
+      "rarity": "3/118",
+      "itemId": 1113
+    },
+    {
+      "name": "Rune platelegs",
+      "quantity": "1",
+      "rarity": "3/118",
+      "itemId": 1079
+    },
+    {
+      "name": "Rune plateskirt",
+      "quantity": "1",
+      "rarity": "3/118",
+      "itemId": 1093
+    },
+    {
+      "name": "Rune battleaxe",
+      "quantity": "1",
+      "rarity": "4/118",
+      "itemId": 1373
+    },
+    {
+      "name": "Rune longsword",
+      "quantity": "1",
+      "rarity": "5/118",
+      "itemId": 1303
+    },
+    {
+      "name": "Rune 2h sword",
+      "quantity": "1",
+      "rarity": "3/118",
+      "itemId": 1319
+    },
+    {
+      "name": "Hill giant club",
+      "quantity": "1",
+      "rarity": "1/118",
+      "itemId": 20756
+    },
+    {
+      "name": "Law rune",
+      "quantity": "50–99",
+      "rarity": "12/118",
+      "itemId": 563
+    },
+    {
+      "name": "Cosmic rune",
+      "quantity": "60–119",
+      "rarity": "12/118",
+      "itemId": 564
+    },
+    {
+      "name": "Chaos rune",
+      "quantity": "100–199",
+      "rarity": "10/118",
+      "itemId": 562
+    },
+    {
+      "name": "Death rune",
+      "quantity": "40–79",
+      "rarity": "10/118",
+      "itemId": 560
+    },
+    {
+      "name": "Nature rune",
+      "quantity": "40–79",
+      "rarity": "7/118",
+      "itemId": 561
+    },
+    {
+      "name": "Coins",
+      "quantity": "10000–15000",
+      "rarity": "6/118",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "12000–20000",
+      "rarity": "4/118",
+      "itemId": 995
+    },
+    {
+      "name": "Limpwurt root",
+      "quantity": "20",
+      "rarity": "8/118",
+      "itemId": 225
+    },
+    {
+      "name": "Big bones",
+      "quantity": "50",
+      "rarity": "8/118",
+      "itemId": 532
+    },
+    {
+      "name": "Uncut ruby",
+      "quantity": "5",
+      "rarity": "5/118",
+      "itemId": 1619
+    },
+    {
+      "name": "Uncut diamond",
+      "quantity": "5",
+      "rarity": "5/118",
+      "itemId": 1617
+    },
+    {
+      "name": "Giant key",
+      "quantity": "1",
+      "rarity": "1/16",
+      "itemId": 20754
+    },
+    {
+      "name": "Long bone",
+      "quantity": "1",
+      "rarity": "1/400",
+      "itemId": 10976
+    },
+    {
+      "name": "Giant champion scroll",
+      "quantity": "1",
+      "rarity": "1/5000",
+      "itemId": 6800
+    },
+    {
+      "name": "Curved bone",
+      "quantity": "1",
+      "rarity": "1/5012.5",
+      "itemId": 10977
+    }
+  ]
+}

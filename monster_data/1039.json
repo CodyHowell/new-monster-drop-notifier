@@ -1,0 +1,12 @@
+{
+  "id": 1039,
+  "name": "Albino bat",
+  "drops": [
+    {
+      "name": "Bat bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 530
+    }
+  ]
+}

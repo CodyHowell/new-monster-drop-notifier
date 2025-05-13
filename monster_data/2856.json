@@ -1,0 +1,48 @@
+{
+  "id": 2856,
+  "name": "Giant rat",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    },
+    {
+      "name": "Raw rat meat",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 2134
+    },
+    {
+      "name": "Giant rat bone",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 7824
+    },
+    {
+      "name": "Looting bag",
+      "quantity": "1",
+      "rarity": "1/15",
+      "itemId": 11941
+    },
+    {
+      "name": "Clue scroll (beginner)",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 23182
+    },
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    },
+    {
+      "name": "Rat's tail",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 300
+    }
+  ]
+}

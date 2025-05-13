@@ -1,0 +1,12 @@
+{
+  "id": 2067,
+  "name": "Mounted terrorbird gnome",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    }
+  ]
+}

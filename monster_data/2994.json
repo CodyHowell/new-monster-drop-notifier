@@ -1,0 +1,24 @@
+{
+  "id": 2994,
+  "name": "Giant lobster (Ghosts Ahoy)",
+  "drops": [
+    {
+      "name": "Seaweed",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 401
+    },
+    {
+      "name": "Ensouled scorpion head",
+      "quantity": "1",
+      "rarity": "1/25",
+      "itemId": 13460
+    },
+    {
+      "name": "Clue scroll (beginner)",
+      "quantity": "1",
+      "rarity": "Rare",
+      "itemId": 23182
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": 1282,
+  "name": "Riyl Shade",
+  "drops": [
+    {
+      "name": "Riyl remains",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 3400
+    }
+  ]
+}

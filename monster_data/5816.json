@@ -1,0 +1,30 @@
+{
+  "id": 5816,
+  "name": "Yak",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    },
+    {
+      "name": "Yak-hide",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 10818
+    },
+    {
+      "name": "Hair",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 10814
+    },
+    {
+      "name": "Raw yak meat",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 10816
+    }
+  ]
+}

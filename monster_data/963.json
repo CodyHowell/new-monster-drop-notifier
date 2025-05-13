@@ -1,0 +1,468 @@
+{
+  "id": 963,
+  "name": "Kalphite Queen",
+  "drops": [
+    {
+      "name": "Monkfish",
+      "quantity": "3",
+      "rarity": "1/9",
+      "itemId": 7946
+    },
+    {
+      "name": "Shark",
+      "quantity": "2",
+      "rarity": "1/9",
+      "itemId": 385
+    },
+    {
+      "name": "Dark crab",
+      "quantity": "2",
+      "rarity": "1/9",
+      "itemId": 11936
+    },
+    {
+      "name": "Saradomin brew(4)",
+      "quantity": "1",
+      "rarity": "1/9",
+      "itemId": 6685
+    },
+    {
+      "name": "Prayer potion(4)",
+      "quantity": "2",
+      "rarity": "1/9",
+      "itemId": 2434
+    },
+    {
+      "name": "Super restore(4)",
+      "quantity": "1",
+      "rarity": "1/9",
+      "itemId": 3024
+    },
+    {
+      "name": "Super combat potion(2)",
+      "quantity": "1",
+      "rarity": "1/9",
+      "itemId": 12699
+    },
+    {
+      "name": "Ranging potion(3)",
+      "quantity": "1",
+      "rarity": "1/9",
+      "itemId": 169
+    },
+    {
+      "name": "Superantipoison(2)",
+      "quantity": "1",
+      "rarity": "1/9",
+      "itemId": 183
+    },
+    {
+      "name": "Battlestaff",
+      "quantity": "10",
+      "rarity": "5/126",
+      "itemId": 1391
+    },
+    {
+      "name": "Rune chainbody",
+      "quantity": "1",
+      "rarity": "4/126",
+      "itemId": 1113
+    },
+    {
+      "name": "Red d'hide body",
+      "quantity": "1",
+      "rarity": "4/126",
+      "itemId": 2501
+    },
+    {
+      "name": "Rune knife(p++)",
+      "quantity": "25",
+      "rarity": "4/126",
+      "itemId": 5667
+    },
+    {
+      "name": "Lava battlestaff",
+      "quantity": "1",
+      "rarity": "2/126",
+      "itemId": 3053
+    },
+    {
+      "name": "Death rune",
+      "quantity": "150",
+      "rarity": "6/126",
+      "itemId": 560
+    },
+    {
+      "name": "Blood rune",
+      "quantity": "100",
+      "rarity": "6/126",
+      "itemId": 565
+    },
+    {
+      "name": "Mithril arrow",
+      "quantity": "500",
+      "rarity": "5/126",
+      "itemId": 888
+    },
+    {
+      "name": "Rune arrow",
+      "quantity": "250",
+      "rarity": "3/126",
+      "itemId": 892
+    },
+    {
+      "name": "Grimy toadflax",
+      "quantity": "25",
+      "rarity": "2/126",
+      "itemId": 3049
+    },
+    {
+      "name": "Grimy ranarr weed",
+      "quantity": "25",
+      "rarity": "2/126",
+      "itemId": 207
+    },
+    {
+      "name": "Grimy snapdragon",
+      "quantity": "25",
+      "rarity": "2/126",
+      "itemId": 3051
+    },
+    {
+      "name": "Grimy torstol",
+      "quantity": "25",
+      "rarity": "2/126",
+      "itemId": 219
+    },
+    {
+      "name": "Torstol seed",
+      "quantity": "2",
+      "rarity": "4/126",
+      "itemId": 5304
+    },
+    {
+      "name": "Watermelon seed",
+      "quantity": "25",
+      "rarity": "3/126",
+      "itemId": 5321
+    },
+    {
+      "name": "Papaya tree seed",
+      "quantity": "2",
+      "rarity": "3/126",
+      "itemId": 5288
+    },
+    {
+      "name": "Palm tree seed",
+      "quantity": "2",
+      "rarity": "3/126",
+      "itemId": 5289
+    },
+    {
+      "name": "Magic seed",
+      "quantity": "2",
+      "rarity": "3/126",
+      "itemId": 5316
+    },
+    {
+      "name": "Runite bar",
+      "quantity": "3",
+      "rarity": "5/126",
+      "itemId": 2363
+    },
+    {
+      "name": "Bucket of sand",
+      "quantity": "100",
+      "rarity": "4/126",
+      "itemId": 1783
+    },
+    {
+      "name": "Gold ore",
+      "quantity": "250",
+      "rarity": "4/126",
+      "itemId": 444
+    },
+    {
+      "name": "Magic logs",
+      "quantity": "60",
+      "rarity": "4/126",
+      "itemId": 1513
+    },
+    {
+      "name": "Uncut emerald",
+      "quantity": "25",
+      "rarity": "3/126",
+      "itemId": 1621
+    },
+    {
+      "name": "Uncut ruby",
+      "quantity": "25",
+      "rarity": "3/126",
+      "itemId": 1619
+    },
+    {
+      "name": "Uncut diamond",
+      "quantity": "25",
+      "rarity": "3/126",
+      "itemId": 1617
+    },
+    {
+      "name": "Wine of zamorak",
+      "quantity": "60",
+      "rarity": "10/126",
+      "itemId": 245
+    },
+    {
+      "name": "Potato cactus",
+      "quantity": "100",
+      "rarity": "8/126",
+      "itemId": 3138
+    },
+    {
+      "name": "Coins",
+      "quantity": "15000–20000",
+      "rarity": "5/126",
+      "itemId": 995
+    },
+    {
+      "name": "Grapes",
+      "quantity": "100",
+      "rarity": "5/126",
+      "itemId": 1987
+    },
+    {
+      "name": "Weapon poison(++)",
+      "quantity": "5",
+      "rarity": "5/126",
+      "itemId": 5940
+    },
+    {
+      "name": "Cactus spine",
+      "quantity": "10",
+      "rarity": "3/126",
+      "itemId": 6016
+    },
+    {
+      "name": "Coins",
+      "quantity": "3000",
+      "rarity": "1/768",
+      "itemId": 995
+    },
+    {
+      "name": "Loop half of key",
+      "quantity": "1",
+      "rarity": "1/800.15",
+      "itemId": 987
+    },
+    {
+      "name": "Tooth half of key",
+      "quantity": "1",
+      "rarity": "1/800.15",
+      "itemId": 985
+    },
+    {
+      "name": "Uncut sapphire",
+      "quantity": "1",
+      "rarity": "1/3225.6",
+      "itemId": 1623
+    },
+    {
+      "name": "Runite bar",
+      "quantity": "1",
+      "rarity": "1/3225.6",
+      "itemId": 2363
+    },
+    {
+      "name": "Nature rune",
+      "quantity": "67",
+      "rarity": "1/5376",
+      "itemId": 561
+    },
+    {
+      "name": "Rune 2h sword",
+      "quantity": "1",
+      "rarity": "1/5376",
+      "itemId": 1319
+    },
+    {
+      "name": "Rune battleaxe",
+      "quantity": "1",
+      "rarity": "1/5376",
+      "itemId": 1373
+    },
+    {
+      "name": "Uncut emerald",
+      "quantity": "1",
+      "rarity": "1/6451.2",
+      "itemId": 1621
+    },
+    {
+      "name": "Law rune",
+      "quantity": "45",
+      "rarity": "1/8064",
+      "itemId": 563
+    },
+    {
+      "name": "Death rune",
+      "quantity": "45",
+      "rarity": "1/8064",
+      "itemId": 560
+    },
+    {
+      "name": "Steel arrow",
+      "quantity": "150",
+      "rarity": "1/8064",
+      "itemId": 886
+    },
+    {
+      "name": "Rune arrow",
+      "quantity": "42",
+      "rarity": "1/8064",
+      "itemId": 892
+    },
+    {
+      "name": "Adamant javelin",
+      "quantity": "20",
+      "rarity": "1/8064",
+      "itemId": 829
+    },
+    {
+      "name": "Rune sq shield",
+      "quantity": "1",
+      "rarity": "1/8064",
+      "itemId": 1185
+    },
+    {
+      "name": "Dragonstone",
+      "quantity": "1",
+      "rarity": "1/8064",
+      "itemId": 1615
+    },
+    {
+      "name": "Silver ore",
+      "quantity": "100",
+      "rarity": "1/8064",
+      "itemId": 442
+    },
+    {
+      "name": "Uncut ruby",
+      "quantity": "1",
+      "rarity": "1/12902.4",
+      "itemId": 1619
+    },
+    {
+      "name": "Rune kiteshield",
+      "quantity": "1",
+      "rarity": "1/16128",
+      "itemId": 1201
+    },
+    {
+      "name": "Dragon med helm",
+      "quantity": "1",
+      "rarity": "1/16128",
+      "itemId": 1149
+    },
+    {
+      "name": "Rune spear",
+      "quantity": "1",
+      "rarity": "1/17025.85",
+      "itemId": 1247
+    },
+    {
+      "name": "Shield left half",
+      "quantity": "1",
+      "rarity": "1/34051.69",
+      "itemId": 2366
+    },
+    {
+      "name": "Chaos talisman",
+      "quantity": "1",
+      "rarity": "1/34406.4",
+      "itemId": 1452
+    },
+    {
+      "name": "Nature talisman",
+      "quantity": "1",
+      "rarity": "1/34406.4",
+      "itemId": 1462
+    },
+    {
+      "name": "Dragon spear",
+      "quantity": "1",
+      "rarity": "1/45402.26",
+      "itemId": 1249
+    },
+    {
+      "name": "Uncut diamond",
+      "quantity": "1",
+      "rarity": "1/51609.6",
+      "itemId": 1617
+    },
+    {
+      "name": "Rune javelin",
+      "quantity": "5",
+      "rarity": "1/103219.2",
+      "itemId": 830
+    },
+    {
+      "name": "Kq head (tattered)",
+      "quantity": "1",
+      "rarity": "Once",
+      "itemId": 22671
+    },
+    {
+      "name": "Ensouled kalphite head",
+      "quantity": "1",
+      "rarity": "1/20",
+      "itemId": 13490
+    },
+    {
+      "name": "Brimstone key",
+      "quantity": "1",
+      "rarity": "1/54",
+      "itemId": 23083
+    },
+    {
+      "name": "Clue scroll (elite)",
+      "quantity": "1",
+      "rarity": "1/100",
+      "itemId": 21524
+    },
+    {
+      "name": "Kq head",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 7981
+    },
+    {
+      "name": "Dragon chainbody",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 3140
+    },
+    {
+      "name": "Dragon 2h sword",
+      "quantity": "1",
+      "rarity": "1/256",
+      "itemId": 7158
+    },
+    {
+      "name": "Dragon pickaxe",
+      "quantity": "1",
+      "rarity": "1/400",
+      "itemId": 11920
+    },
+    {
+      "name": "Jar of sand",
+      "quantity": "1",
+      "rarity": "1/2000",
+      "itemId": 12885
+    },
+    {
+      "name": "Kalphite princess",
+      "quantity": "1",
+      "rarity": "1/3000",
+      "itemId": 12647
+    }
+  ]
+}

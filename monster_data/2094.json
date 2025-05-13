@@ -1,0 +1,408 @@
+{
+  "id": 2094,
+  "name": "Jogre",
+  "drops": [
+    {
+      "name": "Jogre bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 3125
+    },
+    {
+      "name": "Bronze spear",
+      "quantity": "1",
+      "rarity": "30/129",
+      "itemId": 1237
+    },
+    {
+      "name": "Iron spear",
+      "quantity": "1",
+      "rarity": "4/129",
+      "itemId": 1239
+    },
+    {
+      "name": "Nature rune",
+      "quantity": "2",
+      "rarity": "10/129",
+      "itemId": 561
+    },
+    {
+      "name": "Nature rune",
+      "quantity": "10",
+      "rarity": "2/129",
+      "itemId": 561
+    },
+    {
+      "name": "Nature rune",
+      "quantity": "5",
+      "rarity": "2/129",
+      "itemId": 561
+    },
+    {
+      "name": "Steel javelin",
+      "quantity": "5",
+      "rarity": "2/129",
+      "itemId": 827
+    },
+    {
+      "name": "Grimy rogue's purse",
+      "quantity": "1",
+      "rarity": "5/129",
+      "itemId": 1533
+    },
+    {
+      "name": "Grimy snake weed",
+      "quantity": "1",
+      "rarity": "5/129",
+      "itemId": 1525
+    },
+    {
+      "name": "Grimy guam leaf",
+      "quantity": "1",
+      "rarity": "1/86",
+      "itemId": 199
+    },
+    {
+      "name": "Grimy marrentill",
+      "quantity": "1",
+      "rarity": "1/114.7",
+      "itemId": 201
+    },
+    {
+      "name": "Grimy tarromin",
+      "quantity": "1",
+      "rarity": "1/152.9",
+      "itemId": 203
+    },
+    {
+      "name": "Grimy harralander",
+      "quantity": "1",
+      "rarity": "1/196.6",
+      "itemId": 205
+    },
+    {
+      "name": "Grimy ranarr weed",
+      "quantity": "1",
+      "rarity": "1/250.2",
+      "itemId": 207
+    },
+    {
+      "name": "Grimy irit leaf",
+      "quantity": "1",
+      "rarity": "1/344",
+      "itemId": 209
+    },
+    {
+      "name": "Grimy avantoe",
+      "quantity": "1",
+      "rarity": "1/458.7",
+      "itemId": 211
+    },
+    {
+      "name": "Grimy kwuarm",
+      "quantity": "1",
+      "rarity": "1/550.4",
+      "itemId": 213
+    },
+    {
+      "name": "Grimy cadantine",
+      "quantity": "1",
+      "rarity": "1/688",
+      "itemId": 215
+    },
+    {
+      "name": "Grimy lantadyme",
+      "quantity": "1",
+      "rarity": "1/917.3",
+      "itemId": 2485
+    },
+    {
+      "name": "Grimy dwarf weed",
+      "quantity": "1",
+      "rarity": "1/917.3",
+      "itemId": 217
+    },
+    {
+      "name": "Limpwurt seed",
+      "quantity": "1",
+      "rarity": "1/65.8",
+      "itemId": 5100
+    },
+    {
+      "name": "Strawberry seed",
+      "quantity": "1",
+      "rarity": "1/68.8",
+      "itemId": 5323
+    },
+    {
+      "name": "Marrentill seed",
+      "quantity": "1",
+      "rarity": "1/72.1",
+      "itemId": 5292
+    },
+    {
+      "name": "Jangerberry seed",
+      "quantity": "1",
+      "rarity": "1/98",
+      "itemId": 5104
+    },
+    {
+      "name": "Tarromin seed",
+      "quantity": "1",
+      "rarity": "1/106",
+      "itemId": 5293
+    },
+    {
+      "name": "Wildblood seed",
+      "quantity": "1",
+      "rarity": "1/108.6",
+      "itemId": 5311
+    },
+    {
+      "name": "Watermelon seed",
+      "quantity": "1",
+      "rarity": "1/143.1",
+      "itemId": 5321
+    },
+    {
+      "name": "Harralander seed",
+      "quantity": "1",
+      "rarity": "1/160.9",
+      "itemId": 5294
+    },
+    {
+      "name": "Snape grass seed",
+      "quantity": "1",
+      "rarity": "1/225.3",
+      "itemId": 22879
+    },
+    {
+      "name": "Ranarr seed",
+      "quantity": "1",
+      "rarity": "1/231.1",
+      "itemId": 5295
+    },
+    {
+      "name": "Whiteberry seed",
+      "quantity": "1",
+      "rarity": "1/265.1",
+      "itemId": 5105
+    },
+    {
+      "name": "Mushroom spore",
+      "quantity": "1",
+      "rarity": "1/310.8",
+      "itemId": 5282
+    },
+    {
+      "name": "Toadflax seed",
+      "quantity": "1",
+      "rarity": "1/333.8",
+      "itemId": 5296
+    },
+    {
+      "name": "Belladonna seed",
+      "quantity": "1",
+      "rarity": "1/500.7",
+      "itemId": 5281
+    },
+    {
+      "name": "Irit seed",
+      "quantity": "1",
+      "rarity": "1/500.7",
+      "itemId": 5297
+    },
+    {
+      "name": "Poison ivy seed",
+      "quantity": "1",
+      "rarity": "1/693.3",
+      "itemId": 5106
+    },
+    {
+      "name": "Avantoe seed",
+      "quantity": "1",
+      "rarity": "1/751.1",
+      "itemId": 5298
+    },
+    {
+      "name": "Cactus seed",
+      "quantity": "1",
+      "rarity": "1/751.1",
+      "itemId": 5280
+    },
+    {
+      "name": "Kwuarm seed",
+      "quantity": "1",
+      "rarity": "1/1001.4",
+      "itemId": 5299
+    },
+    {
+      "name": "Potato cactus seed",
+      "quantity": "1",
+      "rarity": "1/1126.6",
+      "itemId": 22873
+    },
+    {
+      "name": "Snapdragon seed",
+      "quantity": "1",
+      "rarity": "1/1802.6",
+      "itemId": 5300
+    },
+    {
+      "name": "Cadantine seed",
+      "quantity": "1",
+      "rarity": "1/2253.2",
+      "itemId": 5301
+    },
+    {
+      "name": "Lantadyme seed",
+      "quantity": "1",
+      "rarity": "1/3004.3",
+      "itemId": 5302
+    },
+    {
+      "name": "Dwarf weed seed",
+      "quantity": "1",
+      "rarity": "1/4506.4",
+      "itemId": 5303
+    },
+    {
+      "name": "Torstol seed",
+      "quantity": "1",
+      "rarity": "1/9012.8",
+      "itemId": 5304
+    },
+    {
+      "name": "Trading sticks",
+      "quantity": "22",
+      "rarity": "27/129",
+      "itemId": 6306
+    },
+    {
+      "name": "Pineapple",
+      "quantity": "2",
+      "rarity": "8/129",
+      "itemId": 2114
+    },
+    {
+      "name": "Knife",
+      "quantity": "1",
+      "rarity": "5/129",
+      "itemId": 946
+    },
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "3/129",
+      "itemId": 526
+    },
+    {
+      "name": "Big bones",
+      "quantity": "1",
+      "rarity": "3/129",
+      "itemId": 532
+    },
+    {
+      "name": "Big bones",
+      "quantity": "3",
+      "rarity": "2/129",
+      "itemId": 532
+    },
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "2/129",
+      "itemId": 526
+    },
+    {
+      "name": "Uncut sapphire",
+      "quantity": "1",
+      "rarity": "1/516",
+      "itemId": 1623
+    },
+    {
+      "name": "Uncut emerald",
+      "quantity": "1",
+      "rarity": "1/1032",
+      "itemId": 1621
+    },
+    {
+      "name": "Uncut ruby",
+      "quantity": "1",
+      "rarity": "1/2064",
+      "itemId": 1619
+    },
+    {
+      "name": "Uncut diamond",
+      "quantity": "1",
+      "rarity": "1/8256",
+      "itemId": 1617
+    },
+    {
+      "name": "Chaos talisman",
+      "quantity": "1",
+      "rarity": "1/5504",
+      "itemId": 1452
+    },
+    {
+      "name": "Nature talisman",
+      "quantity": "1",
+      "rarity": "1/5504",
+      "itemId": 1462
+    },
+    {
+      "name": "Loop half of key",
+      "quantity": "1",
+      "rarity": "1/16512",
+      "itemId": 987
+    },
+    {
+      "name": "Tooth half of key",
+      "quantity": "1",
+      "rarity": "1/16512",
+      "itemId": 985
+    },
+    {
+      "name": "Rune javelin",
+      "quantity": "5",
+      "rarity": "1/16512",
+      "itemId": 830
+    },
+    {
+      "name": "Rune spear",
+      "quantity": "1",
+      "rarity": "1/264192",
+      "itemId": 1247
+    },
+    {
+      "name": "Shield left half",
+      "quantity": "1",
+      "rarity": "1/528384",
+      "itemId": 2366
+    },
+    {
+      "name": "Dragon spear",
+      "quantity": "1",
+      "rarity": "1/704512",
+      "itemId": 1249
+    },
+    {
+      "name": "Jogre bone",
+      "quantity": "1",
+      "rarity": "1/4",
+      "itemId": 7845
+    },
+    {
+      "name": "Clue scroll (medium)",
+      "quantity": "1",
+      "rarity": "1/129",
+      "itemId": 2829
+    },
+    {
+      "name": "Jogre champion scroll",
+      "quantity": "1",
+      "rarity": "1/5000",
+      "itemId": 6804
+    }
+  ]
+}

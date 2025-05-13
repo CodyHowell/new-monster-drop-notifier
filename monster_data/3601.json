@@ -1,0 +1,30 @@
+{
+  "id": 3601,
+  "name": "Unicow",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    },
+    {
+      "name": "Unicorn horn",
+      "quantity": "2–4",
+      "rarity": "Always",
+      "itemId": 237
+    },
+    {
+      "name": "Green satchel",
+      "quantity": "1",
+      "rarity": "3/20",
+      "itemId": 10878
+    },
+    {
+      "name": "Tea flask",
+      "quantity": "1",
+      "rarity": "1/10",
+      "itemId": 10859
+    }
+  ]
+}

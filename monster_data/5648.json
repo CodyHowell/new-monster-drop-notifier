@@ -1,0 +1,48 @@
+{
+  "id": 5648,
+  "name": "Undead Lumberjack",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    },
+    {
+      "name": "Plank",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 960
+    },
+    {
+      "name": "Lumberjack top",
+      "quantity": "1",
+      "rarity": "1/4",
+      "itemId": 10939
+    },
+    {
+      "name": "Lumberjack legs",
+      "quantity": "1",
+      "rarity": "1/4",
+      "itemId": 10940
+    },
+    {
+      "name": "Lumberjack hat",
+      "quantity": "1",
+      "rarity": "1/4",
+      "itemId": 10941
+    },
+    {
+      "name": "Lumberjack boots",
+      "quantity": "1",
+      "rarity": "1/4",
+      "itemId": 10933
+    },
+    {
+      "name": "Zombie champion scroll",
+      "quantity": "1",
+      "rarity": "1/5000",
+      "itemId": 6807
+    }
+  ]
+}

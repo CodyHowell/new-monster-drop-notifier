@@ -1,0 +1,12 @@
+{
+  "id": 7027,
+  "name": "Reanimated giant",
+  "drops": [
+    {
+      "name": "Giant champion scroll",
+      "quantity": "1",
+      "rarity": "1/5000",
+      "itemId": 6800
+    }
+  ]
+}

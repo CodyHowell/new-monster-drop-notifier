@@ -1,0 +1,30 @@
+{
+  "id": 3602,
+  "name": "Spidine",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    },
+    {
+      "name": "Red spiders' eggs",
+      "quantity": "3–6",
+      "rarity": "Always",
+      "itemId": 223
+    },
+    {
+      "name": "Red satchel",
+      "quantity": "1",
+      "rarity": "3/20",
+      "itemId": 10879
+    },
+    {
+      "name": "Tea flask",
+      "quantity": "1",
+      "rarity": "1/10",
+      "itemId": 10859
+    }
+  ]
+}

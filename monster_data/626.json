@@ -1,0 +1,132 @@
+{
+  "id": 626,
+  "name": "Fever spider",
+  "drops": [
+    {
+      "name": "Fever spider body",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 6718
+    },
+    {
+      "name": "Adamant axe",
+      "quantity": "1",
+      "rarity": "2/36",
+      "itemId": 1357
+    },
+    {
+      "name": "Red d'hide chaps",
+      "quantity": "1",
+      "rarity": "3/36",
+      "itemId": 2495
+    },
+    {
+      "name": "Adamant battleaxe",
+      "quantity": "1",
+      "rarity": "1/36",
+      "itemId": 1371
+    },
+    {
+      "name": "Adamant med helm",
+      "quantity": "1",
+      "rarity": "2/36",
+      "itemId": 1145
+    },
+    {
+      "name": "Grimy kwuarm",
+      "quantity": "1",
+      "rarity": "6/36",
+      "itemId": 213
+    },
+    {
+      "name": "Bass",
+      "quantity": "1–2",
+      "rarity": "7/36",
+      "itemId": 365
+    },
+    {
+      "name": "Coins",
+      "quantity": "200–600",
+      "rarity": "8/36",
+      "itemId": 995
+    },
+    {
+      "name": "Pure essence",
+      "quantity": "100–200",
+      "rarity": "2/36",
+      "itemId": 7936
+    },
+    {
+      "name": "Limpwurt root",
+      "quantity": "1",
+      "rarity": "4/36",
+      "itemId": 225
+    },
+    {
+      "name": "Uncut sapphire",
+      "quantity": "1",
+      "rarity": "1/144",
+      "itemId": 1623
+    },
+    {
+      "name": "Uncut emerald",
+      "quantity": "1",
+      "rarity": "1/288",
+      "itemId": 1621
+    },
+    {
+      "name": "Uncut ruby",
+      "quantity": "1",
+      "rarity": "1/576",
+      "itemId": 1619
+    },
+    {
+      "name": "Uncut diamond",
+      "quantity": "1",
+      "rarity": "1/2304",
+      "itemId": 1617
+    },
+    {
+      "name": "Nature talisman",
+      "quantity": "1",
+      "rarity": "1/1536",
+      "itemId": 1462
+    },
+    {
+      "name": "Loop half of key",
+      "quantity": "1",
+      "rarity": "1/4608",
+      "itemId": 987
+    },
+    {
+      "name": "Tooth half of key",
+      "quantity": "1",
+      "rarity": "1/4608",
+      "itemId": 985
+    },
+    {
+      "name": "Rune javelin",
+      "quantity": "5",
+      "rarity": "1/4608",
+      "itemId": 830
+    },
+    {
+      "name": "Rune spear",
+      "quantity": "1",
+      "rarity": "1/73728",
+      "itemId": 1247
+    },
+    {
+      "name": "Shield left half",
+      "quantity": "1",
+      "rarity": "1/147456",
+      "itemId": 2366
+    },
+    {
+      "name": "Dragon spear",
+      "quantity": "1",
+      "rarity": "1/196608",
+      "itemId": 1249
+    }
+  ]
+}

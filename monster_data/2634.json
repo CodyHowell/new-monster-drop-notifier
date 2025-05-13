@@ -1,0 +1,30 @@
+{
+  "id": 2634,
+  "name": "Myre Blamish Snail",
+  "drops": [
+    {
+      "name": "Blamish myre shell (round)",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 3345
+    },
+    {
+      "name": "Thin snail",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 3363
+    },
+    {
+      "name": "Blamish myre shell (pointed)",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 3355
+    },
+    {
+      "name": "Thin snail",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 3363
+    }
+  ]
+}

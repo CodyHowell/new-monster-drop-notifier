@@ -1,0 +1,60 @@
+{
+  "id": 2838,
+  "name": "Grizzly bear",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    },
+    {
+      "name": "Bear fur",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 948
+    },
+    {
+      "name": "Raw bear meat",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 2136
+    },
+    {
+      "name": "Bear ribs",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 7815
+    },
+    {
+      "name": "Looting bag",
+      "quantity": "1",
+      "rarity": "1/7",
+      "itemId": 11941
+    },
+    {
+      "name": "Ensouled bear head",
+      "quantity": "1",
+      "rarity": "1/25",
+      "itemId": 13463
+    },
+    {
+      "name": "Clue scroll (beginner)",
+      "quantity": "1",
+      "rarity": "1/90",
+      "itemId": 23182
+    },
+    {
+      "name": "Larran's key",
+      "quantity": "1",
+      "rarity": "1/1144",
+      "itemId": 23490
+    },
+    {
+      "name": "Slayer's enchantment",
+      "quantity": "1",
+      "rarity": "1/299",
+      "itemId": 21257
+    }
+  ]
+}

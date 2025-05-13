@@ -1,0 +1,426 @@
+{
+  "id": 7275,
+  "name": "Brutal black dragon",
+  "drops": [
+    {
+      "name": "Dragon bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 536
+    },
+    {
+      "name": "Black dragonhide",
+      "quantity": "2",
+      "rarity": "Always",
+      "itemId": 1747
+    },
+    {
+      "name": "Dragon platelegs",
+      "quantity": "1",
+      "rarity": "1/512",
+      "itemId": 4087
+    },
+    {
+      "name": "Dragon plateskirt",
+      "quantity": "1",
+      "rarity": "1/512",
+      "itemId": 4585
+    },
+    {
+      "name": "Dragon spear",
+      "quantity": "1",
+      "rarity": "1/512",
+      "itemId": 1249
+    },
+    {
+      "name": "Uncut dragonstone",
+      "quantity": "1",
+      "rarity": "1/512",
+      "itemId": 1631
+    },
+    {
+      "name": "Rune hasta",
+      "quantity": "1",
+      "rarity": "10/128",
+      "itemId": 11377
+    },
+    {
+      "name": "Rune spear",
+      "quantity": "1",
+      "rarity": "10/128",
+      "itemId": 1247
+    },
+    {
+      "name": "Rune platelegs",
+      "quantity": "1",
+      "rarity": "7/128",
+      "itemId": 1079
+    },
+    {
+      "name": "Rune full helm",
+      "quantity": "2",
+      "rarity": "6/128",
+      "itemId": 1163
+    },
+    {
+      "name": "Rune dart",
+      "quantity": "20",
+      "rarity": "5/128",
+      "itemId": 811
+    },
+    {
+      "name": "Rune longsword",
+      "quantity": "1",
+      "rarity": "5/128",
+      "itemId": 1303
+    },
+    {
+      "name": "Black d'hide body",
+      "quantity": "1",
+      "rarity": "2/128",
+      "itemId": 2503
+    },
+    {
+      "name": "Rune knife",
+      "quantity": "25",
+      "rarity": "2/128",
+      "itemId": 868
+    },
+    {
+      "name": "Rune thrownaxe",
+      "quantity": "30",
+      "rarity": "2/128",
+      "itemId": 805
+    },
+    {
+      "name": "Black d'hide vambraces",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 2491
+    },
+    {
+      "name": "Rune platebody",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 1127
+    },
+    {
+      "name": "Dragon med helm",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 1149
+    },
+    {
+      "name": "Dragon longsword",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 1305
+    },
+    {
+      "name": "Dragon dagger",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 1215
+    },
+    {
+      "name": "Rune javelin",
+      "quantity": "50",
+      "rarity": "8/128",
+      "itemId": 830
+    },
+    {
+      "name": "Death rune",
+      "quantity": "75",
+      "rarity": "7/128",
+      "itemId": 560
+    },
+    {
+      "name": "Blood rune",
+      "quantity": "50",
+      "rarity": "8/128",
+      "itemId": 565
+    },
+    {
+      "name": "Soul rune",
+      "quantity": "50",
+      "rarity": "8/128",
+      "itemId": 566
+    },
+    {
+      "name": "Law rune",
+      "quantity": "75",
+      "rarity": "7/128",
+      "itemId": 563
+    },
+    {
+      "name": "Rune arrow",
+      "quantity": "75",
+      "rarity": "7/128",
+      "itemId": 892
+    },
+    {
+      "name": "Lava scale",
+      "quantity": "5",
+      "rarity": "4/128",
+      "itemId": 11992
+    },
+    {
+      "name": "Dragon dart tip",
+      "quantity": "40",
+      "rarity": "3/128",
+      "itemId": 11232
+    },
+    {
+      "name": "Runite ore",
+      "quantity": "3",
+      "rarity": "2/128",
+      "itemId": 451
+    },
+    {
+      "name": "Dragon arrowtips",
+      "quantity": "40",
+      "rarity": "2/128",
+      "itemId": 11237
+    },
+    {
+      "name": "Dragon javelin heads",
+      "quantity": "40",
+      "rarity": "2/128",
+      "itemId": 19582
+    },
+    {
+      "name": "Coins",
+      "quantity": "370",
+      "rarity": "11/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "540–929",
+      "rarity": "1/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "2200",
+      "rarity": "2/128",
+      "itemId": 995
+    },
+    {
+      "name": "Anglerfish",
+      "quantity": "2",
+      "rarity": "8/128",
+      "itemId": 13441
+    },
+    {
+      "name": "Coins",
+      "quantity": "3000",
+      "rarity": "1/390.1",
+      "itemId": 995
+    },
+    {
+      "name": "Loop half of key",
+      "quantity": "1",
+      "rarity": "1/378.27",
+      "itemId": 987
+    },
+    {
+      "name": "Tooth half of key",
+      "quantity": "1",
+      "rarity": "1/378.27",
+      "itemId": 985
+    },
+    {
+      "name": "Uncut sapphire",
+      "quantity": "1",
+      "rarity": "1/154.57",
+      "itemId": 1623
+    },
+    {
+      "name": "Runite bar",
+      "quantity": "1",
+      "rarity": "1/1638.4",
+      "itemId": 2363
+    },
+    {
+      "name": "Nature rune",
+      "quantity": "67",
+      "rarity": "1/2730.67",
+      "itemId": 561
+    },
+    {
+      "name": "Rune 2h sword",
+      "quantity": "1",
+      "rarity": "1/2730.67",
+      "itemId": 1319
+    },
+    {
+      "name": "Rune battleaxe",
+      "quantity": "1",
+      "rarity": "1/2730.67",
+      "itemId": 1373
+    },
+    {
+      "name": "Uncut emerald",
+      "quantity": "1",
+      "rarity": "1/309.13",
+      "itemId": 1621
+    },
+    {
+      "name": "Law rune",
+      "quantity": "45",
+      "rarity": "1/4096",
+      "itemId": 563
+    },
+    {
+      "name": "Death rune",
+      "quantity": "45",
+      "rarity": "1/4096",
+      "itemId": 560
+    },
+    {
+      "name": "Steel arrow",
+      "quantity": "150",
+      "rarity": "1/4096",
+      "itemId": 886
+    },
+    {
+      "name": "Rune arrow",
+      "quantity": "42",
+      "rarity": "1/4096",
+      "itemId": 892
+    },
+    {
+      "name": "Adamant javelin",
+      "quantity": "20",
+      "rarity": "1/4096",
+      "itemId": 829
+    },
+    {
+      "name": "Rune sq shield",
+      "quantity": "1",
+      "rarity": "1/4096",
+      "itemId": 1185
+    },
+    {
+      "name": "Dragonstone",
+      "quantity": "1",
+      "rarity": "1/4096",
+      "itemId": 1615
+    },
+    {
+      "name": "Silver ore",
+      "quantity": "100",
+      "rarity": "1/4096",
+      "itemId": 442
+    },
+    {
+      "name": "Uncut ruby",
+      "quantity": "1",
+      "rarity": "1/618.26",
+      "itemId": 1619
+    },
+    {
+      "name": "Rune kiteshield",
+      "quantity": "1",
+      "rarity": "1/8192",
+      "itemId": 1201
+    },
+    {
+      "name": "Dragon med helm",
+      "quantity": "1",
+      "rarity": "1/8192",
+      "itemId": 1149
+    },
+    {
+      "name": "Rune spear",
+      "quantity": "1",
+      "rarity": "1/7869.24",
+      "itemId": 1247
+    },
+    {
+      "name": "Shield left half",
+      "quantity": "1",
+      "rarity": "1/15738.48",
+      "itemId": 2366
+    },
+    {
+      "name": "Nature talisman",
+      "quantity": "1",
+      "rarity": "1/1648.7",
+      "itemId": 1462
+    },
+    {
+      "name": "Dragon spear",
+      "quantity": "1",
+      "rarity": "1/20984.64",
+      "itemId": 1249
+    },
+    {
+      "name": "Uncut diamond",
+      "quantity": "1",
+      "rarity": "1/2473.06",
+      "itemId": 1617
+    },
+    {
+      "name": "Rune javelin",
+      "quantity": "5",
+      "rarity": "1/4946.11",
+      "itemId": 830
+    },
+    {
+      "name": "Ensouled dragon head",
+      "quantity": "1",
+      "rarity": "1/20",
+      "itemId": 13511
+    },
+    {
+      "name": "Brimstone key",
+      "quantity": "1",
+      "rarity": "1/45",
+      "itemId": 23083
+    },
+    {
+      "name": "Clue scroll (hard)",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 3550
+    },
+    {
+      "name": "Clue scroll (elite)",
+      "quantity": "1",
+      "rarity": "1/250",
+      "itemId": 21524
+    },
+    {
+      "name": "Draconic visage",
+      "quantity": "1",
+      "rarity": "1/10000",
+      "itemId": 11286
+    },
+    {
+      "name": "Ancient shard",
+      "quantity": "1",
+      "rarity": "1/123",
+      "itemId": 19677
+    },
+    {
+      "name": "Dark totem base",
+      "quantity": "1",
+      "rarity": "1/185",
+      "itemId": 19679
+    },
+    {
+      "name": "Dark totem middle",
+      "quantity": "1",
+      "rarity": "1/185",
+      "itemId": 19681
+    },
+    {
+      "name": "Dark totem top",
+      "quantity": "1",
+      "rarity": "1/185",
+      "itemId": 19683
+    }
+  ]
+}

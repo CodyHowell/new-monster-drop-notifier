@@ -1,0 +1,24 @@
+{
+  "id": 11227,
+  "name": "Enraged Boar",
+  "drops": [
+    {
+      "name": "Raw boar meat",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 25833
+    },
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    },
+    {
+      "name": "Clue scroll (beginner)",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 23182
+    }
+  ]
+}

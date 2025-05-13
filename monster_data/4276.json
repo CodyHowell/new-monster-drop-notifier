@@ -1,0 +1,12 @@
+{
+  "id": 4276,
+  "name": "Jail guard",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    }
+  ]
+}

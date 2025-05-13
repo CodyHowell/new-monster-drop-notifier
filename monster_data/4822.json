@@ -1,0 +1,54 @@
+{
+  "id": 4822,
+  "name": "Crab",
+  "drops": [
+    {
+      "name": "Crab meat",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 7518
+    },
+    {
+      "name": "Fresh crab claw",
+      "quantity": "1",
+      "rarity": "1/16",
+      "itemId": 7536
+    },
+    {
+      "name": "Fresh crab shell",
+      "quantity": "1",
+      "rarity": "1/16",
+      "itemId": 7538
+    },
+    {
+      "name": "Oyster",
+      "quantity": "1",
+      "rarity": "1/10",
+      "itemId": 407
+    },
+    {
+      "name": "Crab meat",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 7518
+    },
+    {
+      "name": "Fresh crab claw",
+      "quantity": "1",
+      "rarity": "1/8",
+      "itemId": 7536
+    },
+    {
+      "name": "Fresh crab shell",
+      "quantity": "1",
+      "rarity": "1/8",
+      "itemId": 7538
+    },
+    {
+      "name": "Oyster",
+      "quantity": "2",
+      "rarity": "1/10",
+      "itemId": 407
+    }
+  ]
+}

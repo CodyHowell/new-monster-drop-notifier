@@ -1,0 +1,228 @@
+{
+  "id": 5007,
+  "name": "Imp",
+  "drops": [
+    {
+      "name": "Fiendish ashes",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 25766
+    },
+    {
+      "name": "Black bead",
+      "quantity": "1",
+      "rarity": "5/128",
+      "itemId": 1474
+    },
+    {
+      "name": "Red bead",
+      "quantity": "1",
+      "rarity": "5/128",
+      "itemId": 1470
+    },
+    {
+      "name": "White bead",
+      "quantity": "1",
+      "rarity": "5/128",
+      "itemId": 1476
+    },
+    {
+      "name": "Yellow bead",
+      "quantity": "1",
+      "rarity": "5/128",
+      "itemId": 1472
+    },
+    {
+      "name": "Bronze bolts",
+      "quantity": "1",
+      "rarity": "8/128",
+      "itemId": 877
+    },
+    {
+      "name": "Blue wizard hat",
+      "quantity": "1",
+      "rarity": "8/128",
+      "itemId": 579
+    },
+    {
+      "name": "Egg",
+      "quantity": "1",
+      "rarity": "5/128",
+      "itemId": 1944
+    },
+    {
+      "name": "Raw chicken",
+      "quantity": "1",
+      "rarity": "5/128",
+      "itemId": 2138
+    },
+    {
+      "name": "Burnt bread",
+      "quantity": "1",
+      "rarity": "4/128",
+      "itemId": 2311
+    },
+    {
+      "name": "Burnt meat",
+      "quantity": "1",
+      "rarity": "4/128",
+      "itemId": 2146
+    },
+    {
+      "name": "Cabbage",
+      "quantity": "1",
+      "rarity": "2/128",
+      "itemId": 1965
+    },
+    {
+      "name": "Bread dough",
+      "quantity": "1",
+      "rarity": "2/128",
+      "itemId": 2307
+    },
+    {
+      "name": "Bread",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 2309
+    },
+    {
+      "name": "Cooked meat",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 2142
+    },
+    {
+      "name": "Hammer",
+      "quantity": "1",
+      "rarity": "8/128",
+      "itemId": 2347
+    },
+    {
+      "name": "Tinderbox",
+      "quantity": "1",
+      "rarity": "5/128",
+      "itemId": 590
+    },
+    {
+      "name": "Shears",
+      "quantity": "1",
+      "rarity": "4/128",
+      "itemId": 1735
+    },
+    {
+      "name": "Bucket",
+      "quantity": "1",
+      "rarity": "4/128",
+      "itemId": 1925
+    },
+    {
+      "name": "Bucket of water",
+      "quantity": "1",
+      "rarity": "2/128",
+      "itemId": 1929
+    },
+    {
+      "name": "Jug",
+      "quantity": "1",
+      "rarity": "2/128",
+      "itemId": 1935
+    },
+    {
+      "name": "Jug of water",
+      "quantity": "1",
+      "rarity": "2/128",
+      "itemId": 1937
+    },
+    {
+      "name": "Pot",
+      "quantity": "1",
+      "rarity": "2/128",
+      "itemId": 1931
+    },
+    {
+      "name": "Pot of flour",
+      "quantity": "1",
+      "rarity": "2/128",
+      "itemId": 1933
+    },
+    {
+      "name": "Ball of wool",
+      "quantity": "1",
+      "rarity": "8/128",
+      "itemId": 1759
+    },
+    {
+      "name": "Mind talisman",
+      "quantity": "1",
+      "rarity": "7/128",
+      "itemId": 1448
+    },
+    {
+      "name": "Ashes",
+      "quantity": "1",
+      "rarity": "6/128",
+      "itemId": 592
+    },
+    {
+      "name": "Clay",
+      "quantity": "1",
+      "rarity": "4/128",
+      "itemId": 434
+    },
+    {
+      "name": "Cadava berries",
+      "quantity": "1",
+      "rarity": "4/128",
+      "itemId": 753
+    },
+    {
+      "name": "Grain",
+      "quantity": "1",
+      "rarity": "3/128",
+      "itemId": 1947
+    },
+    {
+      "name": "Chef's hat",
+      "quantity": "1",
+      "rarity": "2/128",
+      "itemId": 1949
+    },
+    {
+      "name": "Flyer",
+      "quantity": "1",
+      "rarity": "2/128",
+      "itemId": 956
+    },
+    {
+      "name": "Potion",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 195
+    },
+    {
+      "name": "Ensouled imp head",
+      "quantity": "1",
+      "rarity": "1/25",
+      "itemId": 13454
+    },
+    {
+      "name": "Looting bag",
+      "quantity": "1",
+      "rarity": "1/15",
+      "itemId": 11941
+    },
+    {
+      "name": "Ecumenical key",
+      "quantity": "1",
+      "rarity": "1/60",
+      "itemId": 11942
+    },
+    {
+      "name": "Imp champion scroll",
+      "quantity": "1",
+      "rarity": "1/5000",
+      "itemId": 6803
+    }
+  ]
+}

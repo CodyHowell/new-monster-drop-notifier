@@ -1,0 +1,12 @@
+{
+  "id": 797,
+  "name": "Giant Scarab",
+  "drops": [
+    {
+      "name": "Keris",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 10581
+    }
+  ]
+}

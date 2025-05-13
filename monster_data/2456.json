@@ -1,0 +1,30 @@
+{
+  "id": 2456,
+  "name": "Animated Rune Armour",
+  "drops": [
+    {
+      "name": "Warrior guild token",
+      "quantity": "40",
+      "rarity": "Always",
+      "itemId": 8851
+    },
+    {
+      "name": "Rune full helm",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 1163
+    },
+    {
+      "name": "Rune platebody",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 1127
+    },
+    {
+      "name": "Rune platelegs",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 1079
+    }
+  ]
+}

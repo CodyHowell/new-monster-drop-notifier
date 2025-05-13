@@ -1,0 +1,42 @@
+{
+  "id": 7573,
+  "name": "Lizardman shaman (Chambers of Xeric)",
+  "drops": [
+    {
+      "name": "Big bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 532
+    },
+    {
+      "name": "Buchu seed",
+      "quantity": "5–10",
+      "rarity": "Always",
+      "itemId": 20909
+    },
+    {
+      "name": "Golpar seed",
+      "quantity": "5–10",
+      "rarity": "Always",
+      "itemId": 20906
+    },
+    {
+      "name": "Noxifer seed",
+      "quantity": "5–10",
+      "rarity": "Always",
+      "itemId": 20903
+    },
+    {
+      "name": "Long bone",
+      "quantity": "1",
+      "rarity": "1/400",
+      "itemId": 10976
+    },
+    {
+      "name": "Curved bone",
+      "quantity": "1",
+      "rarity": "1/5012.5",
+      "itemId": 10977
+    }
+  ]
+}

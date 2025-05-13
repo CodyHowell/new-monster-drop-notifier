@@ -1,0 +1,42 @@
+{
+  "id": 2839,
+  "name": "Black bear",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    },
+    {
+      "name": "Bear fur",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 948
+    },
+    {
+      "name": "Raw bear meat",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 2136
+    },
+    {
+      "name": "Bear ribs",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 7815
+    },
+    {
+      "name": "Ensouled bear head",
+      "quantity": "1",
+      "rarity": "1/25",
+      "itemId": 13463
+    },
+    {
+      "name": "Clue scroll (beginner)",
+      "quantity": "1",
+      "rarity": "1/90",
+      "itemId": 23182
+    }
+  ]
+}

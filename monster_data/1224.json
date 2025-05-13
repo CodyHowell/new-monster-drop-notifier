@@ -1,0 +1,12 @@
+{
+  "id": 1224,
+  "name": "Bouncer",
+  "drops": [
+    {
+      "name": "Vile ashes",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 25769
+    }
+  ]
+}

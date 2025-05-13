@@ -1,0 +1,24 @@
+{
+  "id": 5275,
+  "name": "Monkey Guard",
+  "drops": [
+    {
+      "name": "Gorilla bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 3181
+    },
+    {
+      "name": "Bearded gorilla bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 3182
+    },
+    {
+      "name": "Ensouled monkey head",
+      "quantity": "1",
+      "rarity": "1/35",
+      "itemId": 13451
+    }
+  ]
+}

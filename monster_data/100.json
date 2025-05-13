@@ -1,0 +1,222 @@
+{
+  "id": 100,
+  "name": "Rock Crab",
+  "drops": [
+    {
+      "name": "Bronze pickaxe",
+      "quantity": "1",
+      "rarity": "6/128",
+      "itemId": 1265
+    },
+    {
+      "name": "Iron pickaxe",
+      "quantity": "1",
+      "rarity": "5/128",
+      "itemId": 1267
+    },
+    {
+      "name": "Seaweed",
+      "quantity": "1",
+      "rarity": "4/128",
+      "itemId": 401
+    },
+    {
+      "name": "Seaweed",
+      "quantity": "2",
+      "rarity": "4/128",
+      "itemId": 401
+    },
+    {
+      "name": "Seaweed",
+      "quantity": "5",
+      "rarity": "2/128",
+      "itemId": 401
+    },
+    {
+      "name": "Edible seaweed",
+      "quantity": "2",
+      "rarity": "2/128",
+      "itemId": 403
+    },
+    {
+      "name": "Tin ore",
+      "quantity": "3",
+      "rarity": "4/128",
+      "itemId": 438
+    },
+    {
+      "name": "Iron ore",
+      "quantity": "1",
+      "rarity": "2/128",
+      "itemId": 440
+    },
+    {
+      "name": "Coal",
+      "quantity": "2",
+      "rarity": "2/128",
+      "itemId": 453
+    },
+    {
+      "name": "Copper ore",
+      "quantity": "3",
+      "rarity": "2/128",
+      "itemId": 436
+    },
+    {
+      "name": "Oyster",
+      "quantity": "2",
+      "rarity": "12/128",
+      "itemId": 407
+    },
+    {
+      "name": "Oyster",
+      "quantity": "1",
+      "rarity": "9/128",
+      "itemId": 407
+    },
+    {
+      "name": "Empty oyster",
+      "quantity": "1",
+      "rarity": "3/128",
+      "itemId": 409
+    },
+    {
+      "name": "Empty oyster",
+      "quantity": "3",
+      "rarity": "1/128",
+      "itemId": 409
+    },
+    {
+      "name": "Oyster pearl",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 411
+    },
+    {
+      "name": "Coins",
+      "quantity": "4",
+      "rarity": "29/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "8",
+      "rarity": "6/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "36",
+      "rarity": "8/128",
+      "itemId": 995
+    },
+    {
+      "name": "Fishing bait",
+      "quantity": "10",
+      "rarity": "2/128",
+      "itemId": 313
+    },
+    {
+      "name": "Opal bolt tips",
+      "quantity": "5",
+      "rarity": "2/128",
+      "itemId": 45
+    },
+    {
+      "name": "Spinach roll",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 1969
+    },
+    {
+      "name": "Casket",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 405
+    },
+    {
+      "name": "Uncut sapphire",
+      "quantity": "1",
+      "rarity": "1/512",
+      "itemId": 1623
+    },
+    {
+      "name": "Uncut emerald",
+      "quantity": "1",
+      "rarity": "1/1024",
+      "itemId": 1621
+    },
+    {
+      "name": "Uncut ruby",
+      "quantity": "1",
+      "rarity": "1/2048",
+      "itemId": 1619
+    },
+    {
+      "name": "Uncut diamond",
+      "quantity": "1",
+      "rarity": "1/8192",
+      "itemId": 1617
+    },
+    {
+      "name": "Nature talisman",
+      "quantity": "1",
+      "rarity": "1/5461.33",
+      "itemId": 1462
+    },
+    {
+      "name": "Loop half of key",
+      "quantity": "1",
+      "rarity": "1/16384",
+      "itemId": 987
+    },
+    {
+      "name": "Tooth half of key",
+      "quantity": "1",
+      "rarity": "1/16384",
+      "itemId": 985
+    },
+    {
+      "name": "Rune javelin",
+      "quantity": "5",
+      "rarity": "1/16384",
+      "itemId": 830
+    },
+    {
+      "name": "Rune spear",
+      "quantity": "1",
+      "rarity": "1/262144",
+      "itemId": 1247
+    },
+    {
+      "name": "Shield left half",
+      "quantity": "1",
+      "rarity": "1/524288",
+      "itemId": 2366
+    },
+    {
+      "name": "Dragon spear",
+      "quantity": "1",
+      "rarity": "1/699050.67",
+      "itemId": 1249
+    },
+    {
+      "name": "Clue scroll (elite)",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 21524
+    },
+    {
+      "name": "Reward casket (elite)",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 20543
+    },
+    {
+      "name": "Clue scroll (easy)",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 12179
+    }
+  ]
+}

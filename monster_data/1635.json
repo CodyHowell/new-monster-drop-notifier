@@ -1,0 +1,126 @@
+{
+  "id": 1635,
+  "name": "Baby impling",
+  "drops": [
+    {
+      "name": "Chisel",
+      "quantity": "1",
+      "rarity": "1/10",
+      "itemId": 1755
+    },
+    {
+      "name": "Thread",
+      "quantity": "1",
+      "rarity": "1/10",
+      "itemId": 1734
+    },
+    {
+      "name": "Needle",
+      "quantity": "1",
+      "rarity": "1/10",
+      "itemId": 1733
+    },
+    {
+      "name": "Knife",
+      "quantity": "1",
+      "rarity": "1/10",
+      "itemId": 946
+    },
+    {
+      "name": "Cheese",
+      "quantity": "1",
+      "rarity": "1/10",
+      "itemId": 1985
+    },
+    {
+      "name": "Hammer",
+      "quantity": "1",
+      "rarity": "1/10",
+      "itemId": 2347
+    },
+    {
+      "name": "Ball of wool",
+      "quantity": "1",
+      "rarity": "1/10",
+      "itemId": 1759
+    },
+    {
+      "name": "Anchovies",
+      "quantity": "1",
+      "rarity": "1/10",
+      "itemId": 319
+    },
+    {
+      "name": "Spice",
+      "quantity": "1",
+      "rarity": "1/100",
+      "itemId": 2007
+    },
+    {
+      "name": "Flax",
+      "quantity": "1",
+      "rarity": "1/100",
+      "itemId": 1779
+    },
+    {
+      "name": "Mud pie",
+      "quantity": "1",
+      "rarity": "1/100",
+      "itemId": 7170
+    },
+    {
+      "name": "Seaweed",
+      "quantity": "1",
+      "rarity": "1/100",
+      "itemId": 401
+    },
+    {
+      "name": "Air talisman",
+      "quantity": "1",
+      "rarity": "1/100",
+      "itemId": 1438
+    },
+    {
+      "name": "Silver bar",
+      "quantity": "1",
+      "rarity": "1/100",
+      "itemId": 2355
+    },
+    {
+      "name": "Sapphire",
+      "quantity": "1",
+      "rarity": "1/100",
+      "itemId": 1607
+    },
+    {
+      "name": "Hard leather",
+      "quantity": "1",
+      "rarity": "1/100",
+      "itemId": 1743
+    },
+    {
+      "name": "Lobster",
+      "quantity": "1",
+      "rarity": "1/100",
+      "itemId": 379
+    },
+    {
+      "name": "Soft clay",
+      "quantity": "1",
+      "rarity": "1/100",
+      "itemId": 1761
+    },
+    {
+      "name": "Clue scroll (beginner)",
+      "quantity": "1",
+      "rarity": "1/50",
+      "itemId": 23182
+    },
+    {
+      "name": "Clue scroll (easy)",
+      "quantity": "1",
+      "rarity": "1/100",
+      "itemId": 12179
+    }
+  ]
+}

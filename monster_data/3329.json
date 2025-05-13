@@ -1,0 +1,18 @@
+{
+  "id": 3329,
+  "name": "Giant Champion",
+  "drops": [
+    {
+      "name": "Long bone",
+      "quantity": "1",
+      "rarity": "1/400",
+      "itemId": 10976
+    },
+    {
+      "name": "Curved bone",
+      "quantity": "1",
+      "rarity": "1/5012.5",
+      "itemId": 10977
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 7997,
+  "name": "Corrupt Lizardman",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    },
+    {
+      "name": "Xerician fabric",
+      "quantity": "3",
+      "rarity": "Always",
+      "itemId": 13383
+    }
+  ]
+}

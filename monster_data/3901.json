@@ -1,0 +1,18 @@
+{
+  "id": 3901,
+  "name": "Fox",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    },
+    {
+      "name": "Copper's crimson collar",
+      "quantity": "1",
+      "rarity": "Common",
+      "itemId": 21263
+    }
+  ]
+}

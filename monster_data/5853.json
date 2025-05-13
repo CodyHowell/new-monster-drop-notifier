@@ -1,0 +1,12 @@
+{
+  "id": 5853,
+  "name": "Baby tanglefoot",
+  "drops": [
+    {
+      "name": "Leaves",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 6020
+    }
+  ]
+}

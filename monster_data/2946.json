@@ -1,0 +1,30 @@
+{
+  "id": 2946,
+  "name": "Nail beast",
+  "drops": [
+    {
+      "name": "Big bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 532
+    },
+    {
+      "name": "Nail beast nails",
+      "quantity": "2–3",
+      "rarity": "Always",
+      "itemId": 10937
+    },
+    {
+      "name": "Long bone",
+      "quantity": "1",
+      "rarity": "1/400",
+      "itemId": 10976
+    },
+    {
+      "name": "Curved bone",
+      "quantity": "1",
+      "rarity": "1/5012.5",
+      "itemId": 10977
+    }
+  ]
+}

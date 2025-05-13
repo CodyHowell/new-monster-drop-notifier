@@ -1,0 +1,30 @@
+{
+  "id": 3019,
+  "name": "Spider",
+  "drops": [
+    {
+      "name": "Looting bag",
+      "quantity": "1",
+      "rarity": "1/15",
+      "itemId": 11941
+    },
+    {
+      "name": "Clue scroll (beginner)",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 23182
+    },
+    {
+      "name": "Larran's key",
+      "quantity": "1",
+      "rarity": "1/1972",
+      "itemId": 23490
+    },
+    {
+      "name": "Slayer's enchantment",
+      "quantity": "1",
+      "rarity": "1/319",
+      "itemId": 21257
+    }
+  ]
+}

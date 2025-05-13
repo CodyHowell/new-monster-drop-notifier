@@ -1,0 +1,84 @@
+{
+  "id": 7548,
+  "name": "Scavenger beast",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    },
+    {
+      "name": "Fishing rod",
+      "quantity": "1",
+      "rarity": "2 × 1/18",
+      "itemId": 307
+    },
+    {
+      "name": "Iron pickaxe",
+      "quantity": "1",
+      "rarity": "2 × 1/18",
+      "itemId": 1267
+    },
+    {
+      "name": "Iron axe",
+      "quantity": "1",
+      "rarity": "2 × 1/18",
+      "itemId": 1349
+    },
+    {
+      "name": "Butterfly net",
+      "quantity": "1",
+      "rarity": "2 × 1/18",
+      "itemId": 10010
+    },
+    {
+      "name": "Hammer",
+      "quantity": "1",
+      "rarity": "2 × 1/18",
+      "itemId": 2347
+    },
+    {
+      "name": "Tinderbox",
+      "quantity": "1",
+      "rarity": "2 × 1/18",
+      "itemId": 590
+    },
+    {
+      "name": "Lockpick",
+      "quantity": "1",
+      "rarity": "2 × 2/18",
+      "itemId": 1523
+    },
+    {
+      "name": "Cave worms",
+      "quantity": "30–50",
+      "rarity": "2 × 2/18",
+      "itemId": 20853
+    },
+    {
+      "name": "Endarkened juice",
+      "quantity": "5–14",
+      "rarity": "2 × 2/18",
+      "itemId": 20911
+    },
+    {
+      "name": "Stinkhorn mushroom",
+      "quantity": "3–11",
+      "rarity": "2 × 2/18",
+      "itemId": 20910
+    },
+    {
+      "name": "Cicely",
+      "quantity": "3–6",
+      "rarity": "2 × 2/18",
+      "itemId": 20912
+    },
+    {
+      "name": "Mallignum root plank",
+      "quantity": "2",
+      "rarity": "2 × 2/18",
+      "itemId": 21036
+    }
+  ]
+}

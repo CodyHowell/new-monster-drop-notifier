@@ -1,0 +1,126 @@
+{
+  "id": 8741,
+  "name": "Crystal impling",
+  "drops": [
+    {
+      "name": "Amulet of power",
+      "quantity": "5–7",
+      "rarity": "1/18",
+      "itemId": 1731
+    },
+    {
+      "name": "Crystal acorn",
+      "quantity": "1",
+      "rarity": "1/18",
+      "itemId": 23661
+    },
+    {
+      "name": "Crystal shard",
+      "quantity": "30–40",
+      "rarity": "1/18",
+      "itemId": 23962
+    },
+    {
+      "name": "Dragonstone amulet",
+      "quantity": "1",
+      "rarity": "1/18",
+      "itemId": 1702
+    },
+    {
+      "name": "Dragonstone",
+      "quantity": "2",
+      "rarity": "1/18",
+      "itemId": 1615
+    },
+    {
+      "name": "Ruby bolt tips",
+      "quantity": "50–125",
+      "rarity": "1/18",
+      "itemId": 9191
+    },
+    {
+      "name": "Onyx bolt tips",
+      "quantity": "6–10",
+      "rarity": "1/18",
+      "itemId": 9194
+    },
+    {
+      "name": "Rune arrowtips",
+      "quantity": "150–250",
+      "rarity": "1/18",
+      "itemId": 44
+    },
+    {
+      "name": "Rune arrow",
+      "quantity": "400–750",
+      "rarity": "1/18",
+      "itemId": 892
+    },
+    {
+      "name": "Rune javelin heads",
+      "quantity": "20–60",
+      "rarity": "1/18",
+      "itemId": 19580
+    },
+    {
+      "name": "Rune dart tip",
+      "quantity": "25–75",
+      "rarity": "1/18",
+      "itemId": 824
+    },
+    {
+      "name": "Rune dart",
+      "quantity": "50–100",
+      "rarity": "1/18",
+      "itemId": 811
+    },
+    {
+      "name": "Dragon dart tip",
+      "quantity": "10–15",
+      "rarity": "1/18",
+      "itemId": 11232
+    },
+    {
+      "name": "Dragon dagger",
+      "quantity": "2",
+      "rarity": "1/18",
+      "itemId": 1215
+    },
+    {
+      "name": "Rune scimitar",
+      "quantity": "3–6",
+      "rarity": "1/18",
+      "itemId": 1333
+    },
+    {
+      "name": "Babydragon bones",
+      "quantity": "75–125",
+      "rarity": "1/18",
+      "itemId": 534
+    },
+    {
+      "name": "Ranarr seed",
+      "quantity": "3–8",
+      "rarity": "1/18",
+      "itemId": 5295
+    },
+    {
+      "name": "Yew seed",
+      "quantity": "1",
+      "rarity": "1/18",
+      "itemId": 5315
+    },
+    {
+      "name": "Clue scroll (elite)",
+      "quantity": "1",
+      "rarity": "1/50",
+      "itemId": 21524
+    },
+    {
+      "name": "Elven signet",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 23943
+    }
+  ]
+}

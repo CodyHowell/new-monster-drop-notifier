@@ -1,0 +1,96 @@
+{
+  "id": 10691,
+  "name": "Body Golem",
+  "drops": [
+    {
+      "name": "Clay",
+      "quantity": "3–4",
+      "rarity": "6/52",
+      "itemId": 434
+    },
+    {
+      "name": "Copper ore",
+      "quantity": "3–4",
+      "rarity": "6/52",
+      "itemId": 436
+    },
+    {
+      "name": "Tin ore",
+      "quantity": "3–4",
+      "rarity": "6/52",
+      "itemId": 438
+    },
+    {
+      "name": "Iron ore",
+      "quantity": "2–3",
+      "rarity": "6/52",
+      "itemId": 440
+    },
+    {
+      "name": "Rune essence",
+      "quantity": "4–6",
+      "rarity": "6/52",
+      "itemId": 1436
+    },
+    {
+      "name": "Rune essence",
+      "quantity": "1",
+      "rarity": "1/52",
+      "itemId": 1436
+    },
+    {
+      "name": "Body rune",
+      "quantity": "5–10",
+      "rarity": "8/52",
+      "itemId": 559
+    },
+    {
+      "name": "Body rune",
+      "quantity": "1",
+      "rarity": "6/52",
+      "itemId": 559
+    },
+    {
+      "name": "Uncut sapphire",
+      "quantity": "1",
+      "rarity": "4/52",
+      "itemId": 1623
+    },
+    {
+      "name": "Uncut emerald",
+      "quantity": "1",
+      "rarity": "2/52",
+      "itemId": 1621
+    },
+    {
+      "name": "Uncut ruby",
+      "quantity": "1",
+      "rarity": "1/52",
+      "itemId": 1619
+    },
+    {
+      "name": "Barronite shards",
+      "quantity": "10–20",
+      "rarity": "~2/10",
+      "itemId": 25676
+    },
+    {
+      "name": "Body core",
+      "quantity": "1",
+      "rarity": "~2/15",
+      "itemId": 25698
+    },
+    {
+      "name": "Barronite guard",
+      "quantity": "1",
+      "rarity": "~1/250",
+      "itemId": 25639
+    },
+    {
+      "name": "Clue scroll (beginner)",
+      "quantity": "1",
+      "rarity": "~1/62",
+      "itemId": 23182
+    }
+  ]
+}

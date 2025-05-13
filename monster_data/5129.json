@@ -1,0 +1,48 @@
+{
+  "id": 5129,
+  "name": "Glod",
+  "drops": [
+    {
+      "name": "Big bones",
+      "quantity": "2",
+      "rarity": "Always",
+      "itemId": 532
+    },
+    {
+      "name": "Uncut sapphire",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 1623
+    },
+    {
+      "name": "Uncut ruby",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 1619
+    },
+    {
+      "name": "Watering can(4)",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 5336
+    },
+    {
+      "name": "Golden goblin",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 11210
+    },
+    {
+      "name": "Long bone",
+      "quantity": "1",
+      "rarity": "1/400",
+      "itemId": 10976
+    },
+    {
+      "name": "Curved bone",
+      "quantity": "1",
+      "rarity": "1/5012.5",
+      "itemId": 10977
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": 1557,
+  "name": "Water wizard",
+  "drops": [
+    {
+      "name": "Ashes",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 592
+    },
+    {
+      "name": "Water rune",
+      "quantity": "5–10",
+      "rarity": "19/20",
+      "itemId": 555
+    },
+    {
+      "name": "Water talisman",
+      "quantity": "1",
+      "rarity": "1/20",
+      "itemId": 1444
+    }
+  ]
+}

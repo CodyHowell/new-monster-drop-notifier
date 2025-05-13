@@ -1,0 +1,18 @@
+{
+  "id": 10717,
+  "name": "Skeleton (Forthos Ruin)",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    },
+    {
+      "name": "Skeleton champion scroll",
+      "quantity": "1",
+      "rarity": "1/5000",
+      "itemId": 6806
+    }
+  ]
+}

@@ -1,0 +1,432 @@
+{
+  "id": 7150,
+  "name": "Tortured gorilla",
+  "drops": [
+    {
+      "name": "Big bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 532
+    },
+    {
+      "name": "Zenyte shard",
+      "quantity": "1",
+      "rarity": "1/3000",
+      "itemId": 19529
+    },
+    {
+      "name": "Ballista limbs",
+      "quantity": "1",
+      "rarity": "1/5000",
+      "itemId": 19592
+    },
+    {
+      "name": "Ballista spring",
+      "quantity": "1",
+      "rarity": "1/5000",
+      "itemId": 19601
+    },
+    {
+      "name": "Light frame",
+      "quantity": "1",
+      "rarity": "1/7500",
+      "itemId": 19586
+    },
+    {
+      "name": "Heavy frame",
+      "quantity": "1",
+      "rarity": "1/15000",
+      "itemId": 19589
+    },
+    {
+      "name": "Monkey tail",
+      "quantity": "1",
+      "rarity": "1/15000",
+      "itemId": 19610
+    },
+    {
+      "name": "Rune med helm",
+      "quantity": "1",
+      "rarity": "41/1000",
+      "itemId": 1147
+    },
+    {
+      "name": "Rune scimitar",
+      "quantity": "1",
+      "rarity": "22/1000",
+      "itemId": 1333
+    },
+    {
+      "name": "Adamant bolts",
+      "quantity": "1",
+      "rarity": "86/1000",
+      "itemId": 9143
+    },
+    {
+      "name": "Cosmic rune",
+      "quantity": "20–30",
+      "rarity": "76/1000",
+      "itemId": 564
+    },
+    {
+      "name": "Earth rune",
+      "quantity": "400–600",
+      "rarity": "72/1000",
+      "itemId": 557
+    },
+    {
+      "name": "Death rune",
+      "quantity": "10–20",
+      "rarity": "69/1000",
+      "itemId": 560
+    },
+    {
+      "name": "Grimy kwuarm",
+      "quantity": "1",
+      "rarity": "1/52.5",
+      "itemId": 213
+    },
+    {
+      "name": "Grimy cadantine",
+      "quantity": "1",
+      "rarity": "1/65.6",
+      "itemId": 215
+    },
+    {
+      "name": "Grimy dwarf weed",
+      "quantity": "1",
+      "rarity": "1/65.6",
+      "itemId": 217
+    },
+    {
+      "name": "Grimy lantadyme",
+      "quantity": "1",
+      "rarity": "1/87.4",
+      "itemId": 2485
+    },
+    {
+      "name": "Ranarr seed",
+      "quantity": "1",
+      "rarity": "1/268.8",
+      "itemId": 5295
+    },
+    {
+      "name": "Snapdragon seed",
+      "quantity": "1",
+      "rarity": "1/288",
+      "itemId": 5300
+    },
+    {
+      "name": "Torstol seed",
+      "quantity": "1",
+      "rarity": "1/366.6",
+      "itemId": 5304
+    },
+    {
+      "name": "Watermelon seed",
+      "quantity": "15",
+      "rarity": "1/384",
+      "itemId": 5321
+    },
+    {
+      "name": "Willow seed",
+      "quantity": "1",
+      "rarity": "1/403.2",
+      "itemId": 5313
+    },
+    {
+      "name": "Mahogany seed",
+      "quantity": "1",
+      "rarity": "1/448",
+      "itemId": 21488
+    },
+    {
+      "name": "Maple seed",
+      "quantity": "1",
+      "rarity": "1/448",
+      "itemId": 5314
+    },
+    {
+      "name": "Teak seed",
+      "quantity": "1",
+      "rarity": "1/448",
+      "itemId": 21486
+    },
+    {
+      "name": "Yew seed",
+      "quantity": "1",
+      "rarity": "1/448",
+      "itemId": 5315
+    },
+    {
+      "name": "Papaya tree seed",
+      "quantity": "1",
+      "rarity": "1/576",
+      "itemId": 5288
+    },
+    {
+      "name": "Magic seed",
+      "quantity": "1",
+      "rarity": "1/733.1",
+      "itemId": 5316
+    },
+    {
+      "name": "Palm tree seed",
+      "quantity": "1",
+      "rarity": "1/806.5",
+      "itemId": 5289
+    },
+    {
+      "name": "Spirit seed",
+      "quantity": "1",
+      "rarity": "1/1008.1",
+      "itemId": 5317
+    },
+    {
+      "name": "Dragonfruit tree seed",
+      "quantity": "1",
+      "rarity": "1/1344.1",
+      "itemId": 22877
+    },
+    {
+      "name": "Celastrus seed",
+      "quantity": "1",
+      "rarity": "1/2016.1",
+      "itemId": 22869
+    },
+    {
+      "name": "Redwood tree seed",
+      "quantity": "1",
+      "rarity": "1/2016.1",
+      "itemId": 22871
+    },
+    {
+      "name": "Javelin shaft",
+      "quantity": "100–300",
+      "rarity": "86/1000",
+      "itemId": 19584
+    },
+    {
+      "name": "Adamantite bar",
+      "quantity": "1–2",
+      "rarity": "54/1000",
+      "itemId": 2361
+    },
+    {
+      "name": "Ruby",
+      "quantity": "2–3",
+      "rarity": "53/1000",
+      "itemId": 1603
+    },
+    {
+      "name": "Rune javelin heads",
+      "quantity": "10",
+      "rarity": "46/1000",
+      "itemId": 19580
+    },
+    {
+      "name": "Dragon javelin heads",
+      "quantity": "5",
+      "rarity": "46/1000",
+      "itemId": 19582
+    },
+    {
+      "name": "Shark",
+      "quantity": "1",
+      "rarity": "92/1000",
+      "itemId": 385
+    },
+    {
+      "name": "Prayer potion(1)",
+      "quantity": "1",
+      "rarity": "61/1000",
+      "itemId": 143
+    },
+    {
+      "name": "Coins",
+      "quantity": "1000–2000",
+      "rarity": "96/1000",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "3000",
+      "rarity": "1/870.75",
+      "itemId": 995
+    },
+    {
+      "name": "Loop half of key",
+      "quantity": "1",
+      "rarity": "1/907.2",
+      "itemId": 987
+    },
+    {
+      "name": "Tooth half of key",
+      "quantity": "1",
+      "rarity": "1/907.2",
+      "itemId": 985
+    },
+    {
+      "name": "Uncut sapphire",
+      "quantity": "1",
+      "rarity": "1/3657.14",
+      "itemId": 1623
+    },
+    {
+      "name": "Runite bar",
+      "quantity": "1",
+      "rarity": "1/3657.14",
+      "itemId": 2363
+    },
+    {
+      "name": "Nature rune",
+      "quantity": "67",
+      "rarity": "1/6095.24",
+      "itemId": 561
+    },
+    {
+      "name": "Rune 2h sword",
+      "quantity": "1",
+      "rarity": "1/6095.24",
+      "itemId": 1319
+    },
+    {
+      "name": "Rune battleaxe",
+      "quantity": "1",
+      "rarity": "1/6095.24",
+      "itemId": 1373
+    },
+    {
+      "name": "Uncut emerald",
+      "quantity": "1",
+      "rarity": "1/7314.29",
+      "itemId": 1621
+    },
+    {
+      "name": "Law rune",
+      "quantity": "45",
+      "rarity": "1/9142.86",
+      "itemId": 563
+    },
+    {
+      "name": "Death rune",
+      "quantity": "45",
+      "rarity": "1/9142.86",
+      "itemId": 560
+    },
+    {
+      "name": "Steel arrow",
+      "quantity": "150",
+      "rarity": "1/9142.86",
+      "itemId": 886
+    },
+    {
+      "name": "Rune arrow",
+      "quantity": "42",
+      "rarity": "1/9142.86",
+      "itemId": 892
+    },
+    {
+      "name": "Adamant javelin",
+      "quantity": "20",
+      "rarity": "1/9142.86",
+      "itemId": 829
+    },
+    {
+      "name": "Rune sq shield",
+      "quantity": "1",
+      "rarity": "1/9142.86",
+      "itemId": 1185
+    },
+    {
+      "name": "Dragonstone",
+      "quantity": "1",
+      "rarity": "1/9142.86",
+      "itemId": 1615
+    },
+    {
+      "name": "Silver ore",
+      "quantity": "100",
+      "rarity": "1/9142.86",
+      "itemId": 442
+    },
+    {
+      "name": "Uncut ruby",
+      "quantity": "1",
+      "rarity": "1/14628.57",
+      "itemId": 1619
+    },
+    {
+      "name": "Rune kiteshield",
+      "quantity": "1",
+      "rarity": "1/18285.71",
+      "itemId": 1201
+    },
+    {
+      "name": "Dragon med helm",
+      "quantity": "1",
+      "rarity": "1/18285.71",
+      "itemId": 1149
+    },
+    {
+      "name": "Rune spear",
+      "quantity": "1",
+      "rarity": "1/19303.68",
+      "itemId": 1247
+    },
+    {
+      "name": "Shield left half",
+      "quantity": "1",
+      "rarity": "1/38607.36",
+      "itemId": 2366
+    },
+    {
+      "name": "Nature talisman",
+      "quantity": "1",
+      "rarity": "1/39009.52",
+      "itemId": 1462
+    },
+    {
+      "name": "Dragon spear",
+      "quantity": "1",
+      "rarity": "1/51476.49",
+      "itemId": 1249
+    },
+    {
+      "name": "Uncut diamond",
+      "quantity": "1",
+      "rarity": "1/58514.29",
+      "itemId": 1617
+    },
+    {
+      "name": "Rune javelin",
+      "quantity": "5",
+      "rarity": "1/117028.57",
+      "itemId": 830
+    },
+    {
+      "name": "Clue scroll (hard)",
+      "quantity": "1",
+      "rarity": "1/300",
+      "itemId": 3550
+    },
+    {
+      "name": "Long bone",
+      "quantity": "1",
+      "rarity": "1/400",
+      "itemId": 10976
+    },
+    {
+      "name": "Clue scroll (elite)",
+      "quantity": "1",
+      "rarity": "1/1500",
+      "itemId": 21524
+    },
+    {
+      "name": "Curved bone",
+      "quantity": "1",
+      "rarity": "1/5012.5",
+      "itemId": 10977
+    }
+  ]
+}

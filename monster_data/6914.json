@@ -1,0 +1,366 @@
+{
+  "id": 6914,
+  "name": "Lizardman",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    },
+    {
+      "name": "Limpwurt seed",
+      "quantity": "1",
+      "rarity": "1/44.4",
+      "itemId": 5100
+    },
+    {
+      "name": "Strawberry seed",
+      "quantity": "1",
+      "rarity": "1/46.4",
+      "itemId": 5323
+    },
+    {
+      "name": "Marrentill seed",
+      "quantity": "1",
+      "rarity": "1/48.6",
+      "itemId": 5292
+    },
+    {
+      "name": "Jangerberry seed",
+      "quantity": "1",
+      "rarity": "1/66.1",
+      "itemId": 5104
+    },
+    {
+      "name": "Tarromin seed",
+      "quantity": "1",
+      "rarity": "1/71.5",
+      "itemId": 5293
+    },
+    {
+      "name": "Wildblood seed",
+      "quantity": "1",
+      "rarity": "1/73.2",
+      "itemId": 5311
+    },
+    {
+      "name": "Watermelon seed",
+      "quantity": "1",
+      "rarity": "1/96.5",
+      "itemId": 5321
+    },
+    {
+      "name": "Harralander seed",
+      "quantity": "1",
+      "rarity": "1/108.5",
+      "itemId": 5294
+    },
+    {
+      "name": "Snape grass seed",
+      "quantity": "1",
+      "rarity": "1/152",
+      "itemId": 22879
+    },
+    {
+      "name": "Ranarr seed",
+      "quantity": "1",
+      "rarity": "1/155.9",
+      "itemId": 5295
+    },
+    {
+      "name": "Whiteberry seed",
+      "quantity": "1",
+      "rarity": "1/178.8",
+      "itemId": 5105
+    },
+    {
+      "name": "Mushroom spore",
+      "quantity": "1",
+      "rarity": "1/209.6",
+      "itemId": 5282
+    },
+    {
+      "name": "Toadflax seed",
+      "quantity": "1",
+      "rarity": "1/225.1",
+      "itemId": 5296
+    },
+    {
+      "name": "Belladonna seed",
+      "quantity": "1",
+      "rarity": "1/337.7",
+      "itemId": 5281
+    },
+    {
+      "name": "Irit seed",
+      "quantity": "1",
+      "rarity": "1/337.7",
+      "itemId": 5297
+    },
+    {
+      "name": "Poison ivy seed",
+      "quantity": "1",
+      "rarity": "1/467.6",
+      "itemId": 5106
+    },
+    {
+      "name": "Avantoe seed",
+      "quantity": "1",
+      "rarity": "1/506.5",
+      "itemId": 5298
+    },
+    {
+      "name": "Cactus seed",
+      "quantity": "1",
+      "rarity": "1/506.5",
+      "itemId": 5280
+    },
+    {
+      "name": "Kwuarm seed",
+      "quantity": "1",
+      "rarity": "1/675.4",
+      "itemId": 5299
+    },
+    {
+      "name": "Potato cactus seed",
+      "quantity": "1",
+      "rarity": "1/759.8",
+      "itemId": 22873
+    },
+    {
+      "name": "Snapdragon seed",
+      "quantity": "1",
+      "rarity": "1/1215.7",
+      "itemId": 5300
+    },
+    {
+      "name": "Cadantine seed",
+      "quantity": "1",
+      "rarity": "1/1519.6",
+      "itemId": 5301
+    },
+    {
+      "name": "Lantadyme seed",
+      "quantity": "1",
+      "rarity": "1/2026.1",
+      "itemId": 5302
+    },
+    {
+      "name": "Dwarf weed seed",
+      "quantity": "1",
+      "rarity": "1/3039.2",
+      "itemId": 5303
+    },
+    {
+      "name": "Torstol seed",
+      "quantity": "1",
+      "rarity": "1/6078.4",
+      "itemId": 5304
+    },
+    {
+      "name": "Lizardman fang",
+      "quantity": "1",
+      "rarity": "10/87",
+      "itemId": 13391
+    },
+    {
+      "name": "Xerician fabric",
+      "quantity": "1",
+      "rarity": "6/87",
+      "itemId": 13383
+    },
+    {
+      "name": "Xeric's talisman (inert)",
+      "quantity": "1",
+      "rarity": "1/250",
+      "itemId": 13392
+    },
+    {
+      "name": "Brimstone key",
+      "quantity": "1",
+      "rarity": "1/541",
+      "itemId": 23083
+    },
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    },
+    {
+      "name": "Limpwurt seed",
+      "quantity": "1",
+      "rarity": "1/39.8",
+      "itemId": 5100
+    },
+    {
+      "name": "Strawberry seed",
+      "quantity": "1",
+      "rarity": "1/41.6",
+      "itemId": 5323
+    },
+    {
+      "name": "Marrentill seed",
+      "quantity": "1",
+      "rarity": "1/43.6",
+      "itemId": 5292
+    },
+    {
+      "name": "Jangerberry seed",
+      "quantity": "1",
+      "rarity": "1/59.2",
+      "itemId": 5104
+    },
+    {
+      "name": "Tarromin seed",
+      "quantity": "1",
+      "rarity": "1/64.1",
+      "itemId": 5293
+    },
+    {
+      "name": "Wildblood seed",
+      "quantity": "1",
+      "rarity": "1/65.7",
+      "itemId": 5311
+    },
+    {
+      "name": "Watermelon seed",
+      "quantity": "1",
+      "rarity": "1/86.5",
+      "itemId": 5321
+    },
+    {
+      "name": "Harralander seed",
+      "quantity": "1",
+      "rarity": "1/97.3",
+      "itemId": 5294
+    },
+    {
+      "name": "Snape grass seed",
+      "quantity": "1",
+      "rarity": "1/136.2",
+      "itemId": 22879
+    },
+    {
+      "name": "Ranarr seed",
+      "quantity": "1",
+      "rarity": "1/139.7",
+      "itemId": 5295
+    },
+    {
+      "name": "Whiteberry seed",
+      "quantity": "1",
+      "rarity": "1/160.3",
+      "itemId": 5105
+    },
+    {
+      "name": "Mushroom spore",
+      "quantity": "1",
+      "rarity": "1/187.9",
+      "itemId": 5282
+    },
+    {
+      "name": "Toadflax seed",
+      "quantity": "1",
+      "rarity": "1/201.8",
+      "itemId": 5296
+    },
+    {
+      "name": "Belladonna seed",
+      "quantity": "1",
+      "rarity": "1/302.8",
+      "itemId": 5281
+    },
+    {
+      "name": "Irit seed",
+      "quantity": "1",
+      "rarity": "1/302.8",
+      "itemId": 5297
+    },
+    {
+      "name": "Poison ivy seed",
+      "quantity": "1",
+      "rarity": "1/419.2",
+      "itemId": 5106
+    },
+    {
+      "name": "Avantoe seed",
+      "quantity": "1",
+      "rarity": "1/454.1",
+      "itemId": 5298
+    },
+    {
+      "name": "Cactus seed",
+      "quantity": "1",
+      "rarity": "1/454.1",
+      "itemId": 5280
+    },
+    {
+      "name": "Kwuarm seed",
+      "quantity": "1",
+      "rarity": "1/605.5",
+      "itemId": 5299
+    },
+    {
+      "name": "Potato cactus seed",
+      "quantity": "1",
+      "rarity": "1/681.2",
+      "itemId": 22873
+    },
+    {
+      "name": "Snapdragon seed",
+      "quantity": "1",
+      "rarity": "1/1089.9",
+      "itemId": 5300
+    },
+    {
+      "name": "Cadantine seed",
+      "quantity": "1",
+      "rarity": "1/1362.4",
+      "itemId": 5301
+    },
+    {
+      "name": "Lantadyme seed",
+      "quantity": "1",
+      "rarity": "1/1816.5",
+      "itemId": 5302
+    },
+    {
+      "name": "Dwarf weed seed",
+      "quantity": "1",
+      "rarity": "1/2724.8",
+      "itemId": 5303
+    },
+    {
+      "name": "Torstol seed",
+      "quantity": "1",
+      "rarity": "1/5449.6",
+      "itemId": 5304
+    },
+    {
+      "name": "Lizardman fang",
+      "quantity": "1",
+      "rarity": "14/78",
+      "itemId": 13391
+    },
+    {
+      "name": "Xerician fabric",
+      "quantity": "1",
+      "rarity": "8/78",
+      "itemId": 13383
+    },
+    {
+      "name": "Xeric's talisman (inert)",
+      "quantity": "1",
+      "rarity": "1/250",
+      "itemId": 13392
+    },
+    {
+      "name": "Brimstone key",
+      "quantity": "1",
+      "rarity": "1/388",
+      "itemId": 23083
+    }
+  ]
+}

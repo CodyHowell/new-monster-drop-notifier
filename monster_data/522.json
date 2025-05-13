@@ -1,0 +1,234 @@
+{
+  "id": 522,
+  "name": "Pirate",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    },
+    {
+      "name": "Iron dagger",
+      "quantity": "1",
+      "rarity": "6/128",
+      "itemId": 1203
+    },
+    {
+      "name": "Bronze scimitar",
+      "quantity": "1",
+      "rarity": "4/128",
+      "itemId": 1321
+    },
+    {
+      "name": "Iron platebody",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 1115
+    },
+    {
+      "name": "Iron bolts",
+      "quantity": "2–12",
+      "rarity": "10/128",
+      "itemId": 9140
+    },
+    {
+      "name": "Chaos rune",
+      "quantity": "2",
+      "rarity": "6/128",
+      "itemId": 562
+    },
+    {
+      "name": "Nature rune",
+      "quantity": "2",
+      "rarity": "5/128",
+      "itemId": 561
+    },
+    {
+      "name": "Bronze arrow",
+      "quantity": "9",
+      "rarity": "3/128",
+      "itemId": 882
+    },
+    {
+      "name": "Bronze arrow",
+      "quantity": "12",
+      "rarity": "2/128",
+      "itemId": 882
+    },
+    {
+      "name": "Air rune",
+      "quantity": "10",
+      "rarity": "2/128",
+      "itemId": 556
+    },
+    {
+      "name": "Earth rune",
+      "quantity": "9",
+      "rarity": "2/128",
+      "itemId": 557
+    },
+    {
+      "name": "Fire rune",
+      "quantity": "5",
+      "rarity": "2/128",
+      "itemId": 554
+    },
+    {
+      "name": "Law rune",
+      "quantity": "2",
+      "rarity": "1/128",
+      "itemId": 563
+    },
+    {
+      "name": "Coins",
+      "quantity": "4",
+      "rarity": "29/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "25",
+      "rarity": "13/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "7",
+      "rarity": "8/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "12",
+      "rarity": "6/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "35",
+      "rarity": "4/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "55",
+      "rarity": "1/128",
+      "itemId": 995
+    },
+    {
+      "name": "Right eye patch",
+      "quantity": "1",
+      "rarity": "12/128",
+      "itemId": 1025
+    },
+    {
+      "name": "Chef's hat",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 1949
+    },
+    {
+      "name": "Iron bar",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 2351
+    },
+    {
+      "name": "Uncut sapphire",
+      "quantity": "1",
+      "rarity": "1/512",
+      "itemId": 1623
+    },
+    {
+      "name": "Uncut emerald",
+      "quantity": "1",
+      "rarity": "1/1024",
+      "itemId": 1621
+    },
+    {
+      "name": "Uncut ruby",
+      "quantity": "1",
+      "rarity": "1/2048",
+      "itemId": 1619
+    },
+    {
+      "name": "Uncut diamond",
+      "quantity": "1",
+      "rarity": "1/8192",
+      "itemId": 1617
+    },
+    {
+      "name": "Chaos talisman",
+      "quantity": "1",
+      "rarity": "1/5461.33",
+      "itemId": 1452
+    },
+    {
+      "name": "Nature talisman",
+      "quantity": "1",
+      "rarity": "1/5461.33",
+      "itemId": 1462
+    },
+    {
+      "name": "Loop half of key",
+      "quantity": "1",
+      "rarity": "1/16384",
+      "itemId": 987
+    },
+    {
+      "name": "Tooth half of key",
+      "quantity": "1",
+      "rarity": "1/16384",
+      "itemId": 985
+    },
+    {
+      "name": "Rune javelin",
+      "quantity": "5",
+      "rarity": "1/16384",
+      "itemId": 830
+    },
+    {
+      "name": "Rune spear",
+      "quantity": "1",
+      "rarity": "1/262144",
+      "itemId": 1247
+    },
+    {
+      "name": "Shield left half",
+      "quantity": "1",
+      "rarity": "1/524288",
+      "itemId": 2366
+    },
+    {
+      "name": "Dragon spear",
+      "quantity": "1",
+      "rarity": "1/699050.67",
+      "itemId": 1249
+    },
+    {
+      "name": "Looting bag",
+      "quantity": "1",
+      "rarity": "1/6",
+      "itemId": 11941
+    },
+    {
+      "name": "Larran's key",
+      "quantity": "1",
+      "rarity": "1/1074",
+      "itemId": 23490
+    },
+    {
+      "name": "Slayer's enchantment",
+      "quantity": "1",
+      "rarity": "1/304",
+      "itemId": 21257
+    },
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    }
+  ]
+}

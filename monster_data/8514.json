@@ -1,0 +1,12 @@
+{
+  "id": 8514,
+  "name": "Trapped Soul",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    }
+  ]
+}

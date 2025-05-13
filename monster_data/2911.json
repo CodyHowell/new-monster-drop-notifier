@@ -1,0 +1,18 @@
+{
+  "id": 2911,
+  "name": "Carnivorous chinchompa",
+  "drops": [
+    {
+      "name": "Red chinchompa",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 10034
+    },
+    {
+      "name": "Red chinchompa tuft",
+      "quantity": "1",
+      "rarity": "1/50",
+      "itemId": 29235
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": 5238,
+  "name": "Spider (Ape Atoll)",
+  "drops": [
+    {
+      "name": "Clue scroll (beginner)",
+      "quantity": "1",
+      "rarity": "Rare",
+      "itemId": 23182
+    }
+  ]
+}

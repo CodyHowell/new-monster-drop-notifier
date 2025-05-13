@@ -1,0 +1,30 @@
+{
+  "id": 3605,
+  "name": "Newtroost",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    },
+    {
+      "name": "Eye of newt",
+      "quantity": "4–10",
+      "rarity": "Always",
+      "itemId": 221
+    },
+    {
+      "name": "Tea flask",
+      "quantity": "1",
+      "rarity": "1/10",
+      "itemId": 10859
+    },
+    {
+      "name": "Rune satchel",
+      "quantity": "1",
+      "rarity": "3/20",
+      "itemId": 10882
+    }
+  ]
+}

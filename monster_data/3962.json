@@ -1,0 +1,12 @@
+{
+  "id": 3962,
+  "name": "Nezikchened",
+  "drops": [
+    {
+      "name": "Ashes",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 592
+    }
+  ]
+}

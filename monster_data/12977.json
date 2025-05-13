@@ -1,0 +1,18 @@
+{
+  "id": 12977,
+  "name": "Jaguar cub",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    },
+    {
+      "name": "Clue scroll (easy)",
+      "quantity": "1",
+      "rarity": "Rare",
+      "itemId": 12179
+    }
+  ]
+}

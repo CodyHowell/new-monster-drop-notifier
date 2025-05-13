@@ -1,0 +1,12 @@
+{
+  "id": 373,
+  "name": "Pheasant",
+  "drops": [
+    {
+      "name": "Raw pheasant",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 11704
+    }
+  ]
+}

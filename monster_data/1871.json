@@ -1,0 +1,18 @@
+{
+  "id": 1871,
+  "name": "Baby black dragon",
+  "drops": [
+    {
+      "name": "Babydragon bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 534
+    },
+    {
+      "name": "Brimstone key",
+      "quantity": "1",
+      "rarity": "1/157",
+      "itemId": 23083
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "id": 1643,
+  "name": "Ninja impling",
+  "drops": [
+    {
+      "name": "Snakeskin boots",
+      "quantity": "1",
+      "rarity": "1/19",
+      "itemId": 6328
+    },
+    {
+      "name": "Splitbark helm",
+      "quantity": "1",
+      "rarity": "1/19",
+      "itemId": 3385
+    },
+    {
+      "name": "Mystic boots",
+      "quantity": "1",
+      "rarity": "1/19",
+      "itemId": 4097
+    },
+    {
+      "name": "Rune chainbody",
+      "quantity": "1",
+      "rarity": "1/19",
+      "itemId": 1113
+    },
+    {
+      "name": "Mystic gloves",
+      "quantity": "1",
+      "rarity": "1/19",
+      "itemId": 4095
+    },
+    {
+      "name": "Opal machete",
+      "quantity": "1",
+      "rarity": "1/19",
+      "itemId": 6313
+    },
+    {
+      "name": "Rune claws",
+      "quantity": "1",
+      "rarity": "1/19",
+      "itemId": 3101
+    },
+    {
+      "name": "Rune scimitar",
+      "quantity": "1",
+      "rarity": "1/19",
+      "itemId": 1333
+    },
+    {
+      "name": "Dragon dagger(p+)",
+      "quantity": "1",
+      "rarity": "1/19",
+      "itemId": 5680
+    },
+    {
+      "name": "Rune arrow",
+      "quantity": "70",
+      "rarity": "1/19",
+      "itemId": 892
+    },
+    {
+      "name": "Rune dart",
+      "quantity": "70",
+      "rarity": "1/19",
+      "itemId": 811
+    },
+    {
+      "name": "Rune knife",
+      "quantity": "40",
+      "rarity": "1/19",
+      "itemId": 868
+    },
+    {
+      "name": "Rune thrownaxe",
+      "quantity": "50",
+      "rarity": "1/19",
+      "itemId": 805
+    },
+    {
+      "name": "Onyx bolts",
+      "quantity": "2",
+      "rarity": "1/19",
+      "itemId": 9342
+    },
+    {
+      "name": "Onyx bolt tips",
+      "quantity": "4",
+      "rarity": "1/19",
+      "itemId": 9194
+    },
+    {
+      "name": "Black dragonhide",
+      "quantity": "10",
+      "rarity": "1/19",
+      "itemId": 1747
+    },
+    {
+      "name": "Prayer potion(3)",
+      "quantity": "4",
+      "rarity": "1/19",
+      "itemId": 139
+    },
+    {
+      "name": "Weapon poison(+)",
+      "quantity": "4",
+      "rarity": "1/19",
+      "itemId": 5937
+    },
+    {
+      "name": "Dagannoth hide",
+      "quantity": "3",
+      "rarity": "1/19",
+      "itemId": 6155
+    },
+    {
+      "name": "Clue scroll (hard)",
+      "quantity": "1",
+      "rarity": "1/25",
+      "itemId": 3550
+    }
+  ]
+}

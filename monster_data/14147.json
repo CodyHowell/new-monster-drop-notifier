@@ -1,0 +1,228 @@
+{
+  "id": 14147,
+  "name": "Eldric the Ice King",
+  "drops": [
+    {
+      "name": "Desiccated page",
+      "quantity": "10–18",
+      "rarity": "Always",
+      "itemId": 30640
+    },
+    {
+      "name": "Ice element staff crown",
+      "quantity": "1",
+      "rarity": "1/75",
+      "itemId": 30628
+    },
+    {
+      "name": "Deadeye prayer scroll",
+      "quantity": "1",
+      "rarity": "1/75",
+      "itemId": 30626
+    },
+    {
+      "name": "Giantsoul amulet",
+      "quantity": "1",
+      "rarity": "1/16",
+      "itemId": 30638
+    },
+    {
+      "name": "Mystic water staff",
+      "quantity": "4",
+      "rarity": "2 × ~7/250",
+      "itemId": 1403
+    },
+    {
+      "name": "Water battlestaff",
+      "quantity": "6",
+      "rarity": "2 × ~8/250",
+      "itemId": 1395
+    },
+    {
+      "name": "Rune platelegs",
+      "quantity": "2",
+      "rarity": "2 × ~8/250",
+      "itemId": 1079
+    },
+    {
+      "name": "Rune sq shield",
+      "quantity": "2",
+      "rarity": "2 × ~8/250",
+      "itemId": 1185
+    },
+    {
+      "name": "Rune axe",
+      "quantity": "2",
+      "rarity": "2 × ~8/250",
+      "itemId": 1359
+    },
+    {
+      "name": "Rune pickaxe",
+      "quantity": "2",
+      "rarity": "2 × ~5/250",
+      "itemId": 1275
+    },
+    {
+      "name": "Chaos rune",
+      "quantity": "200–400",
+      "rarity": "2 × ~9/250",
+      "itemId": 562
+    },
+    {
+      "name": "Death rune",
+      "quantity": "150–300",
+      "rarity": "2 × ~9/250",
+      "itemId": 560
+    },
+    {
+      "name": "Nature rune",
+      "quantity": "100–150",
+      "rarity": "2 × ~9/250",
+      "itemId": 561
+    },
+    {
+      "name": "Law rune",
+      "quantity": "100–150",
+      "rarity": "2 × ~9/250",
+      "itemId": 563
+    },
+    {
+      "name": "Soul rune",
+      "quantity": "100–150",
+      "rarity": "2 × ~9/250",
+      "itemId": 566
+    },
+    {
+      "name": "Blood rune",
+      "quantity": "100–150",
+      "rarity": "2 × ~9/250",
+      "itemId": 565
+    },
+    {
+      "name": "Rune arrow",
+      "quantity": "100–300",
+      "rarity": "2 × ~8/250",
+      "itemId": 892
+    },
+    {
+      "name": "Water rune",
+      "quantity": "1500–3000",
+      "rarity": "2 × ~7/250",
+      "itemId": 555
+    },
+    {
+      "name": "Coal",
+      "quantity": "280–320",
+      "rarity": "2 × ~9/250",
+      "itemId": 453
+    },
+    {
+      "name": "Gold ore",
+      "quantity": "60–100",
+      "rarity": "2 × ~9/250",
+      "itemId": 444
+    },
+    {
+      "name": "Water orb",
+      "quantity": "20–40",
+      "rarity": "2 × ~7/250",
+      "itemId": 571
+    },
+    {
+      "name": "Avantoe seed",
+      "quantity": "4",
+      "rarity": "2 × ~7/250",
+      "itemId": 5298
+    },
+    {
+      "name": "Cadantine seed",
+      "quantity": "4",
+      "rarity": "2 × ~7/250",
+      "itemId": 5301
+    },
+    {
+      "name": "Dwarf weed seed",
+      "quantity": "4",
+      "rarity": "2 × ~7/250",
+      "itemId": 5303
+    },
+    {
+      "name": "Irit seed",
+      "quantity": "4",
+      "rarity": "2 × ~7/250",
+      "itemId": 5297
+    },
+    {
+      "name": "Kwuarm seed",
+      "quantity": "4",
+      "rarity": "2 × ~7/250",
+      "itemId": 5299
+    },
+    {
+      "name": "Lantadyme seed",
+      "quantity": "4",
+      "rarity": "2 × ~7/250",
+      "itemId": 5302
+    },
+    {
+      "name": "Ranarr seed",
+      "quantity": "4",
+      "rarity": "2 × ~7/250",
+      "itemId": 5295
+    },
+    {
+      "name": "Maple seed",
+      "quantity": "4–6",
+      "rarity": "2 × ~4/250",
+      "itemId": 5314
+    },
+    {
+      "name": "Palm tree seed",
+      "quantity": "2",
+      "rarity": "2 × ~4/250",
+      "itemId": 5289
+    },
+    {
+      "name": "Yew seed",
+      "quantity": "2",
+      "rarity": "2 × ~4/250",
+      "itemId": 5315
+    },
+    {
+      "name": "Coins",
+      "quantity": "10000–30000",
+      "rarity": "2 × ~9/250",
+      "itemId": 995
+    },
+    {
+      "name": "Prayer potion(4)",
+      "quantity": "1–4",
+      "rarity": "2 × ~9/250",
+      "itemId": 2434
+    },
+    {
+      "name": "Desiccated page",
+      "quantity": "6–24",
+      "rarity": "2 × ~9/250",
+      "itemId": 30640
+    },
+    {
+      "name": "Clue scroll (hard)",
+      "quantity": "1",
+      "rarity": "1/25",
+      "itemId": 3550
+    },
+    {
+      "name": "Clue scroll (elite)",
+      "quantity": "1",
+      "rarity": "1/100",
+      "itemId": 21524
+    },
+    {
+      "name": "Bran",
+      "quantity": "1",
+      "rarity": "1/3000",
+      "itemId": 30622
+    }
+  ]
+}

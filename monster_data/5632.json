@@ -1,0 +1,12 @@
+{
+  "id": 5632,
+  "name": "Asyn shadow (Temple Trekking)",
+  "drops": [
+    {
+      "name": "Asyn remains",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 3402
+    }
+  ]
+}

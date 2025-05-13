@@ -1,0 +1,12 @@
+{
+  "id": 6056,
+  "name": "Guard (Ranging Guild)",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    }
+  ]
+}

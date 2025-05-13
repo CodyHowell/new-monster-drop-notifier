@@ -1,0 +1,18 @@
+{
+  "id": 112,
+  "name": "Wild dog",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    },
+    {
+      "name": "Ensouled dog head",
+      "quantity": "1",
+      "rarity": "1/25",
+      "itemId": 13469
+    }
+  ]
+}

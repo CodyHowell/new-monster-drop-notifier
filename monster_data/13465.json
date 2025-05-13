@@ -1,0 +1,72 @@
+{
+  "id": 13465,
+  "name": "Elite Dark Warrior",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    },
+    {
+      "name": "Lobster",
+      "quantity": "1–2",
+      "rarity": "16/117",
+      "itemId": 379
+    },
+    {
+      "name": "Prayer potion(1)",
+      "quantity": "1",
+      "rarity": "16/117",
+      "itemId": 143
+    },
+    {
+      "name": "Super attack(1)",
+      "quantity": "1",
+      "rarity": "16/117",
+      "itemId": 149
+    },
+    {
+      "name": "Super strength(1)",
+      "quantity": "1",
+      "rarity": "16/117",
+      "itemId": 161
+    },
+    {
+      "name": "Meat pie",
+      "quantity": "1",
+      "rarity": "7/117",
+      "itemId": 2327
+    },
+    {
+      "name": "Coins",
+      "quantity": "22–100",
+      "rarity": "15/117",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "153–250",
+      "rarity": "15/117",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "677–1000",
+      "rarity": "15/117",
+      "itemId": 995
+    },
+    {
+      "name": "Diamond ring",
+      "quantity": "1",
+      "rarity": "1/117",
+      "itemId": 1643
+    },
+    {
+      "name": "Clue scroll (hard)",
+      "quantity": "1",
+      "rarity": "Rare",
+      "itemId": 3550
+    }
+  ]
+}

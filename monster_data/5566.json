@@ -1,0 +1,324 @@
+{
+  "id": 5566,
+  "name": "Ferocious barbarian spirit",
+  "drops": [
+    {
+      "name": "Mithril mace",
+      "quantity": "1",
+      "rarity": "5/128",
+      "itemId": 1428
+    },
+    {
+      "name": "Adamant mace",
+      "quantity": "1",
+      "rarity": "4/128",
+      "itemId": 1430
+    },
+    {
+      "name": "Rune mace",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 1432
+    },
+    {
+      "name": "Mithril hasta",
+      "quantity": "1",
+      "rarity": "2/128",
+      "itemId": 11373
+    },
+    {
+      "name": "Adamant knife",
+      "quantity": "20",
+      "rarity": "4/128",
+      "itemId": 867
+    },
+    {
+      "name": "Adamant dart(p)",
+      "quantity": "20",
+      "rarity": "4/128",
+      "itemId": 816
+    },
+    {
+      "name": "Rune arrow",
+      "quantity": "10",
+      "rarity": "4/128",
+      "itemId": 892
+    },
+    {
+      "name": "Runite bolts",
+      "quantity": "10",
+      "rarity": "4/128",
+      "itemId": 9144
+    },
+    {
+      "name": "Death rune",
+      "quantity": "5–9",
+      "rarity": "8/128",
+      "itemId": 560
+    },
+    {
+      "name": "Grimy guam leaf",
+      "quantity": "1–2",
+      "rarity": "1/51.2",
+      "itemId": 199
+    },
+    {
+      "name": "Grimy marrentill",
+      "quantity": "1–2",
+      "rarity": "1/68.3",
+      "itemId": 201
+    },
+    {
+      "name": "Grimy tarromin",
+      "quantity": "1–2",
+      "rarity": "1/91",
+      "itemId": 203
+    },
+    {
+      "name": "Grimy harralander",
+      "quantity": "1–2",
+      "rarity": "1/117",
+      "itemId": 205
+    },
+    {
+      "name": "Grimy ranarr weed",
+      "quantity": "1–2",
+      "rarity": "1/148.9",
+      "itemId": 207
+    },
+    {
+      "name": "Grimy irit leaf",
+      "quantity": "1–2",
+      "rarity": "1/204.8",
+      "itemId": 209
+    },
+    {
+      "name": "Grimy avantoe",
+      "quantity": "1–2",
+      "rarity": "1/273.1",
+      "itemId": 211
+    },
+    {
+      "name": "Grimy kwuarm",
+      "quantity": "1–2",
+      "rarity": "1/327.7",
+      "itemId": 213
+    },
+    {
+      "name": "Grimy cadantine",
+      "quantity": "1–2",
+      "rarity": "1/409.6",
+      "itemId": 215
+    },
+    {
+      "name": "Grimy lantadyme",
+      "quantity": "1–2",
+      "rarity": "1/546.1",
+      "itemId": 2485
+    },
+    {
+      "name": "Grimy dwarf weed",
+      "quantity": "1–2",
+      "rarity": "1/546.1",
+      "itemId": 217
+    },
+    {
+      "name": "Ranarr seed",
+      "quantity": "1",
+      "rarity": "5/128",
+      "itemId": 5295
+    },
+    {
+      "name": "Prayer mix(1)",
+      "quantity": "1",
+      "rarity": "16/128",
+      "itemId": 11467
+    },
+    {
+      "name": "Prayer mix(2)",
+      "quantity": "1",
+      "rarity": "8/128",
+      "itemId": 11465
+    },
+    {
+      "name": "Super str. mix(1)",
+      "quantity": "1",
+      "rarity": "2/128",
+      "itemId": 11487
+    },
+    {
+      "name": "Super str. mix(2)",
+      "quantity": "1",
+      "rarity": "2/128",
+      "itemId": 11485
+    },
+    {
+      "name": "Superattack mix(1)",
+      "quantity": "1",
+      "rarity": "2/128",
+      "itemId": 11471
+    },
+    {
+      "name": "Superattack mix(2)",
+      "quantity": "1",
+      "rarity": "3/128",
+      "itemId": 11469
+    },
+    {
+      "name": "Super def. mix(1)",
+      "quantity": "1",
+      "rarity": "2/128",
+      "itemId": 11499
+    },
+    {
+      "name": "Super def. mix(2)",
+      "quantity": "1",
+      "rarity": "3/128",
+      "itemId": 11497
+    },
+    {
+      "name": "Antifire mix(1)",
+      "quantity": "1",
+      "rarity": "4/128",
+      "itemId": 11507
+    },
+    {
+      "name": "Antifire mix(2)",
+      "quantity": "1",
+      "rarity": "4/128",
+      "itemId": 11505
+    },
+    {
+      "name": "Anti-poison supermix(2)",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 11473
+    },
+    {
+      "name": "Fishing mix(2)",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 11477
+    },
+    {
+      "name": "Yew logs",
+      "quantity": "3",
+      "rarity": "2/128",
+      "itemId": 1515
+    },
+    {
+      "name": "Steel bar",
+      "quantity": "2",
+      "rarity": "2/128",
+      "itemId": 2353
+    },
+    {
+      "name": "Mithril bar",
+      "quantity": "2",
+      "rarity": "2/128",
+      "itemId": 2359
+    },
+    {
+      "name": "Adamantite bar",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 2361
+    },
+    {
+      "name": "Runite bar",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 2363
+    },
+    {
+      "name": "Big bones",
+      "quantity": "10",
+      "rarity": "7/128",
+      "itemId": 532
+    },
+    {
+      "name": "Shark",
+      "quantity": "3",
+      "rarity": "6/128",
+      "itemId": 385
+    },
+    {
+      "name": "Uncut sapphire",
+      "quantity": "1",
+      "rarity": "1/64",
+      "itemId": 1623
+    },
+    {
+      "name": "Uncut emerald",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 1621
+    },
+    {
+      "name": "Uncut ruby",
+      "quantity": "1",
+      "rarity": "1/256",
+      "itemId": 1619
+    },
+    {
+      "name": "Uncut diamond",
+      "quantity": "1",
+      "rarity": "1/1024",
+      "itemId": 1617
+    },
+    {
+      "name": "Nature talisman",
+      "quantity": "1",
+      "rarity": "1/682.67",
+      "itemId": 1462
+    },
+    {
+      "name": "Loop half of key",
+      "quantity": "1",
+      "rarity": "1/2048",
+      "itemId": 987
+    },
+    {
+      "name": "Tooth half of key",
+      "quantity": "1",
+      "rarity": "1/2048",
+      "itemId": 985
+    },
+    {
+      "name": "Rune javelin",
+      "quantity": "5",
+      "rarity": "1/2048",
+      "itemId": 830
+    },
+    {
+      "name": "Rune spear",
+      "quantity": "1",
+      "rarity": "1/32768",
+      "itemId": 1247
+    },
+    {
+      "name": "Shield left half",
+      "quantity": "1",
+      "rarity": "1/65536",
+      "itemId": 2366
+    },
+    {
+      "name": "Dragon spear",
+      "quantity": "1",
+      "rarity": "1/87381.33",
+      "itemId": 1249
+    },
+    {
+      "name": "Clue scroll (elite)",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 21524
+    },
+    {
+      "name": "Reward casket (elite)",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 20543
+    }
+  ]
+}

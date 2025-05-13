@@ -1,0 +1,210 @@
+{
+  "id": 13463,
+  "name": "Elite Black Knight",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    },
+    {
+      "name": "Elite black full helm",
+      "quantity": "1",
+      "rarity": "Varies",
+      "itemId": 29560
+    },
+    {
+      "name": "Elite black platebody",
+      "quantity": "1",
+      "rarity": "Varies",
+      "itemId": 29562
+    },
+    {
+      "name": "Elite black platelegs",
+      "quantity": "1",
+      "rarity": "Varies",
+      "itemId": 29564
+    },
+    {
+      "name": "Opal necklace",
+      "quantity": "3–5",
+      "rarity": "7/122",
+      "itemId": 21090
+    },
+    {
+      "name": "Sapphire necklace",
+      "quantity": "6–10",
+      "rarity": "7/122",
+      "itemId": 1656
+    },
+    {
+      "name": "Emerald ring",
+      "quantity": "6–10",
+      "rarity": "7/122",
+      "itemId": 1639
+    },
+    {
+      "name": "Jade ring",
+      "quantity": "1–3",
+      "rarity": "4/122",
+      "itemId": 21084
+    },
+    {
+      "name": "Jade necklace",
+      "quantity": "2–5",
+      "rarity": "4/122",
+      "itemId": 21093
+    },
+    {
+      "name": "Ruby",
+      "quantity": "3–5",
+      "rarity": "3/122",
+      "itemId": 1603
+    },
+    {
+      "name": "Sapphire",
+      "quantity": "8–12",
+      "rarity": "3/122",
+      "itemId": 1607
+    },
+    {
+      "name": "Emerald",
+      "quantity": "5–8",
+      "rarity": "3/122",
+      "itemId": 1605
+    },
+    {
+      "name": "Ruby ring",
+      "quantity": "3–5",
+      "rarity": "3/122",
+      "itemId": 1641
+    },
+    {
+      "name": "Diamond ring",
+      "quantity": "2–5",
+      "rarity": "3/122",
+      "itemId": 1643
+    },
+    {
+      "name": "Topaz amulet (u)",
+      "quantity": "2–3",
+      "rarity": "2/122",
+      "itemId": 21105
+    },
+    {
+      "name": "Dragonstone",
+      "quantity": "1",
+      "rarity": "1/122",
+      "itemId": 1615
+    },
+    {
+      "name": "Dragonstone ring",
+      "quantity": "1",
+      "rarity": "1/122",
+      "itemId": 1645
+    },
+    {
+      "name": "Prayer potion(1)",
+      "quantity": "1–3",
+      "rarity": "14/122",
+      "itemId": 143
+    },
+    {
+      "name": "Fish pie",
+      "quantity": "1",
+      "rarity": "4/122",
+      "itemId": 7188
+    },
+    {
+      "name": "Meat pie",
+      "quantity": "1",
+      "rarity": "4/122",
+      "itemId": 2327
+    },
+    {
+      "name": "Magic potion(3)",
+      "quantity": "1",
+      "rarity": "3/122",
+      "itemId": 3042
+    },
+    {
+      "name": "Ranging potion(1)",
+      "quantity": "1–2",
+      "rarity": "3/122",
+      "itemId": 173
+    },
+    {
+      "name": "Super strength(2)",
+      "quantity": "1–2",
+      "rarity": "3/122",
+      "itemId": 159
+    },
+    {
+      "name": "Super attack(2)",
+      "quantity": "1–2",
+      "rarity": "3/122",
+      "itemId": 147
+    },
+    {
+      "name": "Lobster",
+      "quantity": "2–4",
+      "rarity": "2/122",
+      "itemId": 379
+    },
+    {
+      "name": "Cooked chompy",
+      "quantity": "28",
+      "rarity": "1/122",
+      "itemId": 2878
+    },
+    {
+      "name": "Coins",
+      "quantity": "545–2500",
+      "rarity": "19/122",
+      "itemId": 995
+    },
+    {
+      "name": "Sapphire bolt tips",
+      "quantity": "45–60",
+      "rarity": "4/122",
+      "itemId": 9189
+    },
+    {
+      "name": "Opal bolt tips",
+      "quantity": "30–40",
+      "rarity": "4/122",
+      "itemId": 45
+    },
+    {
+      "name": "Emerald bolt tips",
+      "quantity": "30–45",
+      "rarity": "4/122",
+      "itemId": 9190
+    },
+    {
+      "name": "Silver bar",
+      "quantity": "20–30",
+      "rarity": "3/122",
+      "itemId": 2355
+    },
+    {
+      "name": "Dragonstone bolt tips",
+      "quantity": "25–75",
+      "rarity": "2/122",
+      "itemId": 9193
+    },
+    {
+      "name": "Onyx bolt tips",
+      "quantity": "15–60",
+      "rarity": "1/122",
+      "itemId": 9194
+    },
+    {
+      "name": "Clue scroll (hard)",
+      "quantity": "1",
+      "rarity": "Unknown",
+      "itemId": 3550
+    }
+  ]
+}

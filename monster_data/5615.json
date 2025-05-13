@@ -1,0 +1,18 @@
+{
+  "id": 5615,
+  "name": "Swamp snake",
+  "drops": [
+    {
+      "name": "Snake hide (swamp)",
+      "quantity": "2–5",
+      "rarity": "Always",
+      "itemId": 7801
+    },
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    }
+  ]
+}

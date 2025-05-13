@@ -1,0 +1,18 @@
+{
+  "id": 2827,
+  "name": "Bat",
+  "drops": [
+    {
+      "name": "Bat bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 530
+    },
+    {
+      "name": "Bat wing",
+      "quantity": "1",
+      "rarity": "1/4",
+      "itemId": 7833
+    }
+  ]
+}

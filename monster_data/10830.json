@@ -1,0 +1,12 @@
+{
+  "id": 10830,
+  "name": "Verzik Vitur",
+  "drops": [
+    {
+      "name": "Verzik vitur - patient record",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 22514
+    }
+  ]
+}

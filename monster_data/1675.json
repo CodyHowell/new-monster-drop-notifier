@@ -1,0 +1,12 @@
+{
+  "id": 1675,
+  "name": "Karil the Tainted",
+  "drops": [
+    {
+      "name": "Brimstone key",
+      "quantity": "1",
+      "rarity": "1/100",
+      "itemId": 23083
+    }
+  ]
+}

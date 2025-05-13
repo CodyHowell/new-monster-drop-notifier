@@ -1,0 +1,12 @@
+{
+  "id": 5237,
+  "name": "Skeleton (Ape Atoll)",
+  "drops": [
+    {
+      "name": "Skeleton champion scroll",
+      "quantity": "1",
+      "rarity": "1/5000",
+      "itemId": 6806
+    }
+  ]
+}

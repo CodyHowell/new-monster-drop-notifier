@@ -1,0 +1,48 @@
+{
+  "id": 7802,
+  "name": "Hoop Snake",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    },
+    {
+      "name": "Snake hide",
+      "quantity": "1",
+      "rarity": "3/10",
+      "itemId": 6287
+    },
+    {
+      "name": "Numulite",
+      "quantity": "5–14",
+      "rarity": "27/175",
+      "itemId": 21555
+    },
+    {
+      "name": "Unidentified small fossil",
+      "quantity": "1",
+      "rarity": "3/350",
+      "itemId": 21562
+    },
+    {
+      "name": "Unidentified medium fossil",
+      "quantity": "1",
+      "rarity": "3/700",
+      "itemId": 21564
+    },
+    {
+      "name": "Unidentified large fossil",
+      "quantity": "1",
+      "rarity": "3/875",
+      "itemId": 21566
+    },
+    {
+      "name": "Unidentified rare fossil",
+      "quantity": "1",
+      "rarity": "3/3500",
+      "itemId": 21568
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": 3902,
+  "name": "Bunny",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    },
+    {
+      "name": "Raw rabbit",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 3226
+    },
+    {
+      "name": "Rabbit bone",
+      "quantity": "1",
+      "rarity": "1/4",
+      "itemId": 7896
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": 5916,
+  "name": "Spawn",
+  "drops": [
+    {
+      "name": "Fiendish ashes",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 25766
+    }
+  ]
+}

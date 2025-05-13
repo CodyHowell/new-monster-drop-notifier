@@ -1,0 +1,12 @@
+{
+  "id": 4114,
+  "name": "White Knight (Burthorpe)",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    }
+  ]
+}

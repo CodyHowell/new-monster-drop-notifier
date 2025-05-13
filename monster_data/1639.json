@@ -1,0 +1,126 @@
+{
+  "id": 1639,
+  "name": "Essence impling",
+  "drops": [
+    {
+      "name": "Pure essence",
+      "quantity": "20",
+      "rarity": "1/10",
+      "itemId": 7936
+    },
+    {
+      "name": "Water rune",
+      "quantity": "30",
+      "rarity": "1/10",
+      "itemId": 555
+    },
+    {
+      "name": "Air rune",
+      "quantity": "30",
+      "rarity": "1/10",
+      "itemId": 556
+    },
+    {
+      "name": "Fire rune",
+      "quantity": "50",
+      "rarity": "1/10",
+      "itemId": 554
+    },
+    {
+      "name": "Mind rune",
+      "quantity": "25",
+      "rarity": "1/10",
+      "itemId": 558
+    },
+    {
+      "name": "Body rune",
+      "quantity": "28",
+      "rarity": "1/10",
+      "itemId": 559
+    },
+    {
+      "name": "Chaos rune",
+      "quantity": "4",
+      "rarity": "1/10",
+      "itemId": 562
+    },
+    {
+      "name": "Cosmic rune",
+      "quantity": "4",
+      "rarity": "1/10",
+      "itemId": 564
+    },
+    {
+      "name": "Mind talisman",
+      "quantity": "1",
+      "rarity": "1/10",
+      "itemId": 1448
+    },
+    {
+      "name": "Pure essence",
+      "quantity": "35",
+      "rarity": "1/100",
+      "itemId": 7936
+    },
+    {
+      "name": "Lava rune",
+      "quantity": "4",
+      "rarity": "1/100",
+      "itemId": 4699
+    },
+    {
+      "name": "Mud rune",
+      "quantity": "4",
+      "rarity": "1/100",
+      "itemId": 4698
+    },
+    {
+      "name": "Smoke rune",
+      "quantity": "4",
+      "rarity": "1/100",
+      "itemId": 4697
+    },
+    {
+      "name": "Steam rune",
+      "quantity": "4",
+      "rarity": "1/100",
+      "itemId": 4694
+    },
+    {
+      "name": "Death rune",
+      "quantity": "13",
+      "rarity": "1/100",
+      "itemId": 560
+    },
+    {
+      "name": "Law rune",
+      "quantity": "13",
+      "rarity": "1/100",
+      "itemId": 563
+    },
+    {
+      "name": "Blood rune",
+      "quantity": "7",
+      "rarity": "1/100",
+      "itemId": 565
+    },
+    {
+      "name": "Soul rune",
+      "quantity": "11",
+      "rarity": "1/100",
+      "itemId": 566
+    },
+    {
+      "name": "Nature rune",
+      "quantity": "13",
+      "rarity": "1/100",
+      "itemId": 561
+    },
+    {
+      "name": "Clue scroll (medium)",
+      "quantity": "1",
+      "rarity": "1/50",
+      "itemId": 2829
+    }
+  ]
+}

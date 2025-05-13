@@ -1,0 +1,30 @@
+{
+  "id": 7584,
+  "name": "Ice demon",
+  "drops": [
+    {
+      "name": "Fiendish ashes",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 25766
+    },
+    {
+      "name": "Stinkhorn mushroom",
+      "quantity": "7",
+      "rarity": "Always",
+      "itemId": 20910
+    },
+    {
+      "name": "Endarkened juice",
+      "quantity": "7",
+      "rarity": "Always",
+      "itemId": 20911
+    },
+    {
+      "name": "Cicely",
+      "quantity": "5",
+      "rarity": "Always",
+      "itemId": 20912
+    }
+  ]
+}

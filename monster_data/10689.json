@@ -1,0 +1,96 @@
+{
+  "id": 10689,
+  "name": "Chaos Golem",
+  "drops": [
+    {
+      "name": "Clay",
+      "quantity": "3–4",
+      "rarity": "6/52",
+      "itemId": 434
+    },
+    {
+      "name": "Iron ore",
+      "quantity": "3–4",
+      "rarity": "6/52",
+      "itemId": 440
+    },
+    {
+      "name": "Silver ore",
+      "quantity": "3–4",
+      "rarity": "6/52",
+      "itemId": 442
+    },
+    {
+      "name": "Gold ore",
+      "quantity": "2–3",
+      "rarity": "6/52",
+      "itemId": 444
+    },
+    {
+      "name": "Rune essence",
+      "quantity": "4–6",
+      "rarity": "6/52",
+      "itemId": 1436
+    },
+    {
+      "name": "Chaos rune",
+      "quantity": "5–10",
+      "rarity": "8/52",
+      "itemId": 562
+    },
+    {
+      "name": "Uncut sapphire",
+      "quantity": "1",
+      "rarity": "6/52",
+      "itemId": 1623
+    },
+    {
+      "name": "Uncut emerald",
+      "quantity": "1",
+      "rarity": "4/52",
+      "itemId": 1621
+    },
+    {
+      "name": "Uncut ruby",
+      "quantity": "1",
+      "rarity": "2/52",
+      "itemId": 1619
+    },
+    {
+      "name": "Uncut diamond",
+      "quantity": "1",
+      "rarity": "1/52",
+      "itemId": 1617
+    },
+    {
+      "name": "Chaos talisman",
+      "quantity": "1",
+      "rarity": "1/52",
+      "itemId": 1452
+    },
+    {
+      "name": "Barronite shards",
+      "quantity": "12–24",
+      "rarity": "~3/10",
+      "itemId": 25676
+    },
+    {
+      "name": "Chaos core",
+      "quantity": "1",
+      "rarity": "~2/15",
+      "itemId": 25700
+    },
+    {
+      "name": "Barronite guard",
+      "quantity": "1",
+      "rarity": "~1/150",
+      "itemId": 25639
+    },
+    {
+      "name": "Clue scroll (beginner)",
+      "quantity": "1",
+      "rarity": "~1/100",
+      "itemId": 23182
+    }
+  ]
+}

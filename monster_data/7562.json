@@ -1,0 +1,60 @@
+{
+  "id": 7562,
+  "name": "Muttadile",
+  "drops": [
+    {
+      "name": "Big bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 532
+    },
+    {
+      "name": "Houndmaster's diary",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 20897
+    },
+    {
+      "name": "Overload (+)(4)",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 20996
+    },
+    {
+      "name": "Prayer enhance (+)(4)",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 20972
+    },
+    {
+      "name": "Xeric's aid (+)(4)",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 20984
+    },
+    {
+      "name": "Revitalisation (+)(4)",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 20960
+    },
+    {
+      "name": "Stinkhorn mushroom",
+      "quantity": "2",
+      "rarity": "Always",
+      "itemId": 20910
+    },
+    {
+      "name": "Long bone",
+      "quantity": "1",
+      "rarity": "1/400",
+      "itemId": 10976
+    },
+    {
+      "name": "Curved bone",
+      "quantity": "1",
+      "rarity": "1/5012.5",
+      "itemId": 10977
+    }
+  ]
+}

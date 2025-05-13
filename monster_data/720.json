@@ -1,0 +1,294 @@
+{
+  "id": 720,
+  "name": "Mummy (Ancient Pyramid)",
+  "drops": [
+    {
+      "name": "Ashes",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 592
+    },
+    {
+      "name": "Rune sq shield",
+      "quantity": "1",
+      "rarity": "3/513",
+      "itemId": 1185
+    },
+    {
+      "name": "Rune scimitar",
+      "quantity": "1",
+      "rarity": "3/513",
+      "itemId": 1333
+    },
+    {
+      "name": "Ancient staff",
+      "quantity": "1",
+      "rarity": "1/513",
+      "itemId": 4675
+    },
+    {
+      "name": "Gold ring",
+      "quantity": "1",
+      "rarity": "40/513",
+      "itemId": 1635
+    },
+    {
+      "name": "Gold amulet (u)",
+      "quantity": "1",
+      "rarity": "25/513",
+      "itemId": 1673
+    },
+    {
+      "name": "Gold necklace",
+      "quantity": "1",
+      "rarity": "20/513",
+      "itemId": 1654
+    },
+    {
+      "name": "Sapphire necklace",
+      "quantity": "1",
+      "rarity": "10/513",
+      "itemId": 1656
+    },
+    {
+      "name": "Sapphire ring",
+      "quantity": "1",
+      "rarity": "10/513",
+      "itemId": 1637
+    },
+    {
+      "name": "Emerald amulet (u)",
+      "quantity": "1",
+      "rarity": "10/513",
+      "itemId": 1677
+    },
+    {
+      "name": "Emerald ring",
+      "quantity": "1",
+      "rarity": "10/513",
+      "itemId": 1639
+    },
+    {
+      "name": "Ring of dueling(1)",
+      "quantity": "1",
+      "rarity": "10/513",
+      "itemId": 2566
+    },
+    {
+      "name": "Grimy guam leaf",
+      "quantity": "1",
+      "rarity": "1/684",
+      "itemId": 199
+    },
+    {
+      "name": "Grimy marrentill",
+      "quantity": "1",
+      "rarity": "1/912",
+      "itemId": 201
+    },
+    {
+      "name": "Grimy tarromin",
+      "quantity": "1",
+      "rarity": "1/1216",
+      "itemId": 203
+    },
+    {
+      "name": "Grimy harralander",
+      "quantity": "1",
+      "rarity": "1/1563.4",
+      "itemId": 205
+    },
+    {
+      "name": "Grimy ranarr weed",
+      "quantity": "1",
+      "rarity": "1/1989.8",
+      "itemId": 207
+    },
+    {
+      "name": "Grimy irit leaf",
+      "quantity": "1",
+      "rarity": "1/2736",
+      "itemId": 209
+    },
+    {
+      "name": "Grimy avantoe",
+      "quantity": "1",
+      "rarity": "1/3648",
+      "itemId": 211
+    },
+    {
+      "name": "Grimy kwuarm",
+      "quantity": "1",
+      "rarity": "1/4377.6",
+      "itemId": 213
+    },
+    {
+      "name": "Grimy cadantine",
+      "quantity": "1",
+      "rarity": "1/5472",
+      "itemId": 215
+    },
+    {
+      "name": "Grimy lantadyme",
+      "quantity": "1",
+      "rarity": "1/7296",
+      "itemId": 2485
+    },
+    {
+      "name": "Grimy dwarf weed",
+      "quantity": "1",
+      "rarity": "1/7296",
+      "itemId": 217
+    },
+    {
+      "name": "Coins",
+      "quantity": "36",
+      "rarity": "20/513",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "95",
+      "rarity": "20/513",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "106",
+      "rarity": "20/513",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "183",
+      "rarity": "20/513",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "222",
+      "rarity": "20/513",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "46",
+      "rarity": "17/513",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "472",
+      "rarity": "10/513",
+      "itemId": 995
+    },
+    {
+      "name": "Swamp tar",
+      "quantity": "1",
+      "rarity": "30/513",
+      "itemId": 1939
+    },
+    {
+      "name": "Gold ore",
+      "quantity": "1",
+      "rarity": "100/513",
+      "itemId": 444
+    },
+    {
+      "name": "Silk",
+      "quantity": "1",
+      "rarity": "40/513",
+      "itemId": 950
+    },
+    {
+      "name": "Papyrus",
+      "quantity": "1",
+      "rarity": "44/513",
+      "itemId": 970
+    },
+    {
+      "name": "Casket",
+      "quantity": "1",
+      "rarity": "3/513",
+      "itemId": 405
+    },
+    {
+      "name": "Gold bar",
+      "quantity": "1",
+      "rarity": "20/513",
+      "itemId": 2357
+    },
+    {
+      "name": "Uncut sapphire",
+      "quantity": "1",
+      "rarity": "1/1026",
+      "itemId": 1623
+    },
+    {
+      "name": "Uncut emerald",
+      "quantity": "1",
+      "rarity": "1/2052",
+      "itemId": 1621
+    },
+    {
+      "name": "Uncut ruby",
+      "quantity": "1",
+      "rarity": "1/4104",
+      "itemId": 1619
+    },
+    {
+      "name": "Uncut diamond",
+      "quantity": "1",
+      "rarity": "1/16416",
+      "itemId": 1617
+    },
+    {
+      "name": "Chaos talisman",
+      "quantity": "1",
+      "rarity": "1/10944",
+      "itemId": 1452
+    },
+    {
+      "name": "Loop half of key",
+      "quantity": "1",
+      "rarity": "1/32832",
+      "itemId": 987
+    },
+    {
+      "name": "Tooth half of key",
+      "quantity": "1",
+      "rarity": "1/32832",
+      "itemId": 985
+    },
+    {
+      "name": "Rune javelin",
+      "quantity": "5",
+      "rarity": "1/32832",
+      "itemId": 830
+    },
+    {
+      "name": "Rune spear",
+      "quantity": "1",
+      "rarity": "1/525312",
+      "itemId": 1247
+    },
+    {
+      "name": "Shield left half",
+      "quantity": "1",
+      "rarity": "1/1050624",
+      "itemId": 2366
+    },
+    {
+      "name": "Dragon spear",
+      "quantity": "1",
+      "rarity": "1/1400832",
+      "itemId": 1249
+    },
+    {
+      "name": "Clue scroll (medium)",
+      "quantity": "1",
+      "rarity": "1/513",
+      "itemId": 2829
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": 3972,
+  "name": "Skeleton (Melzar's Maze)",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    },
+    {
+      "name": "Coins",
+      "quantity": "2",
+      "rarity": "Common",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "3",
+      "rarity": "Common",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "4",
+      "rarity": "Common",
+      "itemId": 995
+    },
+    {
+      "name": "Skeleton champion scroll",
+      "quantity": "1",
+      "rarity": "1/5000",
+      "itemId": 6806
+    }
+  ]
+}

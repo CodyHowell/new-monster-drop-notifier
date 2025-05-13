@@ -1,0 +1,150 @@
+{
+  "id": 5369,
+  "name": "Goblin guard",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    },
+    {
+      "name": "Bronze sq shield",
+      "quantity": "1",
+      "rarity": "3/128",
+      "itemId": 1173
+    },
+    {
+      "name": "Bronze spear",
+      "quantity": "1",
+      "rarity": "4/128",
+      "itemId": 1237
+    },
+    {
+      "name": "Body rune",
+      "quantity": "7",
+      "rarity": "5/128",
+      "itemId": 559
+    },
+    {
+      "name": "Water rune",
+      "quantity": "6",
+      "rarity": "6/128",
+      "itemId": 555
+    },
+    {
+      "name": "Earth rune",
+      "quantity": "4",
+      "rarity": "3/128",
+      "itemId": 557
+    },
+    {
+      "name": "Bronze bolts",
+      "quantity": "8",
+      "rarity": "3/128",
+      "itemId": 877
+    },
+    {
+      "name": "Coins",
+      "quantity": "5",
+      "rarity": "28/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "9",
+      "rarity": "3/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "15",
+      "rarity": "3/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "20",
+      "rarity": "2/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 995
+    },
+    {
+      "name": "Hammer",
+      "quantity": "1",
+      "rarity": "15/128",
+      "itemId": 2347
+    },
+    {
+      "name": "Goblin book",
+      "quantity": "1",
+      "rarity": "2/128",
+      "itemId": 10999
+    },
+    {
+      "name": "Goblin mail",
+      "quantity": "1",
+      "rarity": "5/128",
+      "itemId": 288
+    },
+    {
+      "name": "Chef's hat",
+      "quantity": "1",
+      "rarity": "3/128",
+      "itemId": 1949
+    },
+    {
+      "name": "Beer",
+      "quantity": "1",
+      "rarity": "2/128",
+      "itemId": 1917
+    },
+    {
+      "name": "Brass necklace",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 1009
+    },
+    {
+      "name": "Air talisman",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 1438
+    },
+    {
+      "name": "Goblin skull",
+      "quantity": "1",
+      "rarity": "1/4",
+      "itemId": 7812
+    },
+    {
+      "name": "Ensouled goblin head",
+      "quantity": "1",
+      "rarity": "1/35",
+      "itemId": 13448
+    },
+    {
+      "name": "Clue scroll (beginner)",
+      "quantity": "1",
+      "rarity": "1/64",
+      "itemId": 23182
+    },
+    {
+      "name": "Clue scroll (easy)",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 12179
+    },
+    {
+      "name": "Goblin champion scroll",
+      "quantity": "1",
+      "rarity": "1/5000",
+      "itemId": 6801
+    }
+  ]
+}

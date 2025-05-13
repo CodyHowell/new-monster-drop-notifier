@@ -1,0 +1,144 @@
+{
+  "id": 4799,
+  "name": "Giant lobster",
+  "drops": [
+    {
+      "name": "Bronze pickaxe",
+      "quantity": "1",
+      "rarity": "6/128",
+      "itemId": 1265
+    },
+    {
+      "name": "Iron pickaxe",
+      "quantity": "1",
+      "rarity": "5/128",
+      "itemId": 1267
+    },
+    {
+      "name": "Seaweed",
+      "quantity": "1",
+      "rarity": "4/128",
+      "itemId": 401
+    },
+    {
+      "name": "Seaweed",
+      "quantity": "2",
+      "rarity": "4/128",
+      "itemId": 401
+    },
+    {
+      "name": "Seaweed",
+      "quantity": "5",
+      "rarity": "2/128",
+      "itemId": 401
+    },
+    {
+      "name": "Edible seaweed",
+      "quantity": "2",
+      "rarity": "2/128",
+      "itemId": 403
+    },
+    {
+      "name": "Tin ore",
+      "quantity": "3",
+      "rarity": "4/128",
+      "itemId": 438
+    },
+    {
+      "name": "Iron ore",
+      "quantity": "1",
+      "rarity": "2/128",
+      "itemId": 440
+    },
+    {
+      "name": "Coal",
+      "quantity": "2",
+      "rarity": "2/128",
+      "itemId": 453
+    },
+    {
+      "name": "Copper ore",
+      "quantity": "3",
+      "rarity": "2/128",
+      "itemId": 436
+    },
+    {
+      "name": "Oyster",
+      "quantity": "2",
+      "rarity": "12/128",
+      "itemId": 407
+    },
+    {
+      "name": "Oyster",
+      "quantity": "1",
+      "rarity": "9/128",
+      "itemId": 407
+    },
+    {
+      "name": "Empty oyster",
+      "quantity": "1",
+      "rarity": "3/128",
+      "itemId": 409
+    },
+    {
+      "name": "Empty oyster",
+      "quantity": "3",
+      "rarity": "1/128",
+      "itemId": 409
+    },
+    {
+      "name": "Oyster pearl",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 411
+    },
+    {
+      "name": "Coins",
+      "quantity": "4",
+      "rarity": "29/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "8",
+      "rarity": "6/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "36",
+      "rarity": "8/128",
+      "itemId": 995
+    },
+    {
+      "name": "Fishing bait",
+      "quantity": "10",
+      "rarity": "2/128",
+      "itemId": 313
+    },
+    {
+      "name": "Opal bolt tips",
+      "quantity": "5",
+      "rarity": "2/128",
+      "itemId": 45
+    },
+    {
+      "name": "Dead sea slug",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 9683
+    },
+    {
+      "name": "Spinach roll",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 1969
+    },
+    {
+      "name": "Casket",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 405
+    }
+  ]
+}

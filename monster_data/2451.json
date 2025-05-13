@@ -1,0 +1,30 @@
+{
+  "id": 2451,
+  "name": "Animated Iron Armour",
+  "drops": [
+    {
+      "name": "Warrior guild token",
+      "quantity": "10",
+      "rarity": "Always",
+      "itemId": 8851
+    },
+    {
+      "name": "Iron full helm",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 1153
+    },
+    {
+      "name": "Iron platebody",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 1115
+    },
+    {
+      "name": "Iron platelegs",
+      "quantity": "1",
+      "rarity": "9/10",
+      "itemId": 1067
+    }
+  ]
+}

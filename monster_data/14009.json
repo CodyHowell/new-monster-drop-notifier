@@ -1,0 +1,198 @@
+{
+  "id": 14009,
+  "name": "The Hueycoatl",
+  "drops": [
+    {
+      "name": "Big bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 532
+    },
+    {
+      "name": "Dragon hunter wand",
+      "quantity": "1",
+      "rarity": "~1/207",
+      "itemId": 30070
+    },
+    {
+      "name": "Hueycoatl hide",
+      "quantity": "2–3",
+      "rarity": "~1/34.5",
+      "itemId": 30085
+    },
+    {
+      "name": "Tome of earth (empty)",
+      "quantity": "1",
+      "rarity": "~1/92",
+      "itemId": 30066
+    },
+    {
+      "name": "Rune mace",
+      "quantity": "1–26",
+      "rarity": "3/68",
+      "itemId": 1432
+    },
+    {
+      "name": "Rune scimitar",
+      "quantity": "1–20",
+      "rarity": "3/68",
+      "itemId": 1333
+    },
+    {
+      "name": "Rune plateskirt",
+      "quantity": "1–20",
+      "rarity": "2/68",
+      "itemId": 1093
+    },
+    {
+      "name": "Adamant platebody",
+      "quantity": "1–30",
+      "rarity": "3/68",
+      "itemId": 1123
+    },
+    {
+      "name": "Death rune",
+      "quantity": "22–450",
+      "rarity": "3/68",
+      "itemId": 560
+    },
+    {
+      "name": "Earth rune",
+      "quantity": "150–3000",
+      "rarity": "2/68",
+      "itemId": 557
+    },
+    {
+      "name": "Cosmic rune",
+      "quantity": "20–400",
+      "rarity": "2/68",
+      "itemId": 564
+    },
+    {
+      "name": "Nature rune",
+      "quantity": "20–400",
+      "rarity": "2/68",
+      "itemId": 561
+    },
+    {
+      "name": "Lantadyme seed",
+      "quantity": "3–60",
+      "rarity": "2/68",
+      "itemId": 5302
+    },
+    {
+      "name": "Huasca seed",
+      "quantity": "1–20",
+      "rarity": "2/68",
+      "itemId": 30088
+    },
+    {
+      "name": "Toadflax seed",
+      "quantity": "2–40",
+      "rarity": "2/68",
+      "itemId": 5296
+    },
+    {
+      "name": "Torstol seed",
+      "quantity": "1–20",
+      "rarity": "2/68",
+      "itemId": 5304
+    },
+    {
+      "name": "Ranarr seed",
+      "quantity": "1–20",
+      "rarity": "2/68",
+      "itemId": 5295
+    },
+    {
+      "name": "Avantoe seed",
+      "quantity": "1–20",
+      "rarity": "3/68",
+      "itemId": 5298
+    },
+    {
+      "name": "Kwuarm seed",
+      "quantity": "1–20",
+      "rarity": "3/68",
+      "itemId": 5299
+    },
+    {
+      "name": "Soiled page",
+      "quantity": "4–80",
+      "rarity": "5/68",
+      "itemId": 30068
+    },
+    {
+      "name": "Adamant bolts(unf)",
+      "quantity": "15–300",
+      "rarity": "3/68",
+      "itemId": 9380
+    },
+    {
+      "name": "Air orb",
+      "quantity": "4–80",
+      "rarity": "3/68",
+      "itemId": 573
+    },
+    {
+      "name": "Raw shark",
+      "quantity": "9–180",
+      "rarity": "3/68",
+      "itemId": 383
+    },
+    {
+      "name": "Sunfire splinters",
+      "quantity": "17–350",
+      "rarity": "3/68",
+      "itemId": 28924
+    },
+    {
+      "name": "Sun-kissed bones",
+      "quantity": "5–100",
+      "rarity": "3/68",
+      "itemId": 29378
+    },
+    {
+      "name": "Dragon bones",
+      "quantity": "2–40",
+      "rarity": "3/68",
+      "itemId": 536
+    },
+    {
+      "name": "Adamantite ore",
+      "quantity": "6–120",
+      "rarity": "2/68",
+      "itemId": 449
+    },
+    {
+      "name": "Cannonball",
+      "quantity": "60–1200",
+      "rarity": "3/68",
+      "itemId": 2
+    },
+    {
+      "name": "Rune dart tip",
+      "quantity": "6–120",
+      "rarity": "2/68",
+      "itemId": 824
+    },
+    {
+      "name": "Limpwurt root",
+      "quantity": "10–200",
+      "rarity": "2/68",
+      "itemId": 225
+    },
+    {
+      "name": "Huberte",
+      "quantity": "1",
+      "rarity": "1/400",
+      "itemId": 30152
+    },
+    {
+      "name": "Clue scroll (hard)",
+      "quantity": "1",
+      "rarity": "1/50",
+      "itemId": 3550
+    }
+  ]
+}

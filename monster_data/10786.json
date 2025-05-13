@@ -1,0 +1,12 @@
+{
+  "id": 10786,
+  "name": "Nylocas Vasilias",
+  "drops": [
+    {
+      "name": "Arachnids of vampyrium",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 22508
+    }
+  ]
+}

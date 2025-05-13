@@ -1,0 +1,366 @@
+{
+  "id": 7792,
+  "name": "Long-tailed Wyvern",
+  "drops": [
+    {
+      "name": "Wyvern bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 6812
+    },
+    {
+      "name": "Air battlestaff",
+      "quantity": "1",
+      "rarity": "4/123",
+      "itemId": 1397
+    },
+    {
+      "name": "Battlestaff",
+      "quantity": "3–5",
+      "rarity": "3/123",
+      "itemId": 1391
+    },
+    {
+      "name": "Adamant battleaxe",
+      "quantity": "1",
+      "rarity": "2/123",
+      "itemId": 1371
+    },
+    {
+      "name": "Adamant full helm",
+      "quantity": "1",
+      "rarity": "2/123",
+      "itemId": 1161
+    },
+    {
+      "name": "Rune pickaxe",
+      "quantity": "1",
+      "rarity": "2/123",
+      "itemId": 1275
+    },
+    {
+      "name": "Adamant platebody",
+      "quantity": "1",
+      "rarity": "2/123",
+      "itemId": 1123
+    },
+    {
+      "name": "Granite longsword",
+      "quantity": "1",
+      "rarity": "1/512",
+      "itemId": 21646
+    },
+    {
+      "name": "Granite boots",
+      "quantity": "1",
+      "rarity": "1/2560",
+      "itemId": 21643
+    },
+    {
+      "name": "Adamant arrow",
+      "quantity": "38–42",
+      "rarity": "6/123",
+      "itemId": 890
+    },
+    {
+      "name": "Water rune",
+      "quantity": "50",
+      "rarity": "4/123",
+      "itemId": 555
+    },
+    {
+      "name": "Chaos rune",
+      "quantity": "15",
+      "rarity": "4/123",
+      "itemId": 562
+    },
+    {
+      "name": "Law rune",
+      "quantity": "15",
+      "rarity": "4/123",
+      "itemId": 563
+    },
+    {
+      "name": "Death rune",
+      "quantity": "15",
+      "rarity": "4/123",
+      "itemId": 560
+    },
+    {
+      "name": "Blood rune",
+      "quantity": "15",
+      "rarity": "4/123",
+      "itemId": 565
+    },
+    {
+      "name": "Soul rune",
+      "quantity": "10",
+      "rarity": "1/123",
+      "itemId": 566
+    },
+    {
+      "name": "Runite bolts",
+      "quantity": "12–30",
+      "rarity": "1/123",
+      "itemId": 9144
+    },
+    {
+      "name": "Grimy kwuarm",
+      "quantity": "2",
+      "rarity": "1/43.7",
+      "itemId": 213
+    },
+    {
+      "name": "Grimy cadantine",
+      "quantity": "2",
+      "rarity": "1/54.7",
+      "itemId": 215
+    },
+    {
+      "name": "Grimy dwarf weed",
+      "quantity": "2",
+      "rarity": "1/54.7",
+      "itemId": 217
+    },
+    {
+      "name": "Grimy lantadyme",
+      "quantity": "2",
+      "rarity": "1/72.9",
+      "itemId": 2485
+    },
+    {
+      "name": "Grimy ranarr weed",
+      "quantity": "1",
+      "rarity": "2/123",
+      "itemId": 207
+    },
+    {
+      "name": "Grimy torstol",
+      "quantity": "1",
+      "rarity": "2/123",
+      "itemId": 219
+    },
+    {
+      "name": "Seaweed spore",
+      "quantity": "12",
+      "rarity": "2/123",
+      "itemId": 21490
+    },
+    {
+      "name": "Ranarr seed",
+      "quantity": "1",
+      "rarity": "1/58",
+      "itemId": 5295
+    },
+    {
+      "name": "Snapdragon seed",
+      "quantity": "1",
+      "rarity": "1/1098.2",
+      "itemId": 5300
+    },
+    {
+      "name": "Torstol seed",
+      "quantity": "1",
+      "rarity": "1/1397.7",
+      "itemId": 5304
+    },
+    {
+      "name": "Watermelon seed",
+      "quantity": "15",
+      "rarity": "1/1537.5",
+      "itemId": 5321
+    },
+    {
+      "name": "Willow seed",
+      "quantity": "1",
+      "rarity": "1/1537.5",
+      "itemId": 5313
+    },
+    {
+      "name": "Mahogany seed",
+      "quantity": "1",
+      "rarity": "1/303.5",
+      "itemId": 21488
+    },
+    {
+      "name": "Maple seed",
+      "quantity": "1",
+      "rarity": "1/1708.3",
+      "itemId": 5314
+    },
+    {
+      "name": "Teak seed",
+      "quantity": "1",
+      "rarity": "1/166.5",
+      "itemId": 21486
+    },
+    {
+      "name": "Yew seed",
+      "quantity": "1",
+      "rarity": "1/114.7",
+      "itemId": 5315
+    },
+    {
+      "name": "Papaya tree seed",
+      "quantity": "1",
+      "rarity": "1/2196.4",
+      "itemId": 5288
+    },
+    {
+      "name": "Magic seed",
+      "quantity": "1",
+      "rarity": "1/2562.5",
+      "itemId": 5316
+    },
+    {
+      "name": "Palm tree seed",
+      "quantity": "1",
+      "rarity": "1/3075",
+      "itemId": 5289
+    },
+    {
+      "name": "Spirit seed",
+      "quantity": "1",
+      "rarity": "1/3843.8",
+      "itemId": 5317
+    },
+    {
+      "name": "Dragonfruit tree seed",
+      "quantity": "1",
+      "rarity": "1/5125",
+      "itemId": 22877
+    },
+    {
+      "name": "Celastrus seed",
+      "quantity": "1",
+      "rarity": "1/7687.5",
+      "itemId": 22869
+    },
+    {
+      "name": "Redwood tree seed",
+      "quantity": "1",
+      "rarity": "1/7687.5",
+      "itemId": 22871
+    },
+    {
+      "name": "Pure essence",
+      "quantity": "150",
+      "rarity": "8/123",
+      "itemId": 7936
+    },
+    {
+      "name": "Adamantite bar",
+      "quantity": "2–4",
+      "rarity": "6/123",
+      "itemId": 2361
+    },
+    {
+      "name": "Teak logs",
+      "quantity": "35",
+      "rarity": "6/123",
+      "itemId": 6333
+    },
+    {
+      "name": "Snape grass",
+      "quantity": "10–15",
+      "rarity": "3/123",
+      "itemId": 231
+    },
+    {
+      "name": "Runite ore",
+      "quantity": "1–2",
+      "rarity": "3/123",
+      "itemId": 451
+    },
+    {
+      "name": "Lobster",
+      "quantity": "2",
+      "rarity": "8/123",
+      "itemId": 379
+    },
+    {
+      "name": "Coins",
+      "quantity": "3000",
+      "rarity": "11/123",
+      "itemId": 995
+    },
+    {
+      "name": "Prayer potion(4)",
+      "quantity": "1",
+      "rarity": "7/123",
+      "itemId": 2434
+    },
+    {
+      "name": "Adamant crossbow (u)",
+      "quantity": "1",
+      "rarity": "2/123",
+      "itemId": 9463
+    },
+    {
+      "name": "Calcite",
+      "quantity": "2",
+      "rarity": "2/123",
+      "itemId": 21543
+    },
+    {
+      "name": "Pyrophosphite",
+      "quantity": "2",
+      "rarity": "2/123",
+      "itemId": 21545
+    },
+    {
+      "name": "Volcanic ash",
+      "quantity": "20–60",
+      "rarity": "2/123",
+      "itemId": 21622
+    },
+    {
+      "name": "Brimstone key",
+      "quantity": "1",
+      "rarity": "1/72",
+      "itemId": 23083
+    },
+    {
+      "name": "Clue scroll (hard)",
+      "quantity": "1",
+      "rarity": "1/118",
+      "itemId": 3550
+    },
+    {
+      "name": "Wyvern visage",
+      "quantity": "1",
+      "rarity": "1/12000",
+      "itemId": 21637
+    },
+    {
+      "name": "Numulite",
+      "quantity": "5–24",
+      "rarity": "90/175",
+      "itemId": 21555
+    },
+    {
+      "name": "Unidentified small fossil",
+      "quantity": "1",
+      "rarity": "10/350",
+      "itemId": 21562
+    },
+    {
+      "name": "Unidentified medium fossil",
+      "quantity": "1",
+      "rarity": "10/700",
+      "itemId": 21564
+    },
+    {
+      "name": "Unidentified large fossil",
+      "quantity": "1",
+      "rarity": "10/875",
+      "itemId": 21566
+    },
+    {
+      "name": "Unidentified rare fossil",
+      "quantity": "1",
+      "rarity": "10/3500",
+      "itemId": 21568
+    }
+  ]
+}

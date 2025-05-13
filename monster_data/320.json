@@ -1,0 +1,12 @@
+{
+  "id": 320,
+  "name": "Dark energy core",
+  "drops": [
+    {
+      "name": "Ashes",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 592
+    }
+  ]
+}

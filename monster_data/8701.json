@@ -1,0 +1,78 @@
+{
+  "id": 8701,
+  "name": "Big frog",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    },
+    {
+      "name": "Clue scroll (beginner)",
+      "quantity": "1",
+      "rarity": "1/70",
+      "itemId": 23182
+    },
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    },
+    {
+      "name": "Water rune",
+      "quantity": "12",
+      "rarity": "10/128",
+      "itemId": 555
+    },
+    {
+      "name": "Earth rune",
+      "quantity": "12",
+      "rarity": "10/128",
+      "itemId": 557
+    },
+    {
+      "name": "Nature rune",
+      "quantity": "4",
+      "rarity": "7/128",
+      "itemId": 561
+    },
+    {
+      "name": "Cosmic rune",
+      "quantity": "2",
+      "rarity": "6/128",
+      "itemId": 564
+    },
+    {
+      "name": "Coins",
+      "quantity": "5",
+      "rarity": "32/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "15",
+      "rarity": "19/128",
+      "itemId": 995
+    },
+    {
+      "name": "Water talisman",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 1444
+    },
+    {
+      "name": "Earth talisman",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 1440
+    },
+    {
+      "name": "Big frog leg",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 7908
+    }
+  ]
+}

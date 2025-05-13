@@ -1,0 +1,30 @@
+{
+  "id": 3600,
+  "name": "Frogeel",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    },
+    {
+      "name": "Raw cave eel",
+      "quantity": "5–10",
+      "rarity": "Always",
+      "itemId": 5001
+    },
+    {
+      "name": "Plain satchel",
+      "quantity": "1",
+      "rarity": "3/20",
+      "itemId": 10877
+    },
+    {
+      "name": "Tea flask",
+      "quantity": "1",
+      "rarity": "1/10",
+      "itemId": 10859
+    }
+  ]
+}

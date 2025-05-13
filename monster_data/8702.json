@@ -1,0 +1,18 @@
+{
+  "id": 8702,
+  "name": "Frog",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    },
+    {
+      "name": "Clue scroll (beginner)",
+      "quantity": "1",
+      "rarity": "1/90",
+      "itemId": 23182
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 11778,
+  "name": "Ba-Ba",
+  "drops": [
+    {
+      "name": "Apmeken's capture",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 27304
+    },
+    {
+      "name": "Big banana",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 27221
+    }
+  ]
+}

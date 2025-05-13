@@ -1,0 +1,12 @@
+{
+  "id": 11269,
+  "name": "Snothead",
+  "drops": [
+    {
+      "name": "Snothead's bone",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 26589
+    }
+  ]
+}

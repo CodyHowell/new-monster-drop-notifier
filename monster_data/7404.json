@@ -1,0 +1,348 @@
+{
+  "id": 7404,
+  "name": "Choke devil",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    },
+    {
+      "name": "Brimstone key",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 23083
+    },
+    {
+      "name": "Adamant axe",
+      "quantity": "1",
+      "rarity": "3 × 3/128",
+      "itemId": 1357
+    },
+    {
+      "name": "Rune dagger",
+      "quantity": "1",
+      "rarity": "3 × 2/128",
+      "itemId": 1213
+    },
+    {
+      "name": "Red d'hide vambraces",
+      "quantity": "1",
+      "rarity": "3 × 2/128",
+      "itemId": 2489
+    },
+    {
+      "name": "Black d'hide vambraces",
+      "quantity": "1",
+      "rarity": "3 × 1/128",
+      "itemId": 2491
+    },
+    {
+      "name": "Air battlestaff",
+      "quantity": "1",
+      "rarity": "3 × 2/128",
+      "itemId": 1397
+    },
+    {
+      "name": "Earth battlestaff",
+      "quantity": "1",
+      "rarity": "3 × 2/128",
+      "itemId": 1399
+    },
+    {
+      "name": "Mystic air staff",
+      "quantity": "1",
+      "rarity": "3 × 1/128",
+      "itemId": 1405
+    },
+    {
+      "name": "Mystic earth staff",
+      "quantity": "1",
+      "rarity": "3 × 1/128",
+      "itemId": 1407
+    },
+    {
+      "name": "Dragon dagger",
+      "quantity": "1",
+      "rarity": "3 × 1/128",
+      "itemId": 1215
+    },
+    {
+      "name": "Dust battlestaff",
+      "quantity": "1",
+      "rarity": "3 × 1/4000",
+      "itemId": 20736
+    },
+    {
+      "name": "Dragon chainbody",
+      "quantity": "1",
+      "rarity": "3 × 1/32768",
+      "itemId": 3140
+    },
+    {
+      "name": "Dust rune",
+      "quantity": "200",
+      "rarity": "3 × 10/128",
+      "itemId": 4696
+    },
+    {
+      "name": "Earth rune",
+      "quantity": "300",
+      "rarity": "3 × 10/128",
+      "itemId": 557
+    },
+    {
+      "name": "Fire rune",
+      "quantity": "300",
+      "rarity": "3 × 10/128",
+      "itemId": 554
+    },
+    {
+      "name": "Fire rune",
+      "quantity": "50",
+      "rarity": "3 × 1/128",
+      "itemId": 554
+    },
+    {
+      "name": "Chaos rune",
+      "quantity": "80",
+      "rarity": "3 × 7/128",
+      "itemId": 562
+    },
+    {
+      "name": "Rune arrow",
+      "quantity": "12",
+      "rarity": "3 × 5/128",
+      "itemId": 892
+    },
+    {
+      "name": "Soul rune",
+      "quantity": "20",
+      "rarity": "3 × 4/128",
+      "itemId": 566
+    },
+    {
+      "name": "Soul rune",
+      "quantity": "50",
+      "rarity": "3 × 1/128",
+      "itemId": 566
+    },
+    {
+      "name": "Grimy guam leaf",
+      "quantity": "1",
+      "rarity": "3 × 1/64",
+      "itemId": 199
+    },
+    {
+      "name": "Grimy marrentill",
+      "quantity": "1",
+      "rarity": "3 × 1/85.3",
+      "itemId": 201
+    },
+    {
+      "name": "Grimy tarromin",
+      "quantity": "1",
+      "rarity": "3 × 1/113.8",
+      "itemId": 203
+    },
+    {
+      "name": "Grimy harralander",
+      "quantity": "1",
+      "rarity": "3 × 1/146.3",
+      "itemId": 205
+    },
+    {
+      "name": "Grimy ranarr weed",
+      "quantity": "1",
+      "rarity": "3 × 1/186.2",
+      "itemId": 207
+    },
+    {
+      "name": "Grimy irit leaf",
+      "quantity": "1",
+      "rarity": "3 × 1/256",
+      "itemId": 209
+    },
+    {
+      "name": "Grimy avantoe",
+      "quantity": "1",
+      "rarity": "3 × 1/341.3",
+      "itemId": 211
+    },
+    {
+      "name": "Grimy kwuarm",
+      "quantity": "1",
+      "rarity": "3 × 1/409.6",
+      "itemId": 213
+    },
+    {
+      "name": "Grimy cadantine",
+      "quantity": "1",
+      "rarity": "3 × 1/512",
+      "itemId": 215
+    },
+    {
+      "name": "Grimy lantadyme",
+      "quantity": "1",
+      "rarity": "3 × 1/682.7",
+      "itemId": 2485
+    },
+    {
+      "name": "Grimy dwarf weed",
+      "quantity": "1",
+      "rarity": "3 × 1/682.7",
+      "itemId": 217
+    },
+    {
+      "name": "Coins",
+      "quantity": "2000–4000",
+      "rarity": "3 × 32/128",
+      "itemId": 995
+    },
+    {
+      "name": "Ugthanki kebab",
+      "quantity": "4",
+      "rarity": "3 × 2/128",
+      "itemId": 1885
+    },
+    {
+      "name": "Mithril bar",
+      "quantity": "10",
+      "rarity": "3 × 3/128",
+      "itemId": 2359
+    },
+    {
+      "name": "Adamantite bar",
+      "quantity": "4",
+      "rarity": "3 × 1/128",
+      "itemId": 2361
+    },
+    {
+      "name": "Uncut sapphire",
+      "quantity": "1",
+      "rarity": "3 × 1/64",
+      "itemId": 1623
+    },
+    {
+      "name": "Uncut emerald",
+      "quantity": "1",
+      "rarity": "3 × 1/128",
+      "itemId": 1621
+    },
+    {
+      "name": "Uncut ruby",
+      "quantity": "1",
+      "rarity": "3 × 1/256",
+      "itemId": 1619
+    },
+    {
+      "name": "Uncut diamond",
+      "quantity": "1",
+      "rarity": "3 × 1/1024",
+      "itemId": 1617
+    },
+    {
+      "name": "Nature talisman",
+      "quantity": "1",
+      "rarity": "3 × 1/682.67",
+      "itemId": 1462
+    },
+    {
+      "name": "Loop half of key",
+      "quantity": "1",
+      "rarity": "3 × 1/2048",
+      "itemId": 987
+    },
+    {
+      "name": "Tooth half of key",
+      "quantity": "1",
+      "rarity": "3 × 1/2048",
+      "itemId": 985
+    },
+    {
+      "name": "Rune javelin",
+      "quantity": "5",
+      "rarity": "3 × 1/2048",
+      "itemId": 830
+    },
+    {
+      "name": "Rune spear",
+      "quantity": "1",
+      "rarity": "3 × 1/32768",
+      "itemId": 1247
+    },
+    {
+      "name": "Shield left half",
+      "quantity": "1",
+      "rarity": "3 × 1/65536",
+      "itemId": 2366
+    },
+    {
+      "name": "Dragon spear",
+      "quantity": "1",
+      "rarity": "3 × 1/87381.33",
+      "itemId": 1249
+    },
+    {
+      "name": "Ancient shard",
+      "quantity": "1",
+      "rarity": "1/133",
+      "itemId": 19677
+    },
+    {
+      "name": "Dark totem base",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 19679
+    },
+    {
+      "name": "Dark totem middle",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 19681
+    },
+    {
+      "name": "Dark totem top",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 19683
+    },
+    {
+      "name": "Larran's key",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 23490
+    },
+    {
+      "name": "Slayer's enchantment",
+      "quantity": "1",
+      "rarity": "1/80",
+      "itemId": 21257
+    },
+    {
+      "name": "Mist battlestaff",
+      "quantity": "1",
+      "rarity": "1/194",
+      "itemId": 20730
+    },
+    {
+      "name": "Dust battlestaff",
+      "quantity": "1",
+      "rarity": "1/194",
+      "itemId": 20736
+    },
+    {
+      "name": "Eternal gem",
+      "quantity": "1",
+      "rarity": "1/680",
+      "itemId": 21270
+    },
+    {
+      "name": "Imbued heart",
+      "quantity": "1",
+      "rarity": "1/680",
+      "itemId": 20724
+    }
+  ]
+}

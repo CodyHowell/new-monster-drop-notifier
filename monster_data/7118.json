@@ -1,0 +1,72 @@
+{
+  "id": 7118,
+  "name": "Maniacal monkey",
+  "drops": [
+    {
+      "name": "Small ninja monkey bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 3179
+    },
+    {
+      "name": "Steel scimitar",
+      "quantity": "1",
+      "rarity": "2/20",
+      "itemId": 1325
+    },
+    {
+      "name": "Maple shortbow",
+      "quantity": "1",
+      "rarity": "1/20",
+      "itemId": 853
+    },
+    {
+      "name": "Oak plank",
+      "quantity": "1",
+      "rarity": "3/20",
+      "itemId": 8778
+    },
+    {
+      "name": "Grimy guam leaf",
+      "quantity": "1",
+      "rarity": "2/20",
+      "itemId": 199
+    },
+    {
+      "name": "Banana",
+      "quantity": "1",
+      "rarity": "2/20",
+      "itemId": 1963
+    },
+    {
+      "name": "Adamant arrow(p++)",
+      "quantity": "5",
+      "rarity": "1/20",
+      "itemId": 5626
+    },
+    {
+      "name": "Antipoison(2)",
+      "quantity": "1",
+      "rarity": "2/20",
+      "itemId": 177
+    },
+    {
+      "name": "Bass",
+      "quantity": "2",
+      "rarity": "4/20",
+      "itemId": 365
+    },
+    {
+      "name": "Prayer potion(1)",
+      "quantity": "1",
+      "rarity": "2/20",
+      "itemId": 143
+    },
+    {
+      "name": "Rope",
+      "quantity": "1",
+      "rarity": "1/20",
+      "itemId": 954
+    }
+  ]
+}

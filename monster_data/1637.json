@@ -1,0 +1,126 @@
+{
+  "id": 1637,
+  "name": "Gourmet impling",
+  "drops": [
+    {
+      "name": "Grubby key",
+      "quantity": "1",
+      "rarity": "1/500",
+      "itemId": 23499
+    },
+    {
+      "name": "Tuna",
+      "quantity": "1",
+      "rarity": "1/5",
+      "itemId": 361
+    },
+    {
+      "name": "Bass",
+      "quantity": "1",
+      "rarity": "1/10",
+      "itemId": 365
+    },
+    {
+      "name": "Curry",
+      "quantity": "1",
+      "rarity": "1/10",
+      "itemId": 2011
+    },
+    {
+      "name": "Meat pie",
+      "quantity": "1",
+      "rarity": "1/10",
+      "itemId": 2327
+    },
+    {
+      "name": "Chocolate cake",
+      "quantity": "1",
+      "rarity": "1/10",
+      "itemId": 1897
+    },
+    {
+      "name": "Frog spawn",
+      "quantity": "1",
+      "rarity": "1/10",
+      "itemId": 5004
+    },
+    {
+      "name": "Spice",
+      "quantity": "1",
+      "rarity": "1/10",
+      "itemId": 2007
+    },
+    {
+      "name": "Curry leaf",
+      "quantity": "1",
+      "rarity": "1/10",
+      "itemId": 5970
+    },
+    {
+      "name": "Ugthanki kebab",
+      "quantity": "1",
+      "rarity": "1/100",
+      "itemId": 1885
+    },
+    {
+      "name": "Lobster",
+      "quantity": "4",
+      "rarity": "1/100",
+      "itemId": 379
+    },
+    {
+      "name": "Shark",
+      "quantity": "3",
+      "rarity": "1/100",
+      "itemId": 385
+    },
+    {
+      "name": "Fish pie",
+      "quantity": "1",
+      "rarity": "1/100",
+      "itemId": 7188
+    },
+    {
+      "name": "Chef's delight",
+      "quantity": "1",
+      "rarity": "1/100",
+      "itemId": 5755
+    },
+    {
+      "name": "Rainbow fish",
+      "quantity": "5",
+      "rarity": "1/100",
+      "itemId": 10136
+    },
+    {
+      "name": "Garden pie",
+      "quantity": "6",
+      "rarity": "1/100",
+      "itemId": 7178
+    },
+    {
+      "name": "Swordfish",
+      "quantity": "3",
+      "rarity": "1/100",
+      "itemId": 373
+    },
+    {
+      "name": "Strawberries(5)",
+      "quantity": "1",
+      "rarity": "1/100",
+      "itemId": 5406
+    },
+    {
+      "name": "Cooked karambwan",
+      "quantity": "2",
+      "rarity": "1/100",
+      "itemId": 3144
+    },
+    {
+      "name": "Clue scroll (easy)",
+      "quantity": "1",
+      "rarity": "1/25",
+      "itemId": 12179
+    }
+  ]
+}

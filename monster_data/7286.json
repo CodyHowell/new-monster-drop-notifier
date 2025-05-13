@@ -1,0 +1,210 @@
+{
+  "id": 7286,
+  "name": "Skotizo",
+  "drops": [
+    {
+      "name": "Infernal ashes",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 25778
+    },
+    {
+      "name": "Clue scroll (hard)",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 3550
+    },
+    {
+      "name": "Ancient shard",
+      "quantity": "1",
+      "rarity": "3/4",
+      "itemId": 19677
+    },
+    {
+      "name": "Ancient shard",
+      "quantity": "2",
+      "rarity": "3/20",
+      "itemId": 19677
+    },
+    {
+      "name": "Ancient shard",
+      "quantity": "3",
+      "rarity": "1/20",
+      "itemId": 19677
+    },
+    {
+      "name": "Ancient shard",
+      "quantity": "4",
+      "rarity": "1/25",
+      "itemId": 19677
+    },
+    {
+      "name": "Ancient shard",
+      "quantity": "5",
+      "rarity": "1/100",
+      "itemId": 19677
+    },
+    {
+      "name": "Uncut dragonstone",
+      "quantity": "10",
+      "rarity": "9/1000",
+      "itemId": 1631
+    },
+    {
+      "name": "Uncut onyx",
+      "quantity": "1",
+      "rarity": "1/1000",
+      "itemId": 6571
+    },
+    {
+      "name": "Rune platebody",
+      "quantity": "3",
+      "rarity": "7/100",
+      "itemId": 1127
+    },
+    {
+      "name": "Rune platelegs",
+      "quantity": "3",
+      "rarity": "7/100",
+      "itemId": 1079
+    },
+    {
+      "name": "Rune plateskirt",
+      "quantity": "3",
+      "rarity": "7/100",
+      "itemId": 1093
+    },
+    {
+      "name": "Death rune",
+      "quantity": "500",
+      "rarity": "7/100",
+      "itemId": 560
+    },
+    {
+      "name": "Soul rune",
+      "quantity": "450",
+      "rarity": "7/100",
+      "itemId": 566
+    },
+    {
+      "name": "Blood rune",
+      "quantity": "450",
+      "rarity": "7/100",
+      "itemId": 565
+    },
+    {
+      "name": "Adamantite ore",
+      "quantity": "75",
+      "rarity": "7/100",
+      "itemId": 449
+    },
+    {
+      "name": "Grimy snapdragon",
+      "quantity": "20",
+      "rarity": "7/100",
+      "itemId": 3051
+    },
+    {
+      "name": "Grimy torstol",
+      "quantity": "20",
+      "rarity": "7/100",
+      "itemId": 219
+    },
+    {
+      "name": "Raw anglerfish",
+      "quantity": "60",
+      "rarity": "7/100",
+      "itemId": 13439
+    },
+    {
+      "name": "Runite bar",
+      "quantity": "20",
+      "rarity": "7/100",
+      "itemId": 2363
+    },
+    {
+      "name": "Mahogany plank",
+      "quantity": "150",
+      "rarity": "7/100",
+      "itemId": 8782
+    },
+    {
+      "name": "Battlestaff",
+      "quantity": "25",
+      "rarity": "7/100",
+      "itemId": 1391
+    },
+    {
+      "name": "Onyx bolt tips",
+      "quantity": "40",
+      "rarity": "7/100",
+      "itemId": 9194
+    },
+    {
+      "name": "Shield left half",
+      "quantity": "1",
+      "rarity": "1/100",
+      "itemId": 2366
+    },
+    {
+      "name": "Clue scroll (elite)",
+      "quantity": "1",
+      "rarity": "1/5",
+      "itemId": 21524
+    },
+    {
+      "name": "Ensouled demon head",
+      "quantity": "1",
+      "rarity": "~1/9",
+      "itemId": 13502
+    },
+    {
+      "name": "Dark claw",
+      "quantity": "1",
+      "rarity": "1/25",
+      "itemId": 21275
+    },
+    {
+      "name": "Brimstone key",
+      "quantity": "1",
+      "rarity": "1/56",
+      "itemId": 23083
+    },
+    {
+      "name": "Skotos",
+      "quantity": "1",
+      "rarity": "1/65",
+      "itemId": 21273
+    },
+    {
+      "name": "Dark totem base",
+      "quantity": "1",
+      "rarity": "3/128",
+      "itemId": 19679
+    },
+    {
+      "name": "Dark totem middle",
+      "quantity": "1",
+      "rarity": "3/128",
+      "itemId": 19681
+    },
+    {
+      "name": "Dark totem top",
+      "quantity": "1",
+      "rarity": "3/128",
+      "itemId": 19683
+    },
+    {
+      "name": "Dark totem",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 19685
+    },
+    {
+      "name": "Jar of darkness",
+      "quantity": "1",
+      "rarity": "1/200",
+      "itemId": 19701
+    }
+  ]
+}

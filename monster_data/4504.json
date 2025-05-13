@@ -1,0 +1,12 @@
+{
+  "id": 4504,
+  "name": "Giant bat (Brine Rat Cavern)",
+  "drops": [
+    {
+      "name": "Bat bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 530
+    }
+  ]
+}

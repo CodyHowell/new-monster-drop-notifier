@@ -1,0 +1,216 @@
+{
+  "id": 5126,
+  "name": "Experiment No.2",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    },
+    {
+      "name": "Shrunk ogleroot",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 11205
+    },
+    {
+      "name": "Earth rune",
+      "quantity": "1–20",
+      "rarity": "10/128",
+      "itemId": 557
+    },
+    {
+      "name": "Water rune",
+      "quantity": "1–14",
+      "rarity": "10/128",
+      "itemId": 555
+    },
+    {
+      "name": "Chaos rune",
+      "quantity": "1–15",
+      "rarity": "7/128",
+      "itemId": 562
+    },
+    {
+      "name": "Nature rune",
+      "quantity": "1–5",
+      "rarity": "3/128",
+      "itemId": 561
+    },
+    {
+      "name": "Grimy tarromin",
+      "quantity": "1–3",
+      "rarity": "27/128",
+      "itemId": 203
+    },
+    {
+      "name": "Grimy guam leaf",
+      "quantity": "1",
+      "rarity": "1/12.2",
+      "itemId": 199
+    },
+    {
+      "name": "Grimy marrentill",
+      "quantity": "1",
+      "rarity": "1/16.3",
+      "itemId": 201
+    },
+    {
+      "name": "Grimy tarromin",
+      "quantity": "1",
+      "rarity": "1/21.7",
+      "itemId": 203
+    },
+    {
+      "name": "Grimy harralander",
+      "quantity": "1",
+      "rarity": "1/27.9",
+      "itemId": 205
+    },
+    {
+      "name": "Grimy ranarr weed",
+      "quantity": "1",
+      "rarity": "1/35.5",
+      "itemId": 207
+    },
+    {
+      "name": "Grimy irit leaf",
+      "quantity": "1",
+      "rarity": "1/48.8",
+      "itemId": 209
+    },
+    {
+      "name": "Grimy avantoe",
+      "quantity": "1",
+      "rarity": "1/65",
+      "itemId": 211
+    },
+    {
+      "name": "Grimy kwuarm",
+      "quantity": "1",
+      "rarity": "1/78",
+      "itemId": 213
+    },
+    {
+      "name": "Grimy cadantine",
+      "quantity": "1",
+      "rarity": "1/97.5",
+      "itemId": 215
+    },
+    {
+      "name": "Grimy lantadyme",
+      "quantity": "1",
+      "rarity": "1/130",
+      "itemId": 2485
+    },
+    {
+      "name": "Grimy dwarf weed",
+      "quantity": "1",
+      "rarity": "1/130",
+      "itemId": 217
+    },
+    {
+      "name": "Coins",
+      "quantity": "1–75",
+      "rarity": "18/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "76–100",
+      "rarity": "3/128",
+      "itemId": 995
+    },
+    {
+      "name": "Mole claw",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 7416
+    },
+    {
+      "name": "Mystic earth staff",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 1407
+    },
+    {
+      "name": "Uncut sapphire",
+      "quantity": "1",
+      "rarity": "1/85.33",
+      "itemId": 1623
+    },
+    {
+      "name": "Uncut emerald",
+      "quantity": "1",
+      "rarity": "1/170.67",
+      "itemId": 1621
+    },
+    {
+      "name": "Uncut ruby",
+      "quantity": "1",
+      "rarity": "1/341.33",
+      "itemId": 1619
+    },
+    {
+      "name": "Uncut diamond",
+      "quantity": "1",
+      "rarity": "1/1365.33",
+      "itemId": 1617
+    },
+    {
+      "name": "Chaos talisman",
+      "quantity": "1",
+      "rarity": "1/910.22",
+      "itemId": 1452
+    },
+    {
+      "name": "Loop half of key",
+      "quantity": "1",
+      "rarity": "1/2730.67",
+      "itemId": 987
+    },
+    {
+      "name": "Tooth half of key",
+      "quantity": "1",
+      "rarity": "1/2730.67",
+      "itemId": 985
+    },
+    {
+      "name": "Rune javelin",
+      "quantity": "5",
+      "rarity": "1/2730.67",
+      "itemId": 830
+    },
+    {
+      "name": "Rune spear",
+      "quantity": "1",
+      "rarity": "1/43690.67",
+      "itemId": 1247
+    },
+    {
+      "name": "Shield left half",
+      "quantity": "1",
+      "rarity": "1/87381.33",
+      "itemId": 2366
+    },
+    {
+      "name": "Dragon spear",
+      "quantity": "1",
+      "rarity": "1/116508.44",
+      "itemId": 1249
+    },
+    {
+      "name": "Experiment bone",
+      "quantity": "1",
+      "rarity": "1/4",
+      "itemId": 7893
+    },
+    {
+      "name": "Clue scroll (hard)",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 3550
+    }
+  ]
+}

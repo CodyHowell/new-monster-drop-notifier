@@ -1,0 +1,24 @@
+{
+  "id": 880,
+  "name": "Zombie (Zogre Flesh Eaters)",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    },
+    {
+      "name": "Ruined backpack",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 4810
+    },
+    {
+      "name": "Zombie champion scroll",
+      "quantity": "1",
+      "rarity": "1/5000",
+      "itemId": 6807
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": 1173,
+  "name": "Chicken",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    },
+    {
+      "name": "Raw chicken",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 2138
+    },
+    {
+      "name": "Feather",
+      "quantity": "5",
+      "rarity": "64/128",
+      "itemId": 314
+    },
+    {
+      "name": "Feather",
+      "quantity": "15",
+      "rarity": "32/128",
+      "itemId": 314
+    },
+    {
+      "name": "Clue scroll (beginner)",
+      "quantity": "1",
+      "rarity": "1/300",
+      "itemId": 23182
+    }
+  ]
+}

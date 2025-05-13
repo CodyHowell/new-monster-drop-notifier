@@ -1,0 +1,258 @@
+{
+  "id": 526,
+  "name": "Rogue",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    },
+    {
+      "name": "Bronze med helm",
+      "quantity": "1",
+      "rarity": "2/128",
+      "itemId": 1139
+    },
+    {
+      "name": "Iron dagger",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 1203
+    },
+    {
+      "name": "Bronze bolts",
+      "quantity": "2–12",
+      "rarity": "22/128",
+      "itemId": 877
+    },
+    {
+      "name": "Bronze arrow",
+      "quantity": "7",
+      "rarity": "3/128",
+      "itemId": 882
+    },
+    {
+      "name": "Earth rune",
+      "quantity": "4",
+      "rarity": "2/128",
+      "itemId": 557
+    },
+    {
+      "name": "Fire rune",
+      "quantity": "6",
+      "rarity": "2/128",
+      "itemId": 554
+    },
+    {
+      "name": "Mind rune",
+      "quantity": "9",
+      "rarity": "2/128",
+      "itemId": 558
+    },
+    {
+      "name": "Chaos rune",
+      "quantity": "2",
+      "rarity": "1/128",
+      "itemId": 562
+    },
+    {
+      "name": "Grimy guam leaf",
+      "quantity": "1",
+      "rarity": "1/22.3",
+      "itemId": 199
+    },
+    {
+      "name": "Grimy marrentill",
+      "quantity": "1",
+      "rarity": "1/29.7",
+      "itemId": 201
+    },
+    {
+      "name": "Grimy tarromin",
+      "quantity": "1",
+      "rarity": "1/39.6",
+      "itemId": 203
+    },
+    {
+      "name": "Grimy harralander",
+      "quantity": "1",
+      "rarity": "1/50.9",
+      "itemId": 205
+    },
+    {
+      "name": "Grimy ranarr weed",
+      "quantity": "1",
+      "rarity": "1/64.8",
+      "itemId": 207
+    },
+    {
+      "name": "Grimy irit leaf",
+      "quantity": "1",
+      "rarity": "1/89",
+      "itemId": 209
+    },
+    {
+      "name": "Grimy avantoe",
+      "quantity": "1",
+      "rarity": "1/118.7",
+      "itemId": 211
+    },
+    {
+      "name": "Grimy kwuarm",
+      "quantity": "1",
+      "rarity": "1/142.5",
+      "itemId": 213
+    },
+    {
+      "name": "Grimy cadantine",
+      "quantity": "1",
+      "rarity": "1/178.1",
+      "itemId": 215
+    },
+    {
+      "name": "Grimy lantadyme",
+      "quantity": "1",
+      "rarity": "1/237.4",
+      "itemId": 2485
+    },
+    {
+      "name": "Grimy dwarf weed",
+      "quantity": "1",
+      "rarity": "1/237.4",
+      "itemId": 217
+    },
+    {
+      "name": "Coins",
+      "quantity": "3",
+      "rarity": "38/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "5",
+      "rarity": "9/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "15",
+      "rarity": "4/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "25",
+      "rarity": "1/128",
+      "itemId": 995
+    },
+    {
+      "name": "Fishing bait",
+      "quantity": "1",
+      "rarity": "5/128",
+      "itemId": 313
+    },
+    {
+      "name": "Copper ore",
+      "quantity": "1",
+      "rarity": "2/128",
+      "itemId": 436
+    },
+    {
+      "name": "Earth talisman",
+      "quantity": "1",
+      "rarity": "2/128",
+      "itemId": 1440
+    },
+    {
+      "name": "Cabbage",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 1965
+    },
+    {
+      "name": "Looting bag",
+      "quantity": "1",
+      "rarity": "1/10",
+      "itemId": 11941
+    },
+    {
+      "name": "Clue scroll (beginner)",
+      "quantity": "1",
+      "rarity": "1/90",
+      "itemId": 23182
+    },
+    {
+      "name": "Clue scroll (easy)",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 12179
+    },
+    {
+      "name": "Larran's key",
+      "quantity": "1",
+      "rarity": "1/1367",
+      "itemId": 23490
+    },
+    {
+      "name": "Slayer's enchantment",
+      "quantity": "1",
+      "rarity": "1/307",
+      "itemId": 21257
+    },
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    },
+    {
+      "name": "Coins",
+      "quantity": "1000–3000",
+      "rarity": "Always",
+      "itemId": 995
+    },
+    {
+      "name": "Larran's key",
+      "quantity": "1",
+      "rarity": "1/89",
+      "itemId": 23490
+    },
+    {
+      "name": "Slayer's enchantment",
+      "quantity": "1",
+      "rarity": "1/220",
+      "itemId": 21257
+    },
+    {
+      "name": "Coins",
+      "quantity": "25–40",
+      "rarity": "123/144",
+      "itemId": 995
+    },
+    {
+      "name": "Air rune",
+      "quantity": "8",
+      "rarity": "9/144",
+      "itemId": 556
+    },
+    {
+      "name": "Jug of wine",
+      "quantity": "1",
+      "rarity": "6/144",
+      "itemId": 1993
+    },
+    {
+      "name": "Lockpick",
+      "quantity": "1",
+      "rarity": "5/144",
+      "itemId": 1523
+    },
+    {
+      "name": "Iron dagger(p)",
+      "quantity": "1",
+      "rarity": "1/144",
+      "itemId": 1219
+    }
+  ]
+}

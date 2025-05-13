@@ -1,0 +1,12 @@
+{
+  "id": 10523,
+  "name": "Forgotten Soul (Soul Wars)",
+  "drops": [
+    {
+      "name": "Soul fragment",
+      "quantity": "2",
+      "rarity": "Always",
+      "itemId": 25196
+    }
+  ]
+}

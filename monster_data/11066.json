@@ -1,0 +1,24 @@
+{
+  "id": 11066,
+  "name": "Boar",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    },
+    {
+      "name": "Raw boar meat",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 25833
+    },
+    {
+      "name": "Clue scroll (beginner)",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 23182
+    }
+  ]
+}

@@ -1,0 +1,294 @@
+{
+  "id": 926,
+  "name": "Stick",
+  "drops": [
+    {
+      "name": "Big bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 532
+    },
+    {
+      "name": "Steel platebody",
+      "quantity": "1",
+      "rarity": "4/128",
+      "itemId": 1119
+    },
+    {
+      "name": "Black warhammer",
+      "quantity": "1",
+      "rarity": "3/128",
+      "itemId": 1341
+    },
+    {
+      "name": "Steel warhammer",
+      "quantity": "1",
+      "rarity": "3/128",
+      "itemId": 1339
+    },
+    {
+      "name": "Adamant axe",
+      "quantity": "1",
+      "rarity": "2/128",
+      "itemId": 1357
+    },
+    {
+      "name": "Adamant sq shield",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 1183
+    },
+    {
+      "name": "Granite shield",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 3122
+    },
+    {
+      "name": "Mithril platebody",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 1121
+    },
+    {
+      "name": "Rune warhammer",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 1347
+    },
+    {
+      "name": "Earth rune",
+      "quantity": "80",
+      "rarity": "8/128",
+      "itemId": 557
+    },
+    {
+      "name": "Nature rune",
+      "quantity": "16",
+      "rarity": "5/128",
+      "itemId": 561
+    },
+    {
+      "name": "Law rune",
+      "quantity": "4",
+      "rarity": "3/128",
+      "itemId": 563
+    },
+    {
+      "name": "Earth rune",
+      "quantity": "65",
+      "rarity": "1/128",
+      "itemId": 557
+    },
+    {
+      "name": "Earth rune",
+      "quantity": "25",
+      "rarity": "1/128",
+      "itemId": 557
+    },
+    {
+      "name": "Grimy guam leaf",
+      "quantity": "1",
+      "rarity": "1/34.1",
+      "itemId": 199
+    },
+    {
+      "name": "Grimy marrentill",
+      "quantity": "1",
+      "rarity": "1/45.5",
+      "itemId": 201
+    },
+    {
+      "name": "Grimy tarromin",
+      "quantity": "1",
+      "rarity": "1/60.7",
+      "itemId": 203
+    },
+    {
+      "name": "Grimy harralander",
+      "quantity": "1",
+      "rarity": "1/78",
+      "itemId": 205
+    },
+    {
+      "name": "Grimy ranarr weed",
+      "quantity": "1",
+      "rarity": "1/99.3",
+      "itemId": 207
+    },
+    {
+      "name": "Grimy irit leaf",
+      "quantity": "1",
+      "rarity": "1/136.5",
+      "itemId": 209
+    },
+    {
+      "name": "Grimy avantoe",
+      "quantity": "1",
+      "rarity": "1/182",
+      "itemId": 211
+    },
+    {
+      "name": "Grimy kwuarm",
+      "quantity": "1",
+      "rarity": "1/218.5",
+      "itemId": 213
+    },
+    {
+      "name": "Grimy cadantine",
+      "quantity": "1",
+      "rarity": "1/273.1",
+      "itemId": 215
+    },
+    {
+      "name": "Grimy lantadyme",
+      "quantity": "1",
+      "rarity": "1/364.1",
+      "itemId": 2485
+    },
+    {
+      "name": "Grimy dwarf weed",
+      "quantity": "1",
+      "rarity": "1/364.1",
+      "itemId": 217
+    },
+    {
+      "name": "Coins",
+      "quantity": "40",
+      "rarity": "29/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "135",
+      "rarity": "25/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "190",
+      "rarity": "10/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "20",
+      "rarity": "4/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "420",
+      "rarity": "1/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coal",
+      "quantity": "6",
+      "rarity": "3/128",
+      "itemId": 453
+    },
+    {
+      "name": "Raw tuna",
+      "quantity": "4",
+      "rarity": "2/128",
+      "itemId": 359
+    },
+    {
+      "name": "Uncut sapphire",
+      "quantity": "1",
+      "rarity": "1/102.4",
+      "itemId": 1623
+    },
+    {
+      "name": "Uncut emerald",
+      "quantity": "1",
+      "rarity": "1/204.8",
+      "itemId": 1621
+    },
+    {
+      "name": "Uncut ruby",
+      "quantity": "1",
+      "rarity": "1/409.6",
+      "itemId": 1619
+    },
+    {
+      "name": "Uncut diamond",
+      "quantity": "1",
+      "rarity": "1/1638.4",
+      "itemId": 1617
+    },
+    {
+      "name": "Nature talisman",
+      "quantity": "1",
+      "rarity": "1/1092.27",
+      "itemId": 1462
+    },
+    {
+      "name": "Loop half of key",
+      "quantity": "1",
+      "rarity": "1/3276.8",
+      "itemId": 987
+    },
+    {
+      "name": "Tooth half of key",
+      "quantity": "1",
+      "rarity": "1/3276.8",
+      "itemId": 985
+    },
+    {
+      "name": "Rune javelin",
+      "quantity": "5",
+      "rarity": "1/3276.8",
+      "itemId": 830
+    },
+    {
+      "name": "Rune spear",
+      "quantity": "1",
+      "rarity": "1/52428.8",
+      "itemId": 1247
+    },
+    {
+      "name": "Shield left half",
+      "quantity": "1",
+      "rarity": "1/104857.6",
+      "itemId": 2366
+    },
+    {
+      "name": "Dragon spear",
+      "quantity": "1",
+      "rarity": "1/139810.13",
+      "itemId": 1249
+    },
+    {
+      "name": "Troll bone",
+      "quantity": "1",
+      "rarity": "1/4",
+      "itemId": 7884
+    },
+    {
+      "name": "Ensouled troll head",
+      "quantity": "1",
+      "rarity": "1/28",
+      "itemId": 13484
+    },
+    {
+      "name": "Brimstone key",
+      "quantity": "1",
+      "rarity": "1/100",
+      "itemId": 23083
+    },
+    {
+      "name": "Long bone",
+      "quantity": "1",
+      "rarity": "1/400",
+      "itemId": 10976
+    },
+    {
+      "name": "Curved bone",
+      "quantity": "1",
+      "rarity": "1/5012.5",
+      "itemId": 10977
+    }
+  ]
+}

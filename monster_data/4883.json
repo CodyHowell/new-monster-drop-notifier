@@ -1,0 +1,12 @@
+{
+  "id": 4883,
+  "name": "Dessourt",
+  "drops": [
+    {
+      "name": "Chocolate dust",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 1975
+    }
+  ]
+}

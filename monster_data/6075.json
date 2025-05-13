@@ -1,0 +1,618 @@
+{
+  "id": 6075,
+  "name": "Tortoise",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    },
+    {
+      "name": "Nature rune",
+      "quantity": "1–3",
+      "rarity": "10/128",
+      "itemId": 561
+    },
+    {
+      "name": "Steel arrow",
+      "quantity": "12–23",
+      "rarity": "20/128",
+      "itemId": 886
+    },
+    {
+      "name": "Earth rune",
+      "quantity": "10–14",
+      "rarity": "5/128",
+      "itemId": 557
+    },
+    {
+      "name": "Grimy guam leaf",
+      "quantity": "1",
+      "rarity": "1/51.2",
+      "itemId": 199
+    },
+    {
+      "name": "Grimy marrentill",
+      "quantity": "1",
+      "rarity": "1/68.3",
+      "itemId": 201
+    },
+    {
+      "name": "Grimy tarromin",
+      "quantity": "1",
+      "rarity": "1/91",
+      "itemId": 203
+    },
+    {
+      "name": "Grimy harralander",
+      "quantity": "1",
+      "rarity": "1/117",
+      "itemId": 205
+    },
+    {
+      "name": "Grimy ranarr weed",
+      "quantity": "1",
+      "rarity": "1/148.9",
+      "itemId": 207
+    },
+    {
+      "name": "Grimy irit leaf",
+      "quantity": "1",
+      "rarity": "1/204.8",
+      "itemId": 209
+    },
+    {
+      "name": "Grimy avantoe",
+      "quantity": "1",
+      "rarity": "1/273.1",
+      "itemId": 211
+    },
+    {
+      "name": "Grimy kwuarm",
+      "quantity": "1",
+      "rarity": "1/327.7",
+      "itemId": 213
+    },
+    {
+      "name": "Grimy cadantine",
+      "quantity": "1",
+      "rarity": "1/409.6",
+      "itemId": 215
+    },
+    {
+      "name": "Grimy lantadyme",
+      "quantity": "1",
+      "rarity": "1/546.1",
+      "itemId": 2485
+    },
+    {
+      "name": "Grimy dwarf weed",
+      "quantity": "1",
+      "rarity": "1/546.1",
+      "itemId": 217
+    },
+    {
+      "name": "Cabbage seed",
+      "quantity": "10–19",
+      "rarity": "10/128",
+      "itemId": 5324
+    },
+    {
+      "name": "Potato seed",
+      "quantity": "4",
+      "rarity": "1/57",
+      "itemId": 5318
+    },
+    {
+      "name": "Onion seed",
+      "quantity": "4",
+      "rarity": "1/76",
+      "itemId": 5319
+    },
+    {
+      "name": "Cabbage seed",
+      "quantity": "4",
+      "rarity": "1/114",
+      "itemId": 5324
+    },
+    {
+      "name": "Tomato seed",
+      "quantity": "3",
+      "rarity": "1/228",
+      "itemId": 5322
+    },
+    {
+      "name": "Sweetcorn seed",
+      "quantity": "3",
+      "rarity": "1/456",
+      "itemId": 5320
+    },
+    {
+      "name": "Strawberry seed",
+      "quantity": "2",
+      "rarity": "1/913",
+      "itemId": 5323
+    },
+    {
+      "name": "Watermelon seed",
+      "quantity": "2",
+      "rarity": "1/1910",
+      "itemId": 5321
+    },
+    {
+      "name": "Snape grass seed",
+      "quantity": "2",
+      "rarity": "1/2627",
+      "itemId": 22879
+    },
+    {
+      "name": "Barley seed",
+      "quantity": "4",
+      "rarity": "1/181",
+      "itemId": 5305
+    },
+    {
+      "name": "Hammerstone seed",
+      "quantity": "3",
+      "rarity": "1/182",
+      "itemId": 5307
+    },
+    {
+      "name": "Asgarnian seed",
+      "quantity": "3",
+      "rarity": "1/241",
+      "itemId": 5308
+    },
+    {
+      "name": "Jute seed",
+      "quantity": "2",
+      "rarity": "1/243",
+      "itemId": 5306
+    },
+    {
+      "name": "Yanillian seed",
+      "quantity": "2",
+      "rarity": "1/365",
+      "itemId": 5309
+    },
+    {
+      "name": "Krandorian seed",
+      "quantity": "2",
+      "rarity": "1/730",
+      "itemId": 5310
+    },
+    {
+      "name": "Wildblood seed",
+      "quantity": "1",
+      "rarity": "1/1434",
+      "itemId": 5311
+    },
+    {
+      "name": "Marigold seed",
+      "quantity": "1",
+      "rarity": "1/433",
+      "itemId": 5096
+    },
+    {
+      "name": "Nasturtium seed",
+      "quantity": "1",
+      "rarity": "1/655",
+      "itemId": 5098
+    },
+    {
+      "name": "Rosemary seed",
+      "quantity": "1",
+      "rarity": "1/1013",
+      "itemId": 5097
+    },
+    {
+      "name": "Woad seed",
+      "quantity": "1",
+      "rarity": "1/1370",
+      "itemId": 5099
+    },
+    {
+      "name": "Limpwurt seed",
+      "quantity": "1",
+      "rarity": "1/1716",
+      "itemId": 5100
+    },
+    {
+      "name": "Cabbage",
+      "quantity": "20–59",
+      "rarity": "20/128",
+      "itemId": 1965
+    },
+    {
+      "name": "Pineapple",
+      "quantity": "1",
+      "rarity": "10/128",
+      "itemId": 2114
+    },
+    {
+      "name": "Worm batta",
+      "quantity": "1",
+      "rarity": "8/128",
+      "itemId": 2253
+    },
+    {
+      "name": "Swamp toad (item)",
+      "quantity": "1",
+      "rarity": "20/128",
+      "itemId": 2150
+    },
+    {
+      "name": "Tortoise shell",
+      "quantity": "1–3",
+      "rarity": "10/128",
+      "itemId": 7939
+    },
+    {
+      "name": "Mahogany logs",
+      "quantity": "1",
+      "rarity": "2/128",
+      "itemId": 6332
+    },
+    {
+      "name": "Teak logs",
+      "quantity": "1",
+      "rarity": "2/128",
+      "itemId": 6333
+    },
+    {
+      "name": "Teak logs",
+      "quantity": "2",
+      "rarity": "1/128",
+      "itemId": 6333
+    },
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    },
+    {
+      "name": "Bones",
+      "quantity": "3",
+      "rarity": "Always",
+      "itemId": 526
+    },
+    {
+      "name": "Pink boots",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 626
+    },
+    {
+      "name": "Pink robe bottoms",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 646
+    },
+    {
+      "name": "Pink robe top",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 636
+    },
+    {
+      "name": "Earth rune",
+      "quantity": "10–14",
+      "rarity": "10/128",
+      "itemId": 557
+    },
+    {
+      "name": "Mithril arrow",
+      "quantity": "6–11",
+      "rarity": "20/128",
+      "itemId": 888
+    },
+    {
+      "name": "Nature rune",
+      "quantity": "1–3",
+      "rarity": "10/128",
+      "itemId": 561
+    },
+    {
+      "name": "Steel arrow",
+      "quantity": "12–23",
+      "rarity": "10/128",
+      "itemId": 886
+    },
+    {
+      "name": "Grimy guam leaf",
+      "quantity": "1",
+      "rarity": "1/51.2",
+      "itemId": 199
+    },
+    {
+      "name": "Grimy marrentill",
+      "quantity": "1",
+      "rarity": "1/68.3",
+      "itemId": 201
+    },
+    {
+      "name": "Grimy tarromin",
+      "quantity": "1",
+      "rarity": "1/91",
+      "itemId": 203
+    },
+    {
+      "name": "Grimy harralander",
+      "quantity": "1",
+      "rarity": "1/117",
+      "itemId": 205
+    },
+    {
+      "name": "Grimy ranarr weed",
+      "quantity": "1",
+      "rarity": "1/148.9",
+      "itemId": 207
+    },
+    {
+      "name": "Grimy irit leaf",
+      "quantity": "1",
+      "rarity": "1/204.8",
+      "itemId": 209
+    },
+    {
+      "name": "Grimy avantoe",
+      "quantity": "1",
+      "rarity": "1/273.1",
+      "itemId": 211
+    },
+    {
+      "name": "Grimy kwuarm",
+      "quantity": "1",
+      "rarity": "1/327.7",
+      "itemId": 213
+    },
+    {
+      "name": "Grimy cadantine",
+      "quantity": "1",
+      "rarity": "1/409.6",
+      "itemId": 215
+    },
+    {
+      "name": "Grimy lantadyme",
+      "quantity": "1",
+      "rarity": "1/546.1",
+      "itemId": 2485
+    },
+    {
+      "name": "Grimy dwarf weed",
+      "quantity": "1",
+      "rarity": "1/546.1",
+      "itemId": 217
+    },
+    {
+      "name": "Cabbage seed",
+      "quantity": "10–19",
+      "rarity": "10/128",
+      "itemId": 5324
+    },
+    {
+      "name": "Potato seed",
+      "quantity": "4",
+      "rarity": "1/66",
+      "itemId": 5318
+    },
+    {
+      "name": "Onion seed",
+      "quantity": "4",
+      "rarity": "1/88",
+      "itemId": 5319
+    },
+    {
+      "name": "Cabbage seed",
+      "quantity": "4",
+      "rarity": "1/133",
+      "itemId": 5324
+    },
+    {
+      "name": "Tomato seed",
+      "quantity": "3",
+      "rarity": "1/266",
+      "itemId": 5322
+    },
+    {
+      "name": "Sweetcorn seed",
+      "quantity": "3",
+      "rarity": "1/532",
+      "itemId": 5320
+    },
+    {
+      "name": "Strawberry seed",
+      "quantity": "2",
+      "rarity": "1/1064",
+      "itemId": 5323
+    },
+    {
+      "name": "Watermelon seed",
+      "quantity": "2",
+      "rarity": "1/2224",
+      "itemId": 5321
+    },
+    {
+      "name": "Snape grass seed",
+      "quantity": "2",
+      "rarity": "1/3059",
+      "itemId": 22879
+    },
+    {
+      "name": "Barley seed",
+      "quantity": "4",
+      "rarity": "1/211",
+      "itemId": 5305
+    },
+    {
+      "name": "Hammerstone seed",
+      "quantity": "3",
+      "rarity": "1/212",
+      "itemId": 5307
+    },
+    {
+      "name": "Asgarnian seed",
+      "quantity": "3",
+      "rarity": "1/281",
+      "itemId": 5308
+    },
+    {
+      "name": "Jute seed",
+      "quantity": "2",
+      "rarity": "1/283",
+      "itemId": 5306
+    },
+    {
+      "name": "Yanillian seed",
+      "quantity": "2",
+      "rarity": "1/425",
+      "itemId": 5309
+    },
+    {
+      "name": "Krandorian seed",
+      "quantity": "2",
+      "rarity": "1/850",
+      "itemId": 5310
+    },
+    {
+      "name": "Wildblood seed",
+      "quantity": "1",
+      "rarity": "1/1671",
+      "itemId": 5311
+    },
+    {
+      "name": "Marigold seed",
+      "quantity": "1",
+      "rarity": "1/256",
+      "itemId": 5096
+    },
+    {
+      "name": "Nasturtium seed",
+      "quantity": "1",
+      "rarity": "1/387",
+      "itemId": 5098
+    },
+    {
+      "name": "Rosemary seed",
+      "quantity": "1",
+      "rarity": "1/599",
+      "itemId": 5097
+    },
+    {
+      "name": "Woad seed",
+      "quantity": "1",
+      "rarity": "1/811",
+      "itemId": 5099
+    },
+    {
+      "name": "Limpwurt seed",
+      "quantity": "1",
+      "rarity": "1/1016",
+      "itemId": 5100
+    },
+    {
+      "name": "Redberry seed",
+      "quantity": "1",
+      "rarity": "1/420",
+      "itemId": 5101
+    },
+    {
+      "name": "Cadavaberry seed",
+      "quantity": "1",
+      "rarity": "1/600",
+      "itemId": 5102
+    },
+    {
+      "name": "Dwellberry seed",
+      "quantity": "1",
+      "rarity": "1/841",
+      "itemId": 5103
+    },
+    {
+      "name": "Jangerberry seed",
+      "quantity": "1",
+      "rarity": "1/2102",
+      "itemId": 5104
+    },
+    {
+      "name": "Whiteberry seed",
+      "quantity": "1",
+      "rarity": "1/5800",
+      "itemId": 5105
+    },
+    {
+      "name": "Poison ivy seed",
+      "quantity": "1",
+      "rarity": "1/15293",
+      "itemId": 5106
+    },
+    {
+      "name": "Cabbage",
+      "quantity": "20–59",
+      "rarity": "20/128",
+      "itemId": 1965
+    },
+    {
+      "name": "Pineapple",
+      "quantity": "1",
+      "rarity": "10/128",
+      "itemId": 2114
+    },
+    {
+      "name": "Toad crunchies",
+      "quantity": "1",
+      "rarity": "10/128",
+      "itemId": 2217
+    },
+    {
+      "name": "Worm batta",
+      "quantity": "1",
+      "rarity": "4/128",
+      "itemId": 2253
+    },
+    {
+      "name": "Blurberry special",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 2064
+    },
+    {
+      "name": "Tortoise shell",
+      "quantity": "1–3",
+      "rarity": "8/128",
+      "itemId": 7939
+    },
+    {
+      "name": "Swamp toad (item)",
+      "quantity": "1",
+      "rarity": "5/128",
+      "itemId": 2150
+    },
+    {
+      "name": "Mahogany logs",
+      "quantity": "2",
+      "rarity": "2/128",
+      "itemId": 6332
+    },
+    {
+      "name": "Perfect shell",
+      "quantity": "1–3",
+      "rarity": "2/128",
+      "itemId": 10995
+    },
+    {
+      "name": "Teak logs",
+      "quantity": "2",
+      "rarity": "2/128",
+      "itemId": 6333
+    },
+    {
+      "name": "Teak logs",
+      "quantity": "4",
+      "rarity": "1/128",
+      "itemId": 6333
+    }
+  ]
+}

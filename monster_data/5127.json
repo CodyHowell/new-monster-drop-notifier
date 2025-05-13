@@ -1,0 +1,24 @@
+{
+  "id": 5127,
+  "name": "Mouse",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    },
+    {
+      "name": "Cheese",
+      "quantity": "1",
+      "rarity": "1/4",
+      "itemId": 1985
+    },
+    {
+      "name": "Coins",
+      "quantity": "12–131",
+      "rarity": "3/4",
+      "itemId": 995
+    }
+  ]
+}

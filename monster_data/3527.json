@@ -1,0 +1,12 @@
+{
+  "id": 3527,
+  "name": "Sir Mordred",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    }
+  ]
+}

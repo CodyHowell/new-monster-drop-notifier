@@ -1,0 +1,12 @@
+{
+  "id": 11271,
+  "name": "Mosschin",
+  "drops": [
+    {
+      "name": "Mosschin's bone",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 26591
+    }
+  ]
+}

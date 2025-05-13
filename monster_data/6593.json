@@ -1,0 +1,444 @@
+{
+  "id": 6593,
+  "name": "Lava dragon",
+  "drops": [
+    {
+      "name": "Lava dragon bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 11943
+    },
+    {
+      "name": "Black dragonhide",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 1747
+    },
+    {
+      "name": "Lava scale",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 11992
+    },
+    {
+      "name": "Rune dart",
+      "quantity": "12",
+      "rarity": "6/128",
+      "itemId": 811
+    },
+    {
+      "name": "Rune knife",
+      "quantity": "8",
+      "rarity": "4/128",
+      "itemId": 868
+    },
+    {
+      "name": "Lava battlestaff",
+      "quantity": "1",
+      "rarity": "3/128",
+      "itemId": 3053
+    },
+    {
+      "name": "Adamant 2h sword",
+      "quantity": "1",
+      "rarity": "2/128",
+      "itemId": 1317
+    },
+    {
+      "name": "Adamant platebody",
+      "quantity": "1",
+      "rarity": "2/128",
+      "itemId": 1123
+    },
+    {
+      "name": "Rune axe",
+      "quantity": "1",
+      "rarity": "2/128",
+      "itemId": 1359
+    },
+    {
+      "name": "Rune kiteshield",
+      "quantity": "1",
+      "rarity": "2/128",
+      "itemId": 1201
+    },
+    {
+      "name": "Rune longsword",
+      "quantity": "1",
+      "rarity": "2/128",
+      "itemId": 1303
+    },
+    {
+      "name": "Rune med helm",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 1147
+    },
+    {
+      "name": "Rune full helm",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 1163
+    },
+    {
+      "name": "Rune javelin",
+      "quantity": "20",
+      "rarity": "10/128",
+      "itemId": 830
+    },
+    {
+      "name": "Fire rune",
+      "quantity": "75",
+      "rarity": "7/128",
+      "itemId": 554
+    },
+    {
+      "name": "Blood rune",
+      "quantity": "20",
+      "rarity": "7/128",
+      "itemId": 565
+    },
+    {
+      "name": "Runite bolts",
+      "quantity": "30",
+      "rarity": "6/128",
+      "itemId": 9144
+    },
+    {
+      "name": "Death rune",
+      "quantity": "20",
+      "rarity": "5/128",
+      "itemId": 560
+    },
+    {
+      "name": "Law rune",
+      "quantity": "20",
+      "rarity": "5/128",
+      "itemId": 563
+    },
+    {
+      "name": "Lava rune",
+      "quantity": "15",
+      "rarity": "4/128",
+      "itemId": 4699
+    },
+    {
+      "name": "Lava rune",
+      "quantity": "30",
+      "rarity": "4/128",
+      "itemId": 4699
+    },
+    {
+      "name": "Grimy guam leaf",
+      "quantity": "1–2",
+      "rarity": "1/102.4",
+      "itemId": 199
+    },
+    {
+      "name": "Grimy marrentill",
+      "quantity": "1–2",
+      "rarity": "1/136.5",
+      "itemId": 201
+    },
+    {
+      "name": "Grimy tarromin",
+      "quantity": "1–2",
+      "rarity": "1/182",
+      "itemId": 203
+    },
+    {
+      "name": "Grimy harralander",
+      "quantity": "1–2",
+      "rarity": "1/234.1",
+      "itemId": 205
+    },
+    {
+      "name": "Grimy ranarr weed",
+      "quantity": "1–2",
+      "rarity": "1/297.9",
+      "itemId": 207
+    },
+    {
+      "name": "Grimy irit leaf",
+      "quantity": "1–2",
+      "rarity": "1/409.6",
+      "itemId": 209
+    },
+    {
+      "name": "Grimy avantoe",
+      "quantity": "1–2",
+      "rarity": "1/546.1",
+      "itemId": 211
+    },
+    {
+      "name": "Grimy kwuarm",
+      "quantity": "1–2",
+      "rarity": "1/655.4",
+      "itemId": 213
+    },
+    {
+      "name": "Grimy cadantine",
+      "quantity": "1–2",
+      "rarity": "1/819.2",
+      "itemId": 215
+    },
+    {
+      "name": "Grimy lantadyme",
+      "quantity": "1–2",
+      "rarity": "1/1092.3",
+      "itemId": 2485
+    },
+    {
+      "name": "Grimy dwarf weed",
+      "quantity": "1–2",
+      "rarity": "1/1092.3",
+      "itemId": 217
+    },
+    {
+      "name": "Coins",
+      "quantity": "66",
+      "rarity": "15/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "2960",
+      "rarity": "7/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "690",
+      "rarity": "1/128",
+      "itemId": 995
+    },
+    {
+      "name": "Fire talisman",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 1442
+    },
+    {
+      "name": "Fire orb",
+      "quantity": "15",
+      "rarity": "5/128",
+      "itemId": 569
+    },
+    {
+      "name": "Chocolate cake",
+      "quantity": "3",
+      "rarity": "3/128",
+      "itemId": 1897
+    },
+    {
+      "name": "Adamantite bar",
+      "quantity": "2",
+      "rarity": "5/128",
+      "itemId": 2361
+    },
+    {
+      "name": "Onyx bolt tips",
+      "quantity": "12",
+      "rarity": "5/128",
+      "itemId": 9194
+    },
+    {
+      "name": "Dragon javelin heads",
+      "quantity": "15",
+      "rarity": "7/128",
+      "itemId": 19582
+    },
+    {
+      "name": "Coins",
+      "quantity": "3000",
+      "rarity": "1/260.06",
+      "itemId": 995
+    },
+    {
+      "name": "Loop half of key",
+      "quantity": "1",
+      "rarity": "1/250.26",
+      "itemId": 987
+    },
+    {
+      "name": "Tooth half of key",
+      "quantity": "1",
+      "rarity": "1/250.26",
+      "itemId": 985
+    },
+    {
+      "name": "Uncut sapphire",
+      "quantity": "1",
+      "rarity": "1/93.62",
+      "itemId": 1623
+    },
+    {
+      "name": "Runite bar",
+      "quantity": "1",
+      "rarity": "1/1092.27",
+      "itemId": 2363
+    },
+    {
+      "name": "Nature rune",
+      "quantity": "67",
+      "rarity": "1/1820.44",
+      "itemId": 561
+    },
+    {
+      "name": "Rune 2h sword",
+      "quantity": "1",
+      "rarity": "1/1820.44",
+      "itemId": 1319
+    },
+    {
+      "name": "Rune battleaxe",
+      "quantity": "1",
+      "rarity": "1/1820.44",
+      "itemId": 1373
+    },
+    {
+      "name": "Uncut emerald",
+      "quantity": "1",
+      "rarity": "1/187.25",
+      "itemId": 1621
+    },
+    {
+      "name": "Law rune",
+      "quantity": "45",
+      "rarity": "1/2730.67",
+      "itemId": 563
+    },
+    {
+      "name": "Death rune",
+      "quantity": "45",
+      "rarity": "1/2730.67",
+      "itemId": 560
+    },
+    {
+      "name": "Steel arrow",
+      "quantity": "150",
+      "rarity": "1/2730.67",
+      "itemId": 886
+    },
+    {
+      "name": "Rune arrow",
+      "quantity": "42",
+      "rarity": "1/2730.67",
+      "itemId": 892
+    },
+    {
+      "name": "Adamant javelin",
+      "quantity": "20",
+      "rarity": "1/2730.67",
+      "itemId": 829
+    },
+    {
+      "name": "Rune sq shield",
+      "quantity": "1",
+      "rarity": "1/2730.67",
+      "itemId": 1185
+    },
+    {
+      "name": "Dragonstone",
+      "quantity": "1",
+      "rarity": "1/2730.67",
+      "itemId": 1615
+    },
+    {
+      "name": "Silver ore",
+      "quantity": "100",
+      "rarity": "1/2730.67",
+      "itemId": 442
+    },
+    {
+      "name": "Uncut ruby",
+      "quantity": "1",
+      "rarity": "1/374.49",
+      "itemId": 1619
+    },
+    {
+      "name": "Rune kiteshield",
+      "quantity": "1",
+      "rarity": "1/5461.33",
+      "itemId": 1201
+    },
+    {
+      "name": "Dragon med helm",
+      "quantity": "1",
+      "rarity": "1/5461.33",
+      "itemId": 1149
+    },
+    {
+      "name": "Rune spear",
+      "quantity": "1",
+      "rarity": "1/5194.18",
+      "itemId": 1247
+    },
+    {
+      "name": "Shield left half",
+      "quantity": "1",
+      "rarity": "1/10388.37",
+      "itemId": 2366
+    },
+    {
+      "name": "Nature talisman",
+      "quantity": "1",
+      "rarity": "1/998.64",
+      "itemId": 1462
+    },
+    {
+      "name": "Dragon spear",
+      "quantity": "1",
+      "rarity": "1/13851.16",
+      "itemId": 1249
+    },
+    {
+      "name": "Uncut diamond",
+      "quantity": "1",
+      "rarity": "1/1497.97",
+      "itemId": 1617
+    },
+    {
+      "name": "Rune javelin",
+      "quantity": "5",
+      "rarity": "1/2995.93",
+      "itemId": 830
+    },
+    {
+      "name": "Looting bag",
+      "quantity": "1",
+      "rarity": "1/3",
+      "itemId": 11941
+    },
+    {
+      "name": "Ensouled dragon head",
+      "quantity": "1",
+      "rarity": "1/18",
+      "itemId": 13511
+    },
+    {
+      "name": "Clue scroll (elite)",
+      "quantity": "1",
+      "rarity": "1/250",
+      "itemId": 21524
+    },
+    {
+      "name": "Draconic visage",
+      "quantity": "1",
+      "rarity": "1/10000",
+      "itemId": 11286
+    },
+    {
+      "name": "Larran's key",
+      "quantity": "1",
+      "rarity": "1/67",
+      "itemId": 23490
+    },
+    {
+      "name": "Slayer's enchantment",
+      "quantity": "1",
+      "rarity": "1/136",
+      "itemId": 21257
+    }
+  ]
+}

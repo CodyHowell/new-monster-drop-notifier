@@ -1,0 +1,108 @@
+{
+  "id": 13114,
+  "name": "Knight of Varlamore",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    },
+    {
+      "name": "Coins",
+      "quantity": "1",
+      "rarity": "190/1000",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "6",
+      "rarity": "190/1000",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "12",
+      "rarity": "205/1000",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "25",
+      "rarity": "140/1000",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "30",
+      "rarity": "145/1000",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "55",
+      "rarity": "80/1000",
+      "itemId": 995
+    },
+    {
+      "name": "Potato seed",
+      "quantity": "4",
+      "rarity": "1/54",
+      "itemId": 5318
+    },
+    {
+      "name": "Onion seed",
+      "quantity": "4",
+      "rarity": "1/73",
+      "itemId": 5319
+    },
+    {
+      "name": "Cabbage seed",
+      "quantity": "4",
+      "rarity": "1/109",
+      "itemId": 5324
+    },
+    {
+      "name": "Tomato seed",
+      "quantity": "3",
+      "rarity": "1/219",
+      "itemId": 5322
+    },
+    {
+      "name": "Sweetcorn seed",
+      "quantity": "3",
+      "rarity": "1/438",
+      "itemId": 5320
+    },
+    {
+      "name": "Strawberry seed",
+      "quantity": "2",
+      "rarity": "1/876",
+      "itemId": 5323
+    },
+    {
+      "name": "Watermelon seed",
+      "quantity": "2",
+      "rarity": "1/1832",
+      "itemId": 5321
+    },
+    {
+      "name": "Snape grass seed",
+      "quantity": "2",
+      "rarity": "1/2520",
+      "itemId": 22879
+    },
+    {
+      "name": "Clue scroll (medium)",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 2829
+    },
+    {
+      "name": "Coins",
+      "quantity": "50",
+      "rarity": "Always",
+      "itemId": 995
+    }
+  ]
+}

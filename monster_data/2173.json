@@ -1,0 +1,138 @@
+{
+  "id": 2173,
+  "name": "TzHaar-Ket",
+  "drops": [
+    {
+      "name": "Tzhaar-ket-om",
+      "quantity": "1",
+      "rarity": "1/512",
+      "itemId": 6528
+    },
+    {
+      "name": "Toktz-ket-xil",
+      "quantity": "1",
+      "rarity": "1/512",
+      "itemId": 6524
+    },
+    {
+      "name": "Obsidian cape",
+      "quantity": "1",
+      "rarity": "1/512",
+      "itemId": 6568
+    },
+    {
+      "name": "Uncut sapphire",
+      "quantity": "1",
+      "rarity": "16/512",
+      "itemId": 1623
+    },
+    {
+      "name": "Uncut emerald",
+      "quantity": "1",
+      "rarity": "8/512",
+      "itemId": 1621
+    },
+    {
+      "name": "Uncut ruby",
+      "quantity": "1",
+      "rarity": "4/512",
+      "itemId": 1619
+    },
+    {
+      "name": "Uncut diamond",
+      "quantity": "1",
+      "rarity": "1/512",
+      "itemId": 1617
+    },
+    {
+      "name": "Tokkul",
+      "quantity": "1–64",
+      "rarity": "160/512",
+      "itemId": 6529
+    },
+    {
+      "name": "Ensouled tzhaar head",
+      "quantity": "1",
+      "rarity": "1/35",
+      "itemId": 13499
+    },
+    {
+      "name": "Tzhaar-ket-om",
+      "quantity": "1",
+      "rarity": "1/512",
+      "itemId": 6528
+    },
+    {
+      "name": "Toktz-ket-xil",
+      "quantity": "1",
+      "rarity": "1/512",
+      "itemId": 6524
+    },
+    {
+      "name": "Obsidian cape",
+      "quantity": "1",
+      "rarity": "1/512",
+      "itemId": 6568
+    },
+    {
+      "name": "Obsidian helmet",
+      "quantity": "1",
+      "rarity": "1/2000",
+      "itemId": 21298
+    },
+    {
+      "name": "Obsidian platebody",
+      "quantity": "1",
+      "rarity": "1/2000",
+      "itemId": 21301
+    },
+    {
+      "name": "Obsidian platelegs",
+      "quantity": "1",
+      "rarity": "1/2000",
+      "itemId": 21304
+    },
+    {
+      "name": "Uncut sapphire",
+      "quantity": "1",
+      "rarity": "16/512",
+      "itemId": 1623
+    },
+    {
+      "name": "Uncut emerald",
+      "quantity": "1",
+      "rarity": "8/512",
+      "itemId": 1621
+    },
+    {
+      "name": "Uncut ruby",
+      "quantity": "1",
+      "rarity": "6/512",
+      "itemId": 1619
+    },
+    {
+      "name": "Uncut diamond",
+      "quantity": "1",
+      "rarity": "3/512",
+      "itemId": 1617
+    },
+    {
+      "name": "Onyx bolt tips",
+      "quantity": "1–4",
+      "rarity": "10/512",
+      "itemId": 9194
+    },
+    {
+      "name": "Tokkul",
+      "quantity": "20–83",
+      "rarity": "192/512",
+      "itemId": 6529
+    },
+    {
+      "name": "Ensouled tzhaar head",
+      "quantity": "1",
+      "rarity": "1/25",
+      "itemId": 13499
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": 1037,
+  "name": "Snake (Mos Le'Harmless)",
+  "drops": [
+    {
+      "name": "Snake hide",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 6287
+    }
+  ]
+}

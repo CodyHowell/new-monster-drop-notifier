@@ -1,0 +1,12 @@
+{
+  "id": 1284,
+  "name": "Asyn Shade",
+  "drops": [
+    {
+      "name": "Asyn remains",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 3402
+    }
+  ]
+}

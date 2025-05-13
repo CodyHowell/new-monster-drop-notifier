@@ -1,0 +1,24 @@
+{
+  "id": 6739,
+  "name": "Evil Chicken",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    },
+    {
+      "name": "Raw chicken",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 2138
+    },
+    {
+      "name": "Feather",
+      "quantity": "50–250",
+      "rarity": "Always",
+      "itemId": 314
+    }
+  ]
+}

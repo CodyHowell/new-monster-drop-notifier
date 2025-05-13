@@ -1,0 +1,300 @@
+{
+  "id": 2536,
+  "name": "H.A.M. Guard",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    },
+    {
+      "name": "Bronze axe",
+      "quantity": "1",
+      "rarity": "3/110",
+      "itemId": 1351
+    },
+    {
+      "name": "Bronze dagger",
+      "quantity": "1",
+      "rarity": "3/110",
+      "itemId": 1205
+    },
+    {
+      "name": "Bronze pickaxe",
+      "quantity": "1",
+      "rarity": "3/110",
+      "itemId": 1265
+    },
+    {
+      "name": "Iron axe",
+      "quantity": "1",
+      "rarity": "3/110",
+      "itemId": 1349
+    },
+    {
+      "name": "Iron pickaxe",
+      "quantity": "1",
+      "rarity": "3/110",
+      "itemId": 1267
+    },
+    {
+      "name": "Iron dagger",
+      "quantity": "1",
+      "rarity": "3/110",
+      "itemId": 1203
+    },
+    {
+      "name": "Leather body",
+      "quantity": "1",
+      "rarity": "3/110",
+      "itemId": 1129
+    },
+    {
+      "name": "Ham gloves",
+      "quantity": "1",
+      "rarity": "2.5/110",
+      "itemId": 4308
+    },
+    {
+      "name": "Steel dagger",
+      "quantity": "1",
+      "rarity": "2/110",
+      "itemId": 1207
+    },
+    {
+      "name": "Steel axe",
+      "quantity": "1",
+      "rarity": "2/110",
+      "itemId": 1353
+    },
+    {
+      "name": "Steel pickaxe",
+      "quantity": "1",
+      "rarity": "2/110",
+      "itemId": 1269
+    },
+    {
+      "name": "Ham boots",
+      "quantity": "1",
+      "rarity": "2/110",
+      "itemId": 4310
+    },
+    {
+      "name": "Ham shirt",
+      "quantity": "1",
+      "rarity": "1.33/110",
+      "itemId": 4298
+    },
+    {
+      "name": "Ham robe",
+      "quantity": "1",
+      "rarity": "1.33/110",
+      "itemId": 4300
+    },
+    {
+      "name": "Ham logo",
+      "quantity": "1",
+      "rarity": "1.33/110",
+      "itemId": 4306
+    },
+    {
+      "name": "Ham hood",
+      "quantity": "1",
+      "rarity": "1/110",
+      "itemId": 4302
+    },
+    {
+      "name": "Ham cloak",
+      "quantity": "1",
+      "rarity": "1/110",
+      "itemId": 4304
+    },
+    {
+      "name": "Bronze arrow",
+      "quantity": "1–12",
+      "rarity": "2.66/110",
+      "itemId": 882
+    },
+    {
+      "name": "Steel arrow",
+      "quantity": "1–10",
+      "rarity": "2/110",
+      "itemId": 886
+    },
+    {
+      "name": "Grimy guam leaf",
+      "quantity": "1",
+      "rarity": "1/110",
+      "itemId": 199
+    },
+    {
+      "name": "Grimy marrentill",
+      "quantity": "1",
+      "rarity": "0.5/110",
+      "itemId": 201
+    },
+    {
+      "name": "Grimy tarromin",
+      "quantity": "1",
+      "rarity": "0.33/110",
+      "itemId": 203
+    },
+    {
+      "name": "Potato seed",
+      "quantity": "4",
+      "rarity": "1/31",
+      "itemId": 5318
+    },
+    {
+      "name": "Onion seed",
+      "quantity": "4",
+      "rarity": "1/42",
+      "itemId": 5319
+    },
+    {
+      "name": "Cabbage seed",
+      "quantity": "4",
+      "rarity": "1/63",
+      "itemId": 5324
+    },
+    {
+      "name": "Tomato seed",
+      "quantity": "3",
+      "rarity": "1/126",
+      "itemId": 5322
+    },
+    {
+      "name": "Sweetcorn seed",
+      "quantity": "3",
+      "rarity": "1/253",
+      "itemId": 5320
+    },
+    {
+      "name": "Strawberry seed",
+      "quantity": "2",
+      "rarity": "1/507",
+      "itemId": 5323
+    },
+    {
+      "name": "Watermelon seed",
+      "quantity": "2",
+      "rarity": "1/1061",
+      "itemId": 5321
+    },
+    {
+      "name": "Snape grass seed",
+      "quantity": "2",
+      "rarity": "1/1458",
+      "itemId": 22879
+    },
+    {
+      "name": "Cowhide",
+      "quantity": "1–3",
+      "rarity": "3/110",
+      "itemId": 1739
+    },
+    {
+      "name": "Logs",
+      "quantity": "1–3",
+      "rarity": "3/110",
+      "itemId": 1511
+    },
+    {
+      "name": "Uncut opal",
+      "quantity": "1",
+      "rarity": "2/110",
+      "itemId": 1625
+    },
+    {
+      "name": "Uncut jade",
+      "quantity": "1",
+      "rarity": "2/110",
+      "itemId": 1627
+    },
+    {
+      "name": "Iron ore",
+      "quantity": "1",
+      "rarity": "2/110",
+      "itemId": 440
+    },
+    {
+      "name": "Coal",
+      "quantity": "1",
+      "rarity": "2/110",
+      "itemId": 453
+    },
+    {
+      "name": "Raw anchovies",
+      "quantity": "1–3",
+      "rarity": "2/110",
+      "itemId": 321
+    },
+    {
+      "name": "Raw chicken",
+      "quantity": "1–3",
+      "rarity": "2/110",
+      "itemId": 2138
+    },
+    {
+      "name": "Coins",
+      "quantity": "1–20",
+      "rarity": "13.5/110",
+      "itemId": 995
+    },
+    {
+      "name": "Buttons",
+      "quantity": "1",
+      "rarity": "4/110",
+      "itemId": 688
+    },
+    {
+      "name": "Damaged armour",
+      "quantity": "1",
+      "rarity": "4/110",
+      "itemId": 697
+    },
+    {
+      "name": "Rusty sword",
+      "quantity": "1",
+      "rarity": "4/110",
+      "itemId": 686
+    },
+    {
+      "name": "Feather",
+      "quantity": "1–6",
+      "rarity": "3/110",
+      "itemId": 314
+    },
+    {
+      "name": "Thread",
+      "quantity": "1–10",
+      "rarity": "2/110",
+      "itemId": 1734
+    },
+    {
+      "name": "Knife",
+      "quantity": "1",
+      "rarity": "2/110",
+      "itemId": 946
+    },
+    {
+      "name": "Needle",
+      "quantity": "1",
+      "rarity": "2/110",
+      "itemId": 1733
+    },
+    {
+      "name": "Tinderbox",
+      "quantity": "1",
+      "rarity": "2/110",
+      "itemId": 590
+    },
+    {
+      "name": "Clue scroll (easy)",
+      "quantity": "1",
+      "rarity": "1/55",
+      "itemId": 12179
+    }
+  ]
+}

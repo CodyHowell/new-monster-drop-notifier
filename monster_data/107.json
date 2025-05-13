@@ -1,0 +1,24 @@
+{
+  "id": 107,
+  "name": "White wolf",
+  "drops": [
+    {
+      "name": "Wolf bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 2859
+    },
+    {
+      "name": "Wolf bone",
+      "quantity": "1",
+      "rarity": "1/4",
+      "itemId": 7830
+    },
+    {
+      "name": "Looting bag",
+      "quantity": "1",
+      "rarity": "1/3",
+      "itemId": 11941
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": 1545,
+  "name": "Black knight (Port Sarim jail)",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    }
+  ]
+}

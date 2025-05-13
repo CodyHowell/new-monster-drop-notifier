@@ -1,0 +1,12 @@
+{
+  "id": 7658,
+  "name": "Mummy (Pyramid Plunder)",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    }
+  ]
+}

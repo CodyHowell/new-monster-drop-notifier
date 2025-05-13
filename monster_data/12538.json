@@ -1,0 +1,192 @@
+{
+  "id": 12538,
+  "name": "Bloodthirsty hand",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    },
+    {
+      "name": "Raw lobster",
+      "quantity": "60–80",
+      "rarity": "5/40",
+      "itemId": 377
+    },
+    {
+      "name": "Snape grass",
+      "quantity": "60–150",
+      "rarity": "10/40",
+      "itemId": 231
+    },
+    {
+      "name": "Irit seed",
+      "quantity": "10–15",
+      "rarity": "10/40",
+      "itemId": 5297
+    },
+    {
+      "name": "Unicorn horn",
+      "quantity": "60–150",
+      "rarity": "5/40",
+      "itemId": 237
+    },
+    {
+      "name": "Limpwurt root",
+      "quantity": "60–150",
+      "rarity": "10/40",
+      "itemId": 225
+    },
+    {
+      "name": "Leather gloves",
+      "quantity": "1",
+      "rarity": "9 × 21/128",
+      "itemId": 1059
+    },
+    {
+      "name": "Purple gloves",
+      "quantity": "1",
+      "rarity": "9 × 2/128",
+      "itemId": 2942
+    },
+    {
+      "name": "Yellow gloves",
+      "quantity": "1",
+      "rarity": "9 × 2/128",
+      "itemId": 2922
+    },
+    {
+      "name": "Red gloves",
+      "quantity": "1",
+      "rarity": "9 × 2/128",
+      "itemId": 2912
+    },
+    {
+      "name": "Teal gloves",
+      "quantity": "1",
+      "rarity": "9 × 2/128",
+      "itemId": 2932
+    },
+    {
+      "name": "Gold ring",
+      "quantity": "1",
+      "rarity": "9 × 3/128",
+      "itemId": 1635
+    },
+    {
+      "name": "Sapphire ring",
+      "quantity": "1",
+      "rarity": "9 × 2/128",
+      "itemId": 1637
+    },
+    {
+      "name": "Emerald ring",
+      "quantity": "1",
+      "rarity": "9 × 2/128",
+      "itemId": 1639
+    },
+    {
+      "name": "Coins",
+      "quantity": "5",
+      "rarity": "9 × 21/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "8",
+      "rarity": "9 × 23/128",
+      "itemId": 995
+    },
+    {
+      "name": "Uncut sapphire",
+      "quantity": "1",
+      "rarity": "9 × 1/256",
+      "itemId": 1623
+    },
+    {
+      "name": "Uncut emerald",
+      "quantity": "1",
+      "rarity": "9 × 1/512",
+      "itemId": 1621
+    },
+    {
+      "name": "Uncut ruby",
+      "quantity": "1",
+      "rarity": "9 × 1/1024",
+      "itemId": 1619
+    },
+    {
+      "name": "Uncut diamond",
+      "quantity": "1",
+      "rarity": "9 × 1/4096",
+      "itemId": 1617
+    },
+    {
+      "name": "Nature talisman",
+      "quantity": "1",
+      "rarity": "9 × 1/2730.67",
+      "itemId": 1462
+    },
+    {
+      "name": "Loop half of key",
+      "quantity": "1",
+      "rarity": "9 × 1/8192",
+      "itemId": 987
+    },
+    {
+      "name": "Tooth half of key",
+      "quantity": "1",
+      "rarity": "9 × 1/8192",
+      "itemId": 985
+    },
+    {
+      "name": "Rune javelin",
+      "quantity": "5",
+      "rarity": "9 × 1/8192",
+      "itemId": 830
+    },
+    {
+      "name": "Rune spear",
+      "quantity": "1",
+      "rarity": "9 × 1/131072",
+      "itemId": 1247
+    },
+    {
+      "name": "Shield left half",
+      "quantity": "1",
+      "rarity": "9 × 1/262144",
+      "itemId": 2366
+    },
+    {
+      "name": "Dragon spear",
+      "quantity": "1",
+      "rarity": "9 × 1/349525.33",
+      "itemId": 1249
+    },
+    {
+      "name": "Mist battlestaff",
+      "quantity": "1",
+      "rarity": "3/393",
+      "itemId": 20730
+    },
+    {
+      "name": "Dust battlestaff",
+      "quantity": "1",
+      "rarity": "3/393",
+      "itemId": 20736
+    },
+    {
+      "name": "Eternal gem",
+      "quantity": "1",
+      "rarity": "3/1376",
+      "itemId": 21270
+    },
+    {
+      "name": "Imbued heart",
+      "quantity": "1",
+      "rarity": "3/1376",
+      "itemId": 20724
+    }
+  ]
+}

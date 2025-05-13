@@ -1,0 +1,12 @@
+{
+  "id": 4922,
+  "name": "Ice Queen",
+  "drops": [
+    {
+      "name": "Ice gloves",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 1580
+    }
+  ]
+}

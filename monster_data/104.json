@@ -1,0 +1,306 @@
+{
+  "id": 104,
+  "name": "Hellhound",
+  "drops": [
+    {
+      "name": "Vile ashes",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 25769
+    },
+    {
+      "name": "Smouldering stone",
+      "quantity": "1",
+      "rarity": "1/32768",
+      "itemId": 13233
+    },
+    {
+      "name": "Ensouled hellhound head",
+      "quantity": "1",
+      "rarity": "1/40",
+      "itemId": 26997
+    },
+    {
+      "name": "Clue scroll (elite)",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 21524
+    },
+    {
+      "name": "Reward casket (elite)",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 20543
+    },
+    {
+      "name": "Looting bag",
+      "quantity": "1",
+      "rarity": "1/3",
+      "itemId": 11941
+    },
+    {
+      "name": "Clue scroll (hard)",
+      "quantity": "1",
+      "rarity": "1/64",
+      "itemId": 3550
+    },
+    {
+      "name": "Brimstone key",
+      "quantity": "1",
+      "rarity": "1/96",
+      "itemId": 23083
+    },
+    {
+      "name": "Ancient shard",
+      "quantity": "1",
+      "rarity": "1/256",
+      "itemId": 19677
+    },
+    {
+      "name": "Dark totem base",
+      "quantity": "1",
+      "rarity": "1/384",
+      "itemId": 19679
+    },
+    {
+      "name": "Dark totem middle",
+      "quantity": "1",
+      "rarity": "1/384",
+      "itemId": 19681
+    },
+    {
+      "name": "Dark totem top",
+      "quantity": "1",
+      "rarity": "1/384",
+      "itemId": 19683
+    },
+    {
+      "name": "Larran's key",
+      "quantity": "1",
+      "rarity": "1/90",
+      "itemId": 23490
+    },
+    {
+      "name": "Slayer's enchantment",
+      "quantity": "1",
+      "rarity": "1/228",
+      "itemId": 21257
+    },
+    {
+      "name": "Vile ashes",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 25769
+    },
+    {
+      "name": "Ensouled hellhound head",
+      "quantity": "1",
+      "rarity": "1/40",
+      "itemId": 26997
+    },
+    {
+      "name": "Clue scroll (hard)",
+      "quantity": "1",
+      "rarity": "1/64",
+      "itemId": 3550
+    },
+    {
+      "name": "Brimstone key",
+      "quantity": "1",
+      "rarity": "1/96",
+      "itemId": 23083
+    },
+    {
+      "name": "Vile ashes",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 25769
+    },
+    {
+      "name": "Smouldering stone",
+      "quantity": "1",
+      "rarity": "1/16384",
+      "itemId": 13233
+    },
+    {
+      "name": "Ensouled hellhound head",
+      "quantity": "1",
+      "rarity": "1/40",
+      "itemId": 26997
+    },
+    {
+      "name": "Clue scroll (elite)",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 21524
+    },
+    {
+      "name": "Reward casket (elite)",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 20543
+    },
+    {
+      "name": "Looting bag",
+      "quantity": "1",
+      "rarity": "1/3",
+      "itemId": 11941
+    },
+    {
+      "name": "Clue scroll (hard)",
+      "quantity": "1",
+      "rarity": "1/64",
+      "itemId": 3550
+    },
+    {
+      "name": "Larran's key",
+      "quantity": "1",
+      "rarity": "1/76",
+      "itemId": 23490
+    },
+    {
+      "name": "Slayer's enchantment",
+      "quantity": "1",
+      "rarity": "1/200",
+      "itemId": 21257
+    },
+    {
+      "name": "Blighted anglerfish",
+      "quantity": "1–2",
+      "rarity": "~1/8.7",
+      "itemId": 24592
+    },
+    {
+      "name": "Blighted manta ray",
+      "quantity": "1–2",
+      "rarity": "~1/8.7",
+      "itemId": 24589
+    },
+    {
+      "name": "Blighted karambwan",
+      "quantity": "1–2",
+      "rarity": "~1/13.1",
+      "itemId": 24595
+    },
+    {
+      "name": "Blighted teleport spell sack",
+      "quantity": "1–10",
+      "rarity": "~1/13.1",
+      "itemId": 24615
+    },
+    {
+      "name": "Blighted ancient ice sack",
+      "quantity": "1–10",
+      "rarity": "~1/13.1",
+      "itemId": 24607
+    },
+    {
+      "name": "Blighted vengeance sack",
+      "quantity": "1–10",
+      "rarity": "~1/13.1",
+      "itemId": 24621
+    },
+    {
+      "name": "Blighted entangle sack",
+      "quantity": "1–10",
+      "rarity": "~1/6.5",
+      "itemId": 24613
+    },
+    {
+      "name": "Blighted super restore(4)",
+      "quantity": "1",
+      "rarity": "~1/26.1",
+      "itemId": 24598
+    },
+    {
+      "name": "Revenant cave teleport",
+      "quantity": "1",
+      "rarity": "~1/26.1",
+      "itemId": 21802
+    },
+    {
+      "name": "Dareeyak teleport (tablet)",
+      "quantity": "1",
+      "rarity": "~1/130.6",
+      "itemId": 12777
+    },
+    {
+      "name": "Wilderness crabs teleport",
+      "quantity": "1",
+      "rarity": "~1/130.6",
+      "itemId": 24251
+    },
+    {
+      "name": "Carrallanger teleport (tablet)",
+      "quantity": "1",
+      "rarity": "~1/130.6",
+      "itemId": 12776
+    },
+    {
+      "name": "Paddewwa teleport (tablet)",
+      "quantity": "1",
+      "rarity": "~1/130.6",
+      "itemId": 12781
+    },
+    {
+      "name": "Annakarl teleport (tablet)",
+      "quantity": "1",
+      "rarity": "~1/130.6",
+      "itemId": 12775
+    },
+    {
+      "name": "Lassar teleport (tablet)",
+      "quantity": "1",
+      "rarity": "~1/130.6",
+      "itemId": 12780
+    },
+    {
+      "name": "Kharyrll teleport (tablet)",
+      "quantity": "1",
+      "rarity": "~1/130.6",
+      "itemId": 12779
+    },
+    {
+      "name": "Senntisten teleport (tablet)",
+      "quantity": "1",
+      "rarity": "~1/130.6",
+      "itemId": 12782
+    },
+    {
+      "name": "Ghorrock teleport (tablet)",
+      "quantity": "1",
+      "rarity": "~1/130.6",
+      "itemId": 12778
+    },
+    {
+      "name": "Target teleport",
+      "quantity": "1",
+      "rarity": "~1/130.6",
+      "itemId": 24336
+    },
+    {
+      "name": "Magic shortbow scroll",
+      "quantity": "1",
+      "rarity": "~1/326.5",
+      "itemId": 12786
+    },
+    {
+      "name": "Ring of wealth scroll",
+      "quantity": "1",
+      "rarity": "~1/326.5",
+      "itemId": 12783
+    },
+    {
+      "name": "Trouver parchment",
+      "quantity": "2",
+      "rarity": "~1/1305.9",
+      "itemId": 24187
+    },
+    {
+      "name": "Looting bag note",
+      "quantity": "1",
+      "rarity": "~1/1305.9",
+      "itemId": 24585
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "id": 2161,
+  "name": "TzHaar-Hur",
+  "drops": [
+    {
+      "name": "Uncut sapphire",
+      "quantity": "1",
+      "rarity": "16/2048",
+      "itemId": 1623
+    },
+    {
+      "name": "Uncut emerald",
+      "quantity": "1",
+      "rarity": "8/2048",
+      "itemId": 1621
+    },
+    {
+      "name": "Uncut ruby",
+      "quantity": "1",
+      "rarity": "4/2048",
+      "itemId": 1619
+    },
+    {
+      "name": "Uncut diamond",
+      "quantity": "1",
+      "rarity": "1/2048",
+      "itemId": 1617
+    },
+    {
+      "name": "Chisel",
+      "quantity": "1",
+      "rarity": "8/128",
+      "itemId": 1755
+    },
+    {
+      "name": "Hammer",
+      "quantity": "1",
+      "rarity": "8/128",
+      "itemId": 2347
+    },
+    {
+      "name": "Jug",
+      "quantity": "1",
+      "rarity": "8/128",
+      "itemId": 1935
+    },
+    {
+      "name": "Knife",
+      "quantity": "1",
+      "rarity": "8/128",
+      "itemId": 946
+    },
+    {
+      "name": "Pot",
+      "quantity": "1",
+      "rarity": "8/128",
+      "itemId": 1931
+    },
+    {
+      "name": "Tokkul",
+      "quantity": "1–16",
+      "rarity": "64/128",
+      "itemId": 6529
+    },
+    {
+      "name": "Tokkul",
+      "quantity": "3–7",
+      "rarity": "182/195",
+      "itemId": 6529
+    },
+    {
+      "name": "Uncut sapphire",
+      "quantity": "1",
+      "rarity": "5/195",
+      "itemId": 1623
+    },
+    {
+      "name": "Uncut emerald",
+      "quantity": "1",
+      "rarity": "4/195",
+      "itemId": 1621
+    },
+    {
+      "name": "Uncut ruby",
+      "quantity": "1",
+      "rarity": "3/195",
+      "itemId": 1619
+    },
+    {
+      "name": "Uncut diamond",
+      "quantity": "1",
+      "rarity": "1/195",
+      "itemId": 1617
+    }
+  ]
+}

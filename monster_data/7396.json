@@ -1,0 +1,168 @@
+{
+  "id": 7396,
+  "name": "Malevolent Mage",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    },
+    {
+      "name": "Staff",
+      "quantity": "1",
+      "rarity": "8/128",
+      "itemId": 1379
+    },
+    {
+      "name": "Staff of fire",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 1387
+    },
+    {
+      "name": "Mystic boots (dark)",
+      "quantity": "1",
+      "rarity": "1/512",
+      "itemId": 4107
+    },
+    {
+      "name": "Mystic hat (dark)",
+      "quantity": "1",
+      "rarity": "1/512",
+      "itemId": 4099
+    },
+    {
+      "name": "Lava battlestaff",
+      "quantity": "1",
+      "rarity": "1/1000",
+      "itemId": 3053
+    },
+    {
+      "name": "Earth rune",
+      "quantity": "10",
+      "rarity": "6/128",
+      "itemId": 557
+    },
+    {
+      "name": "Fire rune",
+      "quantity": "10",
+      "rarity": "6/128",
+      "itemId": 554
+    },
+    {
+      "name": "Earth rune",
+      "quantity": "36",
+      "rarity": "4/128",
+      "itemId": 557
+    },
+    {
+      "name": "Air rune",
+      "quantity": "10",
+      "rarity": "3/128",
+      "itemId": 556
+    },
+    {
+      "name": "Water rune",
+      "quantity": "10",
+      "rarity": "3/128",
+      "itemId": 555
+    },
+    {
+      "name": "Air rune",
+      "quantity": "18",
+      "rarity": "2/128",
+      "itemId": 556
+    },
+    {
+      "name": "Water rune",
+      "quantity": "18",
+      "rarity": "2/128",
+      "itemId": 555
+    },
+    {
+      "name": "Earth rune",
+      "quantity": "18",
+      "rarity": "2/128",
+      "itemId": 557
+    },
+    {
+      "name": "Fire rune",
+      "quantity": "18",
+      "rarity": "2/128",
+      "itemId": 554
+    },
+    {
+      "name": "Mind rune",
+      "quantity": "18",
+      "rarity": "2/128",
+      "itemId": 558
+    },
+    {
+      "name": "Body rune",
+      "quantity": "18",
+      "rarity": "2/128",
+      "itemId": 559
+    },
+    {
+      "name": "Blood rune",
+      "quantity": "4",
+      "rarity": "2/128",
+      "itemId": 565
+    },
+    {
+      "name": "Death rune",
+      "quantity": "7",
+      "rarity": "18/128",
+      "itemId": 560
+    },
+    {
+      "name": "Coins",
+      "quantity": "1",
+      "rarity": "19/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "2",
+      "rarity": "14/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "4",
+      "rarity": "8/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "29",
+      "rarity": "3/128",
+      "itemId": 995
+    },
+    {
+      "name": "Mist battlestaff",
+      "quantity": "1",
+      "rarity": "1/274",
+      "itemId": 20730
+    },
+    {
+      "name": "Dust battlestaff",
+      "quantity": "1",
+      "rarity": "1/274",
+      "itemId": 20736
+    },
+    {
+      "name": "Eternal gem",
+      "quantity": "1",
+      "rarity": "1/960",
+      "itemId": 21270
+    },
+    {
+      "name": "Imbued heart",
+      "quantity": "1",
+      "rarity": "1/960",
+      "itemId": 20724
+    }
+  ]
+}

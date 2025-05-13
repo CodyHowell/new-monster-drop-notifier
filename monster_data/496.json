@@ -1,0 +1,318 @@
+{
+  "id": 496,
+  "name": "Kraken",
+  "drops": [
+    {
+      "name": "Mystic water staff",
+      "quantity": "1",
+      "rarity": "3/128",
+      "itemId": 1403
+    },
+    {
+      "name": "Rune warhammer",
+      "quantity": "1",
+      "rarity": "2/128",
+      "itemId": 1347
+    },
+    {
+      "name": "Rune longsword",
+      "quantity": "1",
+      "rarity": "2/128",
+      "itemId": 1303
+    },
+    {
+      "name": "Mystic robe top",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 4091
+    },
+    {
+      "name": "Mystic robe bottom",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 4093
+    },
+    {
+      "name": "Trident of the seas (full)",
+      "quantity": "1",
+      "rarity": "1/512",
+      "itemId": 11905
+    },
+    {
+      "name": "Water rune",
+      "quantity": "400",
+      "rarity": "10/128",
+      "itemId": 555
+    },
+    {
+      "name": "Mist rune",
+      "quantity": "100",
+      "rarity": "4/128",
+      "itemId": 4695
+    },
+    {
+      "name": "Chaos rune",
+      "quantity": "250",
+      "rarity": "10/128",
+      "itemId": 562
+    },
+    {
+      "name": "Death rune",
+      "quantity": "150",
+      "rarity": "10/128",
+      "itemId": 560
+    },
+    {
+      "name": "Blood rune",
+      "quantity": "60",
+      "rarity": "10/128",
+      "itemId": 565
+    },
+    {
+      "name": "Soul rune",
+      "quantity": "50",
+      "rarity": "7/128",
+      "itemId": 566
+    },
+    {
+      "name": "Watermelon seed",
+      "quantity": "24",
+      "rarity": "3/128",
+      "itemId": 5321
+    },
+    {
+      "name": "Torstol seed",
+      "quantity": "2",
+      "rarity": "1/128",
+      "itemId": 5304
+    },
+    {
+      "name": "Magic seed",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 5316
+    },
+    {
+      "name": "Seaweed",
+      "quantity": "125",
+      "rarity": "3/128",
+      "itemId": 401
+    },
+    {
+      "name": "Battlestaff",
+      "quantity": "10",
+      "rarity": "4/128",
+      "itemId": 1391
+    },
+    {
+      "name": "Unpowered orb",
+      "quantity": "50",
+      "rarity": "2/128",
+      "itemId": 567
+    },
+    {
+      "name": "Diamond",
+      "quantity": "8",
+      "rarity": "1/128",
+      "itemId": 1601
+    },
+    {
+      "name": "Oak plank",
+      "quantity": "60",
+      "rarity": "3/128",
+      "itemId": 8778
+    },
+    {
+      "name": "Runite bar",
+      "quantity": "2",
+      "rarity": "1/128",
+      "itemId": 2363
+    },
+    {
+      "name": "Raw shark",
+      "quantity": "50",
+      "rarity": "2/128",
+      "itemId": 383
+    },
+    {
+      "name": "Raw monkfish",
+      "quantity": "100",
+      "rarity": "2/128",
+      "itemId": 7944
+    },
+    {
+      "name": "Grimy snapdragon",
+      "quantity": "6",
+      "rarity": "2/128",
+      "itemId": 3051
+    },
+    {
+      "name": "Coins",
+      "quantity": "10000–19999",
+      "rarity": "15/128",
+      "itemId": 995
+    },
+    {
+      "name": "Shark",
+      "quantity": "5",
+      "rarity": "7/128",
+      "itemId": 385
+    },
+    {
+      "name": "Pirate boots",
+      "quantity": "1",
+      "rarity": "4/128",
+      "itemId": 7114
+    },
+    {
+      "name": "Sanfew serum(4)",
+      "quantity": "2",
+      "rarity": "4/128",
+      "itemId": 10925
+    },
+    {
+      "name": "Edible seaweed",
+      "quantity": "5",
+      "rarity": "3/128",
+      "itemId": 403
+    },
+    {
+      "name": "Harpoon",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 311
+    },
+    {
+      "name": "Bucket",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 1925
+    },
+    {
+      "name": "Crystal key",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 989
+    },
+    {
+      "name": "Rusty sword",
+      "quantity": "1",
+      "rarity": "1.75/128",
+      "itemId": 686
+    },
+    {
+      "name": "Antidote++(4)",
+      "quantity": "2",
+      "rarity": "2/128",
+      "itemId": 5952
+    },
+    {
+      "name": "Dragonstone ring",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 1645
+    },
+    {
+      "name": "Kraken tentacle",
+      "quantity": "1",
+      "rarity": "1/400",
+      "itemId": 12004
+    },
+    {
+      "name": "Uncut sapphire",
+      "quantity": "1",
+      "rarity": "1/256",
+      "itemId": 1623
+    },
+    {
+      "name": "Uncut emerald",
+      "quantity": "1",
+      "rarity": "1/512",
+      "itemId": 1621
+    },
+    {
+      "name": "Uncut ruby",
+      "quantity": "1",
+      "rarity": "1/1024",
+      "itemId": 1619
+    },
+    {
+      "name": "Uncut diamond",
+      "quantity": "1",
+      "rarity": "1/4096",
+      "itemId": 1617
+    },
+    {
+      "name": "Chaos talisman",
+      "quantity": "1",
+      "rarity": "1/2730.67",
+      "itemId": 1452
+    },
+    {
+      "name": "Nature talisman",
+      "quantity": "1",
+      "rarity": "1/2730.67",
+      "itemId": 1462
+    },
+    {
+      "name": "Loop half of key",
+      "quantity": "1",
+      "rarity": "1/8192",
+      "itemId": 987
+    },
+    {
+      "name": "Tooth half of key",
+      "quantity": "1",
+      "rarity": "1/8192",
+      "itemId": 985
+    },
+    {
+      "name": "Rune javelin",
+      "quantity": "5",
+      "rarity": "1/8192",
+      "itemId": 830
+    },
+    {
+      "name": "Rune spear",
+      "quantity": "1",
+      "rarity": "1/131072",
+      "itemId": 1247
+    },
+    {
+      "name": "Shield left half",
+      "quantity": "1",
+      "rarity": "1/262144",
+      "itemId": 2366
+    },
+    {
+      "name": "Dragon spear",
+      "quantity": "1",
+      "rarity": "1/349525.33",
+      "itemId": 1249
+    },
+    {
+      "name": "Brimstone key",
+      "quantity": "1",
+      "rarity": "1/49",
+      "itemId": 23083
+    },
+    {
+      "name": "Clue scroll (elite)",
+      "quantity": "1",
+      "rarity": "1/500",
+      "itemId": 21524
+    },
+    {
+      "name": "Jar of dirt",
+      "quantity": "1",
+      "rarity": "1/1000",
+      "itemId": 12007
+    },
+    {
+      "name": "Pet kraken",
+      "quantity": "1",
+      "rarity": "1/3000",
+      "itemId": 12655
+    }
+  ]
+}

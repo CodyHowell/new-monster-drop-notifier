@@ -1,0 +1,234 @@
+{
+  "id": 9425,
+  "name": "The Nightmare",
+  "drops": [
+    {
+      "name": "Big bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 532
+    },
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    },
+    {
+      "name": "Nightmare staff",
+      "quantity": "1",
+      "rarity": "1/300",
+      "itemId": 24422
+    },
+    {
+      "name": "Inquisitor's great helm",
+      "quantity": "1",
+      "rarity": "1/420",
+      "itemId": 24419
+    },
+    {
+      "name": "Inquisitor's hauberk",
+      "quantity": "1",
+      "rarity": "1/420",
+      "itemId": 24420
+    },
+    {
+      "name": "Inquisitor's plateskirt",
+      "quantity": "1",
+      "rarity": "1/420",
+      "itemId": 24421
+    },
+    {
+      "name": "Inquisitor's mace",
+      "quantity": "1",
+      "rarity": "1/750",
+      "itemId": 24417
+    },
+    {
+      "name": "Eldritch orb",
+      "quantity": "1",
+      "rarity": "1/960",
+      "itemId": 24517
+    },
+    {
+      "name": "Harmonised orb",
+      "quantity": "1",
+      "rarity": "1/960",
+      "itemId": 24511
+    },
+    {
+      "name": "Volatile orb",
+      "quantity": "1",
+      "rarity": "1/960",
+      "itemId": 24514
+    },
+    {
+      "name": "Cosmic rune",
+      "quantity": "11–242",
+      "rarity": "4/100",
+      "itemId": 564
+    },
+    {
+      "name": "Nature rune",
+      "quantity": "8–176",
+      "rarity": "4/100",
+      "itemId": 561
+    },
+    {
+      "name": "Death rune",
+      "quantity": "7–176",
+      "rarity": "4/100",
+      "itemId": 560
+    },
+    {
+      "name": "Blood rune",
+      "quantity": "16–440",
+      "rarity": "4/100",
+      "itemId": 565
+    },
+    {
+      "name": "Soul rune",
+      "quantity": "8–132",
+      "rarity": "4/100",
+      "itemId": 566
+    },
+    {
+      "name": "Cannonball",
+      "quantity": "6–220",
+      "rarity": "4/100",
+      "itemId": 2
+    },
+    {
+      "name": "Rune arrow",
+      "quantity": "31–547",
+      "rarity": "3/100",
+      "itemId": 892
+    },
+    {
+      "name": "Mithril ore",
+      "quantity": "11–176",
+      "rarity": "4/100",
+      "itemId": 447
+    },
+    {
+      "name": "Coal",
+      "quantity": "15–264",
+      "rarity": "4/100",
+      "itemId": 453
+    },
+    {
+      "name": "Gold ore",
+      "quantity": "9–176",
+      "rarity": "4/100",
+      "itemId": 444
+    },
+    {
+      "name": "Adamantite ore",
+      "quantity": "40–95",
+      "rarity": "4/100",
+      "itemId": 449
+    },
+    {
+      "name": "Magic logs",
+      "quantity": "1–55",
+      "rarity": "4/100",
+      "itemId": 1513
+    },
+    {
+      "name": "Grimy cadantine",
+      "quantity": "1–16",
+      "rarity": "4/100",
+      "itemId": 215
+    },
+    {
+      "name": "Grimy torstol",
+      "quantity": "1–16",
+      "rarity": "4/100",
+      "itemId": 219
+    },
+    {
+      "name": "Snapdragon seed",
+      "quantity": "1–7",
+      "rarity": "3/100",
+      "itemId": 5300
+    },
+    {
+      "name": "Uncut emerald",
+      "quantity": "2–44",
+      "rarity": "3/100",
+      "itemId": 1621
+    },
+    {
+      "name": "Uncut ruby",
+      "quantity": "27–60",
+      "rarity": "3/100",
+      "itemId": 1619
+    },
+    {
+      "name": "Runite ore",
+      "quantity": "1–16",
+      "rarity": "2/100",
+      "itemId": 451
+    },
+    {
+      "name": "Bass",
+      "quantity": "1–18",
+      "rarity": "6/100",
+      "itemId": 365
+    },
+    {
+      "name": "Shark",
+      "quantity": "1–16",
+      "rarity": "6/100",
+      "itemId": 385
+    },
+    {
+      "name": "Prayer potion(3)",
+      "quantity": "1–10",
+      "rarity": "5/100",
+      "itemId": 139
+    },
+    {
+      "name": "Sanfew serum(3)",
+      "quantity": "1–8",
+      "rarity": "5/100",
+      "itemId": 10927
+    },
+    {
+      "name": "Saradomin brew(3)",
+      "quantity": "1–10",
+      "rarity": "5/100",
+      "itemId": 6687
+    },
+    {
+      "name": "Zamorak brew(3)",
+      "quantity": "1–10",
+      "rarity": "5/100",
+      "itemId": 189
+    },
+    {
+      "name": "Coins",
+      "quantity": "2291–43958",
+      "rarity": "2/100",
+      "itemId": 995
+    },
+    {
+      "name": "Clue scroll (elite)",
+      "quantity": "1",
+      "rarity": "1/190",
+      "itemId": 21524
+    },
+    {
+      "name": "Little nightmare",
+      "quantity": "1",
+      "rarity": "1/800",
+      "itemId": 24491
+    },
+    {
+      "name": "Jar of dreams",
+      "quantity": "1",
+      "rarity": "1/1900",
+      "itemId": 24495
+    }
+  ]
+}

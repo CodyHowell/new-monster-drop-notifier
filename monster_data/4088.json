@@ -1,0 +1,222 @@
+{
+  "id": 4088,
+  "name": "Soldier (Burthorpe)",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    },
+    {
+      "name": "Steel full helm",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 1157
+    },
+    {
+      "name": "Black dart",
+      "quantity": "6",
+      "rarity": "9/128",
+      "itemId": 3093
+    },
+    {
+      "name": "Black knife",
+      "quantity": "6",
+      "rarity": "13/128",
+      "itemId": 869
+    },
+    {
+      "name": "Steel claws",
+      "quantity": "1",
+      "rarity": "2/128",
+      "itemId": 3097
+    },
+    {
+      "name": "Black claws",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 3098
+    },
+    {
+      "name": "Steel bar",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 2353
+    },
+    {
+      "name": "Mithril bar",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 2359
+    },
+    {
+      "name": "Grimy guam leaf",
+      "quantity": "1",
+      "rarity": "1/64",
+      "itemId": 199
+    },
+    {
+      "name": "Grimy marrentill",
+      "quantity": "1",
+      "rarity": "1/85.3",
+      "itemId": 201
+    },
+    {
+      "name": "Grimy tarromin",
+      "quantity": "1",
+      "rarity": "1/113.8",
+      "itemId": 203
+    },
+    {
+      "name": "Grimy harralander",
+      "quantity": "1",
+      "rarity": "1/146.3",
+      "itemId": 205
+    },
+    {
+      "name": "Grimy ranarr weed",
+      "quantity": "1",
+      "rarity": "1/186.2",
+      "itemId": 207
+    },
+    {
+      "name": "Grimy irit leaf",
+      "quantity": "1",
+      "rarity": "1/256",
+      "itemId": 209
+    },
+    {
+      "name": "Grimy avantoe",
+      "quantity": "1",
+      "rarity": "1/341.3",
+      "itemId": 211
+    },
+    {
+      "name": "Grimy kwuarm",
+      "quantity": "1",
+      "rarity": "1/409.6",
+      "itemId": 213
+    },
+    {
+      "name": "Grimy cadantine",
+      "quantity": "1",
+      "rarity": "1/512",
+      "itemId": 215
+    },
+    {
+      "name": "Grimy lantadyme",
+      "quantity": "1",
+      "rarity": "1/682.7",
+      "itemId": 2485
+    },
+    {
+      "name": "Grimy dwarf weed",
+      "quantity": "1",
+      "rarity": "1/682.7",
+      "itemId": 217
+    },
+    {
+      "name": "Coins",
+      "quantity": "3",
+      "rarity": "17/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "5",
+      "rarity": "10/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "18",
+      "rarity": "20/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "50",
+      "rarity": "40/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "115",
+      "rarity": "2/128",
+      "itemId": 995
+    },
+    {
+      "name": "Blood rune",
+      "quantity": "2",
+      "rarity": "1/128",
+      "itemId": 565
+    },
+    {
+      "name": "Uncut sapphire",
+      "quantity": "1",
+      "rarity": "1/256",
+      "itemId": 1623
+    },
+    {
+      "name": "Uncut emerald",
+      "quantity": "1",
+      "rarity": "1/512",
+      "itemId": 1621
+    },
+    {
+      "name": "Uncut ruby",
+      "quantity": "1",
+      "rarity": "1/1024",
+      "itemId": 1619
+    },
+    {
+      "name": "Uncut diamond",
+      "quantity": "1",
+      "rarity": "1/4096",
+      "itemId": 1617
+    },
+    {
+      "name": "Nature talisman",
+      "quantity": "1",
+      "rarity": "1/2730.67",
+      "itemId": 1462
+    },
+    {
+      "name": "Loop half of key",
+      "quantity": "1",
+      "rarity": "1/8192",
+      "itemId": 987
+    },
+    {
+      "name": "Tooth half of key",
+      "quantity": "1",
+      "rarity": "1/8192",
+      "itemId": 985
+    },
+    {
+      "name": "Rune javelin",
+      "quantity": "5",
+      "rarity": "1/8192",
+      "itemId": 830
+    },
+    {
+      "name": "Rune spear",
+      "quantity": "1",
+      "rarity": "1/131072",
+      "itemId": 1247
+    },
+    {
+      "name": "Shield left half",
+      "quantity": "1",
+      "rarity": "1/262144",
+      "itemId": 2366
+    },
+    {
+      "name": "Dragon spear",
+      "quantity": "1",
+      "rarity": "1/349525.33",
+      "itemId": 1249
+    }
+  ]
+}

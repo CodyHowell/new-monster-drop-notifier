@@ -1,0 +1,30 @@
+{
+  "id": 2790,
+  "name": "Cow",
+  "drops": [
+    {
+      "name": "Cowhide",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 1739
+    },
+    {
+      "name": "Raw beef",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 2132
+    },
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    },
+    {
+      "name": "Clue scroll (beginner)",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 23182
+    }
+  ]
+}

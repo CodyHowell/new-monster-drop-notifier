@@ -1,0 +1,408 @@
+{
+  "id": 5862,
+  "name": "Cerberus",
+  "drops": [
+    {
+      "name": "Infernal ashes",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 25778
+    },
+    {
+      "name": "Primordial crystal",
+      "quantity": "1",
+      "rarity": "1/512",
+      "itemId": 13231
+    },
+    {
+      "name": "Pegasian crystal",
+      "quantity": "1",
+      "rarity": "1/512",
+      "itemId": 13229
+    },
+    {
+      "name": "Eternal crystal",
+      "quantity": "1",
+      "rarity": "1/512",
+      "itemId": 13227
+    },
+    {
+      "name": "Smouldering stone",
+      "quantity": "1",
+      "rarity": "1/512",
+      "itemId": 13233
+    },
+    {
+      "name": "Rune platebody",
+      "quantity": "1",
+      "rarity": "5/128",
+      "itemId": 1127
+    },
+    {
+      "name": "Rune chainbody",
+      "quantity": "1",
+      "rarity": "4/128",
+      "itemId": 1113
+    },
+    {
+      "name": "Rune 2h sword",
+      "quantity": "1",
+      "rarity": "4/128",
+      "itemId": 1319
+    },
+    {
+      "name": "Black d'hide body",
+      "quantity": "1",
+      "rarity": "3/128",
+      "itemId": 2503
+    },
+    {
+      "name": "Rune axe",
+      "quantity": "1",
+      "rarity": "3/128",
+      "itemId": 1359
+    },
+    {
+      "name": "Rune pickaxe",
+      "quantity": "1",
+      "rarity": "3/128",
+      "itemId": 1275
+    },
+    {
+      "name": "Battlestaff",
+      "quantity": "6",
+      "rarity": "3/128",
+      "itemId": 1391
+    },
+    {
+      "name": "Rune full helm",
+      "quantity": "1",
+      "rarity": "3/128",
+      "itemId": 1163
+    },
+    {
+      "name": "Lava battlestaff",
+      "quantity": "1",
+      "rarity": "2/128",
+      "itemId": 3053
+    },
+    {
+      "name": "Rune halberd",
+      "quantity": "1",
+      "rarity": "2/128",
+      "itemId": 3202
+    },
+    {
+      "name": "Fire rune",
+      "quantity": "300",
+      "rarity": "6/128",
+      "itemId": 554
+    },
+    {
+      "name": "Soul rune",
+      "quantity": "100",
+      "rarity": "6/128",
+      "itemId": 566
+    },
+    {
+      "name": "Pure essence",
+      "quantity": "300",
+      "rarity": "5/128",
+      "itemId": 7936
+    },
+    {
+      "name": "Blood rune",
+      "quantity": "60",
+      "rarity": "4/128",
+      "itemId": 565
+    },
+    {
+      "name": "Cannonball",
+      "quantity": "50",
+      "rarity": "4/128",
+      "itemId": 2
+    },
+    {
+      "name": "Runite bolts (unf)",
+      "quantity": "40",
+      "rarity": "4/128",
+      "itemId": 9381
+    },
+    {
+      "name": "Death rune",
+      "quantity": "100",
+      "rarity": "3/128",
+      "itemId": 560
+    },
+    {
+      "name": "Coal",
+      "quantity": "120",
+      "rarity": "6/128",
+      "itemId": 453
+    },
+    {
+      "name": "Super restore(4)",
+      "quantity": "2",
+      "rarity": "6/128",
+      "itemId": 3024
+    },
+    {
+      "name": "Summer pie",
+      "quantity": "3",
+      "rarity": "6/128",
+      "itemId": 7218
+    },
+    {
+      "name": "Coins",
+      "quantity": "10000–20000",
+      "rarity": "5/128",
+      "itemId": 995
+    },
+    {
+      "name": "Dragon bones",
+      "quantity": "20",
+      "rarity": "5/128",
+      "itemId": 536
+    },
+    {
+      "name": "Unholy symbol",
+      "quantity": "1",
+      "rarity": "5/128",
+      "itemId": 1724
+    },
+    {
+      "name": "Wine of zamorak",
+      "quantity": "15",
+      "rarity": "5/128",
+      "itemId": 245
+    },
+    {
+      "name": "Ashes",
+      "quantity": "50",
+      "rarity": "4/128",
+      "itemId": 592
+    },
+    {
+      "name": "Fire orb",
+      "quantity": "20",
+      "rarity": "4/128",
+      "itemId": 569
+    },
+    {
+      "name": "Grimy torstol",
+      "quantity": "6",
+      "rarity": "4/128",
+      "itemId": 219
+    },
+    {
+      "name": "Runite ore",
+      "quantity": "5",
+      "rarity": "3/128",
+      "itemId": 451
+    },
+    {
+      "name": "Uncut diamond",
+      "quantity": "5",
+      "rarity": "3/128",
+      "itemId": 1617
+    },
+    {
+      "name": "Key master teleport",
+      "quantity": "3",
+      "rarity": "2/128",
+      "itemId": 13249
+    },
+    {
+      "name": "Torstol seed",
+      "quantity": "3",
+      "rarity": "2/128",
+      "itemId": 5304
+    },
+    {
+      "name": "Coins",
+      "quantity": "3000",
+      "rarity": "1/260.06",
+      "itemId": 995
+    },
+    {
+      "name": "Loop half of key",
+      "quantity": "1",
+      "rarity": "1/270.95",
+      "itemId": 987
+    },
+    {
+      "name": "Tooth half of key",
+      "quantity": "1",
+      "rarity": "1/270.95",
+      "itemId": 985
+    },
+    {
+      "name": "Uncut sapphire",
+      "quantity": "1",
+      "rarity": "1/1092.27",
+      "itemId": 1623
+    },
+    {
+      "name": "Runite bar",
+      "quantity": "1",
+      "rarity": "1/1092.27",
+      "itemId": 2363
+    },
+    {
+      "name": "Nature rune",
+      "quantity": "67",
+      "rarity": "1/1820.44",
+      "itemId": 561
+    },
+    {
+      "name": "Rune 2h sword",
+      "quantity": "1",
+      "rarity": "1/1820.44",
+      "itemId": 1319
+    },
+    {
+      "name": "Rune battleaxe",
+      "quantity": "1",
+      "rarity": "1/1820.44",
+      "itemId": 1373
+    },
+    {
+      "name": "Uncut emerald",
+      "quantity": "1",
+      "rarity": "1/2184.53",
+      "itemId": 1621
+    },
+    {
+      "name": "Law rune",
+      "quantity": "45",
+      "rarity": "1/2730.67",
+      "itemId": 563
+    },
+    {
+      "name": "Death rune",
+      "quantity": "45",
+      "rarity": "1/2730.67",
+      "itemId": 560
+    },
+    {
+      "name": "Steel arrow",
+      "quantity": "150",
+      "rarity": "1/2730.67",
+      "itemId": 886
+    },
+    {
+      "name": "Rune arrow",
+      "quantity": "42",
+      "rarity": "1/2730.67",
+      "itemId": 892
+    },
+    {
+      "name": "Adamant javelin",
+      "quantity": "20",
+      "rarity": "1/2730.67",
+      "itemId": 829
+    },
+    {
+      "name": "Rune sq shield",
+      "quantity": "1",
+      "rarity": "1/2730.67",
+      "itemId": 1185
+    },
+    {
+      "name": "Dragonstone",
+      "quantity": "1",
+      "rarity": "1/2730.67",
+      "itemId": 1615
+    },
+    {
+      "name": "Silver ore",
+      "quantity": "100",
+      "rarity": "1/2730.67",
+      "itemId": 442
+    },
+    {
+      "name": "Uncut ruby",
+      "quantity": "1",
+      "rarity": "1/4369.07",
+      "itemId": 1619
+    },
+    {
+      "name": "Rune kiteshield",
+      "quantity": "1",
+      "rarity": "1/5461.33",
+      "itemId": 1201
+    },
+    {
+      "name": "Dragon med helm",
+      "quantity": "1",
+      "rarity": "1/5461.33",
+      "itemId": 1149
+    },
+    {
+      "name": "Rune spear",
+      "quantity": "1",
+      "rarity": "1/5765.37",
+      "itemId": 1247
+    },
+    {
+      "name": "Shield left half",
+      "quantity": "1",
+      "rarity": "1/11530.73",
+      "itemId": 2366
+    },
+    {
+      "name": "Nature talisman",
+      "quantity": "1",
+      "rarity": "1/11650.84",
+      "itemId": 1462
+    },
+    {
+      "name": "Dragon spear",
+      "quantity": "1",
+      "rarity": "1/15374.31",
+      "itemId": 1249
+    },
+    {
+      "name": "Uncut diamond",
+      "quantity": "1",
+      "rarity": "1/17476.27",
+      "itemId": 1617
+    },
+    {
+      "name": "Rune javelin",
+      "quantity": "5",
+      "rarity": "1/34952.53",
+      "itemId": 830
+    },
+    {
+      "name": "Ensouled hellhound head",
+      "quantity": "1",
+      "rarity": "1/15",
+      "itemId": 26997
+    },
+    {
+      "name": "Brimstone key",
+      "quantity": "1",
+      "rarity": "1/45",
+      "itemId": 23083
+    },
+    {
+      "name": "Clue scroll (elite)",
+      "quantity": "1",
+      "rarity": "1/100",
+      "itemId": 21524
+    },
+    {
+      "name": "Jar of souls",
+      "quantity": "1",
+      "rarity": "1/2000",
+      "itemId": 13245
+    },
+    {
+      "name": "Hellpuppy",
+      "quantity": "1",
+      "rarity": "1/3000",
+      "itemId": 13247
+    }
+  ]
+}

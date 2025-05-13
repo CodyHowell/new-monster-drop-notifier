@@ -1,0 +1,12 @@
+{
+  "id": 6098,
+  "name": "Gnome Driver",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    }
+  ]
+}

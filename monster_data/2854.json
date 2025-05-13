@@ -1,0 +1,36 @@
+{
+  "id": 2854,
+  "name": "Rat",
+  "drops": [
+    {
+      "name": "Rat's tail",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 300
+    },
+    {
+      "name": "Rat bone",
+      "quantity": "1",
+      "rarity": "1/4",
+      "itemId": 7836
+    },
+    {
+      "name": "Looting bag",
+      "quantity": "1",
+      "rarity": "1/15",
+      "itemId": 11941
+    },
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    },
+    {
+      "name": "Rat's tail",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 300
+    }
+  ]
+}

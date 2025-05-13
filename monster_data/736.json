@@ -1,0 +1,24 @@
+{
+  "id": 736,
+  "name": "Bandit (Pollnivneach)",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    },
+    {
+      "name": "Coins",
+      "quantity": "40",
+      "rarity": "Always",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "50",
+      "rarity": "Always",
+      "itemId": 995
+    }
+  ]
+}

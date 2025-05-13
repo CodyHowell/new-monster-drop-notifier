@@ -1,0 +1,18 @@
+{
+  "id": 4820,
+  "name": "Mudskipper",
+  "drops": [
+    {
+      "name": "Mudskipper hide",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 7532
+    },
+    {
+      "name": "Oyster",
+      "quantity": "1",
+      "rarity": "22/128",
+      "itemId": 407
+    }
+  ]
+}

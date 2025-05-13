@@ -1,0 +1,264 @@
+{
+  "id": 520,
+  "name": "Chaos druid",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    },
+    {
+      "name": "Law rune",
+      "quantity": "2",
+      "rarity": "7/128",
+      "itemId": 563
+    },
+    {
+      "name": "Mithril bolts",
+      "quantity": "2–12",
+      "rarity": "4/128",
+      "itemId": 9142
+    },
+    {
+      "name": "Air rune",
+      "quantity": "36",
+      "rarity": "3/128",
+      "itemId": 556
+    },
+    {
+      "name": "Body rune",
+      "quantity": "9",
+      "rarity": "2/128",
+      "itemId": 559
+    },
+    {
+      "name": "Earth rune",
+      "quantity": "9",
+      "rarity": "2/128",
+      "itemId": 557
+    },
+    {
+      "name": "Mind rune",
+      "quantity": "12",
+      "rarity": "2/128",
+      "itemId": 558
+    },
+    {
+      "name": "Nature rune",
+      "quantity": "3",
+      "rarity": "1/128",
+      "itemId": 561
+    },
+    {
+      "name": "Grimy guam leaf",
+      "quantity": "1–2",
+      "rarity": "1/11.1",
+      "itemId": 199
+    },
+    {
+      "name": "Grimy marrentill",
+      "quantity": "1–2",
+      "rarity": "1/14.8",
+      "itemId": 201
+    },
+    {
+      "name": "Grimy tarromin",
+      "quantity": "1–2",
+      "rarity": "1/19.8",
+      "itemId": 203
+    },
+    {
+      "name": "Grimy harralander",
+      "quantity": "1–2",
+      "rarity": "1/25.4",
+      "itemId": 205
+    },
+    {
+      "name": "Grimy ranarr weed",
+      "quantity": "1–2",
+      "rarity": "1/32.4",
+      "itemId": 207
+    },
+    {
+      "name": "Grimy irit leaf",
+      "quantity": "1–2",
+      "rarity": "1/44.5",
+      "itemId": 209
+    },
+    {
+      "name": "Grimy avantoe",
+      "quantity": "1–2",
+      "rarity": "1/59.4",
+      "itemId": 211
+    },
+    {
+      "name": "Grimy kwuarm",
+      "quantity": "1–2",
+      "rarity": "1/71.2",
+      "itemId": 213
+    },
+    {
+      "name": "Grimy cadantine",
+      "quantity": "1–2",
+      "rarity": "1/89",
+      "itemId": 215
+    },
+    {
+      "name": "Grimy lantadyme",
+      "quantity": "1–2",
+      "rarity": "1/118.7",
+      "itemId": 2485
+    },
+    {
+      "name": "Grimy dwarf weed",
+      "quantity": "1–2",
+      "rarity": "1/118.7",
+      "itemId": 217
+    },
+    {
+      "name": "Coins",
+      "quantity": "3",
+      "rarity": "5/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "8",
+      "rarity": "5/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "29",
+      "rarity": "3/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "35",
+      "rarity": "1/128",
+      "itemId": 995
+    },
+    {
+      "name": "Vial of water",
+      "quantity": "1",
+      "rarity": "10/128",
+      "itemId": 227
+    },
+    {
+      "name": "Bronze longsword",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 1291
+    },
+    {
+      "name": "Snape grass",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 231
+    },
+    {
+      "name": "Unholy mould",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 1594
+    },
+    {
+      "name": "Uncut sapphire",
+      "quantity": "1",
+      "rarity": "1/512",
+      "itemId": 1623
+    },
+    {
+      "name": "Uncut emerald",
+      "quantity": "1",
+      "rarity": "1/1024",
+      "itemId": 1621
+    },
+    {
+      "name": "Uncut ruby",
+      "quantity": "1",
+      "rarity": "1/2048",
+      "itemId": 1619
+    },
+    {
+      "name": "Uncut diamond",
+      "quantity": "1",
+      "rarity": "1/8192",
+      "itemId": 1617
+    },
+    {
+      "name": "Chaos talisman",
+      "quantity": "1",
+      "rarity": "1/5461.33",
+      "itemId": 1452
+    },
+    {
+      "name": "Nature talisman",
+      "quantity": "1",
+      "rarity": "1/5461.33",
+      "itemId": 1462
+    },
+    {
+      "name": "Loop half of key",
+      "quantity": "1",
+      "rarity": "1/16384",
+      "itemId": 987
+    },
+    {
+      "name": "Tooth half of key",
+      "quantity": "1",
+      "rarity": "1/16384",
+      "itemId": 985
+    },
+    {
+      "name": "Rune javelin",
+      "quantity": "5",
+      "rarity": "1/16384",
+      "itemId": 830
+    },
+    {
+      "name": "Rune spear",
+      "quantity": "1",
+      "rarity": "1/262144",
+      "itemId": 1247
+    },
+    {
+      "name": "Shield left half",
+      "quantity": "1",
+      "rarity": "1/524288",
+      "itemId": 2366
+    },
+    {
+      "name": "Dragon spear",
+      "quantity": "1",
+      "rarity": "1/699050.67",
+      "itemId": 1249
+    },
+    {
+      "name": "Looting bag",
+      "quantity": "1",
+      "rarity": "1/11",
+      "itemId": 11941
+    },
+    {
+      "name": "Ensouled chaos druid head",
+      "quantity": "1",
+      "rarity": "1/35",
+      "itemId": 13472
+    },
+    {
+      "name": "Larran's key",
+      "quantity": "1",
+      "rarity": "1/1446",
+      "itemId": 23490
+    },
+    {
+      "name": "Slayer's enchantment",
+      "quantity": "1",
+      "rarity": "1/304",
+      "itemId": 21257
+    }
+  ]
+}

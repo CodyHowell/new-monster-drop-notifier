@@ -1,0 +1,276 @@
+{
+  "id": 10544,
+  "name": "Forgotten Soul",
+  "drops": [
+    {
+      "name": "Steel longsword",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 1295
+    },
+    {
+      "name": "Earth battlestaff",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 1399
+    },
+    {
+      "name": "Fire battlestaff",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 1393
+    },
+    {
+      "name": "Air battlestaff",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 1397
+    },
+    {
+      "name": "Water battlestaff",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 1395
+    },
+    {
+      "name": "Black robe",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 581
+    },
+    {
+      "name": "Black skirt",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 1015
+    },
+    {
+      "name": "Wizard hat",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 1017
+    },
+    {
+      "name": "Grimy guam leaf",
+      "quantity": "1–2",
+      "rarity": "1/11.6",
+      "itemId": 199
+    },
+    {
+      "name": "Grimy marrentill",
+      "quantity": "1–2",
+      "rarity": "1/15.5",
+      "itemId": 201
+    },
+    {
+      "name": "Grimy tarromin",
+      "quantity": "1–2",
+      "rarity": "1/20.7",
+      "itemId": 203
+    },
+    {
+      "name": "Grimy harralander",
+      "quantity": "1–2",
+      "rarity": "1/26.6",
+      "itemId": 205
+    },
+    {
+      "name": "Grimy ranarr weed",
+      "quantity": "1–2",
+      "rarity": "1/33.9",
+      "itemId": 207
+    },
+    {
+      "name": "Grimy irit leaf",
+      "quantity": "1–2",
+      "rarity": "1/46.5",
+      "itemId": 209
+    },
+    {
+      "name": "Grimy avantoe",
+      "quantity": "1–2",
+      "rarity": "1/62.1",
+      "itemId": 211
+    },
+    {
+      "name": "Grimy kwuarm",
+      "quantity": "1–2",
+      "rarity": "1/74.5",
+      "itemId": 213
+    },
+    {
+      "name": "Grimy cadantine",
+      "quantity": "1–2",
+      "rarity": "1/93.1",
+      "itemId": 215
+    },
+    {
+      "name": "Grimy lantadyme",
+      "quantity": "1–2",
+      "rarity": "1/124.1",
+      "itemId": 2485
+    },
+    {
+      "name": "Grimy dwarf weed",
+      "quantity": "1–2",
+      "rarity": "1/124.1",
+      "itemId": 217
+    },
+    {
+      "name": "Law rune",
+      "quantity": "2–4",
+      "rarity": "7/128",
+      "itemId": 563
+    },
+    {
+      "name": "Mithril bolts",
+      "quantity": "12–24",
+      "rarity": "2/128",
+      "itemId": 9142
+    },
+    {
+      "name": "Mind rune",
+      "quantity": "12–32",
+      "rarity": "5/128",
+      "itemId": 558
+    },
+    {
+      "name": "Air rune",
+      "quantity": "30–50",
+      "rarity": "4/128",
+      "itemId": 556
+    },
+    {
+      "name": "Earth rune",
+      "quantity": "10–20",
+      "rarity": "2/128",
+      "itemId": 557
+    },
+    {
+      "name": "Water rune",
+      "quantity": "10–30",
+      "rarity": "2/128",
+      "itemId": 555
+    },
+    {
+      "name": "Body rune",
+      "quantity": "10–30",
+      "rarity": "2/128",
+      "itemId": 559
+    },
+    {
+      "name": "Nature rune",
+      "quantity": "3–5",
+      "rarity": "1/128",
+      "itemId": 561
+    },
+    {
+      "name": "Coins",
+      "quantity": "3",
+      "rarity": "5/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "5",
+      "rarity": "5/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "40–140",
+      "rarity": "20/128",
+      "itemId": 995
+    },
+    {
+      "name": "Vial of water",
+      "quantity": "2–4",
+      "rarity": "10/128",
+      "itemId": 227
+    },
+    {
+      "name": "Small fishing net",
+      "quantity": "1",
+      "rarity": "8/128",
+      "itemId": 303
+    },
+    {
+      "name": "Ball of wool",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 1759
+    },
+    {
+      "name": "Snape grass",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 231
+    },
+    {
+      "name": "Uncut sapphire",
+      "quantity": "1",
+      "rarity": "1/512",
+      "itemId": 1623
+    },
+    {
+      "name": "Uncut emerald",
+      "quantity": "1",
+      "rarity": "1/1024",
+      "itemId": 1621
+    },
+    {
+      "name": "Uncut ruby",
+      "quantity": "1",
+      "rarity": "1/2048",
+      "itemId": 1619
+    },
+    {
+      "name": "Uncut diamond",
+      "quantity": "1",
+      "rarity": "1/8192",
+      "itemId": 1617
+    },
+    {
+      "name": "Nature talisman",
+      "quantity": "1",
+      "rarity": "1/5461.33",
+      "itemId": 1462
+    },
+    {
+      "name": "Loop half of key",
+      "quantity": "1",
+      "rarity": "1/16384",
+      "itemId": 987
+    },
+    {
+      "name": "Tooth half of key",
+      "quantity": "1",
+      "rarity": "1/16384",
+      "itemId": 985
+    },
+    {
+      "name": "Rune javelin",
+      "quantity": "5",
+      "rarity": "1/16384",
+      "itemId": 830
+    },
+    {
+      "name": "Rune spear",
+      "quantity": "1",
+      "rarity": "1/262144",
+      "itemId": 1247
+    },
+    {
+      "name": "Shield left half",
+      "quantity": "1",
+      "rarity": "1/524288",
+      "itemId": 2366
+    },
+    {
+      "name": "Dragon spear",
+      "quantity": "1",
+      "rarity": "1/699050.67",
+      "itemId": 1249
+    }
+  ]
+}

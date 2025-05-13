@@ -1,0 +1,336 @@
+{
+  "id": 7392,
+  "name": "Giant rockslug",
+  "drops": [
+    {
+      "name": "Mystic gloves (light)",
+      "quantity": "1",
+      "rarity": "1/512",
+      "itemId": 4115
+    },
+    {
+      "name": "Earth rune",
+      "quantity": "5",
+      "rarity": "30/128",
+      "itemId": 557
+    },
+    {
+      "name": "Earth rune",
+      "quantity": "42",
+      "rarity": "4/128",
+      "itemId": 557
+    },
+    {
+      "name": "Chaos rune",
+      "quantity": "2",
+      "rarity": "4/128",
+      "itemId": 562
+    },
+    {
+      "name": "Coal",
+      "quantity": "1",
+      "rarity": "13/128",
+      "itemId": 453
+    },
+    {
+      "name": "Iron ore",
+      "quantity": "1",
+      "rarity": "22/128",
+      "itemId": 440
+    },
+    {
+      "name": "Bronze bar",
+      "quantity": "1",
+      "rarity": "2/128",
+      "itemId": 2349
+    },
+    {
+      "name": "Iron bar",
+      "quantity": "1",
+      "rarity": "3/128",
+      "itemId": 2351
+    },
+    {
+      "name": "Copper ore",
+      "quantity": "1",
+      "rarity": "3/128",
+      "itemId": 436
+    },
+    {
+      "name": "Tin ore",
+      "quantity": "1",
+      "rarity": "8/128",
+      "itemId": 438
+    },
+    {
+      "name": "Mithril ore",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 447
+    },
+    {
+      "name": "Potato seed",
+      "quantity": "4",
+      "rarity": "1/69",
+      "itemId": 5318
+    },
+    {
+      "name": "Onion seed",
+      "quantity": "4",
+      "rarity": "1/92",
+      "itemId": 5319
+    },
+    {
+      "name": "Cabbage seed",
+      "quantity": "4",
+      "rarity": "1/138",
+      "itemId": 5324
+    },
+    {
+      "name": "Tomato seed",
+      "quantity": "3",
+      "rarity": "1/276",
+      "itemId": 5322
+    },
+    {
+      "name": "Sweetcorn seed",
+      "quantity": "3",
+      "rarity": "1/552",
+      "itemId": 5320
+    },
+    {
+      "name": "Strawberry seed",
+      "quantity": "2",
+      "rarity": "1/1105",
+      "itemId": 5323
+    },
+    {
+      "name": "Watermelon seed",
+      "quantity": "2",
+      "rarity": "1/2310",
+      "itemId": 5321
+    },
+    {
+      "name": "Snape grass seed",
+      "quantity": "2",
+      "rarity": "1/3177",
+      "itemId": 22879
+    },
+    {
+      "name": "Barley seed",
+      "quantity": "4",
+      "rarity": "1/219",
+      "itemId": 5305
+    },
+    {
+      "name": "Hammerstone seed",
+      "quantity": "3",
+      "rarity": "1/220",
+      "itemId": 5307
+    },
+    {
+      "name": "Asgarnian seed",
+      "quantity": "3",
+      "rarity": "1/292",
+      "itemId": 5308
+    },
+    {
+      "name": "Jute seed",
+      "quantity": "2",
+      "rarity": "1/294",
+      "itemId": 5306
+    },
+    {
+      "name": "Yanillian seed",
+      "quantity": "2",
+      "rarity": "1/441",
+      "itemId": 5309
+    },
+    {
+      "name": "Krandorian seed",
+      "quantity": "2",
+      "rarity": "1/883",
+      "itemId": 5310
+    },
+    {
+      "name": "Wildblood seed",
+      "quantity": "1",
+      "rarity": "1/1735",
+      "itemId": 5311
+    },
+    {
+      "name": "Marigold seed",
+      "quantity": "1",
+      "rarity": "1/266",
+      "itemId": 5096
+    },
+    {
+      "name": "Nasturtium seed",
+      "quantity": "1",
+      "rarity": "1/402",
+      "itemId": 5098
+    },
+    {
+      "name": "Rosemary seed",
+      "quantity": "1",
+      "rarity": "1/622",
+      "itemId": 5097
+    },
+    {
+      "name": "Woad seed",
+      "quantity": "1",
+      "rarity": "1/842",
+      "itemId": 5099
+    },
+    {
+      "name": "Limpwurt seed",
+      "quantity": "1",
+      "rarity": "1/1055",
+      "itemId": 5100
+    },
+    {
+      "name": "Redberry seed",
+      "quantity": "1",
+      "rarity": "1/3057",
+      "itemId": 5101
+    },
+    {
+      "name": "Cadavaberry seed",
+      "quantity": "1",
+      "rarity": "1/4368",
+      "itemId": 5102
+    },
+    {
+      "name": "Dwellberry seed",
+      "quantity": "1",
+      "rarity": "1/6115",
+      "itemId": 5103
+    },
+    {
+      "name": "Jangerberry seed",
+      "quantity": "1",
+      "rarity": "1/15288",
+      "itemId": 5104
+    },
+    {
+      "name": "Whiteberry seed",
+      "quantity": "1",
+      "rarity": "1/42176",
+      "itemId": 5105
+    },
+    {
+      "name": "Poison ivy seed",
+      "quantity": "1",
+      "rarity": "1/111191",
+      "itemId": 5106
+    },
+    {
+      "name": "Dwarven stout",
+      "quantity": "1",
+      "rarity": "13/128",
+      "itemId": 1913
+    },
+    {
+      "name": "Hammer",
+      "quantity": "1",
+      "rarity": "10/128",
+      "itemId": 2347
+    },
+    {
+      "name": "Uncut sapphire",
+      "quantity": "1",
+      "rarity": "1/85.33",
+      "itemId": 1623
+    },
+    {
+      "name": "Uncut emerald",
+      "quantity": "1",
+      "rarity": "1/170.67",
+      "itemId": 1621
+    },
+    {
+      "name": "Uncut ruby",
+      "quantity": "1",
+      "rarity": "1/341.33",
+      "itemId": 1619
+    },
+    {
+      "name": "Uncut diamond",
+      "quantity": "1",
+      "rarity": "1/1365.33",
+      "itemId": 1617
+    },
+    {
+      "name": "Chaos talisman",
+      "quantity": "1",
+      "rarity": "1/910.22",
+      "itemId": 1452
+    },
+    {
+      "name": "Nature talisman",
+      "quantity": "1",
+      "rarity": "1/910.22",
+      "itemId": 1462
+    },
+    {
+      "name": "Loop half of key",
+      "quantity": "1",
+      "rarity": "1/2730.67",
+      "itemId": 987
+    },
+    {
+      "name": "Tooth half of key",
+      "quantity": "1",
+      "rarity": "1/2730.67",
+      "itemId": 985
+    },
+    {
+      "name": "Rune javelin",
+      "quantity": "5",
+      "rarity": "1/2730.67",
+      "itemId": 830
+    },
+    {
+      "name": "Rune spear",
+      "quantity": "1",
+      "rarity": "1/43690.67",
+      "itemId": 1247
+    },
+    {
+      "name": "Shield left half",
+      "quantity": "1",
+      "rarity": "1/87381.33",
+      "itemId": 2366
+    },
+    {
+      "name": "Dragon spear",
+      "quantity": "1",
+      "rarity": "1/116508.44",
+      "itemId": 1249
+    },
+    {
+      "name": "Mist battlestaff",
+      "quantity": "1",
+      "rarity": "1/354",
+      "itemId": 20730
+    },
+    {
+      "name": "Dust battlestaff",
+      "quantity": "1",
+      "rarity": "1/354",
+      "itemId": 20736
+    },
+    {
+      "name": "Eternal gem",
+      "quantity": "1",
+      "rarity": "1/1240",
+      "itemId": 21270
+    },
+    {
+      "name": "Imbued heart",
+      "quantity": "1",
+      "rarity": "1/1240",
+      "itemId": 20724
+    }
+  ]
+}

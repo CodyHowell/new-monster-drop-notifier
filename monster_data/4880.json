@@ -1,0 +1,18 @@
+{
+  "id": 4880,
+  "name": "Agrith-Na-Na",
+  "drops": [
+    {
+      "name": "Banana",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 1963
+    },
+    {
+      "name": "Banana",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 1963
+    }
+  ]
+}

@@ -1,0 +1,300 @@
+{
+  "id": 319,
+  "name": "Corporeal Beast",
+  "drops": [
+    {
+      "name": "Spectral sigil",
+      "quantity": "1",
+      "rarity": "1/1365",
+      "itemId": 12823
+    },
+    {
+      "name": "Arcane sigil",
+      "quantity": "1",
+      "rarity": "1/1365",
+      "itemId": 12827
+    },
+    {
+      "name": "Elysian sigil",
+      "quantity": "1",
+      "rarity": "1/4095",
+      "itemId": 12819
+    },
+    {
+      "name": "Mystic robe top",
+      "quantity": "1",
+      "rarity": "18/512",
+      "itemId": 4091
+    },
+    {
+      "name": "Mystic robe bottom",
+      "quantity": "1",
+      "rarity": "18/512",
+      "itemId": 4093
+    },
+    {
+      "name": "Mystic air staff",
+      "quantity": "1",
+      "rarity": "12/512",
+      "itemId": 1405
+    },
+    {
+      "name": "Mystic water staff",
+      "quantity": "1",
+      "rarity": "12/512",
+      "itemId": 1403
+    },
+    {
+      "name": "Mystic earth staff",
+      "quantity": "1",
+      "rarity": "12/512",
+      "itemId": 1407
+    },
+    {
+      "name": "Mystic fire staff",
+      "quantity": "1",
+      "rarity": "12/512",
+      "itemId": 1401
+    },
+    {
+      "name": "Spirit shield",
+      "quantity": "1",
+      "rarity": "8/512",
+      "itemId": 12829
+    },
+    {
+      "name": "Soul rune",
+      "quantity": "250",
+      "rarity": "32/512",
+      "itemId": 566
+    },
+    {
+      "name": "Runite bolts",
+      "quantity": "250",
+      "rarity": "24/512",
+      "itemId": 9144
+    },
+    {
+      "name": "Death rune",
+      "quantity": "300",
+      "rarity": "22/512",
+      "itemId": 560
+    },
+    {
+      "name": "Onyx bolts (e)",
+      "quantity": "175",
+      "rarity": "20/512",
+      "itemId": 9245
+    },
+    {
+      "name": "Cannonball",
+      "quantity": "2000",
+      "rarity": "17/512",
+      "itemId": 2
+    },
+    {
+      "name": "Adamant arrow",
+      "quantity": "750",
+      "rarity": "17/512",
+      "itemId": 890
+    },
+    {
+      "name": "Law rune",
+      "quantity": "250",
+      "rarity": "17/512",
+      "itemId": 563
+    },
+    {
+      "name": "Cosmic rune",
+      "quantity": "500",
+      "rarity": "17/512",
+      "itemId": 564
+    },
+    {
+      "name": "Raw shark",
+      "quantity": "70",
+      "rarity": "21/512",
+      "itemId": 383
+    },
+    {
+      "name": "Pure essence",
+      "quantity": "2500",
+      "rarity": "21/512",
+      "itemId": 7936
+    },
+    {
+      "name": "Adamantite bar",
+      "quantity": "35",
+      "rarity": "18/512",
+      "itemId": 2361
+    },
+    {
+      "name": "Green dragonhide",
+      "quantity": "100",
+      "rarity": "18/512",
+      "itemId": 1753
+    },
+    {
+      "name": "Adamantite ore",
+      "quantity": "125",
+      "rarity": "17/512",
+      "itemId": 449
+    },
+    {
+      "name": "Runite ore",
+      "quantity": "20",
+      "rarity": "12/512",
+      "itemId": 451
+    },
+    {
+      "name": "Teak plank",
+      "quantity": "100",
+      "rarity": "12/512",
+      "itemId": 8780
+    },
+    {
+      "name": "Mahogany logs",
+      "quantity": "150",
+      "rarity": "12/512",
+      "itemId": 6332
+    },
+    {
+      "name": "Magic logs",
+      "quantity": "75",
+      "rarity": "12/512",
+      "itemId": 1513
+    },
+    {
+      "name": "Tuna potato",
+      "quantity": "30",
+      "rarity": "20/512",
+      "itemId": 7060
+    },
+    {
+      "name": "White berries",
+      "quantity": "120",
+      "rarity": "17/512",
+      "itemId": 239
+    },
+    {
+      "name": "Desert goat horn",
+      "quantity": "120",
+      "rarity": "17/512",
+      "itemId": 9735
+    },
+    {
+      "name": "Watermelon seed",
+      "quantity": "24",
+      "rarity": "15/512",
+      "itemId": 5321
+    },
+    {
+      "name": "Coins",
+      "quantity": "20000–50000",
+      "rarity": "12/512",
+      "itemId": 995
+    },
+    {
+      "name": "Antidote++(4)",
+      "quantity": "40",
+      "rarity": "10/512",
+      "itemId": 5952
+    },
+    {
+      "name": "Ranarr seed",
+      "quantity": "10",
+      "rarity": "5/512",
+      "itemId": 5295
+    },
+    {
+      "name": "Holy elixir",
+      "quantity": "1",
+      "rarity": "3/512",
+      "itemId": 12833
+    },
+    {
+      "name": "Uncut sapphire",
+      "quantity": "1",
+      "rarity": "1/170.67",
+      "itemId": 1623
+    },
+    {
+      "name": "Uncut emerald",
+      "quantity": "1",
+      "rarity": "1/341.33",
+      "itemId": 1621
+    },
+    {
+      "name": "Uncut ruby",
+      "quantity": "1",
+      "rarity": "1/682.67",
+      "itemId": 1619
+    },
+    {
+      "name": "Uncut diamond",
+      "quantity": "1",
+      "rarity": "1/2730.67",
+      "itemId": 1617
+    },
+    {
+      "name": "Nature talisman",
+      "quantity": "1",
+      "rarity": "1/1820.44",
+      "itemId": 1462
+    },
+    {
+      "name": "Loop half of key",
+      "quantity": "1",
+      "rarity": "1/5461.33",
+      "itemId": 987
+    },
+    {
+      "name": "Tooth half of key",
+      "quantity": "1",
+      "rarity": "1/5461.33",
+      "itemId": 985
+    },
+    {
+      "name": "Rune javelin",
+      "quantity": "5",
+      "rarity": "1/5461.33",
+      "itemId": 830
+    },
+    {
+      "name": "Rune spear",
+      "quantity": "1",
+      "rarity": "1/87381.33",
+      "itemId": 1247
+    },
+    {
+      "name": "Shield left half",
+      "quantity": "1",
+      "rarity": "1/174762.67",
+      "itemId": 2366
+    },
+    {
+      "name": "Dragon spear",
+      "quantity": "1",
+      "rarity": "1/233016.89",
+      "itemId": 1249
+    },
+    {
+      "name": "Clue scroll (elite)",
+      "quantity": "1",
+      "rarity": "1/200",
+      "itemId": 21524
+    },
+    {
+      "name": "Jar of spirits",
+      "quantity": "1",
+      "rarity": "1/1000",
+      "itemId": 25521
+    },
+    {
+      "name": "Pet dark core",
+      "quantity": "1",
+      "rarity": "1/5000",
+      "itemId": 12816
+    }
+  ]
+}

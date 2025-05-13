@@ -1,0 +1,12 @@
+{
+  "id": 11756,
+  "name": "Tumeken's Warden",
+  "drops": [
+    {
+      "name": "The wardens",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 27310
+    }
+  ]
+}

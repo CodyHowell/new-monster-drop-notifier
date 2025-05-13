@@ -1,0 +1,12 @@
+{
+  "id": 509,
+  "name": "Death wing",
+  "drops": [
+    {
+      "name": "Clue scroll (beginner)",
+      "quantity": "1",
+      "rarity": "Rare",
+      "itemId": 23182
+    }
+  ]
+}

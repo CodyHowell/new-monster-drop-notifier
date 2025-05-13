@@ -1,0 +1,162 @@
+{
+  "id": 3257,
+  "name": "Wizard",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    },
+    {
+      "name": "Staff",
+      "quantity": "1",
+      "rarity": "8/128",
+      "itemId": 1379
+    },
+    {
+      "name": "Blue wizard robe",
+      "quantity": "1",
+      "rarity": "7/128",
+      "itemId": 577
+    },
+    {
+      "name": "Blue wizard hat",
+      "quantity": "1",
+      "rarity": "3/128",
+      "itemId": 579
+    },
+    {
+      "name": "Chaos rune",
+      "quantity": "2",
+      "rarity": "8/128",
+      "itemId": 562
+    },
+    {
+      "name": "Nature rune",
+      "quantity": "2",
+      "rarity": "8/128",
+      "itemId": 561
+    },
+    {
+      "name": "Air rune",
+      "quantity": "5",
+      "rarity": "3/128",
+      "itemId": 556
+    },
+    {
+      "name": "Body rune",
+      "quantity": "5",
+      "rarity": "3/128",
+      "itemId": 559
+    },
+    {
+      "name": "Earth rune",
+      "quantity": "5",
+      "rarity": "3/128",
+      "itemId": 557
+    },
+    {
+      "name": "Fire rune",
+      "quantity": "5",
+      "rarity": "3/128",
+      "itemId": 554
+    },
+    {
+      "name": "Mind rune",
+      "quantity": "5",
+      "rarity": "3/128",
+      "itemId": 558
+    },
+    {
+      "name": "Water rune",
+      "quantity": "5",
+      "rarity": "3/128",
+      "itemId": 555
+    },
+    {
+      "name": "Air rune",
+      "quantity": "12",
+      "rarity": "2/128",
+      "itemId": 556
+    },
+    {
+      "name": "Body rune",
+      "quantity": "12",
+      "rarity": "2/128",
+      "itemId": 559
+    },
+    {
+      "name": "Earth rune",
+      "quantity": "12",
+      "rarity": "2/128",
+      "itemId": 557
+    },
+    {
+      "name": "Fire rune",
+      "quantity": "12",
+      "rarity": "2/128",
+      "itemId": 554
+    },
+    {
+      "name": "Mind rune",
+      "quantity": "12",
+      "rarity": "2/128",
+      "itemId": 558
+    },
+    {
+      "name": "Water rune",
+      "quantity": "12",
+      "rarity": "2/128",
+      "itemId": 555
+    },
+    {
+      "name": "Blood rune",
+      "quantity": "2",
+      "rarity": "1/128",
+      "itemId": 565
+    },
+    {
+      "name": "Law rune",
+      "quantity": "2",
+      "rarity": "1/128",
+      "itemId": 563
+    },
+    {
+      "name": "Water talisman",
+      "quantity": "1",
+      "rarity": "3/128",
+      "itemId": 1444
+    },
+    {
+      "name": "Mind talisman",
+      "quantity": "1",
+      "rarity": "4/128",
+      "itemId": 1448
+    },
+    {
+      "name": "Coins",
+      "quantity": "1",
+      "rarity": "23/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "2",
+      "rarity": "9/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "18",
+      "rarity": "7/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "30",
+      "rarity": "1/128",
+      "itemId": 995
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "id": 6434,
+  "name": "Cave goblin (monster)",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    },
+    {
+      "name": "Body rune",
+      "quantity": "7",
+      "rarity": "5/50",
+      "itemId": 559
+    },
+    {
+      "name": "Water rune",
+      "quantity": "6",
+      "rarity": "5/50",
+      "itemId": 555
+    },
+    {
+      "name": "Earth rune",
+      "quantity": "4",
+      "rarity": "5/50",
+      "itemId": 557
+    },
+    {
+      "name": "Coins",
+      "quantity": "5",
+      "rarity": "4/50",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "9",
+      "rarity": "4/50",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "15",
+      "rarity": "6/50",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "20",
+      "rarity": "5/50",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "1",
+      "rarity": "1/50",
+      "itemId": 995
+    },
+    {
+      "name": "Hammer",
+      "quantity": "1",
+      "rarity": "4/50",
+      "itemId": 2347
+    },
+    {
+      "name": "Brass necklace",
+      "quantity": "1",
+      "rarity": "1/50",
+      "itemId": 1009
+    },
+    {
+      "name": "Tinderbox",
+      "quantity": "1",
+      "rarity": "4/50",
+      "itemId": 590
+    },
+    {
+      "name": "Cave goblin skull",
+      "quantity": "1",
+      "rarity": "1/4",
+      "itemId": 7905
+    },
+    {
+      "name": "Clue scroll (beginner)",
+      "quantity": "1",
+      "rarity": "1/64",
+      "itemId": 23182
+    },
+    {
+      "name": "Clue scroll (easy)",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 12179
+    },
+    {
+      "name": "Goblin champion scroll",
+      "quantity": "1",
+      "rarity": "1/5000",
+      "itemId": 6801
+    },
+    {
+      "name": "Lit torch",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 594
+    },
+    {
+      "name": "Tinderbox",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 590
+    }
+  ]
+}

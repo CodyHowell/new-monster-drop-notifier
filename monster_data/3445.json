@@ -1,0 +1,18 @@
+{
+  "id": 3445,
+  "name": "Guardian of Armadyl",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    },
+    {
+      "name": "Armadyl pendant",
+      "quantity": "1",
+      "rarity": "Common",
+      "itemId": 87
+    }
+  ]
+}

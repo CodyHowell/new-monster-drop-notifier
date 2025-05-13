@@ -1,0 +1,18 @@
+{
+  "id": 2978,
+  "name": "Big Snake",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    },
+    {
+      "name": "Snake corpse",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 7576
+    }
+  ]
+}

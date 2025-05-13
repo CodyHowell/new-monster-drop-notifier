@@ -1,0 +1,12 @@
+{
+  "id": 1354,
+  "name": "Dwarf gang member",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    }
+  ]
+}

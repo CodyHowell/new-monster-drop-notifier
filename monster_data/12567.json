@@ -1,0 +1,228 @@
+{
+  "id": 12567,
+  "name": "Bloodthirsty Mage",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    },
+    {
+      "name": "Raw lobster",
+      "quantity": "60–80",
+      "rarity": "5/136",
+      "itemId": 377
+    },
+    {
+      "name": "Snape grass",
+      "quantity": "60–150",
+      "rarity": "10/136",
+      "itemId": 231
+    },
+    {
+      "name": "Irit seed",
+      "quantity": "10–15",
+      "rarity": "10/136",
+      "itemId": 5297
+    },
+    {
+      "name": "Unicorn horn",
+      "quantity": "60–150",
+      "rarity": "5/136",
+      "itemId": 237
+    },
+    {
+      "name": "Limpwurt root",
+      "quantity": "60–150",
+      "rarity": "10/136",
+      "itemId": 225
+    },
+    {
+      "name": "Yew logs",
+      "quantity": "70–90",
+      "rarity": "15/136",
+      "itemId": 1515
+    },
+    {
+      "name": "Raw monkfish",
+      "quantity": "60–80",
+      "rarity": "15/136",
+      "itemId": 7944
+    },
+    {
+      "name": "White berries",
+      "quantity": "60–150",
+      "rarity": "20/136",
+      "itemId": 239
+    },
+    {
+      "name": "Kwuarm seed",
+      "quantity": "8–15",
+      "rarity": "30/136",
+      "itemId": 5299
+    },
+    {
+      "name": "Ranarr seed",
+      "quantity": "8–15",
+      "rarity": "16/136",
+      "itemId": 5295
+    },
+    {
+      "name": "Staff",
+      "quantity": "1",
+      "rarity": "9 × 8/128",
+      "itemId": 1379
+    },
+    {
+      "name": "Staff of fire",
+      "quantity": "1",
+      "rarity": "9 × 1/128",
+      "itemId": 1387
+    },
+    {
+      "name": "Mystic boots (dark)",
+      "quantity": "1",
+      "rarity": "9 × 1/512",
+      "itemId": 4107
+    },
+    {
+      "name": "Mystic hat (dark)",
+      "quantity": "1",
+      "rarity": "9 × 1/512",
+      "itemId": 4099
+    },
+    {
+      "name": "Lava battlestaff",
+      "quantity": "1",
+      "rarity": "9 × 1/1000",
+      "itemId": 3053
+    },
+    {
+      "name": "Earth rune",
+      "quantity": "10",
+      "rarity": "9 × 6/128",
+      "itemId": 557
+    },
+    {
+      "name": "Fire rune",
+      "quantity": "10",
+      "rarity": "9 × 6/128",
+      "itemId": 554
+    },
+    {
+      "name": "Earth rune",
+      "quantity": "36",
+      "rarity": "9 × 4/128",
+      "itemId": 557
+    },
+    {
+      "name": "Air rune",
+      "quantity": "10",
+      "rarity": "9 × 3/128",
+      "itemId": 556
+    },
+    {
+      "name": "Water rune",
+      "quantity": "10",
+      "rarity": "9 × 3/128",
+      "itemId": 555
+    },
+    {
+      "name": "Air rune",
+      "quantity": "18",
+      "rarity": "9 × 2/128",
+      "itemId": 556
+    },
+    {
+      "name": "Water rune",
+      "quantity": "18",
+      "rarity": "9 × 2/128",
+      "itemId": 555
+    },
+    {
+      "name": "Earth rune",
+      "quantity": "18",
+      "rarity": "9 × 2/128",
+      "itemId": 557
+    },
+    {
+      "name": "Fire rune",
+      "quantity": "18",
+      "rarity": "9 × 2/128",
+      "itemId": 554
+    },
+    {
+      "name": "Mind rune",
+      "quantity": "18",
+      "rarity": "9 × 2/128",
+      "itemId": 558
+    },
+    {
+      "name": "Body rune",
+      "quantity": "18",
+      "rarity": "9 × 2/128",
+      "itemId": 559
+    },
+    {
+      "name": "Blood rune",
+      "quantity": "4",
+      "rarity": "9 × 2/128",
+      "itemId": 565
+    },
+    {
+      "name": "Death rune",
+      "quantity": "7",
+      "rarity": "9 × 18/128",
+      "itemId": 560
+    },
+    {
+      "name": "Coins",
+      "quantity": "1",
+      "rarity": "9 × 19/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "2",
+      "rarity": "9 × 14/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "4",
+      "rarity": "9 × 8/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "29",
+      "rarity": "9 × 3/128",
+      "itemId": 995
+    },
+    {
+      "name": "Mist battlestaff",
+      "quantity": "1",
+      "rarity": "3/274",
+      "itemId": 20730
+    },
+    {
+      "name": "Dust battlestaff",
+      "quantity": "1",
+      "rarity": "3/274",
+      "itemId": 20736
+    },
+    {
+      "name": "Eternal gem",
+      "quantity": "1",
+      "rarity": "3/960",
+      "itemId": 21270
+    },
+    {
+      "name": "Imbued heart",
+      "quantity": "1",
+      "rarity": "3/960",
+      "itemId": 20724
+    }
+  ]
+}

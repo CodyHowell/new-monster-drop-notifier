@@ -1,0 +1,12 @@
+{
+  "id": 3459,
+  "name": "Dessous",
+  "drops": [
+    {
+      "name": "Vampyre dust",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 3325
+    }
+  ]
+}

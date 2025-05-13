@@ -1,0 +1,18 @@
+{
+  "id": 1494,
+  "name": "Kebbit (Eagles' Peak)",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    },
+    {
+      "name": "Silver feather",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 10176
+    }
+  ]
+}

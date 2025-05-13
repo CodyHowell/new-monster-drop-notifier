@@ -1,0 +1,150 @@
+{
+  "id": 64,
+  "name": "Zombie (Entrana Dungeon)",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    },
+    {
+      "name": "Bronze axe",
+      "quantity": "1",
+      "rarity": "50/128",
+      "itemId": 1351
+    },
+    {
+      "name": "Bronze med helm",
+      "quantity": "1",
+      "rarity": "4/128",
+      "itemId": 1139
+    },
+    {
+      "name": "Bronze longsword",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 1291
+    },
+    {
+      "name": "Iron axe",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 1349
+    },
+    {
+      "name": "Air rune",
+      "quantity": "13",
+      "rarity": "4/128",
+      "itemId": 556
+    },
+    {
+      "name": "Bronze arrow",
+      "quantity": "8",
+      "rarity": "4/128",
+      "itemId": 882
+    },
+    {
+      "name": "Nature rune",
+      "quantity": "6",
+      "rarity": "1/128",
+      "itemId": 561
+    },
+    {
+      "name": "Grimy guam leaf",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 199
+    },
+    {
+      "name": "Grimy marrentill",
+      "quantity": "1",
+      "rarity": "1/170.7",
+      "itemId": 201
+    },
+    {
+      "name": "Grimy tarromin",
+      "quantity": "1",
+      "rarity": "1/227.6",
+      "itemId": 203
+    },
+    {
+      "name": "Grimy harralander",
+      "quantity": "1",
+      "rarity": "1/292.6",
+      "itemId": 205
+    },
+    {
+      "name": "Grimy ranarr weed",
+      "quantity": "1",
+      "rarity": "1/372.4",
+      "itemId": 207
+    },
+    {
+      "name": "Grimy irit leaf",
+      "quantity": "1",
+      "rarity": "1/512",
+      "itemId": 209
+    },
+    {
+      "name": "Grimy avantoe",
+      "quantity": "1",
+      "rarity": "1/682.7",
+      "itemId": 211
+    },
+    {
+      "name": "Grimy kwuarm",
+      "quantity": "1",
+      "rarity": "1/819.2",
+      "itemId": 213
+    },
+    {
+      "name": "Grimy cadantine",
+      "quantity": "1",
+      "rarity": "1/1024",
+      "itemId": 215
+    },
+    {
+      "name": "Grimy lantadyme",
+      "quantity": "1",
+      "rarity": "1/1365.3",
+      "itemId": 2485
+    },
+    {
+      "name": "Grimy dwarf weed",
+      "quantity": "1",
+      "rarity": "1/1365.3",
+      "itemId": 217
+    },
+    {
+      "name": "Fishing bait",
+      "quantity": "5",
+      "rarity": "46/128",
+      "itemId": 313
+    },
+    {
+      "name": "Coins",
+      "quantity": "18",
+      "rarity": "3/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "28",
+      "rarity": "2/128",
+      "itemId": 995
+    },
+    {
+      "name": "Zombie bone",
+      "quantity": "1",
+      "rarity": "1/4",
+      "itemId": 7863
+    },
+    {
+      "name": "Zombie champion scroll",
+      "quantity": "1",
+      "rarity": "1/5000",
+      "itemId": 6807
+    }
+  ]
+}

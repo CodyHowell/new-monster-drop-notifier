@@ -1,0 +1,24 @@
+{
+  "id": 1558,
+  "name": "Earth wizard",
+  "drops": [
+    {
+      "name": "Ashes",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 592
+    },
+    {
+      "name": "Earth rune",
+      "quantity": "5–10",
+      "rarity": "19/20",
+      "itemId": 557
+    },
+    {
+      "name": "Earth talisman",
+      "quantity": "1",
+      "rarity": "1/20",
+      "itemId": 1440
+    }
+  ]
+}

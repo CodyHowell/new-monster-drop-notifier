@@ -1,0 +1,18 @@
+{
+  "id": 13139,
+  "name": "Embertailed jerboa",
+  "drops": [
+    {
+      "name": "Jerboa tail",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 29166
+    },
+    {
+      "name": "Large jerboa tail",
+      "quantity": "1",
+      "rarity": "1/50",
+      "itemId": 29228
+    }
+  ]
+}

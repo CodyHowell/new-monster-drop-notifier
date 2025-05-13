@@ -1,0 +1,222 @@
+{
+  "id": 12596,
+  "name": "Branda the Fire Queen",
+  "drops": [
+    {
+      "name": "Desiccated page",
+      "quantity": "10–18",
+      "rarity": "Always",
+      "itemId": 30640
+    },
+    {
+      "name": "Fire element staff crown",
+      "quantity": "1",
+      "rarity": "1/75",
+      "itemId": 30631
+    },
+    {
+      "name": "Mystic vigour prayer scroll",
+      "quantity": "1",
+      "rarity": "1/75",
+      "itemId": 30627
+    },
+    {
+      "name": "Giantsoul amulet",
+      "quantity": "1",
+      "rarity": "1/16",
+      "itemId": 30638
+    },
+    {
+      "name": "Mystic fire staff",
+      "quantity": "4",
+      "rarity": "2 × ~12/387",
+      "itemId": 1401
+    },
+    {
+      "name": "Fire battlestaff",
+      "quantity": "6",
+      "rarity": "2 × ~12/387",
+      "itemId": 1393
+    },
+    {
+      "name": "Rune plateskirt",
+      "quantity": "2",
+      "rarity": "2 × ~12/387",
+      "itemId": 1093
+    },
+    {
+      "name": "Rune scimitar",
+      "quantity": "2",
+      "rarity": "2 × ~12/387",
+      "itemId": 1333
+    },
+    {
+      "name": "Rune pickaxe",
+      "quantity": "2",
+      "rarity": "2 × ~12/387",
+      "itemId": 1275
+    },
+    {
+      "name": "Chaos rune",
+      "quantity": "200–400",
+      "rarity": "2 × ~15/387",
+      "itemId": 562
+    },
+    {
+      "name": "Death rune",
+      "quantity": "150–300",
+      "rarity": "2 × ~15/387",
+      "itemId": 560
+    },
+    {
+      "name": "Nature rune",
+      "quantity": "100–150",
+      "rarity": "2 × ~15/387",
+      "itemId": 561
+    },
+    {
+      "name": "Law rune",
+      "quantity": "100–150",
+      "rarity": "2 × ~15/387",
+      "itemId": 563
+    },
+    {
+      "name": "Soul rune",
+      "quantity": "100–150",
+      "rarity": "2 × ~15/387",
+      "itemId": 566
+    },
+    {
+      "name": "Blood rune",
+      "quantity": "100–150",
+      "rarity": "2 × ~15/387",
+      "itemId": 565
+    },
+    {
+      "name": "Rune arrow",
+      "quantity": "100–300",
+      "rarity": "2 × ~15/387",
+      "itemId": 892
+    },
+    {
+      "name": "Fire rune",
+      "quantity": "1500–3000",
+      "rarity": "2 × ~15/387",
+      "itemId": 554
+    },
+    {
+      "name": "Coal",
+      "quantity": "280–320",
+      "rarity": "2 × ~14/387",
+      "itemId": 453
+    },
+    {
+      "name": "Gold ore",
+      "quantity": "60–100",
+      "rarity": "2 × ~15/387",
+      "itemId": 444
+    },
+    {
+      "name": "Fire orb",
+      "quantity": "20–40",
+      "rarity": "2 × ~15/387",
+      "itemId": 569
+    },
+    {
+      "name": "Grimy avantoe",
+      "quantity": "6–8",
+      "rarity": "2 × ~14/387",
+      "itemId": 211
+    },
+    {
+      "name": "Grimy cadantine",
+      "quantity": "6–8",
+      "rarity": "2 × ~14/387",
+      "itemId": 215
+    },
+    {
+      "name": "Grimy dwarf weed",
+      "quantity": "6–8",
+      "rarity": "2 × ~14/387",
+      "itemId": 217
+    },
+    {
+      "name": "Grimy irit leaf",
+      "quantity": "6–8",
+      "rarity": "2 × ~14/387",
+      "itemId": 209
+    },
+    {
+      "name": "Grimy kwuarm",
+      "quantity": "6–8",
+      "rarity": "2 × ~14/387",
+      "itemId": 213
+    },
+    {
+      "name": "Grimy lantadyme",
+      "quantity": "6–8",
+      "rarity": "2 × ~14/387",
+      "itemId": 2485
+    },
+    {
+      "name": "Grimy ranarr weed",
+      "quantity": "6–8",
+      "rarity": "2 × ~14/387",
+      "itemId": 207
+    },
+    {
+      "name": "Maple seed",
+      "quantity": "4–6",
+      "rarity": "2 × ~7/387",
+      "itemId": 5314
+    },
+    {
+      "name": "Palm tree seed",
+      "quantity": "2",
+      "rarity": "2 × ~6/387",
+      "itemId": 5289
+    },
+    {
+      "name": "Yew seed",
+      "quantity": "2",
+      "rarity": "2 × ~6/387",
+      "itemId": 5315
+    },
+    {
+      "name": "Coins",
+      "quantity": "10000–30000",
+      "rarity": "2 × ~16/387",
+      "itemId": 995
+    },
+    {
+      "name": "Prayer potion(4)",
+      "quantity": "2–4",
+      "rarity": "2 × ~14/387",
+      "itemId": 2434
+    },
+    {
+      "name": "Desiccated page",
+      "quantity": "6–24",
+      "rarity": "2 × ~16/387",
+      "itemId": 30640
+    },
+    {
+      "name": "Clue scroll (hard)",
+      "quantity": "1",
+      "rarity": "1/25",
+      "itemId": 3550
+    },
+    {
+      "name": "Clue scroll (elite)",
+      "quantity": "1",
+      "rarity": "1/100",
+      "itemId": 21524
+    },
+    {
+      "name": "Bran",
+      "quantity": "1",
+      "rarity": "1/3000",
+      "itemId": 30622
+    }
+  ]
+}

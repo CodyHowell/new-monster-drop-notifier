@@ -1,0 +1,12 @@
+{
+  "id": 10812,
+  "name": "Pestilent Bloat",
+  "drops": [
+    {
+      "name": "The butcher",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 22506
+    }
+  ]
+}

@@ -1,0 +1,366 @@
+{
+  "id": 8633,
+  "name": "The Mimic",
+  "drops": [
+    {
+      "name": "Mahogany plank",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 8782
+    },
+    {
+      "name": "Ring of 3rd age",
+      "quantity": "1",
+      "rarity": "6/250",
+      "itemId": 23185
+    },
+    {
+      "name": "3rd age full helmet",
+      "quantity": "1",
+      "rarity": "1/5750",
+      "itemId": 10350
+    },
+    {
+      "name": "3rd age platebody",
+      "quantity": "1",
+      "rarity": "1/5750",
+      "itemId": 10348
+    },
+    {
+      "name": "3rd age platelegs",
+      "quantity": "1",
+      "rarity": "1/5750",
+      "itemId": 10346
+    },
+    {
+      "name": "3rd age plateskirt",
+      "quantity": "1",
+      "rarity": "1/5750",
+      "itemId": 23242
+    },
+    {
+      "name": "3rd age kiteshield",
+      "quantity": "1",
+      "rarity": "1/5750",
+      "itemId": 10352
+    },
+    {
+      "name": "3rd age range coif",
+      "quantity": "1",
+      "rarity": "1/5750",
+      "itemId": 10334
+    },
+    {
+      "name": "3rd age range top",
+      "quantity": "1",
+      "rarity": "1/5750",
+      "itemId": 10330
+    },
+    {
+      "name": "3rd age range legs",
+      "quantity": "1",
+      "rarity": "1/5750",
+      "itemId": 10332
+    },
+    {
+      "name": "3rd age vambraces",
+      "quantity": "1",
+      "rarity": "1/5750",
+      "itemId": 10336
+    },
+    {
+      "name": "3rd age mage hat",
+      "quantity": "1",
+      "rarity": "1/5750",
+      "itemId": 10342
+    },
+    {
+      "name": "3rd age robe top",
+      "quantity": "1",
+      "rarity": "1/5750",
+      "itemId": 10338
+    },
+    {
+      "name": "3rd age robe",
+      "quantity": "1",
+      "rarity": "1/5750",
+      "itemId": 10340
+    },
+    {
+      "name": "3rd age amulet",
+      "quantity": "1",
+      "rarity": "1/5750",
+      "itemId": 10344
+    },
+    {
+      "name": "3rd age longsword",
+      "quantity": "1",
+      "rarity": "1/5750",
+      "itemId": 12426
+    },
+    {
+      "name": "3rd age bow",
+      "quantity": "1",
+      "rarity": "1/5750",
+      "itemId": 12424
+    },
+    {
+      "name": "3rd age wand",
+      "quantity": "1",
+      "rarity": "1/5750",
+      "itemId": 12422
+    },
+    {
+      "name": "3rd age cloak",
+      "quantity": "1",
+      "rarity": "1/5750",
+      "itemId": 12437
+    },
+    {
+      "name": "3rd age druidic robe top",
+      "quantity": "1",
+      "rarity": "1/5750",
+      "itemId": 23336
+    },
+    {
+      "name": "3rd age druidic robe bottoms",
+      "quantity": "1",
+      "rarity": "1/5750",
+      "itemId": 23339
+    },
+    {
+      "name": "3rd age druidic cloak",
+      "quantity": "1",
+      "rarity": "1/5750",
+      "itemId": 23345
+    },
+    {
+      "name": "3rd age druidic staff",
+      "quantity": "1",
+      "rarity": "1/5750",
+      "itemId": 23342
+    },
+    {
+      "name": "3rd age pickaxe",
+      "quantity": "1",
+      "rarity": "1/5750",
+      "itemId": 20014
+    },
+    {
+      "name": "3rd age axe",
+      "quantity": "1",
+      "rarity": "1/5750",
+      "itemId": 20011
+    },
+    {
+      "name": "Death rune",
+      "quantity": "120–600",
+      "rarity": "243/1250",
+      "itemId": 560
+    },
+    {
+      "name": "Blood rune",
+      "quantity": "100–500",
+      "rarity": "243/1250",
+      "itemId": 565
+    },
+    {
+      "name": "Grimy ranarr weed",
+      "quantity": "5–25",
+      "rarity": "243/1250",
+      "itemId": 207
+    },
+    {
+      "name": "Wine of zamorak",
+      "quantity": "5–25",
+      "rarity": "243/1250",
+      "itemId": 245
+    },
+    {
+      "name": "Raw manta ray",
+      "quantity": "3–15",
+      "rarity": "243/1250",
+      "itemId": 389
+    },
+    {
+      "name": "Mahogany plank",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 8782
+    },
+    {
+      "name": "Ring of 3rd age",
+      "quantity": "1",
+      "rarity": "6/228",
+      "itemId": 23185
+    },
+    {
+      "name": "3rd age full helmet",
+      "quantity": "1",
+      "rarity": "1/5244",
+      "itemId": 10350
+    },
+    {
+      "name": "3rd age platebody",
+      "quantity": "1",
+      "rarity": "1/5244",
+      "itemId": 10348
+    },
+    {
+      "name": "3rd age platelegs",
+      "quantity": "1",
+      "rarity": "1/5244",
+      "itemId": 10346
+    },
+    {
+      "name": "3rd age plateskirt",
+      "quantity": "1",
+      "rarity": "1/5244",
+      "itemId": 23242
+    },
+    {
+      "name": "3rd age kiteshield",
+      "quantity": "1",
+      "rarity": "1/5244",
+      "itemId": 10352
+    },
+    {
+      "name": "3rd age range coif",
+      "quantity": "1",
+      "rarity": "1/5244",
+      "itemId": 10334
+    },
+    {
+      "name": "3rd age range top",
+      "quantity": "1",
+      "rarity": "1/5244",
+      "itemId": 10330
+    },
+    {
+      "name": "3rd age range legs",
+      "quantity": "1",
+      "rarity": "1/5244",
+      "itemId": 10332
+    },
+    {
+      "name": "3rd age vambraces",
+      "quantity": "1",
+      "rarity": "1/5244",
+      "itemId": 10336
+    },
+    {
+      "name": "3rd age mage hat",
+      "quantity": "1",
+      "rarity": "1/5244",
+      "itemId": 10342
+    },
+    {
+      "name": "3rd age robe top",
+      "quantity": "1",
+      "rarity": "1/5244",
+      "itemId": 10338
+    },
+    {
+      "name": "3rd age robe",
+      "quantity": "1",
+      "rarity": "1/5244",
+      "itemId": 10340
+    },
+    {
+      "name": "3rd age amulet",
+      "quantity": "1",
+      "rarity": "1/5244",
+      "itemId": 10344
+    },
+    {
+      "name": "3rd age longsword",
+      "quantity": "1",
+      "rarity": "1/5244",
+      "itemId": 12426
+    },
+    {
+      "name": "3rd age bow",
+      "quantity": "1",
+      "rarity": "1/5244",
+      "itemId": 12424
+    },
+    {
+      "name": "3rd age wand",
+      "quantity": "1",
+      "rarity": "1/5244",
+      "itemId": 12422
+    },
+    {
+      "name": "3rd age cloak",
+      "quantity": "1",
+      "rarity": "1/5244",
+      "itemId": 12437
+    },
+    {
+      "name": "3rd age druidic robe top",
+      "quantity": "1",
+      "rarity": "1/5244",
+      "itemId": 23336
+    },
+    {
+      "name": "3rd age druidic robe bottoms",
+      "quantity": "1",
+      "rarity": "1/5244",
+      "itemId": 23339
+    },
+    {
+      "name": "3rd age druidic cloak",
+      "quantity": "1",
+      "rarity": "1/5244",
+      "itemId": 23345
+    },
+    {
+      "name": "3rd age druidic staff",
+      "quantity": "1",
+      "rarity": "1/5244",
+      "itemId": 23342
+    },
+    {
+      "name": "3rd age pickaxe",
+      "quantity": "1",
+      "rarity": "1/5244",
+      "itemId": 20014
+    },
+    {
+      "name": "3rd age axe",
+      "quantity": "1",
+      "rarity": "1/5244",
+      "itemId": 20011
+    },
+    {
+      "name": "Death rune",
+      "quantity": "100–600",
+      "rarity": "221/1140",
+      "itemId": 560
+    },
+    {
+      "name": "Blood rune",
+      "quantity": "83–500",
+      "rarity": "221/1140",
+      "itemId": 565
+    },
+    {
+      "name": "Grimy ranarr weed",
+      "quantity": "4–25",
+      "rarity": "221/1140",
+      "itemId": 207
+    },
+    {
+      "name": "Wine of zamorak",
+      "quantity": "4–25",
+      "rarity": "221/1140",
+      "itemId": 245
+    },
+    {
+      "name": "Raw manta ray",
+      "quantity": "2–15",
+      "rarity": "221/1140",
+      "itemId": 389
+    }
+  ]
+}

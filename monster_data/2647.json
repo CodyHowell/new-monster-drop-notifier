@@ -1,0 +1,30 @@
+{
+  "id": 2647,
+  "name": "Bruise Blamish Snail",
+  "drops": [
+    {
+      "name": "Blamish blue shell (round)",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 3351
+    },
+    {
+      "name": "Fat snail",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 3367
+    },
+    {
+      "name": "Blamish blue shell (pointed)",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 3361
+    },
+    {
+      "name": "Fat snail",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 3367
+    }
+  ]
+}

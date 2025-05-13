@@ -1,0 +1,24 @@
+{
+  "id": 9032,
+  "name": "Crystalline Bear",
+  "drops": [
+    {
+      "name": "Weapon frame",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 23834
+    },
+    {
+      "name": "Raw paddlefish",
+      "quantity": "5",
+      "rarity": "Common",
+      "itemId": 23872
+    },
+    {
+      "name": "Crystal spike",
+      "quantity": "1",
+      "rarity": "Varies",
+      "itemId": 23868
+    }
+  ]
+}

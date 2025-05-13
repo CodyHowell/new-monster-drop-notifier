@@ -1,0 +1,18 @@
+{
+  "id": 2648,
+  "name": "Bark Blamish Snail",
+  "drops": [
+    {
+      "name": "Blamish bark shell",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 3353
+    },
+    {
+      "name": "Lean snail",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 3365
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": 823,
+  "name": "Melzar the Mad",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    }
+  ]
+}

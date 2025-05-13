@@ -1,0 +1,18 @@
+{
+  "id": 3550,
+  "name": "Menaphite Thug",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    },
+    {
+      "name": "Coins",
+      "quantity": "60",
+      "rarity": "Always",
+      "itemId": 995
+    }
+  ]
+}

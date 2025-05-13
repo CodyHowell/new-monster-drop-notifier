@@ -1,0 +1,36 @@
+{
+  "id": 7566,
+  "name": "Vasa Nistirio",
+  "drops": [
+    {
+      "name": "Nistirio's manifesto",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 20888
+    },
+    {
+      "name": "Overload (+)(4)",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 20996
+    },
+    {
+      "name": "Endarkened juice",
+      "quantity": "5",
+      "rarity": "Always",
+      "itemId": 20911
+    },
+    {
+      "name": "Xeric's aid (+)(4)",
+      "quantity": "2",
+      "rarity": "Always",
+      "itemId": 20984
+    },
+    {
+      "name": "Twisted (+)(4)",
+      "quantity": "2",
+      "rarity": "Always",
+      "itemId": 20936
+    }
+  ]
+}

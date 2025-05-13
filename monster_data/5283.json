@@ -1,0 +1,30 @@
+{
+  "id": 5283,
+  "name": "Monkey Zombie",
+  "drops": [
+    {
+      "name": "Small zombie monkey bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 3185
+    },
+    {
+      "name": "Large zombie monkey bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 3186
+    },
+    {
+      "name": "Monkey paw",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 7854
+    },
+    {
+      "name": "Zombie champion scroll",
+      "quantity": "1",
+      "rarity": "1/5000",
+      "itemId": 6807
+    }
+  ]
+}

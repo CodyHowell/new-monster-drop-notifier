@@ -1,0 +1,12 @@
+{
+  "id": 5258,
+  "name": "Duke (monkey)",
+  "drops": [
+    {
+      "name": "Medium ninja monkey bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 3180
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": 7804,
+  "name": "Tar Monster",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    },
+    {
+      "name": "Swamp tar",
+      "quantity": "10",
+      "rarity": "1/3",
+      "itemId": 1939
+    },
+    {
+      "name": "Numulite",
+      "quantity": "5–14",
+      "rarity": "45/175",
+      "itemId": 21555
+    },
+    {
+      "name": "Unidentified small fossil",
+      "quantity": "1",
+      "rarity": "5/350",
+      "itemId": 21562
+    },
+    {
+      "name": "Unidentified medium fossil",
+      "quantity": "1",
+      "rarity": "5/700",
+      "itemId": 21564
+    },
+    {
+      "name": "Unidentified large fossil",
+      "quantity": "1",
+      "rarity": "5/875",
+      "itemId": 21566
+    },
+    {
+      "name": "Unidentified rare fossil",
+      "quantity": "1",
+      "rarity": "5/3500",
+      "itemId": 21568
+    }
+  ]
+}

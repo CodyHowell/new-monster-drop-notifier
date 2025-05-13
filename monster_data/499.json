@@ -1,0 +1,348 @@
+{
+  "id": 499,
+  "name": "Thermonuclear smoke devil",
+  "drops": [
+    {
+      "name": "Ashes",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 592
+    },
+    {
+      "name": "Rune dagger",
+      "quantity": "1",
+      "rarity": "5/107",
+      "itemId": 1213
+    },
+    {
+      "name": "Rune chainbody",
+      "quantity": "1",
+      "rarity": "4/107",
+      "itemId": 1113
+    },
+    {
+      "name": "Red d'hide body",
+      "quantity": "1",
+      "rarity": "3/107",
+      "itemId": 2501
+    },
+    {
+      "name": "Rune battleaxe",
+      "quantity": "1",
+      "rarity": "3/107",
+      "itemId": 1373
+    },
+    {
+      "name": "Mystic air staff",
+      "quantity": "1",
+      "rarity": "3/107",
+      "itemId": 1405
+    },
+    {
+      "name": "Mystic fire staff",
+      "quantity": "1",
+      "rarity": "3/107",
+      "itemId": 1401
+    },
+    {
+      "name": "Rune scimitar",
+      "quantity": "1",
+      "rarity": "2/107",
+      "itemId": 1333
+    },
+    {
+      "name": "Rune knife(p++)",
+      "quantity": "50",
+      "rarity": "1/107",
+      "itemId": 5667
+    },
+    {
+      "name": "Dragon scimitar",
+      "quantity": "1",
+      "rarity": "1/107",
+      "itemId": 4587
+    },
+    {
+      "name": "Ancient staff",
+      "quantity": "1",
+      "rarity": "1/107",
+      "itemId": 4675
+    },
+    {
+      "name": "Occult necklace",
+      "quantity": "1",
+      "rarity": "1/350",
+      "itemId": 12002
+    },
+    {
+      "name": "Smoke battlestaff",
+      "quantity": "1",
+      "rarity": "1/512",
+      "itemId": 11998
+    },
+    {
+      "name": "Dragon chainbody",
+      "quantity": "1",
+      "rarity": "1/2000",
+      "itemId": 3140
+    },
+    {
+      "name": "Smoke rune",
+      "quantity": "100",
+      "rarity": "10/107",
+      "itemId": 4697
+    },
+    {
+      "name": "Air rune",
+      "quantity": "300",
+      "rarity": "8/107",
+      "itemId": 556
+    },
+    {
+      "name": "Soul rune",
+      "quantity": "60",
+      "rarity": "8/107",
+      "itemId": 566
+    },
+    {
+      "name": "Rune arrow",
+      "quantity": "100",
+      "rarity": "2/107",
+      "itemId": 892
+    },
+    {
+      "name": "Ugthanki kebab",
+      "quantity": "3",
+      "rarity": "1/107",
+      "itemId": 1885
+    },
+    {
+      "name": "Tuna potato",
+      "quantity": "3",
+      "rarity": "3/107",
+      "itemId": 7060
+    },
+    {
+      "name": "Sanfew serum(4)",
+      "quantity": "2",
+      "rarity": "3/107",
+      "itemId": 10925
+    },
+    {
+      "name": "Prayer potion(4)",
+      "quantity": "2",
+      "rarity": "1/107",
+      "itemId": 2434
+    },
+    {
+      "name": "Pure essence",
+      "quantity": "300",
+      "rarity": "2/107",
+      "itemId": 7936
+    },
+    {
+      "name": "Molten glass",
+      "quantity": "100",
+      "rarity": "2/107",
+      "itemId": 1775
+    },
+    {
+      "name": "Mithril bar",
+      "quantity": "20",
+      "rarity": "2/107",
+      "itemId": 2359
+    },
+    {
+      "name": "Coal",
+      "quantity": "150",
+      "rarity": "2/107",
+      "itemId": 453
+    },
+    {
+      "name": "Magic logs",
+      "quantity": "20",
+      "rarity": "2/107",
+      "itemId": 1513
+    },
+    {
+      "name": "Gold ore",
+      "quantity": "200",
+      "rarity": "2/107",
+      "itemId": 444
+    },
+    {
+      "name": "Diamond",
+      "quantity": "10",
+      "rarity": "1/107",
+      "itemId": 1601
+    },
+    {
+      "name": "Coins",
+      "quantity": "10000–20000",
+      "rarity": "15/107",
+      "itemId": 995
+    },
+    {
+      "name": "Tinderbox",
+      "quantity": "1",
+      "rarity": "1/107",
+      "itemId": 590
+    },
+    {
+      "name": "Fire talisman",
+      "quantity": "1",
+      "rarity": "1/107",
+      "itemId": 1442
+    },
+    {
+      "name": "Bullseye lantern",
+      "quantity": "1",
+      "rarity": "1/107",
+      "itemId": 4548
+    },
+    {
+      "name": "Desert goat horn",
+      "quantity": "50",
+      "rarity": "2/107",
+      "itemId": 9735
+    },
+    {
+      "name": "Grimy toadflax",
+      "quantity": "15",
+      "rarity": "2/107",
+      "itemId": 3049
+    },
+    {
+      "name": "Onyx bolt tips",
+      "quantity": "12",
+      "rarity": "2/107",
+      "itemId": 9194
+    },
+    {
+      "name": "Snapdragon seed",
+      "quantity": "2",
+      "rarity": "2/107",
+      "itemId": 5300
+    },
+    {
+      "name": "Grapes",
+      "quantity": "100",
+      "rarity": "1/107",
+      "itemId": 1987
+    },
+    {
+      "name": "Magic seed",
+      "quantity": "1",
+      "rarity": "1/107",
+      "itemId": 5316
+    },
+    {
+      "name": "Dragonstone ring",
+      "quantity": "1",
+      "rarity": "1/107",
+      "itemId": 1645
+    },
+    {
+      "name": "Crystal key",
+      "quantity": "1",
+      "rarity": "1/107",
+      "itemId": 989
+    },
+    {
+      "name": "Uncut sapphire",
+      "quantity": "1",
+      "rarity": "1/214",
+      "itemId": 1623
+    },
+    {
+      "name": "Uncut emerald",
+      "quantity": "1",
+      "rarity": "1/428",
+      "itemId": 1621
+    },
+    {
+      "name": "Uncut ruby",
+      "quantity": "1",
+      "rarity": "1/856",
+      "itemId": 1619
+    },
+    {
+      "name": "Uncut diamond",
+      "quantity": "1",
+      "rarity": "1/3424",
+      "itemId": 1617
+    },
+    {
+      "name": "Nature talisman",
+      "quantity": "1",
+      "rarity": "1/2282.67",
+      "itemId": 1462
+    },
+    {
+      "name": "Loop half of key",
+      "quantity": "1",
+      "rarity": "1/6848",
+      "itemId": 987
+    },
+    {
+      "name": "Tooth half of key",
+      "quantity": "1",
+      "rarity": "1/6848",
+      "itemId": 985
+    },
+    {
+      "name": "Rune javelin",
+      "quantity": "5",
+      "rarity": "1/6848",
+      "itemId": 830
+    },
+    {
+      "name": "Rune spear",
+      "quantity": "1",
+      "rarity": "1/109568",
+      "itemId": 1247
+    },
+    {
+      "name": "Shield left half",
+      "quantity": "1",
+      "rarity": "1/219136",
+      "itemId": 2366
+    },
+    {
+      "name": "Dragon spear",
+      "quantity": "1",
+      "rarity": "1/292181.33",
+      "itemId": 1249
+    },
+    {
+      "name": "Brimstone key",
+      "quantity": "1",
+      "rarity": "1/48",
+      "itemId": 23083
+    },
+    {
+      "name": "Clue scroll (hard)",
+      "quantity": "1",
+      "rarity": "1/96",
+      "itemId": 3550
+    },
+    {
+      "name": "Clue scroll (elite)",
+      "quantity": "1",
+      "rarity": "1/500",
+      "itemId": 21524
+    },
+    {
+      "name": "Jar of smoke",
+      "quantity": "1",
+      "rarity": "1/2000",
+      "itemId": 25524
+    },
+    {
+      "name": "Pet smoke devil",
+      "quantity": "1",
+      "rarity": "1/3000",
+      "itemId": 12648
+    }
+  ]
+}

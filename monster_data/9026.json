@@ -1,0 +1,24 @@
+{
+  "id": 9026,
+  "name": "Crystalline Rat",
+  "drops": [
+    {
+      "name": "Raw paddlefish",
+      "quantity": "1; 3",
+      "rarity": "Common",
+      "itemId": 23872
+    },
+    {
+      "name": "Grym leaf",
+      "quantity": "1",
+      "rarity": "Common",
+      "itemId": 23875
+    },
+    {
+      "name": "Weapon frame",
+      "quantity": "1",
+      "rarity": "Common",
+      "itemId": 23834
+    }
+  ]
+}

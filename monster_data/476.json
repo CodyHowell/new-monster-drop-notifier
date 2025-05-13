@@ -1,0 +1,126 @@
+{
+  "id": 476,
+  "name": "Wall beast",
+  "drops": [
+    {
+      "name": "Air rune",
+      "quantity": "3",
+      "rarity": "3/128",
+      "itemId": 556
+    },
+    {
+      "name": "Cosmic rune",
+      "quantity": "2",
+      "rarity": "3/128",
+      "itemId": 564
+    },
+    {
+      "name": "Chaos rune",
+      "quantity": "3",
+      "rarity": "2/128",
+      "itemId": 562
+    },
+    {
+      "name": "Chaos rune",
+      "quantity": "7",
+      "rarity": "1/128",
+      "itemId": 562
+    },
+    {
+      "name": "Bronze med helm",
+      "quantity": "1",
+      "rarity": "2/128",
+      "itemId": 1139
+    },
+    {
+      "name": "Bronze full helm",
+      "quantity": "1",
+      "rarity": "2/128",
+      "itemId": 1155
+    },
+    {
+      "name": "Iron med helm",
+      "quantity": "1",
+      "rarity": "8/128",
+      "itemId": 1137
+    },
+    {
+      "name": "Steel med helm",
+      "quantity": "1",
+      "rarity": "7/128",
+      "itemId": 1141
+    },
+    {
+      "name": "Steel full helm",
+      "quantity": "1",
+      "rarity": "4/128",
+      "itemId": 1157
+    },
+    {
+      "name": "Mithril med helm",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 1143
+    },
+    {
+      "name": "Mithril full helm",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 1159
+    },
+    {
+      "name": "Adamant med helm",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 1145
+    },
+    {
+      "name": "Mystic hat (light)",
+      "quantity": "1",
+      "rarity": "1/512",
+      "itemId": 4109
+    },
+    {
+      "name": "Grimy guam leaf",
+      "quantity": "1",
+      "rarity": "32/128",
+      "itemId": 199
+    },
+    {
+      "name": "Coins",
+      "quantity": "15",
+      "rarity": "10/128",
+      "itemId": 995
+    },
+    {
+      "name": "Tinderbox",
+      "quantity": "1",
+      "rarity": "21/128",
+      "itemId": 590
+    },
+    {
+      "name": "Lantern lens",
+      "quantity": "1",
+      "rarity": "12/128",
+      "itemId": 4542
+    },
+    {
+      "name": "Unlit torch",
+      "quantity": "1",
+      "rarity": "9/128",
+      "itemId": 596
+    },
+    {
+      "name": "Eye of newt",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 221
+    },
+    {
+      "name": "Bullseye lantern (unf)",
+      "quantity": "1",
+      "rarity": "5/128",
+      "itemId": 4544
+    }
+  ]
+}

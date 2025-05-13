@@ -1,0 +1,30 @@
+{
+  "id": 2454,
+  "name": "Animated Mithril Armour",
+  "drops": [
+    {
+      "name": "Warrior guild token",
+      "quantity": "25",
+      "rarity": "Always",
+      "itemId": 8851
+    },
+    {
+      "name": "Mithril full helm",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 1159
+    },
+    {
+      "name": "Mithril platebody",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 1121
+    },
+    {
+      "name": "Mithril platelegs",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 1071
+    }
+  ]
+}

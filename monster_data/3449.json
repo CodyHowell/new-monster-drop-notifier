@@ -1,0 +1,12 @@
+{
+  "id": 3449,
+  "name": "Shadow Hound",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    }
+  ]
+}

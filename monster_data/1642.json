@@ -1,0 +1,132 @@
+{
+  "id": 1642,
+  "name": "Magpie impling",
+  "drops": [
+    {
+      "name": "Black dragonhide",
+      "quantity": "6",
+      "rarity": "2/21",
+      "itemId": 1747
+    },
+    {
+      "name": "Diamond amulet",
+      "quantity": "3",
+      "rarity": "1/21",
+      "itemId": 1700
+    },
+    {
+      "name": "Amulet of power",
+      "quantity": "3",
+      "rarity": "1/21",
+      "itemId": 1731
+    },
+    {
+      "name": "Ring of forging",
+      "quantity": "3",
+      "rarity": "1/21",
+      "itemId": 2568
+    },
+    {
+      "name": "Splitbark gauntlets",
+      "quantity": "1",
+      "rarity": "1/21",
+      "itemId": 3391
+    },
+    {
+      "name": "Mystic boots",
+      "quantity": "1",
+      "rarity": "1/21",
+      "itemId": 4097
+    },
+    {
+      "name": "Mystic gloves",
+      "quantity": "1",
+      "rarity": "1/21",
+      "itemId": 4095
+    },
+    {
+      "name": "Rune warhammer",
+      "quantity": "1",
+      "rarity": "1/21",
+      "itemId": 1347
+    },
+    {
+      "name": "Ring of life",
+      "quantity": "4",
+      "rarity": "1/21",
+      "itemId": 2570
+    },
+    {
+      "name": "Rune sq shield",
+      "quantity": "1",
+      "rarity": "1/21",
+      "itemId": 1185
+    },
+    {
+      "name": "Dragon dagger",
+      "quantity": "1",
+      "rarity": "1/21",
+      "itemId": 1215
+    },
+    {
+      "name": "Nature tiara",
+      "quantity": "1",
+      "rarity": "1/21",
+      "itemId": 5541
+    },
+    {
+      "name": "Runite bar",
+      "quantity": "2",
+      "rarity": "1/21",
+      "itemId": 2363
+    },
+    {
+      "name": "Diamond",
+      "quantity": "4",
+      "rarity": "1/21",
+      "itemId": 1601
+    },
+    {
+      "name": "Pineapple seed",
+      "quantity": "1",
+      "rarity": "1/21",
+      "itemId": 5287
+    },
+    {
+      "name": "Ring of recoil",
+      "quantity": "3",
+      "rarity": "1/21",
+      "itemId": 2550
+    },
+    {
+      "name": "Loop half of key",
+      "quantity": "1",
+      "rarity": "1/21",
+      "itemId": 987
+    },
+    {
+      "name": "Tooth half of key",
+      "quantity": "1",
+      "rarity": "1/21",
+      "itemId": 985
+    },
+    {
+      "name": "Snapdragon seed",
+      "quantity": "1",
+      "rarity": "1/21",
+      "itemId": 5300
+    },
+    {
+      "name": "Sinister key",
+      "quantity": "1",
+      "rarity": "1/21",
+      "itemId": 993
+    },
+    {
+      "name": "Clue scroll (hard)",
+      "quantity": "1",
+      "rarity": "1/50",
+      "itemId": 3550
+    }
+  ]
+}

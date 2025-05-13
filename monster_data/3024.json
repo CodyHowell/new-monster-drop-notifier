@@ -1,0 +1,42 @@
+{
+  "id": 3024,
+  "name": "Scorpion",
+  "drops": [
+    {
+      "name": "Book page 1",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 4569
+    },
+    {
+      "name": "Looting bag",
+      "quantity": "1",
+      "rarity": "1/10",
+      "itemId": 11941
+    },
+    {
+      "name": "Ensouled scorpion head",
+      "quantity": "1",
+      "rarity": "1/25",
+      "itemId": 13460
+    },
+    {
+      "name": "Clue scroll (beginner)",
+      "quantity": "1",
+      "rarity": "1/100",
+      "itemId": 23182
+    },
+    {
+      "name": "Larran's key",
+      "quantity": "1",
+      "rarity": "1/1406",
+      "itemId": 23490
+    },
+    {
+      "name": "Slayer's enchantment",
+      "quantity": "1",
+      "rarity": "1/307",
+      "itemId": 21257
+    }
+  ]
+}

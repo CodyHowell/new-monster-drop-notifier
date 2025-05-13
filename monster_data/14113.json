@@ -1,0 +1,270 @@
+{
+  "id": 14113,
+  "name": "Armoured zombie (Zemouregal's Fort)",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    },
+    {
+      "name": "Cosmic rune",
+      "quantity": "15–30",
+      "rarity": "~3/128",
+      "itemId": 564
+    },
+    {
+      "name": "Nature rune",
+      "quantity": "6–16",
+      "rarity": "~2/128",
+      "itemId": 561
+    },
+    {
+      "name": "Death rune",
+      "quantity": "6–14",
+      "rarity": "~1/128",
+      "itemId": 560
+    },
+    {
+      "name": "Chaos rune",
+      "quantity": "15–30",
+      "rarity": "~1/128",
+      "itemId": 562
+    },
+    {
+      "name": "Blood rune",
+      "quantity": "6–14",
+      "rarity": "~4/128",
+      "itemId": 565
+    },
+    {
+      "name": "Pure essence",
+      "quantity": "20–50",
+      "rarity": "~11/128",
+      "itemId": 7936
+    },
+    {
+      "name": "Rune arrow",
+      "quantity": "12",
+      "rarity": "~8/128",
+      "itemId": 892
+    },
+    {
+      "name": "Grimy guam leaf",
+      "quantity": "1",
+      "rarity": "1/11.4",
+      "itemId": 199
+    },
+    {
+      "name": "Grimy marrentill",
+      "quantity": "1",
+      "rarity": "1/15.2",
+      "itemId": 201
+    },
+    {
+      "name": "Grimy tarromin",
+      "quantity": "1",
+      "rarity": "1/20.2",
+      "itemId": 203
+    },
+    {
+      "name": "Grimy harralander",
+      "quantity": "1",
+      "rarity": "1/26",
+      "itemId": 205
+    },
+    {
+      "name": "Grimy ranarr weed",
+      "quantity": "1",
+      "rarity": "1/33.1",
+      "itemId": 207
+    },
+    {
+      "name": "Grimy irit leaf",
+      "quantity": "1",
+      "rarity": "1/45.5",
+      "itemId": 209
+    },
+    {
+      "name": "Grimy avantoe",
+      "quantity": "1",
+      "rarity": "1/60.7",
+      "itemId": 211
+    },
+    {
+      "name": "Grimy kwuarm",
+      "quantity": "1",
+      "rarity": "1/72.8",
+      "itemId": 213
+    },
+    {
+      "name": "Grimy cadantine",
+      "quantity": "1",
+      "rarity": "1/91",
+      "itemId": 215
+    },
+    {
+      "name": "Grimy lantadyme",
+      "quantity": "1",
+      "rarity": "1/121.4",
+      "itemId": 2485
+    },
+    {
+      "name": "Grimy dwarf weed",
+      "quantity": "1",
+      "rarity": "1/121.4",
+      "itemId": 217
+    },
+    {
+      "name": "Coins",
+      "quantity": "20–30",
+      "rarity": "~3/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "200–600",
+      "rarity": "~30/128",
+      "itemId": 995
+    },
+    {
+      "name": "Plank",
+      "quantity": "12",
+      "rarity": "~5/128",
+      "itemId": 960
+    },
+    {
+      "name": "Oak plank",
+      "quantity": "6",
+      "rarity": "~6/128",
+      "itemId": 8778
+    },
+    {
+      "name": "Teak plank",
+      "quantity": "3",
+      "rarity": "~2/128",
+      "itemId": 8780
+    },
+    {
+      "name": "Eye of newt",
+      "quantity": "4–8",
+      "rarity": "~1/128",
+      "itemId": 221
+    },
+    {
+      "name": "Rune mace",
+      "quantity": "1",
+      "rarity": "~3/128",
+      "itemId": 1432
+    },
+    {
+      "name": "Rune kiteshield",
+      "quantity": "1",
+      "rarity": "~1/128",
+      "itemId": 1201
+    },
+    {
+      "name": "Fishing bait",
+      "quantity": "6",
+      "rarity": "~1/128",
+      "itemId": 313
+    },
+    {
+      "name": "Uncut sapphire",
+      "quantity": "1",
+      "rarity": "1/512",
+      "itemId": 1623
+    },
+    {
+      "name": "Uncut emerald",
+      "quantity": "1",
+      "rarity": "1/1024",
+      "itemId": 1621
+    },
+    {
+      "name": "Uncut ruby",
+      "quantity": "1",
+      "rarity": "1/2048",
+      "itemId": 1619
+    },
+    {
+      "name": "Uncut diamond",
+      "quantity": "1",
+      "rarity": "1/8192",
+      "itemId": 1617
+    },
+    {
+      "name": "Chaos talisman",
+      "quantity": "1",
+      "rarity": "1/5461.33",
+      "itemId": 1452
+    },
+    {
+      "name": "Loop half of key",
+      "quantity": "1",
+      "rarity": "1/16384",
+      "itemId": 987
+    },
+    {
+      "name": "Tooth half of key",
+      "quantity": "1",
+      "rarity": "1/16384",
+      "itemId": 985
+    },
+    {
+      "name": "Rune javelin",
+      "quantity": "5",
+      "rarity": "1/16384",
+      "itemId": 830
+    },
+    {
+      "name": "Rune spear",
+      "quantity": "1",
+      "rarity": "1/262144",
+      "itemId": 1247
+    },
+    {
+      "name": "Shield left half",
+      "quantity": "1",
+      "rarity": "1/524288",
+      "itemId": 2366
+    },
+    {
+      "name": "Dragon spear",
+      "quantity": "1",
+      "rarity": "1/699050.67",
+      "itemId": 1249
+    },
+    {
+      "name": "Zombie bone",
+      "quantity": "1",
+      "rarity": "1/4",
+      "itemId": 7863
+    },
+    {
+      "name": "Broken zombie helmet",
+      "quantity": "1",
+      "rarity": "~1/600",
+      "itemId": 30324
+    },
+    {
+      "name": "Broken zombie axe",
+      "quantity": "1",
+      "rarity": "~1/600",
+      "itemId": 28813
+    },
+    {
+      "name": "Zombie champion scroll",
+      "quantity": "1",
+      "rarity": "1/5000",
+      "itemId": 6807
+    },
+    {
+      "name": "Clue scroll (hard)",
+      "quantity": "1",
+      "rarity": "Unknown",
+      "itemId": 3550
+    }
+  ]
+}

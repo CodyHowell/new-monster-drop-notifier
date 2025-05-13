@@ -1,0 +1,18 @@
+{
+  "id": 1794,
+  "name": "Billy Goat",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    },
+    {
+      "name": "Desert goat horn",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 9735
+    }
+  ]
+}

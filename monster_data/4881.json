@@ -1,0 +1,12 @@
+{
+  "id": 4881,
+  "name": "Flambeed",
+  "drops": [
+    {
+      "name": "Cake",
+      "quantity": "1; 5",
+      "rarity": "Always",
+      "itemId": 1891
+    }
+  ]
+}

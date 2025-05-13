@@ -1,0 +1,12 @@
+{
+  "id": 717,
+  "name": "Mummy (Ancient Pyramid sarcophagus)",
+  "drops": [
+    {
+      "name": "Ashes",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 592
+    }
+  ]
+}

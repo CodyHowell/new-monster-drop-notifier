@@ -1,0 +1,330 @@
+{
+  "id": 2622,
+  "name": "Irina",
+  "drops": [
+    {
+      "name": "Wolf bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 2859
+    },
+    {
+      "name": "Steel axe",
+      "quantity": "1",
+      "rarity": "10/512",
+      "itemId": 1353
+    },
+    {
+      "name": "Steel arrow",
+      "quantity": "50",
+      "rarity": "10/512",
+      "itemId": 886
+    },
+    {
+      "name": "Steel arrow(p)",
+      "quantity": "5",
+      "rarity": "10/512",
+      "itemId": 887
+    },
+    {
+      "name": "Grimy guam leaf",
+      "quantity": "1",
+      "rarity": "1/1024",
+      "itemId": 199
+    },
+    {
+      "name": "Grimy marrentill",
+      "quantity": "1",
+      "rarity": "1/1365.3",
+      "itemId": 201
+    },
+    {
+      "name": "Grimy tarromin",
+      "quantity": "1",
+      "rarity": "1/1820.4",
+      "itemId": 203
+    },
+    {
+      "name": "Grimy harralander",
+      "quantity": "1",
+      "rarity": "1/2340.6",
+      "itemId": 205
+    },
+    {
+      "name": "Grimy ranarr weed",
+      "quantity": "1",
+      "rarity": "1/2978.9",
+      "itemId": 207
+    },
+    {
+      "name": "Grimy irit leaf",
+      "quantity": "1",
+      "rarity": "1/4096",
+      "itemId": 209
+    },
+    {
+      "name": "Grimy avantoe",
+      "quantity": "1",
+      "rarity": "1/5461.3",
+      "itemId": 211
+    },
+    {
+      "name": "Grimy kwuarm",
+      "quantity": "1",
+      "rarity": "1/6553.6",
+      "itemId": 213
+    },
+    {
+      "name": "Grimy cadantine",
+      "quantity": "1",
+      "rarity": "1/8192",
+      "itemId": 215
+    },
+    {
+      "name": "Grimy lantadyme",
+      "quantity": "1",
+      "rarity": "1/10922.7",
+      "itemId": 2485
+    },
+    {
+      "name": "Grimy dwarf weed",
+      "quantity": "1",
+      "rarity": "1/10922.7",
+      "itemId": 217
+    },
+    {
+      "name": "Eye of newt",
+      "quantity": "1",
+      "rarity": "2/512",
+      "itemId": 221
+    },
+    {
+      "name": "Snape grass",
+      "quantity": "1",
+      "rarity": "2/512",
+      "itemId": 231
+    },
+    {
+      "name": "Jangerberries",
+      "quantity": "1",
+      "rarity": "2/512",
+      "itemId": 247
+    },
+    {
+      "name": "White berries",
+      "quantity": "1",
+      "rarity": "2/512",
+      "itemId": 239
+    },
+    {
+      "name": "Limpwurt root",
+      "quantity": "1",
+      "rarity": "2/512",
+      "itemId": 225
+    },
+    {
+      "name": "Wine of zamorak",
+      "quantity": "1",
+      "rarity": "2/512",
+      "itemId": 245
+    },
+    {
+      "name": "Iron ore",
+      "quantity": "5",
+      "rarity": "10/512",
+      "itemId": 440
+    },
+    {
+      "name": "Coal",
+      "quantity": "2",
+      "rarity": "10/512",
+      "itemId": 453
+    },
+    {
+      "name": "Steel bar",
+      "quantity": "2",
+      "rarity": "10/512",
+      "itemId": 2353
+    },
+    {
+      "name": "Raw chicken",
+      "quantity": "2",
+      "rarity": "10/512",
+      "itemId": 2138
+    },
+    {
+      "name": "Raw beef",
+      "quantity": "2",
+      "rarity": "10/512",
+      "itemId": 2132
+    },
+    {
+      "name": "Raw bear meat",
+      "quantity": "2",
+      "rarity": "10/512",
+      "itemId": 2136
+    },
+    {
+      "name": "Vial of water",
+      "quantity": "2",
+      "rarity": "50/512",
+      "itemId": 227
+    },
+    {
+      "name": "Coins",
+      "quantity": "6",
+      "rarity": "20/512",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "15",
+      "rarity": "5/512",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "16",
+      "rarity": "5/512",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "20",
+      "rarity": "10/512",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "38",
+      "rarity": "5/512",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "50",
+      "rarity": "5/512",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "96",
+      "rarity": "5/512",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "120",
+      "rarity": "5/512",
+      "itemId": 995
+    },
+    {
+      "name": "Bucket",
+      "quantity": "2",
+      "rarity": "25/512",
+      "itemId": 1925
+    },
+    {
+      "name": "Tinderbox",
+      "quantity": "2",
+      "rarity": "20/512",
+      "itemId": 590
+    },
+    {
+      "name": "Vial",
+      "quantity": "2",
+      "rarity": "50/512",
+      "itemId": 229
+    },
+    {
+      "name": "Fur",
+      "quantity": "1",
+      "rarity": "100/512",
+      "itemId": 6814
+    },
+    {
+      "name": "Grey wolf fur",
+      "quantity": "1",
+      "rarity": "100/512",
+      "itemId": 958
+    },
+    {
+      "name": "Blamish oil",
+      "quantity": "1",
+      "rarity": "1/512",
+      "itemId": 1582
+    },
+    {
+      "name": "Uncut sapphire",
+      "quantity": "1",
+      "rarity": "1/2048",
+      "itemId": 1623
+    },
+    {
+      "name": "Uncut emerald",
+      "quantity": "1",
+      "rarity": "1/4096",
+      "itemId": 1621
+    },
+    {
+      "name": "Uncut ruby",
+      "quantity": "1",
+      "rarity": "1/8192",
+      "itemId": 1619
+    },
+    {
+      "name": "Uncut diamond",
+      "quantity": "1",
+      "rarity": "1/32768",
+      "itemId": 1617
+    },
+    {
+      "name": "Nature talisman",
+      "quantity": "1",
+      "rarity": "1/21845.33",
+      "itemId": 1462
+    },
+    {
+      "name": "Loop half of key",
+      "quantity": "1",
+      "rarity": "1/65536",
+      "itemId": 987
+    },
+    {
+      "name": "Tooth half of key",
+      "quantity": "1",
+      "rarity": "1/65536",
+      "itemId": 985
+    },
+    {
+      "name": "Rune javelin",
+      "quantity": "5",
+      "rarity": "1/65536",
+      "itemId": 830
+    },
+    {
+      "name": "Rune spear",
+      "quantity": "1",
+      "rarity": "1/1048576",
+      "itemId": 1247
+    },
+    {
+      "name": "Shield left half",
+      "quantity": "1",
+      "rarity": "1/2097152",
+      "itemId": 2366
+    },
+    {
+      "name": "Dragon spear",
+      "quantity": "1",
+      "rarity": "1/2796202.67",
+      "itemId": 1249
+    },
+    {
+      "name": "Clue scroll (easy)",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 12179
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": 2455,
+  "name": "Animated Adamant Armour",
+  "drops": [
+    {
+      "name": "Warrior guild token",
+      "quantity": "30",
+      "rarity": "Always",
+      "itemId": 8851
+    },
+    {
+      "name": "Adamant full helm",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 1161
+    },
+    {
+      "name": "Adamant platebody",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 1123
+    },
+    {
+      "name": "Adamant platelegs",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 1073
+    }
+  ]
+}

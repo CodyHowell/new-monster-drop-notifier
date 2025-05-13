@@ -1,0 +1,372 @@
+{
+  "id": 7931,
+  "name": "Revenant goblin",
+  "drops": [
+    {
+      "name": "Revenant ether",
+      "quantity": "2–8",
+      "rarity": "Always",
+      "itemId": 21820
+    },
+    {
+      "name": "Amulet of avarice",
+      "quantity": "1",
+      "rarity": "1/48867.28",
+      "itemId": 22557
+    },
+    {
+      "name": "Craw's bow (u)",
+      "quantity": "1",
+      "rarity": "1/97734.56",
+      "itemId": 22547
+    },
+    {
+      "name": "Thammaron's sceptre (u)",
+      "quantity": "1",
+      "rarity": "1/97734.56",
+      "itemId": 22552
+    },
+    {
+      "name": "Viggora's chainmace (u)",
+      "quantity": "1",
+      "rarity": "1/97734.56",
+      "itemId": 22542
+    },
+    {
+      "name": "Amulet of avarice",
+      "quantity": "1",
+      "rarity": "1/9772.72",
+      "itemId": 22557
+    },
+    {
+      "name": "Craw's bow (u)",
+      "quantity": "1",
+      "rarity": "1/19545.45",
+      "itemId": 22547
+    },
+    {
+      "name": "Thammaron's sceptre (u)",
+      "quantity": "1",
+      "rarity": "1/19545.45",
+      "itemId": 22552
+    },
+    {
+      "name": "Viggora's chainmace (u)",
+      "quantity": "1",
+      "rarity": "1/19545.45",
+      "itemId": 22542
+    },
+    {
+      "name": "Ancient emblem",
+      "quantity": "1",
+      "rarity": "1/4886.67",
+      "itemId": 21807
+    },
+    {
+      "name": "Ancient totem",
+      "quantity": "1",
+      "rarity": "1/7330",
+      "itemId": 21810
+    },
+    {
+      "name": "Ancient statuette",
+      "quantity": "1",
+      "rarity": "1/14660",
+      "itemId": 21813
+    },
+    {
+      "name": "Ancient crystal",
+      "quantity": "1",
+      "rarity": "1/9773.33",
+      "itemId": 21804
+    },
+    {
+      "name": "Ancient medallion",
+      "quantity": "1",
+      "rarity": "1/29320",
+      "itemId": 22299
+    },
+    {
+      "name": "Ancient effigy",
+      "quantity": "1",
+      "rarity": "1/29320",
+      "itemId": 22302
+    },
+    {
+      "name": "Ancient relic",
+      "quantity": "1",
+      "rarity": "1/29320",
+      "itemId": 22305
+    },
+    {
+      "name": "Bracelet of ethereum (uncharged)",
+      "quantity": "1",
+      "rarity": "1/115.19",
+      "itemId": 21817
+    },
+    {
+      "name": "Battlestaff",
+      "quantity": "4",
+      "rarity": "1/345.56",
+      "itemId": 1391
+    },
+    {
+      "name": "Rune full helm",
+      "quantity": "2",
+      "rarity": "1/863.89",
+      "itemId": 1163
+    },
+    {
+      "name": "Rune platebody",
+      "quantity": "2",
+      "rarity": "1/863.89",
+      "itemId": 1127
+    },
+    {
+      "name": "Rune platelegs",
+      "quantity": "2",
+      "rarity": "1/863.89",
+      "itemId": 1079
+    },
+    {
+      "name": "Rune kiteshield",
+      "quantity": "2",
+      "rarity": "1/863.89",
+      "itemId": 1201
+    },
+    {
+      "name": "Rune warhammer",
+      "quantity": "2",
+      "rarity": "1/863.89",
+      "itemId": 1347
+    },
+    {
+      "name": "Dragon platelegs",
+      "quantity": "1–2",
+      "rarity": "1/3455.57",
+      "itemId": 4087
+    },
+    {
+      "name": "Dragon plateskirt",
+      "quantity": "1–2",
+      "rarity": "1/3455.57",
+      "itemId": 4585
+    },
+    {
+      "name": "Dragon dagger",
+      "quantity": "2",
+      "rarity": "1/1727.79",
+      "itemId": 1215
+    },
+    {
+      "name": "Dragon longsword",
+      "quantity": "2",
+      "rarity": "1/1727.79",
+      "itemId": 1305
+    },
+    {
+      "name": "Dragon med helm",
+      "quantity": "1",
+      "rarity": "1/2255.38",
+      "itemId": 1149
+    },
+    {
+      "name": "Blighted super restore(4)",
+      "quantity": "1–3",
+      "rarity": "1/575.93",
+      "itemId": 24598
+    },
+    {
+      "name": "Blighted manta ray",
+      "quantity": "10–15",
+      "rarity": "1/431.95",
+      "itemId": 24589
+    },
+    {
+      "name": "Coal",
+      "quantity": "30–60",
+      "rarity": "1/287.96",
+      "itemId": 453
+    },
+    {
+      "name": "Adamantite bar",
+      "quantity": "4–6",
+      "rarity": "1/287.96",
+      "itemId": 2361
+    },
+    {
+      "name": "Runite ore",
+      "quantity": "2–4",
+      "rarity": "1/431.95",
+      "itemId": 451
+    },
+    {
+      "name": "Runite bar",
+      "quantity": "2–3",
+      "rarity": "1/575.93",
+      "itemId": 2363
+    },
+    {
+      "name": "Black dragonhide",
+      "quantity": "4",
+      "rarity": "1/431.95",
+      "itemId": 1747
+    },
+    {
+      "name": "Mahogany plank",
+      "quantity": "8–16",
+      "rarity": "1/575.93",
+      "itemId": 8782
+    },
+    {
+      "name": "Yew logs",
+      "quantity": "20–40",
+      "rarity": "1/431.95",
+      "itemId": 1515
+    },
+    {
+      "name": "Magic logs",
+      "quantity": "8–16",
+      "rarity": "1/863.89",
+      "itemId": 1513
+    },
+    {
+      "name": "Uncut dragonstone",
+      "quantity": "2–5",
+      "rarity": "1/1727.79",
+      "itemId": 1631
+    },
+    {
+      "name": "Yew seed",
+      "quantity": "2–6",
+      "rarity": "1/7330",
+      "itemId": 5315
+    },
+    {
+      "name": "Magic seed",
+      "quantity": "2–6",
+      "rarity": "1/7330",
+      "itemId": 5316
+    },
+    {
+      "name": "Coins",
+      "quantity": "1–76",
+      "rarity": "1/1.06",
+      "itemId": 995
+    },
+    {
+      "name": "Revenant cave teleport",
+      "quantity": "1–5",
+      "rarity": "1/345.56",
+      "itemId": 21802
+    },
+    {
+      "name": "Dragonstone bolt tips",
+      "quantity": "20–40",
+      "rarity": "1/575.93",
+      "itemId": 9193
+    },
+    {
+      "name": "Onyx bolt tips",
+      "quantity": "3–6",
+      "rarity": "1/575.93",
+      "itemId": 9194
+    },
+    {
+      "name": "Law rune",
+      "quantity": "20–45",
+      "rarity": "1/345.56",
+      "itemId": 563
+    },
+    {
+      "name": "Death rune",
+      "quantity": "30–60",
+      "rarity": "1/345.56",
+      "itemId": 560
+    },
+    {
+      "name": "Blood rune",
+      "quantity": "50–100",
+      "rarity": "1/345.56",
+      "itemId": 565
+    },
+    {
+      "name": "Blighted ancient ice sack",
+      "quantity": "1–10",
+      "rarity": "1/23.5",
+      "itemId": 24607
+    },
+    {
+      "name": "Blighted entangle sack",
+      "quantity": "1–10",
+      "rarity": "1/11.75",
+      "itemId": 24613
+    },
+    {
+      "name": "Blighted teleport spell sack",
+      "quantity": "1–10",
+      "rarity": "1/23.5",
+      "itemId": 24615
+    },
+    {
+      "name": "Blighted vengeance sack",
+      "quantity": "1–10",
+      "rarity": "1/23.5",
+      "itemId": 24621
+    },
+    {
+      "name": "Blighted manta ray",
+      "quantity": "1–2",
+      "rarity": "1/15.67",
+      "itemId": 24589
+    },
+    {
+      "name": "Blighted anglerfish",
+      "quantity": "1–2",
+      "rarity": "1/15.67",
+      "itemId": 24592
+    },
+    {
+      "name": "Blighted karambwan",
+      "quantity": "1–2",
+      "rarity": "1/23.5",
+      "itemId": 24595
+    },
+    {
+      "name": "Blighted super restore(4)",
+      "quantity": "1",
+      "rarity": "1/47",
+      "itemId": 24598
+    },
+    {
+      "name": "Revenant cave teleport",
+      "quantity": "1",
+      "rarity": "1/47",
+      "itemId": 21802
+    },
+    {
+      "name": "Looting bag",
+      "quantity": "1",
+      "rarity": "1/10",
+      "itemId": 11941
+    },
+    {
+      "name": "Goblin champion scroll",
+      "quantity": "1",
+      "rarity": "1/5000",
+      "itemId": 6801
+    },
+    {
+      "name": "Larran's key",
+      "quantity": "1",
+      "rarity": "1/1367",
+      "itemId": 23490
+    },
+    {
+      "name": "Slayer's enchantment",
+      "quantity": "1",
+      "rarity": "1/309",
+      "itemId": 21257
+    }
+  ]
+}

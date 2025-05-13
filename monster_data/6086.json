@@ -1,0 +1,60 @@
+{
+  "id": 6086,
+  "name": "Gnome woman",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    },
+    {
+      "name": "Arrow shaft",
+      "quantity": "2–4",
+      "rarity": "56/128",
+      "itemId": 52
+    },
+    {
+      "name": "Coins",
+      "quantity": "300",
+      "rarity": "30/128",
+      "itemId": 995
+    },
+    {
+      "name": "Swamp toad (item)",
+      "quantity": "1",
+      "rarity": "24/128",
+      "itemId": 2150
+    },
+    {
+      "name": "Gold ore",
+      "quantity": "1",
+      "rarity": "8/128",
+      "itemId": 444
+    },
+    {
+      "name": "Earth rune",
+      "quantity": "1",
+      "rarity": "5/128",
+      "itemId": 557
+    },
+    {
+      "name": "King worm",
+      "quantity": "1",
+      "rarity": "3/128",
+      "itemId": 2162
+    },
+    {
+      "name": "Fire orb",
+      "quantity": "1",
+      "rarity": "2/128",
+      "itemId": 569
+    },
+    {
+      "name": "Clue scroll (medium)",
+      "quantity": "1",
+      "rarity": "1/150",
+      "itemId": 2829
+    }
+  ]
+}

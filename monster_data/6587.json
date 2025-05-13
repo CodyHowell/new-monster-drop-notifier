@@ -1,0 +1,246 @@
+{
+  "id": 6587,
+  "name": "Armadylean guard",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    },
+    {
+      "name": "Rune spear",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 1247
+    },
+    {
+      "name": "Rune thrownaxe",
+      "quantity": "6",
+      "rarity": "3/128",
+      "itemId": 805
+    },
+    {
+      "name": "Armadyl helmet",
+      "quantity": "1",
+      "rarity": "1/2000000",
+      "itemId": 11826
+    },
+    {
+      "name": "Bandos boots",
+      "quantity": "1",
+      "rarity": "1/2000000",
+      "itemId": 11836
+    },
+    {
+      "name": "Nature rune",
+      "quantity": "20",
+      "rarity": "5/128",
+      "itemId": 561
+    },
+    {
+      "name": "Blood rune",
+      "quantity": "20",
+      "rarity": "5/128",
+      "itemId": 565
+    },
+    {
+      "name": "Cosmic rune",
+      "quantity": "20",
+      "rarity": "5/128",
+      "itemId": 564
+    },
+    {
+      "name": "Grimy guam leaf",
+      "quantity": "1",
+      "rarity": "1/51.2",
+      "itemId": 199
+    },
+    {
+      "name": "Grimy marrentill",
+      "quantity": "1",
+      "rarity": "1/68.3",
+      "itemId": 201
+    },
+    {
+      "name": "Grimy tarromin",
+      "quantity": "1",
+      "rarity": "1/91",
+      "itemId": 203
+    },
+    {
+      "name": "Grimy harralander",
+      "quantity": "1",
+      "rarity": "1/117",
+      "itemId": 205
+    },
+    {
+      "name": "Grimy ranarr weed",
+      "quantity": "1",
+      "rarity": "1/148.9",
+      "itemId": 207
+    },
+    {
+      "name": "Grimy irit leaf",
+      "quantity": "1",
+      "rarity": "1/204.8",
+      "itemId": 209
+    },
+    {
+      "name": "Grimy avantoe",
+      "quantity": "1",
+      "rarity": "1/273.1",
+      "itemId": 211
+    },
+    {
+      "name": "Grimy kwuarm",
+      "quantity": "1",
+      "rarity": "1/327.7",
+      "itemId": 213
+    },
+    {
+      "name": "Grimy cadantine",
+      "quantity": "1",
+      "rarity": "1/409.6",
+      "itemId": 215
+    },
+    {
+      "name": "Grimy lantadyme",
+      "quantity": "1",
+      "rarity": "1/546.1",
+      "itemId": 2485
+    },
+    {
+      "name": "Grimy dwarf weed",
+      "quantity": "1",
+      "rarity": "1/546.1",
+      "itemId": 217
+    },
+    {
+      "name": "Coins",
+      "quantity": "35",
+      "rarity": "37/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "350",
+      "rarity": "12/128",
+      "itemId": 995
+    },
+    {
+      "name": "Hammer",
+      "quantity": "1",
+      "rarity": "5/128",
+      "itemId": 2347
+    },
+    {
+      "name": "Coal",
+      "quantity": "1",
+      "rarity": "7/128",
+      "itemId": 453
+    },
+    {
+      "name": "Feather",
+      "quantity": "30",
+      "rarity": "5/128",
+      "itemId": 314
+    },
+    {
+      "name": "Headless arrow",
+      "quantity": "30",
+      "rarity": "10/128",
+      "itemId": 53
+    },
+    {
+      "name": "Adamantite bar",
+      "quantity": "5",
+      "rarity": "1/128",
+      "itemId": 2361
+    },
+    {
+      "name": "Shark",
+      "quantity": "1",
+      "rarity": "3/128",
+      "itemId": 385
+    },
+    {
+      "name": "Uncut sapphire",
+      "quantity": "1",
+      "rarity": "1/56.89",
+      "itemId": 1623
+    },
+    {
+      "name": "Uncut emerald",
+      "quantity": "1",
+      "rarity": "1/113.78",
+      "itemId": 1621
+    },
+    {
+      "name": "Uncut ruby",
+      "quantity": "1",
+      "rarity": "1/227.56",
+      "itemId": 1619
+    },
+    {
+      "name": "Uncut diamond",
+      "quantity": "1",
+      "rarity": "1/910.22",
+      "itemId": 1617
+    },
+    {
+      "name": "Chaos talisman",
+      "quantity": "1",
+      "rarity": "1/606.81",
+      "itemId": 1452
+    },
+    {
+      "name": "Nature talisman",
+      "quantity": "1",
+      "rarity": "1/606.81",
+      "itemId": 1462
+    },
+    {
+      "name": "Loop half of key",
+      "quantity": "1",
+      "rarity": "1/1820.44",
+      "itemId": 987
+    },
+    {
+      "name": "Tooth half of key",
+      "quantity": "1",
+      "rarity": "1/1820.44",
+      "itemId": 985
+    },
+    {
+      "name": "Rune javelin",
+      "quantity": "5",
+      "rarity": "1/1820.44",
+      "itemId": 830
+    },
+    {
+      "name": "Rune spear",
+      "quantity": "1",
+      "rarity": "1/29127.11",
+      "itemId": 1247
+    },
+    {
+      "name": "Shield left half",
+      "quantity": "1",
+      "rarity": "1/58254.22",
+      "itemId": 2366
+    },
+    {
+      "name": "Dragon spear",
+      "quantity": "1",
+      "rarity": "1/77672.3",
+      "itemId": 1249
+    },
+    {
+      "name": "Looting bag",
+      "quantity": "1",
+      "rarity": "1/3",
+      "itemId": 11941
+    }
+  ]
+}

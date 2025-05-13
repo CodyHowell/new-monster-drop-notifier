@@ -1,0 +1,162 @@
+{
+  "id": 13033,
+  "name": "Sulphur Nagua",
+  "drops": [
+    {
+      "name": "Sulphur blades",
+      "quantity": "1",
+      "rarity": "~1/450",
+      "itemId": 29084
+    },
+    {
+      "name": "Chaos rune",
+      "quantity": "40–60",
+      "rarity": "11/128",
+      "itemId": 562
+    },
+    {
+      "name": "Death rune",
+      "quantity": "40–60",
+      "rarity": "2/128",
+      "itemId": 560
+    },
+    {
+      "name": "Fire rune",
+      "quantity": "10–40",
+      "rarity": "26/128",
+      "itemId": 554
+    },
+    {
+      "name": "Fire rune",
+      "quantity": "40–60",
+      "rarity": "14/128",
+      "itemId": 554
+    },
+    {
+      "name": "Nature rune",
+      "quantity": "5–10",
+      "rarity": "4/128",
+      "itemId": 561
+    },
+    {
+      "name": "Sulphurous essence",
+      "quantity": "6–10",
+      "rarity": "4/128",
+      "itemId": 29087
+    },
+    {
+      "name": "Coal",
+      "quantity": "5–10",
+      "rarity": "13/128",
+      "itemId": 453
+    },
+    {
+      "name": "Copper ore",
+      "quantity": "10–15",
+      "rarity": "3/128",
+      "itemId": 436
+    },
+    {
+      "name": "Iron ore",
+      "quantity": "5–10",
+      "rarity": "27/128",
+      "itemId": 440
+    },
+    {
+      "name": "Silver ore",
+      "quantity": "5–10",
+      "rarity": "12/128",
+      "itemId": 442
+    },
+    {
+      "name": "Tin ore",
+      "quantity": "10–15",
+      "rarity": "5/128",
+      "itemId": 438
+    },
+    {
+      "name": "Mithril ore",
+      "quantity": "5–10",
+      "rarity": "1/128",
+      "itemId": 447
+    },
+    {
+      "name": "Uncut sapphire",
+      "quantity": "1",
+      "rarity": "2 × 1/128",
+      "itemId": 1623
+    },
+    {
+      "name": "Uncut emerald",
+      "quantity": "1",
+      "rarity": "2 × 1/256",
+      "itemId": 1621
+    },
+    {
+      "name": "Uncut ruby",
+      "quantity": "1",
+      "rarity": "2 × 1/512",
+      "itemId": 1619
+    },
+    {
+      "name": "Uncut diamond",
+      "quantity": "1",
+      "rarity": "2 × 1/2048",
+      "itemId": 1617
+    },
+    {
+      "name": "Nature talisman",
+      "quantity": "1",
+      "rarity": "2 × 1/1365.33",
+      "itemId": 1462
+    },
+    {
+      "name": "Loop half of key",
+      "quantity": "1",
+      "rarity": "2 × 1/4096",
+      "itemId": 987
+    },
+    {
+      "name": "Tooth half of key",
+      "quantity": "1",
+      "rarity": "2 × 1/4096",
+      "itemId": 985
+    },
+    {
+      "name": "Rune javelin",
+      "quantity": "5",
+      "rarity": "2 × 1/4096",
+      "itemId": 830
+    },
+    {
+      "name": "Rune spear",
+      "quantity": "1",
+      "rarity": "2 × 1/65536",
+      "itemId": 1247
+    },
+    {
+      "name": "Shield left half",
+      "quantity": "1",
+      "rarity": "2 × 1/131072",
+      "itemId": 2366
+    },
+    {
+      "name": "Dragon spear",
+      "quantity": "1",
+      "rarity": "2 × 1/174762.67",
+      "itemId": 1249
+    },
+    {
+      "name": "Clue scroll (hard)",
+      "quantity": "1",
+      "rarity": "~1/256",
+      "itemId": 3550
+    },
+    {
+      "name": "Brimstone key",
+      "quantity": "1",
+      "rarity": "1/80",
+      "itemId": 23083
+    }
+  ]
+}

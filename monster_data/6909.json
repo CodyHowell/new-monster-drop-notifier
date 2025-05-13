@@ -1,0 +1,36 @@
+{
+  "id": 6909,
+  "name": "Soldier (tier 3)",
+  "drops": [
+    {
+      "name": "Shayzien helm (3)",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 13369
+    },
+    {
+      "name": "Shayzien platebody (3)",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 13371
+    },
+    {
+      "name": "Shayzien greaves (3)",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 13370
+    },
+    {
+      "name": "Shayzien gloves (3)",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 13367
+    },
+    {
+      "name": "Shayzien boots (3)",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 13368
+    }
+  ]
+}

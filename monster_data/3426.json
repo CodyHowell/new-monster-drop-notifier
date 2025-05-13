@@ -1,0 +1,18 @@
+{
+  "id": 3426,
+  "name": "Dire Wolf",
+  "drops": [
+    {
+      "name": "Wolf bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 2859
+    },
+    {
+      "name": "Wolf bone",
+      "quantity": "1",
+      "rarity": "1/4",
+      "itemId": 7830
+    }
+  ]
+}

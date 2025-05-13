@@ -1,0 +1,18 @@
+{
+  "id": 3025,
+  "name": "Poison Scorpion",
+  "drops": [
+    {
+      "name": "Ensouled scorpion head",
+      "quantity": "1",
+      "rarity": "1/25",
+      "itemId": 13460
+    },
+    {
+      "name": "Clue scroll (beginner)",
+      "quantity": "1",
+      "rarity": "1/100",
+      "itemId": 23182
+    }
+  ]
+}

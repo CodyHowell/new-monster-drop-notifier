@@ -1,0 +1,354 @@
+{
+  "id": 970,
+  "name": "Dagannoth",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    },
+    {
+      "name": "Iron spear",
+      "quantity": "1",
+      "rarity": "6/128",
+      "itemId": 1239
+    },
+    {
+      "name": "Bronze spear",
+      "quantity": "1",
+      "rarity": "5/128",
+      "itemId": 1237
+    },
+    {
+      "name": "Mithril spear",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 1243
+    },
+    {
+      "name": "Water rune",
+      "quantity": "15",
+      "rarity": "4/128",
+      "itemId": 555
+    },
+    {
+      "name": "Steel arrow",
+      "quantity": "15",
+      "rarity": "2/128",
+      "itemId": 886
+    },
+    {
+      "name": "Mithril javelin",
+      "quantity": "3",
+      "rarity": "1/128",
+      "itemId": 828
+    },
+    {
+      "name": "Toadflax seed",
+      "quantity": "1",
+      "rarity": "1/35.7",
+      "itemId": 5296
+    },
+    {
+      "name": "Irit seed",
+      "quantity": "1",
+      "rarity": "1/52.4",
+      "itemId": 5297
+    },
+    {
+      "name": "Belladonna seed",
+      "quantity": "1",
+      "rarity": "1/54.1",
+      "itemId": 5281
+    },
+    {
+      "name": "Poison ivy seed",
+      "quantity": "1",
+      "rarity": "1/76.3",
+      "itemId": 5106
+    },
+    {
+      "name": "Avantoe seed",
+      "quantity": "1",
+      "rarity": "1/76.3",
+      "itemId": 5298
+    },
+    {
+      "name": "Cactus seed",
+      "quantity": "1",
+      "rarity": "1/79.9",
+      "itemId": 5280
+    },
+    {
+      "name": "Potato cactus seed",
+      "quantity": "1",
+      "rarity": "1/111.9",
+      "itemId": 22873
+    },
+    {
+      "name": "Kwuarm seed",
+      "quantity": "1",
+      "rarity": "1/111.9",
+      "itemId": 5299
+    },
+    {
+      "name": "Snapdragon seed",
+      "quantity": "1",
+      "rarity": "1/167.8",
+      "itemId": 5300
+    },
+    {
+      "name": "Cadantine seed",
+      "quantity": "1",
+      "rarity": "1/239.7",
+      "itemId": 5301
+    },
+    {
+      "name": "Lantadyme seed",
+      "quantity": "1",
+      "rarity": "1/335.6",
+      "itemId": 5302
+    },
+    {
+      "name": "Snape grass seed",
+      "quantity": "3",
+      "rarity": "1/419.6",
+      "itemId": 22879
+    },
+    {
+      "name": "Dwarf weed seed",
+      "quantity": "1",
+      "rarity": "1/559.4",
+      "itemId": 5303
+    },
+    {
+      "name": "Torstol seed",
+      "quantity": "1",
+      "rarity": "1/839.1",
+      "itemId": 5304
+    },
+    {
+      "name": "Lobster pot",
+      "quantity": "1",
+      "rarity": "12/128",
+      "itemId": 301
+    },
+    {
+      "name": "Raw herring",
+      "quantity": "3",
+      "rarity": "4/128",
+      "itemId": 345
+    },
+    {
+      "name": "Raw sardine",
+      "quantity": "5",
+      "rarity": "4/128",
+      "itemId": 327
+    },
+    {
+      "name": "Harpoon",
+      "quantity": "1",
+      "rarity": "3/128",
+      "itemId": 311
+    },
+    {
+      "name": "Feather",
+      "quantity": "15",
+      "rarity": "2/128",
+      "itemId": 314
+    },
+    {
+      "name": "Fishing bait",
+      "quantity": "50",
+      "rarity": "2/128",
+      "itemId": 313
+    },
+    {
+      "name": "Raw lobster",
+      "quantity": "1",
+      "rarity": "2/128",
+      "itemId": 377
+    },
+    {
+      "name": "Raw tuna",
+      "quantity": "1",
+      "rarity": "2/128",
+      "itemId": 359
+    },
+    {
+      "name": "Seaweed",
+      "quantity": "10",
+      "rarity": "2/128",
+      "itemId": 401
+    },
+    {
+      "name": "Oyster pearls",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 413
+    },
+    {
+      "name": "Oyster pearl",
+      "quantity": "2",
+      "rarity": "1/128",
+      "itemId": 411
+    },
+    {
+      "name": "Coins",
+      "quantity": "56",
+      "rarity": "29/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "25",
+      "rarity": "9/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "44",
+      "rarity": "8/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "41",
+      "rarity": "6/128",
+      "itemId": 995
+    },
+    {
+      "name": "Casket",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 405
+    },
+    {
+      "name": "Opal bolt tips",
+      "quantity": "12",
+      "rarity": "2/128",
+      "itemId": 45
+    },
+    {
+      "name": "Uncut sapphire",
+      "quantity": "1",
+      "rarity": "1/512",
+      "itemId": 1623
+    },
+    {
+      "name": "Uncut emerald",
+      "quantity": "1",
+      "rarity": "1/1024",
+      "itemId": 1621
+    },
+    {
+      "name": "Uncut ruby",
+      "quantity": "1",
+      "rarity": "1/2048",
+      "itemId": 1619
+    },
+    {
+      "name": "Uncut diamond",
+      "quantity": "1",
+      "rarity": "1/8192",
+      "itemId": 1617
+    },
+    {
+      "name": "Chaos talisman",
+      "quantity": "1",
+      "rarity": "1/5461.33",
+      "itemId": 1452
+    },
+    {
+      "name": "Nature talisman",
+      "quantity": "1",
+      "rarity": "1/5461.33",
+      "itemId": 1462
+    },
+    {
+      "name": "Loop half of key",
+      "quantity": "1",
+      "rarity": "1/16384",
+      "itemId": 987
+    },
+    {
+      "name": "Tooth half of key",
+      "quantity": "1",
+      "rarity": "1/16384",
+      "itemId": 985
+    },
+    {
+      "name": "Rune javelin",
+      "quantity": "5",
+      "rarity": "1/16384",
+      "itemId": 830
+    },
+    {
+      "name": "Rune spear",
+      "quantity": "1",
+      "rarity": "1/262144",
+      "itemId": 1247
+    },
+    {
+      "name": "Shield left half",
+      "quantity": "1",
+      "rarity": "1/524288",
+      "itemId": 2366
+    },
+    {
+      "name": "Dragon spear",
+      "quantity": "1",
+      "rarity": "1/699050.67",
+      "itemId": 1249
+    },
+    {
+      "name": "Dagannoth ribs",
+      "quantity": "1",
+      "rarity": "1/4",
+      "itemId": 7857
+    },
+    {
+      "name": "Ensouled dagannoth head",
+      "quantity": "1",
+      "rarity": "1/40",
+      "itemId": 13493
+    },
+    {
+      "name": "Clue scroll (medium)",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 2829
+    },
+    {
+      "name": "Brimstone key",
+      "quantity": "1",
+      "rarity": "1/235",
+      "itemId": 23083
+    },
+    {
+      "name": "Ancient shard",
+      "quantity": "1",
+      "rarity": "1/286",
+      "itemId": 19677
+    },
+    {
+      "name": "Dark totem base",
+      "quantity": "1",
+      "rarity": "1/430",
+      "itemId": 19679
+    },
+    {
+      "name": "Dark totem middle",
+      "quantity": "1",
+      "rarity": "1/430",
+      "itemId": 19681
+    },
+    {
+      "name": "Dark totem top",
+      "quantity": "1",
+      "rarity": "1/430",
+      "itemId": 19683
+    }
+  ]
+}

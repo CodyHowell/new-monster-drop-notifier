@@ -1,0 +1,156 @@
+{
+  "id": 4501,
+  "name": "Brine rat",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    },
+    {
+      "name": "Raw rat meat",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 2134
+    },
+    {
+      "name": "Brine sabre",
+      "quantity": "1",
+      "rarity": "1/512",
+      "itemId": 11037
+    },
+    {
+      "name": "Death rune",
+      "quantity": "7",
+      "rarity": "18/128",
+      "itemId": 560
+    },
+    {
+      "name": "Air rune",
+      "quantity": "18",
+      "rarity": "2/128",
+      "itemId": 556
+    },
+    {
+      "name": "Earth rune",
+      "quantity": "10",
+      "rarity": "6/128",
+      "itemId": 557
+    },
+    {
+      "name": "Earth rune",
+      "quantity": "18",
+      "rarity": "2/128",
+      "itemId": 557
+    },
+    {
+      "name": "Earth rune",
+      "quantity": "36",
+      "rarity": "4/128",
+      "itemId": 557
+    },
+    {
+      "name": "Water rune",
+      "quantity": "10",
+      "rarity": "3/128",
+      "itemId": 555
+    },
+    {
+      "name": "Water rune",
+      "quantity": "18",
+      "rarity": "2/128",
+      "itemId": 555
+    },
+    {
+      "name": "Blood rune",
+      "quantity": "4",
+      "rarity": "2/128",
+      "itemId": 565
+    },
+    {
+      "name": "Raw lobster",
+      "quantity": "10",
+      "rarity": "6/128",
+      "itemId": 377
+    },
+    {
+      "name": "Raw shark",
+      "quantity": "3",
+      "rarity": "6/128",
+      "itemId": 383
+    },
+    {
+      "name": "Raw rat meat",
+      "quantity": "18",
+      "rarity": "2/128",
+      "itemId": 2134
+    },
+    {
+      "name": "Raw pike",
+      "quantity": "18",
+      "rarity": "2/128",
+      "itemId": 349
+    },
+    {
+      "name": "Raw shark",
+      "quantity": "8",
+      "rarity": "2/128",
+      "itemId": 383
+    },
+    {
+      "name": "Raw swordfish",
+      "quantity": "9",
+      "rarity": "2/128",
+      "itemId": 371
+    },
+    {
+      "name": "Raw shark",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 383
+    },
+    {
+      "name": "Coins",
+      "quantity": "1",
+      "rarity": "21/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "2",
+      "rarity": "16/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "4",
+      "rarity": "9/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "29",
+      "rarity": "3/128",
+      "itemId": 995
+    },
+    {
+      "name": "Water talisman",
+      "quantity": "1",
+      "rarity": "3/128",
+      "itemId": 1444
+    },
+    {
+      "name": "Clue scroll (medium)",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 2829
+    },
+    {
+      "name": "Brimstone key",
+      "quantity": "1",
+      "rarity": "1/224",
+      "itemId": 23083
+    }
+  ]
+}

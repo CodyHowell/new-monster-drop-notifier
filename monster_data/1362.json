@@ -1,0 +1,24 @@
+{
+  "id": 1362,
+  "name": "Slagilith",
+  "drops": [
+    {
+      "name": "Adamantite ore",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 449
+    },
+    {
+      "name": "Uncut diamond",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 1617
+    },
+    {
+      "name": "Uncut ruby",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 1619
+    }
+  ]
+}

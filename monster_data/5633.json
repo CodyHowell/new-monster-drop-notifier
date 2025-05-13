@@ -1,0 +1,12 @@
+{
+  "id": 5633,
+  "name": "Shade (Temple Trekking)",
+  "drops": [
+    {
+      "name": "Fiyr remains",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 3404
+    }
+  ]
+}

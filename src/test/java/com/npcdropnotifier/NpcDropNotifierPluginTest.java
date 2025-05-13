@@ -2,7 +2,6 @@ package com.npcdropnotifier;
 
 import com.google.gson.Gson;
 import net.runelite.api.*;
-import net.runelite.api.events.HitsplatApplied;
 import net.runelite.client.Notifier;
 import net.runelite.client.config.ConfigManager;
 import net.runelite.client.events.NpcLootReceived;
@@ -13,18 +12,11 @@ import org.junit.runner.RunWith;
 import org.mockito.InjectMocks;
 import org.mockito.Mock;
 import org.mockito.junit.MockitoJUnitRunner;
-
 import java.io.File;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
-import java.lang.reflect.Field;
 import java.util.*;
-import java.util.concurrent.CompletableFuture;
-import java.util.concurrent.ConcurrentHashMap;
-import java.util.concurrent.CountDownLatch;
-import java.util.concurrent.TimeUnit;
-import java.util.concurrent.atomic.AtomicInteger;
 
 import static org.junit.Assert.*;
 import static org.mockito.ArgumentMatchers.anyInt;
@@ -70,43 +62,70 @@ public class NpcDropNotifierPluginTest {
         Map<Integer, List<NpcDropData.Drop>> testDrops = new HashMap<>();
         List<NpcDropData.Drop> dropList = new ArrayList<>();
 
+        NpcDropData.Drop alwaysDrop = new NpcDropData.Drop();
+        alwaysDrop.itemId = 554;
+        alwaysDrop.name = "Always Item";
+        alwaysDrop.quantity = "1";
+        alwaysDrop.rarity = "Always";
+
         NpcDropData.Drop commonDrop = new NpcDropData.Drop();
-        commonDrop.id = 555;
+        commonDrop.itemId = 555;
         commonDrop.name = "Common Item";
         commonDrop.quantity = "1";
-        commonDrop.rarity = 0.1;
-        commonDrop.rolls = 1;
+        commonDrop.rarity = "1/10";
         commonDrop.minQuantity = 1;
         commonDrop.maxQuantity = 1;
 
-        NpcDropData.Drop rareDrop = new NpcDropData.Drop();
-        rareDrop.id = 556;
-        rareDrop.name = "Rare Item";
-        rareDrop.quantity = "1";
-        rareDrop.rarity = 0.001;
-        rareDrop.rolls = 1;
-        rareDrop.minQuantity = 1;
-        rareDrop.maxQuantity = 1;
-
         NpcDropData.Drop variableQuantityDrop = new NpcDropData.Drop();
-        variableQuantityDrop.id = 557;
+        variableQuantityDrop.itemId = 557;
         variableQuantityDrop.name = "Variable Item";
-        variableQuantityDrop.quantity = "5-10";
-        variableQuantityDrop.rarity = 0.05;
-        variableQuantityDrop.rolls = 1;
+        variableQuantityDrop.quantity = "5–10";
+        variableQuantityDrop.rarity = "1/10";
         variableQuantityDrop.minQuantity = 5;
         variableQuantityDrop.maxQuantity = 10;
 
+        NpcDropData.Drop multiRollQuantityDrop = new NpcDropData.Drop();
+        multiRollQuantityDrop.itemId = 558;
+        multiRollQuantityDrop.name = "Variable Item";
+        multiRollQuantityDrop.quantity = "5";
+        multiRollQuantityDrop.rarity = "2 × 2/10";
+
+        NpcDropData.Drop sameItemQuantity1Drop = new NpcDropData.Drop();
+        sameItemQuantity1Drop.itemId = 559;
+        sameItemQuantity1Drop.name = "Gold 1";
+        sameItemQuantity1Drop.quantity = "5";
+        sameItemQuantity1Drop.rarity = "1/10";
+        sameItemQuantity1Drop.minQuantity = 5;
+        sameItemQuantity1Drop.maxQuantity = 5;
+
+        NpcDropData.Drop sameItemQuantity2Drop = new NpcDropData.Drop();
+        sameItemQuantity2Drop.itemId = 559;
+        sameItemQuantity2Drop.name = "Gold 2";
+        sameItemQuantity2Drop.quantity = "6";
+        sameItemQuantity2Drop.rarity = "1/15";
+        sameItemQuantity2Drop.minQuantity = 6;
+        sameItemQuantity2Drop.maxQuantity = 6;
+
+        dropList = new ArrayList<>();
+        dropList.add(alwaysDrop);
+        testDrops.put(554, dropList);
+
+        dropList = new ArrayList<>();
         dropList.add(commonDrop);
         testDrops.put(555, dropList);
 
         dropList = new ArrayList<>();
-        dropList.add(rareDrop);
-        testDrops.put(556, dropList);
-
-        dropList = new ArrayList<>();
         dropList.add(variableQuantityDrop);
         testDrops.put(557, dropList);
+
+        dropList = new ArrayList<>();
+        dropList.add(multiRollQuantityDrop);
+        testDrops.put(558, dropList);
+
+        dropList = new ArrayList<>();
+        dropList.add(sameItemQuantity1Drop);
+        dropList.add(sameItemQuantity2Drop);
+        testDrops.put(559, dropList);
 
         plugin.currentNpcKey = mockNpc.getName() + "#Level" + mockNpc.getCombatLevel();
         plugin.currentNpcDropData = testDrops;
@@ -129,179 +148,16 @@ public class NpcDropNotifierPluginTest {
         foundDrop = plugin.findDrop(557, 11);
         assertNull("Should not find drop with quantity out of range", foundDrop);
 
+        // Test finding one of many of the same items with different quantities
+        foundDrop = plugin.findDrop(559, 5);
+        assertEquals("Gold 1", foundDrop.name);
+
+        foundDrop = plugin.findDrop(559, 6);
+        assertEquals("Gold 2", foundDrop.name);
+
         // Test not finding a drop with non-existent item ID
         foundDrop = plugin.findDrop(999, 1);
         assertNull("Should not find drop with non-existent item ID", foundDrop);
-    }
-
-    @Test
-    public void testOnHitsplatApplied() throws Exception {
-        // Setup mocks
-        plugin.currentNpcKey = "DifferentMonster#Level50";
-
-        Hitsplat playerHitsplat = mock(Hitsplat.class);
-        when(playerHitsplat.getHitsplatType()).thenReturn(HitsplatID.DAMAGE_ME);
-
-        Hitsplat nonPlayerHitsplat = mock(Hitsplat.class);
-        when(nonPlayerHitsplat.getHitsplatType()).thenReturn(HitsplatID.DAMAGE_OTHER);
-
-        HitsplatApplied playerHitsplatEvent = mock(HitsplatApplied.class);
-        when(playerHitsplatEvent.getActor()).thenReturn(mockNpc);
-        when(playerHitsplatEvent.getHitsplat()).thenReturn(playerHitsplat);
-
-        HitsplatApplied nonPlayerHitsplatEvent = mock(HitsplatApplied.class);
-        when(nonPlayerHitsplatEvent.getActor()).thenReturn(mockNpc);
-        when(nonPlayerHitsplatEvent.getHitsplat()).thenReturn(nonPlayerHitsplat);
-
-        // Create a spy of the plugin to verify and mock certain methods
-        NpcDropNotifierPlugin pluginSpy = spy(plugin);
-
-        // Create a mock for NpcDropData
-        NpcDropData mockDropData = mock(NpcDropData.class);
-        Map<Integer, List<NpcDropData.Drop>> mockDropMap = new HashMap<>();
-
-        // Mock the methods to avoid actual file/network operations
-        doNothing().when(pluginSpy).downloadAndSaveMonsterDropJsonIfNeeded(anyInt(), anyString());
-        doReturn(mockDropData).when(pluginSpy).readNpcDropData(anyString());
-
-        // Create a task executor that runs tasks immediately in the current thread
-        doAnswer(invocation -> {
-            Runnable runnable = invocation.getArgument(0);
-            runnable.run(); // Run synchronously for testing
-            return CompletableFuture.completedFuture(null);
-        }).when(pluginSpy).runAsyncTask(any(Runnable.class));
-
-        // Test 1: Non-NPC actor should be ignored
-        Player mockPlayer = mock(Player.class);
-        HitsplatApplied playerActorEvent = mock(HitsplatApplied.class);
-        when(playerActorEvent.getActor()).thenReturn(mockPlayer);
-
-        pluginSpy.onHitsplatApplied(playerActorEvent);
-        verify(pluginSpy, never()).downloadAndSaveMonsterDropJsonIfNeeded(anyInt(), anyString());
-
-        // Test 2: Non-player hitsplat should be ignored
-        pluginSpy.onHitsplatApplied(nonPlayerHitsplatEvent);
-        verify(pluginSpy, never()).downloadAndSaveMonsterDropJsonIfNeeded(anyInt(), anyString());
-
-        // Test 3: Valid hitsplat should trigger download
-        pluginSpy.onHitsplatApplied(playerHitsplatEvent);
-        verify(pluginSpy).downloadAndSaveMonsterDropJsonIfNeeded(1234, "TestMonster#Level100");
-
-        // Reset the mock to clear previous invocations
-        reset(pluginSpy);
-        doNothing().when(pluginSpy).downloadAndSaveMonsterDropJsonIfNeeded(anyInt(), anyString());
-        doReturn(mockDropData).when(pluginSpy).readNpcDropData(anyString());
-        doAnswer(invocation -> {
-            Runnable runnable = invocation.getArgument(0);
-            runnable.run();
-            return CompletableFuture.completedFuture(null);
-        }).when(pluginSpy).runAsyncTask(any(Runnable.class));
-
-        // Test 4: Already loading monster should not trigger another download
-        // Get access to the monsterDataBeingLoaded set
-        Field monsterDataBeingLoadedField = NpcDropNotifierPlugin.class.getDeclaredField("monsterDataBeingLoaded");
-        monsterDataBeingLoadedField.setAccessible(true);
-        Set<String> monsterDataBeingLoaded = (Set<String>) monsterDataBeingLoadedField.get(pluginSpy);
-
-        // Add the monster to the loading set
-        monsterDataBeingLoaded.add("TestMonster#Level100");
-
-        // Execute the method again
-        pluginSpy.onHitsplatApplied(playerHitsplatEvent);
-
-        // Verify downloadAndSaveMonsterDropJson was not called this time
-        verify(pluginSpy, never()).downloadAndSaveMonsterDropJsonIfNeeded(anyInt(), anyString());
-
-        // Clear the loading set for next test
-        monsterDataBeingLoaded.clear();
-
-        // Test 5: Hitting the same type of npc should not trigger download
-        reset(pluginSpy);
-        HitsplatApplied sameNpcPlayerHitsplatEvent = mock(HitsplatApplied.class);
-        when(playerHitsplatEvent.getActor()).thenReturn(this.mockNpc);
-        when(playerHitsplatEvent.getHitsplat()).thenReturn(playerHitsplat);
-        // Execute the method again
-        pluginSpy.onHitsplatApplied(sameNpcPlayerHitsplatEvent);
-
-        // Verify downloadAndSaveMonsterDropJson was not called this time
-        verify(pluginSpy, never()).downloadAndSaveMonsterDropJsonIfNeeded(anyInt(), anyString());
-
-        // Test 6: Test exception handling
-        reset(pluginSpy);
-        doThrow(new IOException("Test exception")).when(pluginSpy).downloadAndSaveMonsterDropJsonIfNeeded(anyInt(), anyString());
-        doAnswer(invocation -> {
-            Runnable runnable = invocation.getArgument(0);
-            runnable.run();
-            return CompletableFuture.completedFuture(null);
-        }).when(pluginSpy).runAsyncTask(any(Runnable.class));
-
-        // Execute the method - should not throw exception outside
-        pluginSpy.onHitsplatApplied(playerHitsplatEvent);
-
-        // Verify the monster was removed from the loading set despite the exception
-        assertFalse(monsterDataBeingLoaded.contains("TestMonster#Level100"));
-
-        // Test 7: Test concurrent execution with controlled threads
-        reset(pluginSpy);
-        monsterDataBeingLoaded.clear();
-
-        // Create an AtomicInteger to count how many times the download method is called
-        AtomicInteger downloadCallCount = new AtomicInteger(0);
-
-        // Mock the download method to increment the counter
-        doAnswer(invocation -> {
-            downloadCallCount.incrementAndGet();
-            return null;
-        }).when(pluginSpy).downloadAndSaveMonsterDropJsonIfNeeded(anyInt(), anyString());
-
-        // Mock the async task execution to run synchronously but with thread safety
-        doAnswer(invocation -> {
-            Runnable runnable = invocation.getArgument(0);
-            Thread.sleep(150); // Simulate work
-            runnable.run();
-            return CompletableFuture.completedFuture(null);
-        }).when(pluginSpy).runAsyncTask(any(Runnable.class));
-
-        // Create a thread-safe set to track which threads have run
-        Set<String> threadsRun = ConcurrentHashMap.newKeySet();
-
-        // Create and start multiple threads
-        int threadCount = 5;
-        CountDownLatch startLatch = new CountDownLatch(1); // Used to start all threads at once
-        CountDownLatch completionLatch = new CountDownLatch(threadCount); // Used to wait for all threads
-
-        for (int i = 0; i < threadCount; i++) {
-            final int threadNum = i;
-            new Thread(() -> {
-                try {
-                    // Wait for the signal to start
-                    startLatch.await();
-
-                    // Run the method
-                    pluginSpy.onHitsplatApplied(playerHitsplatEvent);
-
-                    // Record that this thread ran
-                    threadsRun.add("Thread-" + threadNum);
-                } catch (Exception e) {
-                    fail("Exception in test thread: " + e.getMessage());
-                } finally {
-                    completionLatch.countDown();
-                }
-            }).start();
-        }
-
-        // Start all threads at once
-        startLatch.countDown();
-
-        // Wait for all threads to complete
-        boolean completed = completionLatch.await(5, TimeUnit.SECONDS);
-        assertTrue("Not all threads completed in time", completed);
-
-        // Verify all threads ran
-        assertEquals("All threads should have run", threadCount, threadsRun.size());
-
-        // Verify downloadAndSaveMonsterDropJson was called exactly once
-        assertEquals("Download method should be called exactly once", 1, downloadCallCount.get());
     }
 
     @Test
@@ -316,6 +172,41 @@ public class NpcDropNotifierPluginTest {
         // Verify
         verify(npcDropNotifierPopup).addNotificationToQueue(anyString());
         assertTrue(plugin.npcDropRecord.getItemId(555).contains("1"));
+    }
+
+    @Test
+    public void testNpcDropDataParseQuantity() {
+        NpcDropData.Drop alwaysDrop = plugin.currentNpcDropData.get(554).get(0);
+        NpcDropData.Drop variableQuantityDrop = plugin.currentNpcDropData.get(557).get(0);
+
+        // Execute
+        alwaysDrop.parseQuantity();
+        variableQuantityDrop.parseQuantity();
+
+
+        // Verify
+        assertEquals(1, alwaysDrop.minQuantity);
+        assertEquals(1, alwaysDrop.maxQuantity);
+
+        assertEquals(5, variableQuantityDrop.minQuantity);
+        assertEquals(10, variableQuantityDrop.maxQuantity);
+    }
+
+    @Test
+    public void testNpcDropDataParseRarity() {
+        NpcDropData.Drop alwaysDrop = plugin.currentNpcDropData.get(554).get(0);
+        NpcDropData.Drop regularDrop = plugin.currentNpcDropData.get(555).get(0);
+        NpcDropData.Drop multiRollQuantityDrop = plugin.currentNpcDropData.get(558).get(0);
+
+        // Execute
+        alwaysDrop.parseRarity();
+        regularDrop.parseRarity();
+        multiRollQuantityDrop.parseRarity();
+
+        // Verify
+        assertEquals(0, alwaysDrop.simplifiedDenominator);
+        assertEquals(10, regularDrop.simplifiedDenominator);
+        assertEquals(5, multiRollQuantityDrop.simplifiedDenominator);
     }
 
     @Test
@@ -340,9 +231,12 @@ public class NpcDropNotifierPluginTest {
         // Create a mock for NpcDropData
         NpcDropData mockDropData = mock(NpcDropData.class);
 
-        doReturn(mockDropData).when(pluginSpy).readNpcDropData(anyString());
-        Map<Integer, List<NpcDropData.Drop>> dropData = new HashMap<Integer, List<NpcDropData.Drop>>();
+        doReturn(mockDropData).when(pluginSpy).readNpcDropData(anyInt(), anyString());
+        Map<Integer, List<NpcDropData.Drop>> dropData = new HashMap<>();
         List<NpcDropData.Drop> drops = new ArrayList<>();
+        NpcDropData.Drop drop = new NpcDropData.Drop();
+        drop.minQuantity = 1;
+        drop.maxQuantity = 1;
         drops.add(new NpcDropData.Drop());
         dropData.put(555, drops);
         doReturn(dropData).when(mockDropData).getDropsByItemIdAndQuantity();
@@ -361,35 +255,21 @@ public class NpcDropNotifierPluginTest {
     @Test
     public void testGetDropRateColor() {
         // Test different rarity levels
-        assertEquals(DropRateColorConstants.ALWAYS, plugin.getDropRateColor(1.0));
-        assertEquals(DropRateColorConstants.COMMON, plugin.getDropRateColor(0.05));
-        assertEquals(DropRateColorConstants.UNCOMMON, plugin.getDropRateColor(0.02));
-        assertEquals(DropRateColorConstants.RARE, plugin.getDropRateColor(0.005));
-        assertEquals(DropRateColorConstants.SUPERRARE, plugin.getDropRateColor(0.0005));
+        assertEquals(DropRateColorConstants.ALWAYS, plugin.getDropRateColor("Always"));
+        assertEquals(DropRateColorConstants.COMMON, plugin.getDropRateColor("1/2"));
+        assertEquals(DropRateColorConstants.UNCOMMON, plugin.getDropRateColor("1/30"));
+        assertEquals(DropRateColorConstants.RARE, plugin.getDropRateColor("1/150"));
+        assertEquals(DropRateColorConstants.SUPERRARE, plugin.getDropRateColor("1/2500"));
     }
 
     @Test
     public void testGetPrettyDropRate() {
         // Test "Always" drop
-        NpcDropData.Drop alwaysDrop = new NpcDropData.Drop();
-        alwaysDrop.rarity = 1.0;
-        alwaysDrop.rolls = 1;
-        assertEquals("<br><br><col=" + DropRateColorConstants.ALWAYS + ">Always</col>",
-                plugin.getPrettyDropRate(alwaysDrop));
-
-        // Test normal drop
-        NpcDropData.Drop normalDrop = new NpcDropData.Drop();
-        normalDrop.rarity = 0.1;
-        normalDrop.rolls = 1;
-        assertEquals("<br><br><col=" + DropRateColorConstants.COMMON + ">1 / 10</col>",
-                plugin.getPrettyDropRate(normalDrop));
-
-        // Test multiple rolls
-        NpcDropData.Drop multiRollDrop = new NpcDropData.Drop();
-        multiRollDrop.rarity = 0.01;
-        multiRollDrop.rolls = 3;
-        assertEquals("<br><br><col=" + DropRateColorConstants.UNCOMMON + ">3 x (1 / 100)</col>",
-                plugin.getPrettyDropRate(multiRollDrop));
+        NpcDropData.Drop commonDrop = new NpcDropData.Drop();
+        commonDrop.rarity = "1/5";
+        commonDrop.simplifiedDenominator = 5;
+        assertEquals("<br><br><col=" + DropRateColorConstants.COMMON + ">1 / 5</col>",
+                plugin.getPrettyDropRate(commonDrop));
     }
 
     @Test
@@ -397,11 +277,11 @@ public class NpcDropNotifierPluginTest {
         // Test normal item
         String message = plugin.getPrettyNotificationMessage("TestMonster", 555, 1);
         assertTrue(message.contains("TestMonster:<br><col=ffffff>Test Item</col>"));
-        assertTrue(message.contains("1 / 10"));
+        assertTrue(message.contains("1/10"));
 
         // Test item with quantity
         message = plugin.getPrettyNotificationMessage("TestMonster", 557, 7);
-        assertTrue(message.contains("TestMonster:<br><col=ffffff>Test Item (5-10)</col>"));
+        assertTrue(message.contains("TestMonster:<br><col=ffffff>Test Item (5–10)</col>"));
 
         // Test item not in drop table
         message = plugin.getPrettyNotificationMessage("TestMonster", 999, 1);
@@ -417,7 +297,7 @@ public class NpcDropNotifierPluginTest {
         // Create a test record
         NpcDropRecord testRecord = new NpcDropRecord();
         testRecord.addDropRecord(555, "1");
-        testRecord.addDropRecord(556, "1");
+        testRecord.addDropRecord(557, "1");
 
         // Save the record
         File dataFile = new File(tempDir, "drop-log.json");
@@ -434,10 +314,23 @@ public class NpcDropNotifierPluginTest {
         // Verify
         assertNotNull(loadedRecord);
         assertTrue(loadedRecord.getItemId(555).contains("1"));
-        assertTrue(loadedRecord.getItemId(556).contains("1"));
+        assertTrue(loadedRecord.getItemId(557).contains("1"));
 
         // Clean up
         dataFile.delete();
         tempDir.delete();
+    }
+
+    @Test
+    public void testReadNpcDropData() throws IOException {
+        Integer testNpcId = 555555;
+        String testNpcName = "";
+        NpcDropData dropData = plugin.readNpcDropData(testNpcId, testNpcName);
+        Map<Integer, List<NpcDropData.Drop>> dropMap = dropData.getDropsByItemIdAndQuantity();
+
+        // Verify
+        assertNotNull(dropData);
+        NpcDropData.Drop bones = dropMap.get(526).get(0);
+        assertEquals("Bones", bones.name);
     }
 }

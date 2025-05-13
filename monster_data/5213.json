@@ -1,0 +1,18 @@
+{
+  "id": 5213,
+  "name": "Jonny the Beard",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    },
+    {
+      "name": "Intel report",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 761
+    }
+  ]
+}

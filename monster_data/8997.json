@@ -1,0 +1,24 @@
+{
+  "id": 8997,
+  "name": "Disciple of Iban",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    },
+    {
+      "name": "Zamorak monk top",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 1035
+    },
+    {
+      "name": "Zamorak monk bottom",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 1033
+    }
+  ]
+}

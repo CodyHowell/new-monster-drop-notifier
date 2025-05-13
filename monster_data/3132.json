@@ -1,0 +1,120 @@
+{
+  "id": 3132,
+  "name": "Balfrug Kreeyath",
+  "drops": [
+    {
+      "name": "Malicious ashes",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 25772
+    },
+    {
+      "name": "Zamorakian spear",
+      "quantity": "1",
+      "rarity": "3/16129",
+      "itemId": 11824
+    },
+    {
+      "name": "Coins",
+      "quantity": "1300–1400",
+      "rarity": "124/16129",
+      "itemId": 995
+    },
+    {
+      "name": "Godsword shard 1",
+      "quantity": "1",
+      "rarity": "1/1524",
+      "itemId": 11818
+    },
+    {
+      "name": "Godsword shard 2",
+      "quantity": "1",
+      "rarity": "1/1524",
+      "itemId": 11820
+    },
+    {
+      "name": "Godsword shard 3",
+      "quantity": "1",
+      "rarity": "1/1524",
+      "itemId": 11822
+    },
+    {
+      "name": "Coins",
+      "quantity": "1300–1400",
+      "rarity": "9/1524",
+      "itemId": 995
+    },
+    {
+      "name": "Steel arrow",
+      "quantity": "95–100",
+      "rarity": "7/127",
+      "itemId": 886
+    },
+    {
+      "name": "Steel dart",
+      "quantity": "95–100",
+      "rarity": "8/127",
+      "itemId": 808
+    },
+    {
+      "name": "Death rune",
+      "quantity": "5–10",
+      "rarity": "8/127",
+      "itemId": 560
+    },
+    {
+      "name": "Blood rune",
+      "quantity": "5–10",
+      "rarity": "8/127",
+      "itemId": 565
+    },
+    {
+      "name": "Coins",
+      "quantity": "1300–1400",
+      "rarity": "66/127",
+      "itemId": 995
+    },
+    {
+      "name": "Shark",
+      "quantity": "3",
+      "rarity": "8/127",
+      "itemId": 385
+    },
+    {
+      "name": "Tuna potato",
+      "quantity": "2",
+      "rarity": "8/127",
+      "itemId": 7060
+    },
+    {
+      "name": "Wine of zamorak",
+      "quantity": "5–10",
+      "rarity": "8/127",
+      "itemId": 245
+    },
+    {
+      "name": "Super attack(3)",
+      "quantity": "1",
+      "rarity": "2/127",
+      "itemId": 145
+    },
+    {
+      "name": "Super strength(3)",
+      "quantity": "1",
+      "rarity": "2/127",
+      "itemId": 157
+    },
+    {
+      "name": "Frozen key piece (zamorak)",
+      "quantity": "1",
+      "rarity": "1/20",
+      "itemId": 26362
+    },
+    {
+      "name": "Clue scroll (hard)",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 3550
+    }
+  ]
+}

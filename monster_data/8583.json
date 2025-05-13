@@ -1,0 +1,228 @@
+{
+  "id": 8583,
+  "name": "Hespori",
+  "drops": [
+    {
+      "name": "Attas seed",
+      "quantity": "1–2",
+      "rarity": "1/3",
+      "itemId": 22881
+    },
+    {
+      "name": "Iasor seed",
+      "quantity": "1–2",
+      "rarity": "1/3",
+      "itemId": 22883
+    },
+    {
+      "name": "Kronos seed",
+      "quantity": "1–2",
+      "rarity": "1/3",
+      "itemId": 22885
+    },
+    {
+      "name": "Bottomless compost bucket",
+      "quantity": "1",
+      "rarity": "1/35",
+      "itemId": 22994
+    },
+    {
+      "name": "Watermelon seed",
+      "quantity": "10–20",
+      "rarity": "2/80",
+      "itemId": 5321
+    },
+    {
+      "name": "Snape grass seed",
+      "quantity": "6–16",
+      "rarity": "2/80",
+      "itemId": 22879
+    },
+    {
+      "name": "White lily seed",
+      "quantity": "8–18",
+      "rarity": "5/80",
+      "itemId": 22887
+    },
+    {
+      "name": "Limpwurt seed",
+      "quantity": "6–14",
+      "rarity": "2/80",
+      "itemId": 5100
+    },
+    {
+      "name": "Wildblood seed",
+      "quantity": "10–20",
+      "rarity": "2/80",
+      "itemId": 5311
+    },
+    {
+      "name": "Whiteberry seed",
+      "quantity": "10–16",
+      "rarity": "2/80",
+      "itemId": 5105
+    },
+    {
+      "name": "Poison ivy seed",
+      "quantity": "8–16",
+      "rarity": "2/80",
+      "itemId": 5106
+    },
+    {
+      "name": "Irit seed",
+      "quantity": "2–8",
+      "rarity": "3/80",
+      "itemId": 5297
+    },
+    {
+      "name": "Avantoe seed",
+      "quantity": "2–5",
+      "rarity": "3/80",
+      "itemId": 5298
+    },
+    {
+      "name": "Kwuarm seed",
+      "quantity": "2–5",
+      "rarity": "3/80",
+      "itemId": 5299
+    },
+    {
+      "name": "Toadflax seed",
+      "quantity": "2–5",
+      "rarity": "3/80",
+      "itemId": 5296
+    },
+    {
+      "name": "Cadantine seed",
+      "quantity": "2–5",
+      "rarity": "3/80",
+      "itemId": 5301
+    },
+    {
+      "name": "Lantadyme seed",
+      "quantity": "2–5",
+      "rarity": "3/80",
+      "itemId": 5302
+    },
+    {
+      "name": "Dwarf weed seed",
+      "quantity": "2–5",
+      "rarity": "3/80",
+      "itemId": 5303
+    },
+    {
+      "name": "Ranarr seed",
+      "quantity": "1–2",
+      "rarity": "2/80",
+      "itemId": 5295
+    },
+    {
+      "name": "Snapdragon seed",
+      "quantity": "1",
+      "rarity": "2/80",
+      "itemId": 5300
+    },
+    {
+      "name": "Torstol seed",
+      "quantity": "1",
+      "rarity": "2/80",
+      "itemId": 5304
+    },
+    {
+      "name": "Maple seed",
+      "quantity": "2–4",
+      "rarity": "4/80",
+      "itemId": 5314
+    },
+    {
+      "name": "Willow seed",
+      "quantity": "2–5",
+      "rarity": "3/80",
+      "itemId": 5313
+    },
+    {
+      "name": "Yew seed",
+      "quantity": "1",
+      "rarity": "2/80",
+      "itemId": 5315
+    },
+    {
+      "name": "Magic seed",
+      "quantity": "1",
+      "rarity": "1/80",
+      "itemId": 5316
+    },
+    {
+      "name": "Pineapple seed",
+      "quantity": "3–6",
+      "rarity": "3/80",
+      "itemId": 5287
+    },
+    {
+      "name": "Papaya tree seed",
+      "quantity": "1–3",
+      "rarity": "3/80",
+      "itemId": 5288
+    },
+    {
+      "name": "Palm tree seed",
+      "quantity": "1–3",
+      "rarity": "3/80",
+      "itemId": 5289
+    },
+    {
+      "name": "Dragonfruit tree seed",
+      "quantity": "1",
+      "rarity": "2/80",
+      "itemId": 22877
+    },
+    {
+      "name": "Teak seed",
+      "quantity": "2–5",
+      "rarity": "4/80",
+      "itemId": 21486
+    },
+    {
+      "name": "Mahogany seed",
+      "quantity": "1–3",
+      "rarity": "3/80",
+      "itemId": 21488
+    },
+    {
+      "name": "Cactus seed",
+      "quantity": "4–14",
+      "rarity": "2/80",
+      "itemId": 5280
+    },
+    {
+      "name": "Potato cactus seed",
+      "quantity": "4–14",
+      "rarity": "2/80",
+      "itemId": 22873
+    },
+    {
+      "name": "Celastrus seed",
+      "quantity": "1",
+      "rarity": "2/80",
+      "itemId": 22869
+    },
+    {
+      "name": "Spirit seed",
+      "quantity": "1",
+      "rarity": "1/80",
+      "itemId": 5317
+    },
+    {
+      "name": "Redwood tree seed",
+      "quantity": "1",
+      "rarity": "1/80",
+      "itemId": 22871
+    },
+    {
+      "name": "Tangleroot",
+      "quantity": "1",
+      "rarity": "1/5375",
+      "itemId": 20661
+    }
+  ]
+}

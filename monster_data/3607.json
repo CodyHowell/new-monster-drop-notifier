@@ -1,0 +1,36 @@
+{
+  "id": 3607,
+  "name": "Dungeon rat",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    },
+    {
+      "name": "Rat's tail",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 300
+    },
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    },
+    {
+      "name": "Raw rat meat",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 2134
+    },
+    {
+      "name": "Clue scroll (beginner)",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 23182
+    }
+  ]
+}

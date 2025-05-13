@@ -1,0 +1,24 @@
+{
+  "id": 12976,
+  "name": "Jaguar",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    },
+    {
+      "name": "Jaguar fur",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 29218
+    },
+    {
+      "name": "Clue scroll (medium)",
+      "quantity": "1",
+      "rarity": "Rare",
+      "itemId": 2829
+    }
+  ]
+}

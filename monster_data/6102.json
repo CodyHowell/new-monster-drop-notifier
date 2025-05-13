@@ -1,0 +1,18 @@
+{
+  "id": 6102,
+  "name": "Bush snake",
+  "drops": [
+    {
+      "name": "Snake hide",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 6287
+    },
+    {
+      "name": "Snake spine",
+      "quantity": "1",
+      "rarity": "1/4",
+      "itemId": 7860
+    }
+  ]
+}

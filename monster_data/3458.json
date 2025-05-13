@@ -1,0 +1,18 @@
+{
+  "id": 3458,
+  "name": "Kamil",
+  "drops": [
+    {
+      "name": "Chocolate cake",
+      "quantity": "1; 2",
+      "rarity": "Always",
+      "itemId": 1897
+    },
+    {
+      "name": "Super restore(4)",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 3024
+    }
+  ]
+}

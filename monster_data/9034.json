@@ -1,0 +1,36 @@
+{
+  "id": 9034,
+  "name": "Crystalline Dark Beast",
+  "drops": [
+    {
+      "name": "Weapon frame",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 23834
+    },
+    {
+      "name": "Raw paddlefish",
+      "quantity": "5",
+      "rarity": "Common",
+      "itemId": 23872
+    },
+    {
+      "name": "Crystalline bowstring",
+      "quantity": "1",
+      "rarity": "Varies",
+      "itemId": 23869
+    },
+    {
+      "name": "Crystal spike",
+      "quantity": "1",
+      "rarity": "Varies",
+      "itemId": 23868
+    },
+    {
+      "name": "Crystal orb",
+      "quantity": "1",
+      "rarity": "Varies",
+      "itemId": 23870
+    }
+  ]
+}

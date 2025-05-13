@@ -1,0 +1,24 @@
+{
+  "id": 7569,
+  "name": "Guardian (Chambers of Xeric)",
+  "drops": [
+    {
+      "name": "Buchu seed",
+      "quantity": "3–5",
+      "rarity": "Always",
+      "itemId": 20909
+    },
+    {
+      "name": "Golpar seed",
+      "quantity": "3–5",
+      "rarity": "Always",
+      "itemId": 20906
+    },
+    {
+      "name": "Noxifer seed",
+      "quantity": "3–5",
+      "rarity": "Always",
+      "itemId": 20903
+    }
+  ]
+}

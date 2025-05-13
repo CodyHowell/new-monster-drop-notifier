@@ -1,0 +1,36 @@
+{
+  "id": 13495,
+  "name": "Skeleton (Wilderness Agility Course)",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    },
+    {
+      "name": "Looting bag",
+      "quantity": "1",
+      "rarity": "1/3",
+      "itemId": 11941
+    },
+    {
+      "name": "Skeleton champion scroll",
+      "quantity": "1",
+      "rarity": "1/5000",
+      "itemId": 6806
+    },
+    {
+      "name": "Larran's key",
+      "quantity": "1",
+      "rarity": "1/1253",
+      "itemId": 23490
+    },
+    {
+      "name": "Slayer's enchantment",
+      "quantity": "1",
+      "rarity": "1/307",
+      "itemId": 21257
+    }
+  ]
+}

@@ -1,0 +1,228 @@
+{
+  "id": 4443,
+  "name": "Vampyre Juvinate",
+  "drops": [
+    {
+      "name": "Staff of air",
+      "quantity": "1",
+      "rarity": "1/256",
+      "itemId": 1381
+    },
+    {
+      "name": "Staff of fire",
+      "quantity": "1",
+      "rarity": "2/256",
+      "itemId": 1387
+    },
+    {
+      "name": "Staff of water",
+      "quantity": "1",
+      "rarity": "2/256",
+      "itemId": 1383
+    },
+    {
+      "name": "Staff of earth",
+      "quantity": "1",
+      "rarity": "1/256",
+      "itemId": 1385
+    },
+    {
+      "name": "Black spear",
+      "quantity": "1",
+      "rarity": "5/256",
+      "itemId": 4580
+    },
+    {
+      "name": "Black battleaxe",
+      "quantity": "1",
+      "rarity": "4/256",
+      "itemId": 1367
+    },
+    {
+      "name": "Black 2h sword",
+      "quantity": "1",
+      "rarity": "4/256",
+      "itemId": 1313
+    },
+    {
+      "name": "Mithril battleaxe",
+      "quantity": "1",
+      "rarity": "3/256",
+      "itemId": 1369
+    },
+    {
+      "name": "Mithril 2h sword",
+      "quantity": "1",
+      "rarity": "3/256",
+      "itemId": 1315
+    },
+    {
+      "name": "Mithril scimitar",
+      "quantity": "1",
+      "rarity": "17/256",
+      "itemId": 1329
+    },
+    {
+      "name": "Mithril longsword",
+      "quantity": "1",
+      "rarity": "10/256",
+      "itemId": 1299
+    },
+    {
+      "name": "Mithril warhammer",
+      "quantity": "1",
+      "rarity": "3/256",
+      "itemId": 1343
+    },
+    {
+      "name": "Adamant axe",
+      "quantity": "1",
+      "rarity": "10/256",
+      "itemId": 1357
+    },
+    {
+      "name": "Adamant sword",
+      "quantity": "1",
+      "rarity": "3/256",
+      "itemId": 1287
+    },
+    {
+      "name": "Adamant mace",
+      "quantity": "1",
+      "rarity": "9/256",
+      "itemId": 1430
+    },
+    {
+      "name": "Adamant scimitar",
+      "quantity": "1",
+      "rarity": "2/256",
+      "itemId": 1331
+    },
+    {
+      "name": "Steel plateskirt",
+      "quantity": "1",
+      "rarity": "16/256",
+      "itemId": 1083
+    },
+    {
+      "name": "Steel platebody",
+      "quantity": "1",
+      "rarity": "3/256",
+      "itemId": 1119
+    },
+    {
+      "name": "Black full helm",
+      "quantity": "1",
+      "rarity": "14/256",
+      "itemId": 1165
+    },
+    {
+      "name": "Black chainbody",
+      "quantity": "1",
+      "rarity": "8/256",
+      "itemId": 1107
+    },
+    {
+      "name": "Black platelegs",
+      "quantity": "1",
+      "rarity": "3/256",
+      "itemId": 1077
+    },
+    {
+      "name": "Black plateskirt",
+      "quantity": "1",
+      "rarity": "3/256",
+      "itemId": 1089
+    },
+    {
+      "name": "Black kiteshield",
+      "quantity": "1",
+      "rarity": "9/256",
+      "itemId": 1195
+    },
+    {
+      "name": "Black sq shield",
+      "quantity": "1",
+      "rarity": "15/256",
+      "itemId": 1179
+    },
+    {
+      "name": "Mithril full helm",
+      "quantity": "1",
+      "rarity": "8/256",
+      "itemId": 1159
+    },
+    {
+      "name": "Mithril chainbody",
+      "quantity": "1",
+      "rarity": "3/256",
+      "itemId": 1109
+    },
+    {
+      "name": "Mithril platelegs",
+      "quantity": "1",
+      "rarity": "22/256",
+      "itemId": 1071
+    },
+    {
+      "name": "Mithril sq shield",
+      "quantity": "1",
+      "rarity": "7/256",
+      "itemId": 1181
+    },
+    {
+      "name": "Mithril kiteshield",
+      "quantity": "1",
+      "rarity": "3/256",
+      "itemId": 1197
+    },
+    {
+      "name": "Adamant med helm",
+      "quantity": "1",
+      "rarity": "3/256",
+      "itemId": 1145
+    },
+    {
+      "name": "Nature rune",
+      "quantity": "10",
+      "rarity": "12/256",
+      "itemId": 561
+    },
+    {
+      "name": "Death rune",
+      "quantity": "10",
+      "rarity": "8/256",
+      "itemId": 560
+    },
+    {
+      "name": "Willow logs",
+      "quantity": "5",
+      "rarity": "16/256",
+      "itemId": 1519
+    },
+    {
+      "name": "Yew logs",
+      "quantity": "5",
+      "rarity": "10/256",
+      "itemId": 1515
+    },
+    {
+      "name": "Ruby ring",
+      "quantity": "1",
+      "rarity": "9/256",
+      "itemId": 1641
+    },
+    {
+      "name": "Amulet of magic",
+      "quantity": "1",
+      "rarity": "3/256",
+      "itemId": 1727
+    },
+    {
+      "name": "Clue scroll (medium)",
+      "quantity": "1",
+      "rarity": "2/256",
+      "itemId": 2829
+    }
+  ]
+}

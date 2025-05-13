@@ -1,0 +1,24 @@
+{
+  "id": 4863,
+  "name": "Jubbly bird",
+  "drops": [
+    {
+      "name": "Big bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 532
+    },
+    {
+      "name": "Raw jubbly",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 7566
+    },
+    {
+      "name": "Feather",
+      "quantity": "15–45",
+      "rarity": "Always",
+      "itemId": 314
+    }
+  ]
+}

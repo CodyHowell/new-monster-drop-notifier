@@ -1,0 +1,498 @@
+{
+  "id": 3161,
+  "name": "Spiritual mage",
+  "drops": [
+    {
+      "name": "Air rune",
+      "quantity": "30",
+      "rarity": "9/128",
+      "itemId": 556
+    },
+    {
+      "name": "Water rune",
+      "quantity": "15",
+      "rarity": "8/128",
+      "itemId": 555
+    },
+    {
+      "name": "Water rune",
+      "quantity": "50",
+      "rarity": "7/128",
+      "itemId": 555
+    },
+    {
+      "name": "Air rune",
+      "quantity": "50",
+      "rarity": "2/128",
+      "itemId": 556
+    },
+    {
+      "name": "Fire rune",
+      "quantity": "65",
+      "rarity": "2/128",
+      "itemId": 554
+    },
+    {
+      "name": "Dust rune",
+      "quantity": "15",
+      "rarity": "11/128",
+      "itemId": 4696
+    },
+    {
+      "name": "Mud rune",
+      "quantity": "20",
+      "rarity": "7/128",
+      "itemId": 4698
+    },
+    {
+      "name": "Mist rune",
+      "quantity": "20",
+      "rarity": "6/128",
+      "itemId": 4695
+    },
+    {
+      "name": "Chaos rune",
+      "quantity": "10",
+      "rarity": "18/128",
+      "itemId": 562
+    },
+    {
+      "name": "Astral rune",
+      "quantity": "15",
+      "rarity": "9/128",
+      "itemId": 9075
+    },
+    {
+      "name": "Death rune",
+      "quantity": "15",
+      "rarity": "8/128",
+      "itemId": 560
+    },
+    {
+      "name": "Nature rune",
+      "quantity": "25",
+      "rarity": "7/128",
+      "itemId": 561
+    },
+    {
+      "name": "Mind rune",
+      "quantity": "50",
+      "rarity": "4/128",
+      "itemId": 558
+    },
+    {
+      "name": "Nature rune",
+      "quantity": "18",
+      "rarity": "4/128",
+      "itemId": 561
+    },
+    {
+      "name": "Body rune",
+      "quantity": "35",
+      "rarity": "3/128",
+      "itemId": 559
+    },
+    {
+      "name": "Law rune",
+      "quantity": "15",
+      "rarity": "2/128",
+      "itemId": 563
+    },
+    {
+      "name": "Body rune",
+      "quantity": "25",
+      "rarity": "2/128",
+      "itemId": 559
+    },
+    {
+      "name": "Blood rune",
+      "quantity": "10",
+      "rarity": "2/128",
+      "itemId": 565
+    },
+    {
+      "name": "Chaos rune",
+      "quantity": "25",
+      "rarity": "1/128",
+      "itemId": 562
+    },
+    {
+      "name": "Pure essence",
+      "quantity": "90",
+      "rarity": "6/128",
+      "itemId": 7936
+    },
+    {
+      "name": "Antipoison(3)",
+      "quantity": "5",
+      "rarity": "5/128",
+      "itemId": 175
+    },
+    {
+      "name": "Dragon boots",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 11840
+    },
+    {
+      "name": "Uncut sapphire",
+      "quantity": "1",
+      "rarity": "1/256",
+      "itemId": 1623
+    },
+    {
+      "name": "Uncut emerald",
+      "quantity": "1",
+      "rarity": "1/512",
+      "itemId": 1621
+    },
+    {
+      "name": "Uncut ruby",
+      "quantity": "1",
+      "rarity": "1/1024",
+      "itemId": 1619
+    },
+    {
+      "name": "Uncut diamond",
+      "quantity": "1",
+      "rarity": "1/4096",
+      "itemId": 1617
+    },
+    {
+      "name": "Chaos talisman",
+      "quantity": "1",
+      "rarity": "1/2730.67",
+      "itemId": 1452
+    },
+    {
+      "name": "Nature talisman",
+      "quantity": "1",
+      "rarity": "1/2730.67",
+      "itemId": 1462
+    },
+    {
+      "name": "Loop half of key",
+      "quantity": "1",
+      "rarity": "1/8192",
+      "itemId": 987
+    },
+    {
+      "name": "Tooth half of key",
+      "quantity": "1",
+      "rarity": "1/8192",
+      "itemId": 985
+    },
+    {
+      "name": "Rune javelin",
+      "quantity": "5",
+      "rarity": "1/8192",
+      "itemId": 830
+    },
+    {
+      "name": "Rune spear",
+      "quantity": "1",
+      "rarity": "1/131072",
+      "itemId": 1247
+    },
+    {
+      "name": "Shield left half",
+      "quantity": "1",
+      "rarity": "1/262144",
+      "itemId": 2366
+    },
+    {
+      "name": "Dragon spear",
+      "quantity": "1",
+      "rarity": "1/349525.33",
+      "itemId": 1249
+    },
+    {
+      "name": "Clue scroll (master)",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 19835
+    },
+    {
+      "name": "Reward casket (master)",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 19836
+    },
+    {
+      "name": "Looting bag",
+      "quantity": "1",
+      "rarity": "1/3",
+      "itemId": 11941
+    },
+    {
+      "name": "Ecumenical key",
+      "quantity": "1",
+      "rarity": "1/60",
+      "itemId": 11942
+    },
+    {
+      "name": "Clue scroll (hard)",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 3550
+    },
+    {
+      "name": "Larran's key",
+      "quantity": "1",
+      "rarity": "1/75",
+      "itemId": 23490
+    },
+    {
+      "name": "Slayer's enchantment",
+      "quantity": "1",
+      "rarity": "1/260",
+      "itemId": 21257
+    },
+    {
+      "name": "Ancient ceremonial mask",
+      "quantity": "1",
+      "rarity": "1/640",
+      "itemId": 26225
+    },
+    {
+      "name": "Ancient ceremonial top",
+      "quantity": "1",
+      "rarity": "1/640",
+      "itemId": 26221
+    },
+    {
+      "name": "Ancient ceremonial legs",
+      "quantity": "1",
+      "rarity": "1/640",
+      "itemId": 26223
+    },
+    {
+      "name": "Ancient ceremonial gloves",
+      "quantity": "1",
+      "rarity": "1/640",
+      "itemId": 26227
+    },
+    {
+      "name": "Ancient ceremonial boots",
+      "quantity": "1",
+      "rarity": "1/640",
+      "itemId": 26229
+    },
+    {
+      "name": "Air rune",
+      "quantity": "250",
+      "rarity": "7/128",
+      "itemId": 556
+    },
+    {
+      "name": "Astral rune",
+      "quantity": "38–98",
+      "rarity": "15/128",
+      "itemId": 9075
+    },
+    {
+      "name": "Blood rune",
+      "quantity": "25",
+      "rarity": "2/128",
+      "itemId": 565
+    },
+    {
+      "name": "Lava rune",
+      "quantity": "30–60",
+      "rarity": "9/128",
+      "itemId": 4699
+    },
+    {
+      "name": "Death rune",
+      "quantity": "25",
+      "rarity": "4/128",
+      "itemId": 560
+    },
+    {
+      "name": "Mud rune",
+      "quantity": "40–70",
+      "rarity": "7/128",
+      "itemId": 4698
+    },
+    {
+      "name": "Smoke rune",
+      "quantity": "100–150",
+      "rarity": "2/128",
+      "itemId": 4697
+    },
+    {
+      "name": "Soul rune",
+      "quantity": "25",
+      "rarity": "3/128",
+      "itemId": 566
+    },
+    {
+      "name": "Grimy avantoe",
+      "quantity": "1",
+      "rarity": "3.125/128",
+      "itemId": 211
+    },
+    {
+      "name": "Grimy ranarr weed",
+      "quantity": "1",
+      "rarity": "2.5/128",
+      "itemId": 207
+    },
+    {
+      "name": "Grimy snapdragon",
+      "quantity": "1",
+      "rarity": "2.5/128",
+      "itemId": 3051
+    },
+    {
+      "name": "Grimy torstol",
+      "quantity": "1",
+      "rarity": "8.875/128",
+      "itemId": 219
+    },
+    {
+      "name": "Coins",
+      "quantity": "1300–1337",
+      "rarity": "6/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "6900–6942",
+      "rarity": "2/128",
+      "itemId": 995
+    },
+    {
+      "name": "Super defence(3)",
+      "quantity": "1",
+      "rarity": "2/128",
+      "itemId": 163
+    },
+    {
+      "name": "Super restore(3)",
+      "quantity": "1",
+      "rarity": "9/128",
+      "itemId": 3026
+    },
+    {
+      "name": "Ancient brew(2)",
+      "quantity": "1",
+      "rarity": "11/128",
+      "itemId": 26344
+    },
+    {
+      "name": "Ancient brew(3)",
+      "quantity": "1",
+      "rarity": "4/128",
+      "itemId": 26342
+    },
+    {
+      "name": "Adamantite bar",
+      "quantity": "1–4",
+      "rarity": "8/128",
+      "itemId": 2361
+    },
+    {
+      "name": "Blood essence",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 26390
+    },
+    {
+      "name": "Coal",
+      "quantity": "1–10",
+      "rarity": "8/128",
+      "itemId": 453
+    },
+    {
+      "name": "Nihil shard",
+      "quantity": "5–9",
+      "rarity": "1/128",
+      "itemId": 26231
+    },
+    {
+      "name": "Pure essence",
+      "quantity": "46",
+      "rarity": "8/128",
+      "itemId": 7936
+    },
+    {
+      "name": "Uncut sapphire",
+      "quantity": "1",
+      "rarity": "1/512",
+      "itemId": 1623
+    },
+    {
+      "name": "Uncut emerald",
+      "quantity": "1",
+      "rarity": "1/1024",
+      "itemId": 1621
+    },
+    {
+      "name": "Uncut ruby",
+      "quantity": "1",
+      "rarity": "1/2048",
+      "itemId": 1619
+    },
+    {
+      "name": "Uncut diamond",
+      "quantity": "1",
+      "rarity": "1/8192",
+      "itemId": 1617
+    },
+    {
+      "name": "Nature talisman",
+      "quantity": "1",
+      "rarity": "1/5461.33",
+      "itemId": 1462
+    },
+    {
+      "name": "Loop half of key",
+      "quantity": "1",
+      "rarity": "1/16384",
+      "itemId": 987
+    },
+    {
+      "name": "Tooth half of key",
+      "quantity": "1",
+      "rarity": "1/16384",
+      "itemId": 985
+    },
+    {
+      "name": "Rune javelin",
+      "quantity": "5",
+      "rarity": "1/16384",
+      "itemId": 830
+    },
+    {
+      "name": "Rune spear",
+      "quantity": "1",
+      "rarity": "1/262144",
+      "itemId": 1247
+    },
+    {
+      "name": "Shield left half",
+      "quantity": "1",
+      "rarity": "1/524288",
+      "itemId": 2366
+    },
+    {
+      "name": "Dragon spear",
+      "quantity": "1",
+      "rarity": "1/699050.67",
+      "itemId": 1249
+    },
+    {
+      "name": "Clue scroll (hard)",
+      "quantity": "1",
+      "rarity": "1/96",
+      "itemId": 3550
+    },
+    {
+      "name": "Dragon boots",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 11840
+    }
+  ]
+}

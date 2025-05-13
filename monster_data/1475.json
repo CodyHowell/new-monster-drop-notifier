@@ -1,0 +1,30 @@
+{
+  "id": 1475,
+  "name": "Chompy bird",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    },
+    {
+      "name": "Raw chompy",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 2876
+    },
+    {
+      "name": "Feather",
+      "quantity": "10–30",
+      "rarity": "Always",
+      "itemId": 314
+    },
+    {
+      "name": "Chompy chick",
+      "quantity": "1",
+      "rarity": "1/500",
+      "itemId": 13071
+    }
+  ]
+}

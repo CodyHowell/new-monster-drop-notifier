@@ -1,0 +1,186 @@
+{
+  "id": 639,
+  "name": "Tyras guard",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    },
+    {
+      "name": "Steel 2h sword",
+      "quantity": "1",
+      "rarity": "4/128",
+      "itemId": 1311
+    },
+    {
+      "name": "Steel axe",
+      "quantity": "1",
+      "rarity": "3/128",
+      "itemId": 1353
+    },
+    {
+      "name": "Steel battleaxe",
+      "quantity": "1",
+      "rarity": "3/128",
+      "itemId": 1365
+    },
+    {
+      "name": "Mithril kiteshield",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 1197
+    },
+    {
+      "name": "Adamant platelegs",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 1073
+    },
+    {
+      "name": "Rune full helm",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 1163
+    },
+    {
+      "name": "Fire rune",
+      "quantity": "75",
+      "rarity": "8/128",
+      "itemId": 554
+    },
+    {
+      "name": "Chaos rune",
+      "quantity": "15",
+      "rarity": "5/128",
+      "itemId": 562
+    },
+    {
+      "name": "Death rune",
+      "quantity": "5",
+      "rarity": "3/128",
+      "itemId": 560
+    },
+    {
+      "name": "Fire rune",
+      "quantity": "37",
+      "rarity": "1/128",
+      "itemId": 554
+    },
+    {
+      "name": "Coins",
+      "quantity": "132",
+      "rarity": "40/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "44",
+      "rarity": "29/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "220",
+      "rarity": "10/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "11",
+      "rarity": "7/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "460",
+      "rarity": "1/128",
+      "itemId": 995
+    },
+    {
+      "name": "Tuna",
+      "quantity": "1",
+      "rarity": "3/128",
+      "itemId": 361
+    },
+    {
+      "name": "Gold bar",
+      "quantity": "1",
+      "rarity": "2/128",
+      "itemId": 2357
+    },
+    {
+      "name": "Thread",
+      "quantity": "10",
+      "rarity": "1/128",
+      "itemId": 1734
+    },
+    {
+      "name": "Uncut sapphire",
+      "quantity": "1",
+      "rarity": "1/102.4",
+      "itemId": 1623
+    },
+    {
+      "name": "Uncut emerald",
+      "quantity": "1",
+      "rarity": "1/204.8",
+      "itemId": 1621
+    },
+    {
+      "name": "Uncut ruby",
+      "quantity": "1",
+      "rarity": "1/409.6",
+      "itemId": 1619
+    },
+    {
+      "name": "Uncut diamond",
+      "quantity": "1",
+      "rarity": "1/1638.4",
+      "itemId": 1617
+    },
+    {
+      "name": "Nature talisman",
+      "quantity": "1",
+      "rarity": "1/1092.27",
+      "itemId": 1462
+    },
+    {
+      "name": "Loop half of key",
+      "quantity": "1",
+      "rarity": "1/3276.8",
+      "itemId": 987
+    },
+    {
+      "name": "Tooth half of key",
+      "quantity": "1",
+      "rarity": "1/3276.8",
+      "itemId": 985
+    },
+    {
+      "name": "Rune javelin",
+      "quantity": "5",
+      "rarity": "1/3276.8",
+      "itemId": 830
+    },
+    {
+      "name": "Rune spear",
+      "quantity": "1",
+      "rarity": "1/52428.8",
+      "itemId": 1247
+    },
+    {
+      "name": "Shield left half",
+      "quantity": "1",
+      "rarity": "1/104857.6",
+      "itemId": 2366
+    },
+    {
+      "name": "Dragon spear",
+      "quantity": "1",
+      "rarity": "1/139810.13",
+      "itemId": 1249
+    }
+  ]
+}

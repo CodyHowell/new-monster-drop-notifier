@@ -1,0 +1,438 @@
+{
+  "id": 12457,
+  "name": "Vitreous warped Jelly (Deadman)",
+  "drops": [
+    {
+      "name": "Archaic emblem (tier 5)",
+      "quantity": "1",
+      "rarity": "~82/100",
+      "itemId": 12751
+    },
+    {
+      "name": "Trinket of advanced weaponry",
+      "quantity": "1",
+      "rarity": "~12/100",
+      "itemId": 28567
+    },
+    {
+      "name": "Morrigan's javelin",
+      "quantity": "50",
+      "rarity": "~1/100",
+      "itemId": 22636
+    },
+    {
+      "name": "Morrigan's throwing axe",
+      "quantity": "50",
+      "rarity": "~1/100",
+      "itemId": 22634
+    },
+    {
+      "name": "Statius's warhammer",
+      "quantity": "1",
+      "rarity": "~1/100",
+      "itemId": 22622
+    },
+    {
+      "name": "Zuriel's staff",
+      "quantity": "1",
+      "rarity": "~1/100",
+      "itemId": 22647
+    },
+    {
+      "name": "Vesta's spear",
+      "quantity": "1",
+      "rarity": "~1/100",
+      "itemId": 22610
+    },
+    {
+      "name": "Vesta's longsword",
+      "quantity": "1",
+      "rarity": "~1/100",
+      "itemId": 22613
+    },
+    {
+      "name": "Blood rune",
+      "quantity": "400–600",
+      "rarity": "~3/162",
+      "itemId": 565
+    },
+    {
+      "name": "Death rune",
+      "quantity": "400–600",
+      "rarity": "~3/162",
+      "itemId": 560
+    },
+    {
+      "name": "Mist rune",
+      "quantity": "400–600",
+      "rarity": "~3/162",
+      "itemId": 4695
+    },
+    {
+      "name": "Mud rune",
+      "quantity": "400–600",
+      "rarity": "~3/162",
+      "itemId": 4698
+    },
+    {
+      "name": "Nature rune",
+      "quantity": "200–300",
+      "rarity": "~3/162",
+      "itemId": 561
+    },
+    {
+      "name": "Steam rune",
+      "quantity": "400–600",
+      "rarity": "~3/162",
+      "itemId": 4694
+    },
+    {
+      "name": "Lava rune",
+      "quantity": "400–600",
+      "rarity": "~2/162",
+      "itemId": 4699
+    },
+    {
+      "name": "Wrath rune",
+      "quantity": "400–600",
+      "rarity": "~2/162",
+      "itemId": 21880
+    },
+    {
+      "name": "Soul rune",
+      "quantity": "400–600",
+      "rarity": "~2/162",
+      "itemId": 566
+    },
+    {
+      "name": "Chaos rune",
+      "quantity": "400–600",
+      "rarity": "~1/162",
+      "itemId": 562
+    },
+    {
+      "name": "Cosmic rune",
+      "quantity": "200–300",
+      "rarity": "~1/162",
+      "itemId": 564
+    },
+    {
+      "name": "Law rune",
+      "quantity": "200–300",
+      "rarity": "~1/162",
+      "itemId": 563
+    },
+    {
+      "name": "Rune platelegs",
+      "quantity": "1",
+      "rarity": "~5/162",
+      "itemId": 1079
+    },
+    {
+      "name": "Rune chainbody",
+      "quantity": "1",
+      "rarity": "~3/162",
+      "itemId": 1113
+    },
+    {
+      "name": "Rune full helm",
+      "quantity": "1",
+      "rarity": "~3/162",
+      "itemId": 1163
+    },
+    {
+      "name": "Rune med helm",
+      "quantity": "1",
+      "rarity": "~3/162",
+      "itemId": 1147
+    },
+    {
+      "name": "Rune plateskirt",
+      "quantity": "1",
+      "rarity": "~3/162",
+      "itemId": 1093
+    },
+    {
+      "name": "Rune scimitar",
+      "quantity": "1",
+      "rarity": "~3/162",
+      "itemId": 1333
+    },
+    {
+      "name": "Dragon battleaxe",
+      "quantity": "1",
+      "rarity": "~2/162",
+      "itemId": 1377
+    },
+    {
+      "name": "Dragon halberd",
+      "quantity": "1",
+      "rarity": "~2/162",
+      "itemId": 3204
+    },
+    {
+      "name": "Mystic robe bottom",
+      "quantity": "1",
+      "rarity": "~2/162",
+      "itemId": 4093
+    },
+    {
+      "name": "Mystic robe top",
+      "quantity": "1",
+      "rarity": "~2/162",
+      "itemId": 4091
+    },
+    {
+      "name": "Rune kiteshield",
+      "quantity": "1",
+      "rarity": "~2/162",
+      "itemId": 1201
+    },
+    {
+      "name": "Rune platebody",
+      "quantity": "1",
+      "rarity": "~2/162",
+      "itemId": 1127
+    },
+    {
+      "name": "Cooked karambwan",
+      "quantity": "20–40",
+      "rarity": "~6/162",
+      "itemId": 3144
+    },
+    {
+      "name": "Shark",
+      "quantity": "20–40",
+      "rarity": "~6/162",
+      "itemId": 385
+    },
+    {
+      "name": "Manta ray",
+      "quantity": "20–40",
+      "rarity": "~5/162",
+      "itemId": 391
+    },
+    {
+      "name": "Sea turtle",
+      "quantity": "20–40",
+      "rarity": "~5/162",
+      "itemId": 397
+    },
+    {
+      "name": "Lobster",
+      "quantity": "20–40",
+      "rarity": "~1/162",
+      "itemId": 379
+    },
+    {
+      "name": "Monkfish",
+      "quantity": "20–40",
+      "rarity": "~1/162",
+      "itemId": 7946
+    },
+    {
+      "name": "Swordfish",
+      "quantity": "20–40",
+      "rarity": "~1/162",
+      "itemId": 373
+    },
+    {
+      "name": "Antifire potion(4)",
+      "quantity": "8–16",
+      "rarity": "~3/162",
+      "itemId": 2452
+    },
+    {
+      "name": "Prayer potion(4)",
+      "quantity": "8–16",
+      "rarity": "~3/162",
+      "itemId": 2434
+    },
+    {
+      "name": "Ranging potion(4)",
+      "quantity": "8–16",
+      "rarity": "~3/162",
+      "itemId": 2444
+    },
+    {
+      "name": "Super combat potion(4)",
+      "quantity": "8–16",
+      "rarity": "~3/162",
+      "itemId": 12695
+    },
+    {
+      "name": "Super defence(4)",
+      "quantity": "8–16",
+      "rarity": "~3/162",
+      "itemId": 2442
+    },
+    {
+      "name": "Super restore(4)",
+      "quantity": "8–16",
+      "rarity": "~3/162",
+      "itemId": 3024
+    },
+    {
+      "name": "Anti-venom(4)",
+      "quantity": "8–16",
+      "rarity": "~2/162",
+      "itemId": 12905
+    },
+    {
+      "name": "Saradomin brew(4)",
+      "quantity": "8–16",
+      "rarity": "~2/162",
+      "itemId": 6685
+    },
+    {
+      "name": "Super energy(4)",
+      "quantity": "8–16",
+      "rarity": "~1/162",
+      "itemId": 3016
+    },
+    {
+      "name": "Super strength(4)",
+      "quantity": "8–16",
+      "rarity": "~1/162",
+      "itemId": 2440
+    },
+    {
+      "name": "Superantipoison(4)",
+      "quantity": "8–16",
+      "rarity": "~1/162",
+      "itemId": 2448
+    },
+    {
+      "name": "Torstol",
+      "quantity": "10–20",
+      "rarity": "~5/162",
+      "itemId": 269
+    },
+    {
+      "name": "Cadantine",
+      "quantity": "10–20",
+      "rarity": "~3/162",
+      "itemId": 265
+    },
+    {
+      "name": "Dwarf weed",
+      "quantity": "10–20",
+      "rarity": "~3/162",
+      "itemId": 267
+    },
+    {
+      "name": "Lantadyme",
+      "quantity": "10–20",
+      "rarity": "~3/162",
+      "itemId": 2481
+    },
+    {
+      "name": "Ranarr weed",
+      "quantity": "10–20",
+      "rarity": "~3/162",
+      "itemId": 257
+    },
+    {
+      "name": "Snapdragon",
+      "quantity": "10–20",
+      "rarity": "~3/162",
+      "itemId": 3000
+    },
+    {
+      "name": "Toadflax",
+      "quantity": "10–20",
+      "rarity": "~2/162",
+      "itemId": 2998
+    },
+    {
+      "name": "Avantoe",
+      "quantity": "10–20",
+      "rarity": "~1/162",
+      "itemId": 261
+    },
+    {
+      "name": "Irit leaf",
+      "quantity": "10–20",
+      "rarity": "~1/162",
+      "itemId": 259
+    },
+    {
+      "name": "Kwuarm",
+      "quantity": "10–20",
+      "rarity": "~1/162",
+      "itemId": 263
+    },
+    {
+      "name": "Blue dragon scale",
+      "quantity": "36–40",
+      "rarity": "~3/162",
+      "itemId": 243
+    },
+    {
+      "name": "Potato cactus",
+      "quantity": "36–40",
+      "rarity": "~3/162",
+      "itemId": 3138
+    },
+    {
+      "name": "Red spiders' eggs",
+      "quantity": "36–40",
+      "rarity": "~3/162",
+      "itemId": 223
+    },
+    {
+      "name": "Snape grass",
+      "quantity": "36–40",
+      "rarity": "~3/162",
+      "itemId": 231
+    },
+    {
+      "name": "White berries",
+      "quantity": "36–40",
+      "rarity": "~3/162",
+      "itemId": 239
+    },
+    {
+      "name": "Wine of zamorak",
+      "quantity": "36–40",
+      "rarity": "~3/162",
+      "itemId": 245
+    },
+    {
+      "name": "Crushed nest",
+      "quantity": "36–40",
+      "rarity": "~2/162",
+      "itemId": 6693
+    },
+    {
+      "name": "Limpwurt root",
+      "quantity": "36–40",
+      "rarity": "~1/162",
+      "itemId": 225
+    },
+    {
+      "name": "Mort myre fungus",
+      "quantity": "36–40",
+      "rarity": "~1/162",
+      "itemId": 2970
+    },
+    {
+      "name": "Unicorn horn",
+      "quantity": "36–40",
+      "rarity": "~1/162",
+      "itemId": 237
+    },
+    {
+      "name": "Coins",
+      "quantity": "9000–11000",
+      "rarity": "~3/162",
+      "itemId": 995
+    },
+    {
+      "name": "Onyx bolt tips",
+      "quantity": "8",
+      "rarity": "~2/162",
+      "itemId": 9194
+    }
+  ]
+}

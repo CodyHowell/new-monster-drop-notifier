@@ -1,0 +1,12 @@
+{
+  "id": 3400,
+  "name": "Culinaromancer",
+  "drops": [
+    {
+      "name": "Cake",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 1891
+    }
+  ]
+}

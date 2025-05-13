@@ -1,0 +1,18 @@
+{
+  "id": 3544,
+  "name": "Snake (desert)",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    },
+    {
+      "name": "Snake spine",
+      "quantity": "1",
+      "rarity": "1/4",
+      "itemId": 7860
+    }
+  ]
+}

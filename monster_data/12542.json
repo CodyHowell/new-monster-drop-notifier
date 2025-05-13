@@ -1,0 +1,426 @@
+{
+  "id": 12542,
+  "name": "Bloodthirsty twisted banshee",
+  "drops": [
+    {
+      "name": "Raw lobster",
+      "quantity": "60–80",
+      "rarity": "5/40",
+      "itemId": 377
+    },
+    {
+      "name": "Snape grass",
+      "quantity": "60–150",
+      "rarity": "10/40",
+      "itemId": 231
+    },
+    {
+      "name": "Irit seed",
+      "quantity": "10–15",
+      "rarity": "10/40",
+      "itemId": 5297
+    },
+    {
+      "name": "Unicorn horn",
+      "quantity": "60–150",
+      "rarity": "5/40",
+      "itemId": 237
+    },
+    {
+      "name": "Limpwurt root",
+      "quantity": "60–150",
+      "rarity": "10/40",
+      "itemId": 225
+    },
+    {
+      "name": "Battlestaff",
+      "quantity": "1",
+      "rarity": "9 × 5/128",
+      "itemId": 1391
+    },
+    {
+      "name": "Adamant kiteshield",
+      "quantity": "1",
+      "rarity": "9 × 1/128",
+      "itemId": 1199
+    },
+    {
+      "name": "Air battlestaff",
+      "quantity": "1",
+      "rarity": "9 × 2/128",
+      "itemId": 1397
+    },
+    {
+      "name": "Adamant mace",
+      "quantity": "1",
+      "rarity": "9 × 2/128",
+      "itemId": 1430
+    },
+    {
+      "name": "Rune dagger",
+      "quantity": "1",
+      "rarity": "9 × 2/128",
+      "itemId": 1213
+    },
+    {
+      "name": "Rune med helm",
+      "quantity": "1",
+      "rarity": "9 × 2/128",
+      "itemId": 1147
+    },
+    {
+      "name": "Rune full helm",
+      "quantity": "1",
+      "rarity": "9 × 1/128",
+      "itemId": 1163
+    },
+    {
+      "name": "Mystic gloves (dark)",
+      "quantity": "1",
+      "rarity": "9 × 1/256",
+      "itemId": 4105
+    },
+    {
+      "name": "Cosmic rune",
+      "quantity": "20",
+      "rarity": "9 × 3/128",
+      "itemId": 564
+    },
+    {
+      "name": "Air rune",
+      "quantity": "30",
+      "rarity": "9 × 5/256",
+      "itemId": 556
+    },
+    {
+      "name": "Chaos rune",
+      "quantity": "30",
+      "rarity": "9 × 2/128",
+      "itemId": 562
+    },
+    {
+      "name": "Chaos rune",
+      "quantity": "17",
+      "rarity": "9 × 1/128",
+      "itemId": 562
+    },
+    {
+      "name": "Fire rune",
+      "quantity": "35",
+      "rarity": "9 × 1/128",
+      "itemId": 554
+    },
+    {
+      "name": "Grimy guam leaf",
+      "quantity": "1–3",
+      "rarity": "9 × 1/15.1",
+      "itemId": 199
+    },
+    {
+      "name": "Grimy marrentill",
+      "quantity": "1–3",
+      "rarity": "9 × 1/20.1",
+      "itemId": 201
+    },
+    {
+      "name": "Grimy tarromin",
+      "quantity": "1–3",
+      "rarity": "9 × 1/26.8",
+      "itemId": 203
+    },
+    {
+      "name": "Grimy harralander",
+      "quantity": "1–3",
+      "rarity": "9 × 1/34.4",
+      "itemId": 205
+    },
+    {
+      "name": "Grimy ranarr weed",
+      "quantity": "1–3",
+      "rarity": "9 × 1/43.8",
+      "itemId": 207
+    },
+    {
+      "name": "Grimy irit leaf",
+      "quantity": "1–3",
+      "rarity": "9 × 1/60.2",
+      "itemId": 209
+    },
+    {
+      "name": "Grimy avantoe",
+      "quantity": "1–3",
+      "rarity": "9 × 1/80.3",
+      "itemId": 211
+    },
+    {
+      "name": "Grimy kwuarm",
+      "quantity": "1–3",
+      "rarity": "9 × 1/96.4",
+      "itemId": 213
+    },
+    {
+      "name": "Grimy cadantine",
+      "quantity": "1–3",
+      "rarity": "9 × 1/120.5",
+      "itemId": 215
+    },
+    {
+      "name": "Grimy lantadyme",
+      "quantity": "1–3",
+      "rarity": "9 × 1/160.6",
+      "itemId": 2485
+    },
+    {
+      "name": "Grimy dwarf weed",
+      "quantity": "1–3",
+      "rarity": "9 × 1/160.6",
+      "itemId": 217
+    },
+    {
+      "name": "Toadflax seed",
+      "quantity": "1",
+      "rarity": "9 × 1/49.4",
+      "itemId": 5296
+    },
+    {
+      "name": "Irit seed",
+      "quantity": "1",
+      "rarity": "9 × 1/72.6",
+      "itemId": 5297
+    },
+    {
+      "name": "Belladonna seed",
+      "quantity": "1",
+      "rarity": "9 × 1/75",
+      "itemId": 5281
+    },
+    {
+      "name": "Poison ivy seed",
+      "quantity": "1",
+      "rarity": "9 × 1/105.6",
+      "itemId": 5106
+    },
+    {
+      "name": "Avantoe seed",
+      "quantity": "1",
+      "rarity": "9 × 1/105.6",
+      "itemId": 5298
+    },
+    {
+      "name": "Cactus seed",
+      "quantity": "1",
+      "rarity": "9 × 1/110.7",
+      "itemId": 5280
+    },
+    {
+      "name": "Potato cactus seed",
+      "quantity": "1",
+      "rarity": "9 × 1/154.9",
+      "itemId": 22873
+    },
+    {
+      "name": "Kwuarm seed",
+      "quantity": "1",
+      "rarity": "9 × 1/154.9",
+      "itemId": 5299
+    },
+    {
+      "name": "Snapdragon seed",
+      "quantity": "1",
+      "rarity": "9 × 1/232.4",
+      "itemId": 5300
+    },
+    {
+      "name": "Cadantine seed",
+      "quantity": "1",
+      "rarity": "9 × 1/332",
+      "itemId": 5301
+    },
+    {
+      "name": "Lantadyme seed",
+      "quantity": "1",
+      "rarity": "9 × 1/464.7",
+      "itemId": 5302
+    },
+    {
+      "name": "Snape grass seed",
+      "quantity": "3",
+      "rarity": "9 × 1/580.9",
+      "itemId": 22879
+    },
+    {
+      "name": "Dwarf weed seed",
+      "quantity": "1",
+      "rarity": "9 × 1/774.6",
+      "itemId": 5303
+    },
+    {
+      "name": "Torstol seed",
+      "quantity": "1",
+      "rarity": "9 × 1/1161.8",
+      "itemId": 5304
+    },
+    {
+      "name": "Pure essence",
+      "quantity": "65",
+      "rarity": "9 × 21/128",
+      "itemId": 7936
+    },
+    {
+      "name": "Eye of newt",
+      "quantity": "1",
+      "rarity": "9 × 1/128",
+      "itemId": 221
+    },
+    {
+      "name": "Mithril ore",
+      "quantity": "1",
+      "rarity": "9 × 1/128",
+      "itemId": 447
+    },
+    {
+      "name": "Coins",
+      "quantity": "130",
+      "rarity": "9 × 9/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "35",
+      "rarity": "9 × 7/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "260",
+      "rarity": "9 × 7/128",
+      "itemId": 995
+    },
+    {
+      "name": "Swordfish",
+      "quantity": "1",
+      "rarity": "9 × 5/128",
+      "itemId": 373
+    },
+    {
+      "name": "Uncut sapphire",
+      "quantity": "1",
+      "rarity": "9 × 1/256",
+      "itemId": 1623
+    },
+    {
+      "name": "Uncut emerald",
+      "quantity": "1",
+      "rarity": "9 × 1/512",
+      "itemId": 1621
+    },
+    {
+      "name": "Uncut ruby",
+      "quantity": "1",
+      "rarity": "9 × 1/1024",
+      "itemId": 1619
+    },
+    {
+      "name": "Uncut diamond",
+      "quantity": "1",
+      "rarity": "9 × 1/4096",
+      "itemId": 1617
+    },
+    {
+      "name": "Nature talisman",
+      "quantity": "1",
+      "rarity": "9 × 1/2730.67",
+      "itemId": 1462
+    },
+    {
+      "name": "Loop half of key",
+      "quantity": "1",
+      "rarity": "9 × 1/8192",
+      "itemId": 987
+    },
+    {
+      "name": "Tooth half of key",
+      "quantity": "1",
+      "rarity": "9 × 1/8192",
+      "itemId": 985
+    },
+    {
+      "name": "Rune javelin",
+      "quantity": "5",
+      "rarity": "9 × 1/8192",
+      "itemId": 830
+    },
+    {
+      "name": "Rune spear",
+      "quantity": "1",
+      "rarity": "9 × 1/131072",
+      "itemId": 1247
+    },
+    {
+      "name": "Shield left half",
+      "quantity": "1",
+      "rarity": "9 × 1/262144",
+      "itemId": 2366
+    },
+    {
+      "name": "Dragon spear",
+      "quantity": "1",
+      "rarity": "9 × 1/349525.33",
+      "itemId": 1249
+    },
+    {
+      "name": "Clue scroll (hard)",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 3550
+    },
+    {
+      "name": "Ancient shard",
+      "quantity": "1",
+      "rarity": "1/186",
+      "itemId": 19677
+    },
+    {
+      "name": "Dark totem base",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 19679
+    },
+    {
+      "name": "Dark totem middle",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 19681
+    },
+    {
+      "name": "Dark totem top",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 19683
+    },
+    {
+      "name": "Mist battlestaff",
+      "quantity": "1",
+      "rarity": "3/368",
+      "itemId": 20730
+    },
+    {
+      "name": "Dust battlestaff",
+      "quantity": "1",
+      "rarity": "3/368",
+      "itemId": 20736
+    },
+    {
+      "name": "Eternal gem",
+      "quantity": "1",
+      "rarity": "3/1288",
+      "itemId": 21270
+    },
+    {
+      "name": "Imbued heart",
+      "quantity": "1",
+      "rarity": "3/1288",
+      "itemId": 20724
+    }
+  ]
+}

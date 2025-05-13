@@ -1,0 +1,12 @@
+{
+  "id": 13002,
+  "name": "Snake (Varlamore)",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    }
+  ]
+}

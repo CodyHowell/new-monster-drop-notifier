@@ -1,0 +1,12 @@
+{
+  "id": 911,
+  "name": "Agrith Naar",
+  "drops": [
+    {
+      "name": "Vile ashes",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 25769
+    }
+  ]
+}

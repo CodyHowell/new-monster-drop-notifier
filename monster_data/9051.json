@@ -1,0 +1,12 @@
+{
+  "id": 9051,
+  "name": "Golem (Zalcano)",
+  "drops": [
+    {
+      "name": "Imbued tephra",
+      "quantity": "16–24",
+      "rarity": "Always",
+      "itemId": 23907
+    }
+  ]
+}

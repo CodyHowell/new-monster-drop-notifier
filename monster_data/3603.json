@@ -1,0 +1,30 @@
+{
+  "id": 3603,
+  "name": "Swordchick",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    },
+    {
+      "name": "Feather",
+      "quantity": "10–40",
+      "rarity": "Always",
+      "itemId": 314
+    },
+    {
+      "name": "Tea flask",
+      "quantity": "1",
+      "rarity": "1/10",
+      "itemId": 10859
+    },
+    {
+      "name": "Black satchel",
+      "quantity": "1",
+      "rarity": "3/20",
+      "itemId": 10880
+    }
+  ]
+}

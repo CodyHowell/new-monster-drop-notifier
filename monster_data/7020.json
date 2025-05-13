@@ -1,0 +1,12 @@
+{
+  "id": 7020,
+  "name": "Reanimated imp",
+  "drops": [
+    {
+      "name": "Imp champion scroll",
+      "quantity": "1",
+      "rarity": "1/5000",
+      "itemId": 6803
+    }
+  ]
+}

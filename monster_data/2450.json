@@ -1,0 +1,30 @@
+{
+  "id": 2450,
+  "name": "Animated Bronze Armour",
+  "drops": [
+    {
+      "name": "Warrior guild token",
+      "quantity": "5",
+      "rarity": "Always",
+      "itemId": 8851
+    },
+    {
+      "name": "Bronze full helm",
+      "quantity": "1",
+      "rarity": "9/10",
+      "itemId": 1155
+    },
+    {
+      "name": "Bronze platebody",
+      "quantity": "1",
+      "rarity": "9/10",
+      "itemId": 1117
+    },
+    {
+      "name": "Bronze platelegs",
+      "quantity": "1",
+      "rarity": "9/10",
+      "itemId": 1075
+    }
+  ]
+}

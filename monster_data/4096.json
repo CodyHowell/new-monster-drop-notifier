@@ -1,0 +1,138 @@
+{
+  "id": 4096,
+  "name": "Archer (Burthorpe)",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    },
+    {
+      "name": "Willow longbow",
+      "quantity": "1",
+      "rarity": "4/128",
+      "itemId": 847
+    },
+    {
+      "name": "Studded chaps",
+      "quantity": "1",
+      "rarity": "8/128",
+      "itemId": 1097
+    },
+    {
+      "name": "Green d'hide chaps",
+      "quantity": "1",
+      "rarity": "6/128",
+      "itemId": 1099
+    },
+    {
+      "name": "Maple shortbow",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 853
+    },
+    {
+      "name": "Earth rune",
+      "quantity": "18",
+      "rarity": "2/128",
+      "itemId": 557
+    },
+    {
+      "name": "Bronze arrow",
+      "quantity": "14",
+      "rarity": "3/128",
+      "itemId": 882
+    },
+    {
+      "name": "Steel arrow",
+      "quantity": "14",
+      "rarity": "2/128",
+      "itemId": 886
+    },
+    {
+      "name": "Fire rune",
+      "quantity": "17",
+      "rarity": "2/128",
+      "itemId": 554
+    },
+    {
+      "name": "Air rune",
+      "quantity": "29",
+      "rarity": "2/128",
+      "itemId": 556
+    },
+    {
+      "name": "Nature rune",
+      "quantity": "6",
+      "rarity": "1/128",
+      "itemId": 561
+    },
+    {
+      "name": "Blood rune",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 565
+    },
+    {
+      "name": "Chaos rune",
+      "quantity": "2",
+      "rarity": "1/128",
+      "itemId": 562
+    },
+    {
+      "name": "Coins",
+      "quantity": "3",
+      "rarity": "1/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "5",
+      "rarity": "37/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "15",
+      "rarity": "16/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "12",
+      "rarity": "9/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "28",
+      "rarity": "4/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "42",
+      "rarity": "4/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "46",
+      "rarity": "2/128",
+      "itemId": 995
+    },
+    {
+      "name": "Earth talisman",
+      "quantity": "1",
+      "rarity": "3/128",
+      "itemId": 1440
+    },
+    {
+      "name": "Mithril ore",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 447
+    }
+  ]
+}

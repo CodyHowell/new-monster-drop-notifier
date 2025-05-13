@@ -1,0 +1,12 @@
+{
+  "id": 10814,
+  "name": "The Maiden of Sugadinti",
+  "drops": [
+    {
+      "name": "Serafina's diary",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 22504
+    }
+  ]
+}

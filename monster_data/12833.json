@@ -1,0 +1,12 @@
+{
+  "id": 12833,
+  "name": "Passionate Supporter",
+  "drops": [
+    {
+      "name": "Scrawled poem",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 28958
+    }
+  ]
+}

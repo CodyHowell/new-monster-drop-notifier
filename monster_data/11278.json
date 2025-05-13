@@ -1,0 +1,210 @@
+{
+  "id": 11278,
+  "name": "Nex",
+  "drops": [
+    {
+      "name": "Big bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 532
+    },
+    {
+      "name": "Ancient hilt",
+      "quantity": "1",
+      "rarity": "1/516",
+      "itemId": 26370
+    },
+    {
+      "name": "Nihil horn",
+      "quantity": "1",
+      "rarity": "1/258",
+      "itemId": 26372
+    },
+    {
+      "name": "Torva full helm (damaged)",
+      "quantity": "1",
+      "rarity": "1/258",
+      "itemId": 26376
+    },
+    {
+      "name": "Torva platebody (damaged)",
+      "quantity": "1",
+      "rarity": "1/258",
+      "itemId": 26378
+    },
+    {
+      "name": "Torva platelegs (damaged)",
+      "quantity": "1",
+      "rarity": "1/258",
+      "itemId": 26380
+    },
+    {
+      "name": "Zaryte vambraces",
+      "quantity": "1",
+      "rarity": "1/172",
+      "itemId": 26235
+    },
+    {
+      "name": "Air rune",
+      "quantity": "123–1365",
+      "rarity": "Uncommon",
+      "itemId": 556
+    },
+    {
+      "name": "Fire rune",
+      "quantity": "210–1655",
+      "rarity": "Uncommon",
+      "itemId": 554
+    },
+    {
+      "name": "Blood rune",
+      "quantity": "84–325",
+      "rarity": "Common",
+      "itemId": 565
+    },
+    {
+      "name": "Death rune",
+      "quantity": "85–170",
+      "rarity": "Common",
+      "itemId": 560
+    },
+    {
+      "name": "Water rune",
+      "quantity": "193–1599",
+      "rarity": "Uncommon",
+      "itemId": 555
+    },
+    {
+      "name": "Soul rune",
+      "quantity": "86–227",
+      "rarity": "Common",
+      "itemId": 566
+    },
+    {
+      "name": "Dragon bolts (unf)",
+      "quantity": "12–90",
+      "rarity": "Common",
+      "itemId": 21930
+    },
+    {
+      "name": "Onyx bolts (e)",
+      "quantity": "11–29",
+      "rarity": "Uncommon",
+      "itemId": 9245
+    },
+    {
+      "name": "Cannonball",
+      "quantity": "42–298",
+      "rarity": "Common",
+      "itemId": 2
+    },
+    {
+      "name": "Air orb",
+      "quantity": "6–20",
+      "rarity": "Common",
+      "itemId": 573
+    },
+    {
+      "name": "Coal",
+      "quantity": "23–95",
+      "rarity": "Uncommon",
+      "itemId": 453
+    },
+    {
+      "name": "Runite ore",
+      "quantity": "2–30",
+      "rarity": "Uncommon",
+      "itemId": 451
+    },
+    {
+      "name": "Uncut ruby",
+      "quantity": "3–26",
+      "rarity": "Common",
+      "itemId": 1619
+    },
+    {
+      "name": "Uncut diamond",
+      "quantity": "3–17",
+      "rarity": "Common",
+      "itemId": 1617
+    },
+    {
+      "name": "Wine of zamorak",
+      "quantity": "4–14",
+      "rarity": "Common",
+      "itemId": 245
+    },
+    {
+      "name": "Shark",
+      "quantity": "3",
+      "rarity": "Common",
+      "itemId": 385
+    },
+    {
+      "name": "Prayer potion(4)",
+      "quantity": "1",
+      "rarity": "Common",
+      "itemId": 2434
+    },
+    {
+      "name": "Saradomin brew(4)",
+      "quantity": "2",
+      "rarity": "Common",
+      "itemId": 6685
+    },
+    {
+      "name": "Super restore(4)",
+      "quantity": "1",
+      "rarity": "Common",
+      "itemId": 3024
+    },
+    {
+      "name": "Blood essence",
+      "quantity": "1–2",
+      "rarity": "1/82",
+      "itemId": 26390
+    },
+    {
+      "name": "Coins",
+      "quantity": "8539–26748",
+      "rarity": "Uncommon",
+      "itemId": 995
+    },
+    {
+      "name": "Rune sword",
+      "quantity": "1",
+      "rarity": "1/209",
+      "itemId": 1289
+    },
+    {
+      "name": "Ecumenical key shard",
+      "quantity": "6–39",
+      "rarity": "Common",
+      "itemId": 26388
+    },
+    {
+      "name": "Nihil shard",
+      "quantity": "80–85",
+      "rarity": "5/82",
+      "itemId": 26231
+    },
+    {
+      "name": "Nihil shard",
+      "quantity": "85–95",
+      "rarity": "8/209",
+      "itemId": 26231
+    },
+    {
+      "name": "Clue scroll (elite)",
+      "quantity": "1",
+      "rarity": "1/48",
+      "itemId": 21524
+    },
+    {
+      "name": "Nexling",
+      "quantity": "1",
+      "rarity": "1/500",
+      "itemId": 26348
+    }
+  ]
+}

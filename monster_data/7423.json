@@ -1,0 +1,54 @@
+{
+  "id": 7423,
+  "name": "Zamorak mage",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    },
+    {
+      "name": "Fire rune",
+      "quantity": "7",
+      "rarity": "2/50",
+      "itemId": 554
+    },
+    {
+      "name": "Water rune",
+      "quantity": "6",
+      "rarity": "2/50",
+      "itemId": 555
+    },
+    {
+      "name": "Air rune",
+      "quantity": "5",
+      "rarity": "2/50",
+      "itemId": 556
+    },
+    {
+      "name": "Nature rune",
+      "quantity": "2",
+      "rarity": "2/50",
+      "itemId": 561
+    },
+    {
+      "name": "Law rune",
+      "quantity": "2",
+      "rarity": "1/50",
+      "itemId": 563
+    },
+    {
+      "name": "Blood rune",
+      "quantity": "1",
+      "rarity": "1/50",
+      "itemId": 565
+    },
+    {
+      "name": "Coins",
+      "quantity": "100",
+      "rarity": "40/50",
+      "itemId": 995
+    }
+  ]
+}

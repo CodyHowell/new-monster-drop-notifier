@@ -1,0 +1,90 @@
+{
+  "id": 7426,
+  "name": "Zamorak crafter",
+  "drops": [
+    {
+      "name": "Air rune",
+      "quantity": "5",
+      "rarity": "10/70",
+      "itemId": 556
+    },
+    {
+      "name": "Body rune",
+      "quantity": "3",
+      "rarity": "5/70",
+      "itemId": 559
+    },
+    {
+      "name": "Blood rune",
+      "quantity": "4",
+      "rarity": "2/70",
+      "itemId": 565
+    },
+    {
+      "name": "Chaos rune",
+      "quantity": "4",
+      "rarity": "5/70",
+      "itemId": 562
+    },
+    {
+      "name": "Death rune",
+      "quantity": "3",
+      "rarity": "2/70",
+      "itemId": 560
+    },
+    {
+      "name": "Earth rune",
+      "quantity": "6",
+      "rarity": "5/70",
+      "itemId": 557
+    },
+    {
+      "name": "Water rune",
+      "quantity": "5",
+      "rarity": "10/70",
+      "itemId": 555
+    },
+    {
+      "name": "Soul rune",
+      "quantity": "3",
+      "rarity": "2/70",
+      "itemId": 566
+    },
+    {
+      "name": "Fire rune",
+      "quantity": "2",
+      "rarity": "10/70",
+      "itemId": 554
+    },
+    {
+      "name": "Law rune",
+      "quantity": "3",
+      "rarity": "1/70",
+      "itemId": 563
+    },
+    {
+      "name": "Nature rune",
+      "quantity": "2",
+      "rarity": "2/70",
+      "itemId": 561
+    },
+    {
+      "name": "Pure essence",
+      "quantity": "3",
+      "rarity": "5/70",
+      "itemId": 7936
+    },
+    {
+      "name": "Pure essence",
+      "quantity": "10",
+      "rarity": "1/70",
+      "itemId": 7936
+    },
+    {
+      "name": "Coins",
+      "quantity": "50",
+      "rarity": "10/70",
+      "itemId": 995
+    }
+  ]
+}

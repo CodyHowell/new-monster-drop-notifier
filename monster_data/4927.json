@@ -1,0 +1,18 @@
+{
+  "id": 4927,
+  "name": "Entrana firebird",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    },
+    {
+      "name": "Fire feather",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 1583
+    }
+  ]
+}

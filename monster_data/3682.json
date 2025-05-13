@@ -1,0 +1,12 @@
+{
+  "id": 3682,
+  "name": "Thora (Miscellania)",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    }
+  ]
+}

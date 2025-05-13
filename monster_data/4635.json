@@ -1,0 +1,18 @@
+{
+  "id": 4635,
+  "name": "Mercenary Captain",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    },
+    {
+      "name": "Metal key",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 1839
+    }
+  ]
+}

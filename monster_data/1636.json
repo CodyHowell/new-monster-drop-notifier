@@ -1,0 +1,132 @@
+{
+  "id": 1636,
+  "name": "Young impling",
+  "drops": [
+    {
+      "name": "Steel nails",
+      "quantity": "5",
+      "rarity": "1/10",
+      "itemId": 1539
+    },
+    {
+      "name": "Lockpick",
+      "quantity": "1",
+      "rarity": "1/10",
+      "itemId": 1523
+    },
+    {
+      "name": "Pure essence",
+      "quantity": "1",
+      "rarity": "1/10",
+      "itemId": 7936
+    },
+    {
+      "name": "Tuna",
+      "quantity": "1",
+      "rarity": "1/10",
+      "itemId": 361
+    },
+    {
+      "name": "Chocolate slice",
+      "quantity": "1",
+      "rarity": "1/10",
+      "itemId": 1901
+    },
+    {
+      "name": "Steel axe",
+      "quantity": "1",
+      "rarity": "1/10",
+      "itemId": 1353
+    },
+    {
+      "name": "Meat pizza",
+      "quantity": "1",
+      "rarity": "1/10",
+      "itemId": 2293
+    },
+    {
+      "name": "Coal",
+      "quantity": "1",
+      "rarity": "1/10",
+      "itemId": 453
+    },
+    {
+      "name": "Bow string",
+      "quantity": "1",
+      "rarity": "1/10",
+      "itemId": 1777
+    },
+    {
+      "name": "Snape grass",
+      "quantity": "1",
+      "rarity": "1/100",
+      "itemId": 231
+    },
+    {
+      "name": "Soft clay",
+      "quantity": "1",
+      "rarity": "1/100",
+      "itemId": 1761
+    },
+    {
+      "name": "Studded chaps",
+      "quantity": "1",
+      "rarity": "1/100",
+      "itemId": 1097
+    },
+    {
+      "name": "Steel full helm",
+      "quantity": "1",
+      "rarity": "1/100",
+      "itemId": 1157
+    },
+    {
+      "name": "Oak plank",
+      "quantity": "1",
+      "rarity": "1/100",
+      "itemId": 8778
+    },
+    {
+      "name": "Defence potion(3)",
+      "quantity": "1",
+      "rarity": "1/100",
+      "itemId": 133
+    },
+    {
+      "name": "Mithril bar",
+      "quantity": "1",
+      "rarity": "1/100",
+      "itemId": 2359
+    },
+    {
+      "name": "Yew longbow",
+      "quantity": "1",
+      "rarity": "1/100",
+      "itemId": 855
+    },
+    {
+      "name": "Garden pie",
+      "quantity": "1",
+      "rarity": "1/100",
+      "itemId": 7178
+    },
+    {
+      "name": "Jangerberries",
+      "quantity": "1",
+      "rarity": "1/100",
+      "itemId": 247
+    },
+    {
+      "name": "Clue scroll (beginner)",
+      "quantity": "1",
+      "rarity": "1/25",
+      "itemId": 23182
+    },
+    {
+      "name": "Clue scroll (easy)",
+      "quantity": "1",
+      "rarity": "1/50",
+      "itemId": 12179
+    }
+  ]
+}

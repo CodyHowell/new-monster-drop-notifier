@@ -1,0 +1,12 @@
+{
+  "id": 7964,
+  "name": "Ithoi the Navigator",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    }
+  ]
+}

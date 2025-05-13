@@ -1,0 +1,12 @@
+{
+  "id": 1680,
+  "name": "Giant crypt rat",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    }
+  ]
+}

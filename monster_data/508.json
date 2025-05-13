@@ -1,0 +1,12 @@
+{
+  "id": 508,
+  "name": "Soulless",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    }
+  ]
+}

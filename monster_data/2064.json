@@ -1,0 +1,18 @@
+{
+  "id": 2064,
+  "name": "Terrorbird",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    },
+    {
+      "name": "Terrorbird wing",
+      "quantity": "1",
+      "rarity": "1/4",
+      "itemId": 7878
+    }
+  ]
+}

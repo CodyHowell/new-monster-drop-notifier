@@ -1,0 +1,18 @@
+{
+  "id": 5647,
+  "name": "Zombie (Temple Trekking)",
+  "drops": [
+    {
+      "name": "Bronze axe",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 1351
+    },
+    {
+      "name": "Zombie champion scroll",
+      "quantity": "1",
+      "rarity": "1/5000",
+      "itemId": 6807
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": 1669,
+  "name": "Penance Runner",
+  "drops": [
+    {
+      "name": "Blue egg",
+      "quantity": "2",
+      "rarity": "Always",
+      "itemId": 10533
+    },
+    {
+      "name": "Green egg",
+      "quantity": "2",
+      "rarity": "Always",
+      "itemId": 10531
+    },
+    {
+      "name": "Red egg",
+      "quantity": "2",
+      "rarity": "Always",
+      "itemId": 10532
+    }
+  ]
+}

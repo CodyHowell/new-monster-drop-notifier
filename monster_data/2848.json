@@ -1,0 +1,30 @@
+{
+  "id": 2848,
+  "name": "Monkey (monster)",
+  "drops": [
+    {
+      "name": "Monkey bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 3183
+    },
+    {
+      "name": "Monkey corpse",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 3166
+    },
+    {
+      "name": "Monkey paw",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 7854
+    },
+    {
+      "name": "Ensouled monkey head",
+      "quantity": "1",
+      "rarity": "1/35",
+      "itemId": 13451
+    }
+  ]
+}

@@ -1,0 +1,276 @@
+{
+  "id": 11093,
+  "name": "Head Guard",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    },
+    {
+      "name": "Rune kiteshield",
+      "quantity": "1",
+      "rarity": "1/512",
+      "itemId": 1201
+    },
+    {
+      "name": "Rune scimitar",
+      "quantity": "1",
+      "rarity": "1/512",
+      "itemId": 1333
+    },
+    {
+      "name": "Iron bolts",
+      "quantity": "2–12",
+      "rarity": "10/128",
+      "itemId": 9140
+    },
+    {
+      "name": "Steel arrow",
+      "quantity": "1",
+      "rarity": "4/128",
+      "itemId": 886
+    },
+    {
+      "name": "Bronze arrow",
+      "quantity": "1",
+      "rarity": "3/128",
+      "itemId": 882
+    },
+    {
+      "name": "Air rune",
+      "quantity": "6",
+      "rarity": "2/128",
+      "itemId": 556
+    },
+    {
+      "name": "Earth rune",
+      "quantity": "3",
+      "rarity": "2/128",
+      "itemId": 557
+    },
+    {
+      "name": "Fire rune",
+      "quantity": "2",
+      "rarity": "2/128",
+      "itemId": 554
+    },
+    {
+      "name": "Blood rune",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 565
+    },
+    {
+      "name": "Chaos rune",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 562
+    },
+    {
+      "name": "Nature rune",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 561
+    },
+    {
+      "name": "Steel arrow",
+      "quantity": "5",
+      "rarity": "1/128",
+      "itemId": 886
+    },
+    {
+      "name": "Potato seed",
+      "quantity": "4",
+      "rarity": "1/33",
+      "itemId": 5318
+    },
+    {
+      "name": "Onion seed",
+      "quantity": "4",
+      "rarity": "1/44",
+      "itemId": 5319
+    },
+    {
+      "name": "Cabbage seed",
+      "quantity": "4",
+      "rarity": "1/67",
+      "itemId": 5324
+    },
+    {
+      "name": "Tomato seed",
+      "quantity": "3",
+      "rarity": "1/134",
+      "itemId": 5322
+    },
+    {
+      "name": "Sweetcorn seed",
+      "quantity": "3",
+      "rarity": "1/269",
+      "itemId": 5320
+    },
+    {
+      "name": "Strawberry seed",
+      "quantity": "2",
+      "rarity": "1/539",
+      "itemId": 5323
+    },
+    {
+      "name": "Watermelon seed",
+      "quantity": "2",
+      "rarity": "1/1128",
+      "itemId": 5321
+    },
+    {
+      "name": "Snape grass seed",
+      "quantity": "2",
+      "rarity": "1/1551",
+      "itemId": 22879
+    },
+    {
+      "name": "Barley seed",
+      "quantity": "4",
+      "rarity": "1/107",
+      "itemId": 5305
+    },
+    {
+      "name": "Hammerstone seed",
+      "quantity": "3",
+      "rarity": "1/107",
+      "itemId": 5307
+    },
+    {
+      "name": "Asgarnian seed",
+      "quantity": "3",
+      "rarity": "1/142",
+      "itemId": 5308
+    },
+    {
+      "name": "Jute seed",
+      "quantity": "2",
+      "rarity": "1/143",
+      "itemId": 5306
+    },
+    {
+      "name": "Yanillian seed",
+      "quantity": "2",
+      "rarity": "1/215",
+      "itemId": 5309
+    },
+    {
+      "name": "Krandorian seed",
+      "quantity": "2",
+      "rarity": "1/431",
+      "itemId": 5310
+    },
+    {
+      "name": "Wildblood seed",
+      "quantity": "1",
+      "rarity": "1/847",
+      "itemId": 5311
+    },
+    {
+      "name": "Marigold seed",
+      "quantity": "1",
+      "rarity": "1/141",
+      "itemId": 5096
+    },
+    {
+      "name": "Nasturtium seed",
+      "quantity": "1",
+      "rarity": "1/214",
+      "itemId": 5098
+    },
+    {
+      "name": "Rosemary seed",
+      "quantity": "1",
+      "rarity": "1/331",
+      "itemId": 5097
+    },
+    {
+      "name": "Woad seed",
+      "quantity": "1",
+      "rarity": "1/448",
+      "itemId": 5099
+    },
+    {
+      "name": "Limpwurt seed",
+      "quantity": "1",
+      "rarity": "1/561",
+      "itemId": 5100
+    },
+    {
+      "name": "Coins",
+      "quantity": "1",
+      "rarity": "19/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "7",
+      "rarity": "16/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "12",
+      "rarity": "9/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "4",
+      "rarity": "8/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "25",
+      "rarity": "4/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "17",
+      "rarity": "4/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "30",
+      "rarity": "2/128",
+      "itemId": 995
+    },
+    {
+      "name": "Iron dagger",
+      "quantity": "1",
+      "rarity": "6/128",
+      "itemId": 1203
+    },
+    {
+      "name": "Body talisman",
+      "quantity": "1",
+      "rarity": "3/128",
+      "itemId": 1446
+    },
+    {
+      "name": "Grain",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 1947
+    },
+    {
+      "name": "Iron ore",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 440
+    },
+    {
+      "name": "Clue scroll (medium)",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 2829
+    }
+  ]
+}

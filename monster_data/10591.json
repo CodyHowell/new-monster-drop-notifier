@@ -1,0 +1,18 @@
+{
+  "id": 10591,
+  "name": "Undead Zealot",
+  "drops": [
+    {
+      "name": "Bleached bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 25422
+    },
+    {
+      "name": "Zombie champion scroll",
+      "quantity": "1",
+      "rarity": "1/5000",
+      "itemId": 6807
+    }
+  ]
+}

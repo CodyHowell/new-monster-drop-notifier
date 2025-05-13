@@ -1,0 +1,30 @@
+{
+  "id": 1027,
+  "name": "Guard Bandit",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    },
+    {
+      "name": "Looting bag",
+      "quantity": "1",
+      "rarity": "1/6",
+      "itemId": 11941
+    },
+    {
+      "name": "Larran's key",
+      "quantity": "1",
+      "rarity": "1/1109",
+      "itemId": 23490
+    },
+    {
+      "name": "Slayer's enchantment",
+      "quantity": "1",
+      "rarity": "1/299",
+      "itemId": 21257
+    }
+  ]
+}

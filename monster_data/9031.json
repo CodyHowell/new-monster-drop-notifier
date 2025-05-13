@@ -1,0 +1,18 @@
+{
+  "id": 9031,
+  "name": "Crystalline Wolf",
+  "drops": [
+    {
+      "name": "Raw paddlefish",
+      "quantity": "4",
+      "rarity": "Common",
+      "itemId": 23872
+    },
+    {
+      "name": "Weapon frame",
+      "quantity": "1",
+      "rarity": "Common",
+      "itemId": 23834
+    }
+  ]
+}

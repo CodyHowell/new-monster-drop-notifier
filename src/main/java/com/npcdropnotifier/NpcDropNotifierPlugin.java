@@ -58,54 +58,11 @@ public class NpcDropNotifierPlugin extends Plugin {
     public NpcDropRecord npcDropRecord = null;
     // itemId -> quantity -> Drop
     public Map<Integer, List<NpcDropData.Drop>> currentNpcDropData = null;
-    private final Set<String> monsterDataBeingLoaded = Collections.synchronizedSet(new HashSet<>());
 
     @Override
     protected void shutDown() throws Exception {
         saveNpcDropsToFile(currentNpcKey, npcDropRecord);
     }
-
-    protected CompletableFuture<Void> runAsyncTask(Runnable task) {
-        return CompletableFuture.runAsync(task);
-    }
-
-    /// Preload npc drop data in the background before it's needed when the npc dies
-    @Subscribe
-    public void onHitsplatApplied(HitsplatApplied event) {
-        // Only process if it's an NPC and player-caused damage
-        if (!(event.getActor() instanceof NPC) || event.getHitsplat().getHitsplatType() != HitsplatID.DAMAGE_ME) {
-            return;
-        }
-
-        NPC npc = (NPC) event.getActor();
-        final String npcName = npc.getName();
-        final int npcLevel = npc.getCombatLevel();
-        final int npcId = npc.getId();
-        final String npcKey = npcName + "#Level" + npcLevel;
-
-        // Check if the data is getting loaded or the same npc is getting attacked
-        if (monsterDataBeingLoaded.contains(npcKey) || npcKey.equals(currentNpcKey)) {
-            return;
-        }
-
-        // Mark that the monster data is being loaded
-        monsterDataBeingLoaded.add(npcKey);
-
-        // Start background download
-        runAsyncTask(() -> {
-            try {
-                synchronized (this) {
-                    downloadAndSaveMonsterDropJsonIfNeeded(npcId, npcKey);
-                }
-            } catch (IOException e) {
-                log.warn("Could not download or save npc drop json for {}", npcKey, e);
-            } finally {
-                // Remove from loading set whether successful or not
-                monsterDataBeingLoaded.remove(npcKey);
-            }
-        });
-    }
-
 
     @Subscribe
     public void onNpcLootReceived(final NpcLootReceived npcLootReceived) {
@@ -127,24 +84,17 @@ public class NpcDropNotifierPlugin extends Plugin {
             // Load new npc drop record
             npcDropRecord = loadNpcDropsFromFile(npcKey);
 
+            NpcDropData dropData = this.readNpcDropData(npcId, npcName);
+            currentNpcDropData = null;
 
-            try {
-                downloadAndSaveMonsterDropJsonIfNeeded(npcId, npcKey);
-                NpcDropData dropData = this.readNpcDropData(npcKey);
+            if (dropData != null) {
                 currentNpcDropData = dropData.getDropsByItemIdAndQuantity();
-            } catch (IOException e) {
-                log.warn("Could not save npc drop json", e);
             }
         }
 
         for (ItemStack droppedItem : droppedItems) {
             final Integer droppedItemId = droppedItem.getId();
             final Integer droppedItemQuantity = droppedItem.getQuantity();
-
-            // Skip processing if we don't have drop data
-            if (currentNpcDropData == null || !currentNpcDropData.containsKey(droppedItemId)) {
-                continue;
-            }
 
             NpcDropData.Drop drop = findDrop(droppedItemId, droppedItemQuantity);
             Set<String> previouslyDroppedQuantities = npcDropRecord.getItemId(droppedItemId);
@@ -157,6 +107,10 @@ public class NpcDropNotifierPlugin extends Plugin {
     }
 
     NpcDropData.Drop findDrop(Integer itemId, Integer quantity) {
+        if (currentNpcDropData == null) {
+            return null;
+        }
+
         if (!currentNpcDropData.containsKey(itemId)) {
             return null;
         }
@@ -176,14 +130,22 @@ public class NpcDropNotifierPlugin extends Plugin {
 
     // Notification formatting
 
-    String getDropRateColor(Double rarity) {
-        if (rarity == 1) {
+    String getDropRateColor(String rarity) {
+        if (Objects.equals(rarity, "Always")) {
             return ALWAYS;
-        } else if (rarity >= 0.04) {
+        }
+
+        String[] parts = rarity.split("/");
+        double numerator = Double.parseDouble(parts[0].trim());
+        double denominator = Double.parseDouble(parts[1].trim());
+
+        double rarityDouble = numerator / denominator;
+
+        if (rarityDouble >= 0.04) {
             return COMMON;
-        } else if (rarity >= 0.01) {
+        } else if (rarityDouble >= 0.01) {
             return UNCOMMON;
-        } else if (rarity >= 0.001) {
+        } else if (rarityDouble >= 0.001) {
             return RARE;
         } else {
             return SUPERRARE;
@@ -191,23 +153,17 @@ public class NpcDropNotifierPlugin extends Plugin {
     }
 
     String getPrettyDropRate(NpcDropData.Drop drop) {
-        if (drop == null) {
-            return "<br><br>" + "? / ?" + "</col>";
+        if (drop == null || drop.rarity == null) {
+            return "<br><br>";
         }
 
-        if (drop.rarity == 1) {
-            return "<br><br><col=" + getDropRateColor(drop.rarity) + ">Always</col>";
+        String prettyRarity = drop.rarity;
+
+        if (drop.simplifiedDenominator != 0) {
+            prettyRarity =  "1 / " + drop.simplifiedDenominator;
         }
 
-        String formattedDropRate = "";
-        int n = (int) Math.round(1.0 / drop.rarity);
-        if (drop.rolls != 1) {
-            formattedDropRate = drop.rolls + " x " + "(1 " + "/ " + n + ")";
-        } else {
-            formattedDropRate = "1 " + "/ " + n;
-        }
-
-        return "<br><br><col=" + getDropRateColor(drop.rarity) + ">" + formattedDropRate + "</col>";
+        return "<br><br><col=" + getDropRateColor(drop.rarity) + ">" + prettyRarity + "</col>";
     }
 
     String getPrettyNotificationMessage(String npcName, Integer itemId, Integer quantity) {
@@ -231,50 +187,65 @@ public class NpcDropNotifierPlugin extends Plugin {
         return dir;
     }
 
-    NpcDropData readNpcDropData(String npcKey) {
-        File npcDataFile = new File(createOrGetNpcFolder(npcKey), "npc-data.json");
-        try (FileReader reader = new FileReader(npcDataFile)) {
-            return gson.fromJson(reader, NpcDropData.class);
+
+    private NpcDropData tryGetVariantNpcData(Integer npcId, String npcName) {
+        File potentialVariantNpcFile = findClosestLowerFile(npcId);
+        if (potentialVariantNpcFile == null) {
+            return null;
+        }
+
+        try (FileReader reader = new FileReader(potentialVariantNpcFile)) {
+            NpcDropData potentialVariantNpcDropData = gson.fromJson(reader, NpcDropData.class);
+            if (Objects.equals(potentialVariantNpcDropData.name, npcName)) {
+                return potentialVariantNpcDropData;
+            } else {
+                log.warn("Could not find base monster data file");
+                return null;
+            }
         } catch (JsonIOException | IOException e) {
-            log.warn("Could not load npc drop json");
-            return new NpcDropData();
+            log.warn("Could not load npc drop data");
+            return null;
         }
     }
 
-    void downloadAndSaveMonsterDropJsonIfNeeded(int monsterId, String npcKey) throws IOException {
-        // For now only download it once - figure out something to check if stale?
-        File dataFile = new File(this.createOrGetNpcFolder(npcKey), "npc-data.json");
-        if (dataFile.exists())
-            return;
+    public static final File MONSTER_DATA_DIR = new File(System.getProperty("user.dir"), "monster_data");
 
-        String urlString = String.format(
-                "https://raw.githubusercontent.com/0xNeffarion/osrsreboxed-db/master/docs/monsters-json/%d.json",
-                monsterId
-        );
+    // Since the monster_data folder is sorted use binary search - O(log(n))
+    private static File findClosestLowerFile(int targetNumber) {
+        File[] files = MONSTER_DATA_DIR.listFiles();
 
-        HttpURLConnection connection = null;
-        try {
-            URL url = new URL(urlString);
-            connection = (HttpURLConnection) url.openConnection();
-            connection.setRequestProperty("User-Agent", "Mozilla/5.0");
-            connection.setConnectTimeout(5000);
-            connection.setReadTimeout(5000);
+        Optional<File> closestLowerFile = Arrays.stream(files)
+                .filter(file -> {
+                    try {
+                        int fileNumber = Integer.parseInt(file.getName().replaceAll("\\.[^.]+$", ""));
+                        return fileNumber <= targetNumber;
+                    } catch (NumberFormatException e) {
+                        return false; // Skip files that don't have numeric names
+                    }
+                })
+                .max((file1, file2) -> {
+                    int num1 = Integer.parseInt(file1.getName().replaceAll("\\.[^.]+$", ""));
+                    int num2 = Integer.parseInt(file2.getName().replaceAll("\\.[^.]+$", ""));
+                    return Integer.compare(num1, num2);
+                });
 
-            // Check if the request was successful
-            int responseCode = connection.getResponseCode();
-            if (responseCode != HttpURLConnection.HTTP_OK) {
-                log.warn("Failed to download monster data for {}. Response code: {}", npcKey, responseCode);
-                return;
-            }
+        if (closestLowerFile.isPresent()) {
+            return closestLowerFile.get();
+        } else {
+            System.out.println("No file found with a number lower than " + targetNumber);
+        }
 
-            // Download and save the file
-            try (InputStream in = connection.getInputStream()) {
-                Files.copy(in, dataFile.toPath(), StandardCopyOption.REPLACE_EXISTING);
-            }
-        } finally {
-            if (connection != null) {
-                connection.disconnect();
-            }
+        return null;
+    }
+
+    NpcDropData readNpcDropData(Integer npcId, String npcName) {
+        File npcDataFile = new File(MONSTER_DATA_DIR, npcId + ".json");
+        log.info("Loading file for npcId {}", npcId);
+        try (FileReader reader = new FileReader(npcDataFile)) {
+            return gson.fromJson(reader, NpcDropData.class);
+        } catch (JsonIOException | IOException e) {
+            log.info("Could not load npc drop data for npcId {}, trying to find base monster file", npcId);
+            return tryGetVariantNpcData(npcId, npcName);
         }
     }
 

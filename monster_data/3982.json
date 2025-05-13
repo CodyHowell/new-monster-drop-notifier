@@ -1,0 +1,12 @@
+{
+  "id": 3982,
+  "name": "Lesser demon (Melzar's Maze)",
+  "drops": [
+    {
+      "name": "Vile ashes",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 25769
+    }
+  ]
+}

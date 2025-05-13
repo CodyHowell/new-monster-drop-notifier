@@ -1,0 +1,270 @@
+{
+  "id": 12204,
+  "name": "The Whisperer",
+  "drops": [
+    {
+      "name": "Bellator vestige",
+      "quantity": "1",
+      "rarity": "1/512",
+      "itemId": 28279
+    },
+    {
+      "name": "Chromium ingot",
+      "quantity": "1",
+      "rarity": "3/512",
+      "itemId": 28276
+    },
+    {
+      "name": "Siren's staff",
+      "quantity": "1",
+      "rarity": "1/512",
+      "itemId": 28323
+    },
+    {
+      "name": "Virtus mask",
+      "quantity": "1",
+      "rarity": "1/1536",
+      "itemId": 26241
+    },
+    {
+      "name": "Virtus robe top",
+      "quantity": "1",
+      "rarity": "1/1536",
+      "itemId": 26243
+    },
+    {
+      "name": "Virtus robe bottom",
+      "quantity": "1",
+      "rarity": "1/1536",
+      "itemId": 26245
+    },
+    {
+      "name": "Sirenic tablet",
+      "quantity": "1",
+      "rarity": "1/26.2",
+      "itemId": 28331
+    },
+    {
+      "name": "Awakener's orb",
+      "quantity": "1",
+      "rarity": "1/34.5",
+      "itemId": 28334
+    },
+    {
+      "name": "Shadow quartz",
+      "quantity": "1",
+      "rarity": "1/209.3",
+      "itemId": 28272
+    },
+    {
+      "name": "Ancient brew(2)",
+      "quantity": "1",
+      "rarity": "1/5.5",
+      "itemId": 26344
+    },
+    {
+      "name": "Prayer potion(3)",
+      "quantity": "1",
+      "rarity": "1/5.5",
+      "itemId": 139
+    },
+    {
+      "name": "Manta ray",
+      "quantity": "3–4",
+      "rarity": "1/5.5",
+      "itemId": 391
+    },
+    {
+      "name": "Bronze longsword",
+      "quantity": "16; 24",
+      "rarity": "1/100",
+      "itemId": 1291
+    },
+    {
+      "name": "Mithril longsword",
+      "quantity": "7; 10",
+      "rarity": "1/100",
+      "itemId": 1299
+    },
+    {
+      "name": "Adamant longsword",
+      "quantity": "9; 14",
+      "rarity": "1/100",
+      "itemId": 1301
+    },
+    {
+      "name": "Battlestaff",
+      "quantity": "70; 105",
+      "rarity": "2/100",
+      "itemId": 1391
+    },
+    {
+      "name": "Dragon plateskirt",
+      "quantity": "7; 10",
+      "rarity": "1/100",
+      "itemId": 4585
+    },
+    {
+      "name": "Pure essence",
+      "quantity": "280; 420",
+      "rarity": "1/100",
+      "itemId": 7936
+    },
+    {
+      "name": "Iron ore",
+      "quantity": "88; 133",
+      "rarity": "1/100",
+      "itemId": 440
+    },
+    {
+      "name": "Coal",
+      "quantity": "303; 455",
+      "rarity": "8/100",
+      "itemId": 453
+    },
+    {
+      "name": "Gold ore",
+      "quantity": "88; 133",
+      "rarity": "1/100",
+      "itemId": 444
+    },
+    {
+      "name": "Mithril ore",
+      "quantity": "88; 133",
+      "rarity": "1/100",
+      "itemId": 447
+    },
+    {
+      "name": "Adamantite ore",
+      "quantity": "105; 157",
+      "rarity": "8/100",
+      "itemId": 449
+    },
+    {
+      "name": "Runite ore",
+      "quantity": "42; 63",
+      "rarity": "2/100",
+      "itemId": 451
+    },
+    {
+      "name": "Sapphire",
+      "quantity": "39; 59",
+      "rarity": "1/100",
+      "itemId": 1607
+    },
+    {
+      "name": "Emerald",
+      "quantity": "39; 59",
+      "rarity": "1/100",
+      "itemId": 1605
+    },
+    {
+      "name": "Ruby",
+      "quantity": "39; 59",
+      "rarity": "1/100",
+      "itemId": 1603
+    },
+    {
+      "name": "Uncut ruby",
+      "quantity": "58; 87",
+      "rarity": "5/100",
+      "itemId": 1619
+    },
+    {
+      "name": "Uncut diamond",
+      "quantity": "58; 87",
+      "rarity": "5/100",
+      "itemId": 1617
+    },
+    {
+      "name": "Dragon javelin heads",
+      "quantity": "84; 126",
+      "rarity": "8/100",
+      "itemId": 19582
+    },
+    {
+      "name": "Runite bolts (unf)",
+      "quantity": "84; 126",
+      "rarity": "8/100",
+      "itemId": 9381
+    },
+    {
+      "name": "Raw monkfish",
+      "quantity": "700; 1050",
+      "rarity": "1/100",
+      "itemId": 7944
+    },
+    {
+      "name": "Water rune",
+      "quantity": "280; 420",
+      "rarity": "1/100",
+      "itemId": 555
+    },
+    {
+      "name": "Steam rune",
+      "quantity": "466; 700",
+      "rarity": "8/100",
+      "itemId": 4694
+    },
+    {
+      "name": "Chaos rune",
+      "quantity": "140; 210",
+      "rarity": "1/100",
+      "itemId": 562
+    },
+    {
+      "name": "Death rune",
+      "quantity": "466; 700",
+      "rarity": "8/100",
+      "itemId": 560
+    },
+    {
+      "name": "Soul rune",
+      "quantity": "933; 1400",
+      "rarity": "2/100",
+      "itemId": 566
+    },
+    {
+      "name": "Brimstone key",
+      "quantity": "1",
+      "rarity": "1/50",
+      "itemId": 23083
+    },
+    {
+      "name": "Clue scroll (easy)",
+      "quantity": "1",
+      "rarity": "1/160",
+      "itemId": 12179
+    },
+    {
+      "name": "Clue scroll (medium)",
+      "quantity": "1",
+      "rarity": "1/160",
+      "itemId": 2829
+    },
+    {
+      "name": "Clue scroll (hard)",
+      "quantity": "1",
+      "rarity": "1/160",
+      "itemId": 3550
+    },
+    {
+      "name": "Clue scroll (elite)",
+      "quantity": "1",
+      "rarity": "1/160",
+      "itemId": 21524
+    },
+    {
+      "name": "Ancient blood ornament kit",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 28336
+    },
+    {
+      "name": "Wisp",
+      "quantity": "1",
+      "rarity": "1/2000",
+      "itemId": 28246
+    }
+  ]
+}

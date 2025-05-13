@@ -1,0 +1,12 @@
+{
+  "id": 4192,
+  "name": "Scarab Swarm",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    }
+  ]
+}

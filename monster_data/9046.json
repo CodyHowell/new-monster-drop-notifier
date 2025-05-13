@@ -1,0 +1,30 @@
+{
+  "id": 9046,
+  "name": "Corrupted Bear",
+  "drops": [
+    {
+      "name": "Corrupted shards",
+      "quantity": "Unknown",
+      "rarity": "Always",
+      "itemId": 23824
+    },
+    {
+      "name": "Raw paddlefish",
+      "quantity": "5",
+      "rarity": "Common",
+      "itemId": 23872
+    },
+    {
+      "name": "Corrupted spike",
+      "quantity": "1",
+      "rarity": "Varies",
+      "itemId": 23831
+    },
+    {
+      "name": "Corrupted teleport crystal",
+      "quantity": "1",
+      "rarity": "Uncommon",
+      "itemId": 23858
+    }
+  ]
+}

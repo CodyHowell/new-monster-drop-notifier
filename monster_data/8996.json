@@ -1,0 +1,18 @@
+{
+  "id": 8996,
+  "name": "Holthion",
+  "drops": [
+    {
+      "name": "Vile ashes",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 25769
+    },
+    {
+      "name": "Amulet of holthion",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 1499
+    }
+  ]
+}

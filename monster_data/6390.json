@@ -1,0 +1,18 @@
+{
+  "id": 6390,
+  "name": "Khazard warlord",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    },
+    {
+      "name": "Orbs of protection",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 588
+    }
+  ]
+}

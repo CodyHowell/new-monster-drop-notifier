@@ -1,0 +1,24 @@
+{
+  "id": 2993,
+  "name": "Undead chicken",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    },
+    {
+      "name": "Feather",
+      "quantity": "5",
+      "rarity": "64/128",
+      "itemId": 314
+    },
+    {
+      "name": "Feather",
+      "quantity": "15",
+      "rarity": "32/128",
+      "itemId": 314
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": 1273,
+  "name": "Experiment",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    },
+    {
+      "name": "Cavern key",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 4184
+    },
+    {
+      "name": "Experiment bone",
+      "quantity": "1",
+      "rarity": "1/4",
+      "itemId": 7893
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "id": 513,
+  "name": "Mugger",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    },
+    {
+      "name": "Bronze bolts",
+      "quantity": "2–12",
+      "rarity": "27/128",
+      "itemId": 877
+    },
+    {
+      "name": "Mind rune",
+      "quantity": "9",
+      "rarity": "3/128",
+      "itemId": 558
+    },
+    {
+      "name": "Water rune",
+      "quantity": "6",
+      "rarity": "2/128",
+      "itemId": 555
+    },
+    {
+      "name": "Earth rune",
+      "quantity": "5",
+      "rarity": "2/128",
+      "itemId": 557
+    },
+    {
+      "name": "Grimy guam leaf",
+      "quantity": "1",
+      "rarity": "1/39.4",
+      "itemId": 199
+    },
+    {
+      "name": "Grimy marrentill",
+      "quantity": "1",
+      "rarity": "1/52.5",
+      "itemId": 201
+    },
+    {
+      "name": "Grimy tarromin",
+      "quantity": "1",
+      "rarity": "1/70",
+      "itemId": 203
+    },
+    {
+      "name": "Grimy harralander",
+      "quantity": "1",
+      "rarity": "1/90",
+      "itemId": 205
+    },
+    {
+      "name": "Grimy ranarr weed",
+      "quantity": "1",
+      "rarity": "1/114.6",
+      "itemId": 207
+    },
+    {
+      "name": "Grimy irit leaf",
+      "quantity": "1",
+      "rarity": "1/157.5",
+      "itemId": 209
+    },
+    {
+      "name": "Grimy avantoe",
+      "quantity": "1",
+      "rarity": "1/210.1",
+      "itemId": 211
+    },
+    {
+      "name": "Grimy kwuarm",
+      "quantity": "1",
+      "rarity": "1/252.1",
+      "itemId": 213
+    },
+    {
+      "name": "Grimy cadantine",
+      "quantity": "1",
+      "rarity": "1/315.1",
+      "itemId": 215
+    },
+    {
+      "name": "Grimy lantadyme",
+      "quantity": "1",
+      "rarity": "1/420.1",
+      "itemId": 2485
+    },
+    {
+      "name": "Grimy dwarf weed",
+      "quantity": "1",
+      "rarity": "1/420.1",
+      "itemId": 217
+    },
+    {
+      "name": "Coins",
+      "quantity": "10",
+      "rarity": "13/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "5",
+      "rarity": "12/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "15",
+      "rarity": "3/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "25",
+      "rarity": "1/128",
+      "itemId": 995
+    },
+    {
+      "name": "Rope",
+      "quantity": "1",
+      "rarity": "40/128",
+      "itemId": 954
+    },
+    {
+      "name": "Knife",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 946
+    },
+    {
+      "name": "Fishing bait",
+      "quantity": "1",
+      "rarity": "6/128",
+      "itemId": 313
+    },
+    {
+      "name": "Copper ore",
+      "quantity": "1",
+      "rarity": "2/128",
+      "itemId": 436
+    },
+    {
+      "name": "Bronze med helm",
+      "quantity": "1",
+      "rarity": "2/128",
+      "itemId": 1139
+    },
+    {
+      "name": "Cabbage",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 1965
+    },
+    {
+      "name": "Clue scroll (beginner)",
+      "quantity": "1",
+      "rarity": "1/80",
+      "itemId": 23182
+    },
+    {
+      "name": "Clue scroll (easy)",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 12179
+    },
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    }
+  ]
+}

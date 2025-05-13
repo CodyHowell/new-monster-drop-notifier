@@ -1,0 +1,18 @@
+{
+  "id": 9609,
+  "name": "Seagull (Icyene Graveyard)",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    },
+    {
+      "name": "Feather",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 314
+    }
+  ]
+}

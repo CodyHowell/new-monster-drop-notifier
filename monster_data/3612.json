@@ -1,0 +1,72 @@
+{
+  "id": 3612,
+  "name": "Possessed pickaxe",
+  "drops": [
+    {
+      "name": "Iron pickaxe",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 1267
+    },
+    {
+      "name": "Iron pickaxe",
+      "quantity": "1",
+      "rarity": "475/500",
+      "itemId": 1267
+    },
+    {
+      "name": "Steel pickaxe",
+      "quantity": "1",
+      "rarity": "10/500",
+      "itemId": 1269
+    },
+    {
+      "name": "Mithril pickaxe",
+      "quantity": "1",
+      "rarity": "10/500",
+      "itemId": 1273
+    },
+    {
+      "name": "Adamant pickaxe",
+      "quantity": "1",
+      "rarity": "4/500",
+      "itemId": 1271
+    },
+    {
+      "name": "Rune pickaxe",
+      "quantity": "1",
+      "rarity": "1/500",
+      "itemId": 1275
+    },
+    {
+      "name": "Clue scroll (medium)",
+      "quantity": "1",
+      "rarity": "1/256",
+      "itemId": 2829
+    },
+    {
+      "name": "Ancient shard",
+      "quantity": "1",
+      "rarity": "1/306",
+      "itemId": 19677
+    },
+    {
+      "name": "Dark totem base",
+      "quantity": "1",
+      "rarity": "1/460",
+      "itemId": 19679
+    },
+    {
+      "name": "Dark totem middle",
+      "quantity": "1",
+      "rarity": "1/460",
+      "itemId": 19681
+    },
+    {
+      "name": "Dark totem top",
+      "quantity": "1",
+      "rarity": "1/460",
+      "itemId": 19683
+    }
+  ]
+}

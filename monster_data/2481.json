@@ -1,0 +1,186 @@
+{
+  "id": 2481,
+  "name": "Minotaur",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    },
+    {
+      "name": "Iron arrow",
+      "quantity": "5–14",
+      "rarity": "10/101",
+      "itemId": 884
+    },
+    {
+      "name": "Bronze spear",
+      "quantity": "1",
+      "rarity": "10/101",
+      "itemId": 1237
+    },
+    {
+      "name": "Bronze full helm",
+      "quantity": "1",
+      "rarity": "10/101",
+      "itemId": 1155
+    },
+    {
+      "name": "Bronze arrow",
+      "quantity": "3",
+      "rarity": "3/101",
+      "itemId": 882
+    },
+    {
+      "name": "Bronze dagger",
+      "quantity": "1",
+      "rarity": "4/101",
+      "itemId": 1205
+    },
+    {
+      "name": "Mind rune",
+      "quantity": "1",
+      "rarity": "1/101",
+      "itemId": 558
+    },
+    {
+      "name": "Coins",
+      "quantity": "2",
+      "rarity": "11/101",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "7",
+      "rarity": "20/101",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "5–84",
+      "rarity": "7/101",
+      "itemId": 995
+    },
+    {
+      "name": "Copper ore",
+      "quantity": "1",
+      "rarity": "6/101",
+      "itemId": 436
+    },
+    {
+      "name": "Tin ore",
+      "quantity": "1",
+      "rarity": "6/101",
+      "itemId": 438
+    },
+    {
+      "name": "Pure essence",
+      "quantity": "15",
+      "rarity": "5/101",
+      "itemId": 7936
+    },
+    {
+      "name": "Rune essence",
+      "quantity": "5",
+      "rarity": "5/101",
+      "itemId": 1436
+    },
+    {
+      "name": "Cooked meat",
+      "quantity": "1",
+      "rarity": "3/101",
+      "itemId": 2142
+    },
+    {
+      "name": "Right skull half",
+      "quantity": "1",
+      "rarity": "3/101",
+      "itemId": 9007
+    },
+    {
+      "name": "Uncut sapphire",
+      "quantity": "1",
+      "rarity": "1/404",
+      "itemId": 1623
+    },
+    {
+      "name": "Uncut emerald",
+      "quantity": "1",
+      "rarity": "1/808",
+      "itemId": 1621
+    },
+    {
+      "name": "Uncut ruby",
+      "quantity": "1",
+      "rarity": "1/1616",
+      "itemId": 1619
+    },
+    {
+      "name": "Uncut diamond",
+      "quantity": "1",
+      "rarity": "1/6464",
+      "itemId": 1617
+    },
+    {
+      "name": "Nature talisman",
+      "quantity": "1",
+      "rarity": "1/4309.33",
+      "itemId": 1462
+    },
+    {
+      "name": "Loop half of key",
+      "quantity": "1",
+      "rarity": "1/12928",
+      "itemId": 987
+    },
+    {
+      "name": "Tooth half of key",
+      "quantity": "1",
+      "rarity": "1/12928",
+      "itemId": 985
+    },
+    {
+      "name": "Rune javelin",
+      "quantity": "5",
+      "rarity": "1/12928",
+      "itemId": 830
+    },
+    {
+      "name": "Rune spear",
+      "quantity": "1",
+      "rarity": "1/206848",
+      "itemId": 1247
+    },
+    {
+      "name": "Shield left half",
+      "quantity": "1",
+      "rarity": "1/413696",
+      "itemId": 2366
+    },
+    {
+      "name": "Dragon spear",
+      "quantity": "1",
+      "rarity": "1/551594.67",
+      "itemId": 1249
+    },
+    {
+      "name": "Ensouled minotaur head",
+      "quantity": "1",
+      "rarity": "1/50",
+      "itemId": 13457
+    },
+    {
+      "name": "Clue scroll (beginner)",
+      "quantity": "1",
+      "rarity": "1/60",
+      "itemId": 23182
+    },
+    {
+      "name": "Clue scroll (easy)",
+      "quantity": "1",
+      "rarity": "1/101",
+      "itemId": 12179
+    }
+  ]
+}

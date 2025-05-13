@@ -1,0 +1,420 @@
+{
+  "id": 7266,
+  "name": "King Sand Crab",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    },
+    {
+      "name": "Steel platebody",
+      "quantity": "1",
+      "rarity": "5/128",
+      "itemId": 1119
+    },
+    {
+      "name": "Black claws",
+      "quantity": "1",
+      "rarity": "5/128",
+      "itemId": 3098
+    },
+    {
+      "name": "Black platebody",
+      "quantity": "1",
+      "rarity": "5/128",
+      "itemId": 1125
+    },
+    {
+      "name": "Mithril axe",
+      "quantity": "1",
+      "rarity": "10/128",
+      "itemId": 1355
+    },
+    {
+      "name": "Rock-shell gloves",
+      "quantity": "1",
+      "rarity": "2/128",
+      "itemId": 6151
+    },
+    {
+      "name": "Rock-shell boots",
+      "quantity": "1",
+      "rarity": "2/128",
+      "itemId": 6145
+    },
+    {
+      "name": "Black warhammer",
+      "quantity": "1",
+      "rarity": "5/128",
+      "itemId": 1341
+    },
+    {
+      "name": "Adamant longsword",
+      "quantity": "1",
+      "rarity": "5/128",
+      "itemId": 1301
+    },
+    {
+      "name": "Water rune",
+      "quantity": "1–40",
+      "rarity": "10/128",
+      "itemId": 555
+    },
+    {
+      "name": "Earth rune",
+      "quantity": "1–40",
+      "rarity": "10/128",
+      "itemId": 557
+    },
+    {
+      "name": "Grimy guam leaf",
+      "quantity": "1",
+      "rarity": "1/64",
+      "itemId": 199
+    },
+    {
+      "name": "Grimy marrentill",
+      "quantity": "1",
+      "rarity": "1/85.3",
+      "itemId": 201
+    },
+    {
+      "name": "Grimy tarromin",
+      "quantity": "1",
+      "rarity": "1/113.8",
+      "itemId": 203
+    },
+    {
+      "name": "Grimy harralander",
+      "quantity": "1",
+      "rarity": "1/146.3",
+      "itemId": 205
+    },
+    {
+      "name": "Grimy ranarr weed",
+      "quantity": "1",
+      "rarity": "1/186.2",
+      "itemId": 207
+    },
+    {
+      "name": "Grimy irit leaf",
+      "quantity": "1",
+      "rarity": "1/256",
+      "itemId": 209
+    },
+    {
+      "name": "Grimy avantoe",
+      "quantity": "1",
+      "rarity": "1/341.3",
+      "itemId": 211
+    },
+    {
+      "name": "Grimy kwuarm",
+      "quantity": "1",
+      "rarity": "1/409.6",
+      "itemId": 213
+    },
+    {
+      "name": "Grimy cadantine",
+      "quantity": "1",
+      "rarity": "1/512",
+      "itemId": 215
+    },
+    {
+      "name": "Grimy lantadyme",
+      "quantity": "1",
+      "rarity": "1/682.7",
+      "itemId": 2485
+    },
+    {
+      "name": "Grimy dwarf weed",
+      "quantity": "1",
+      "rarity": "1/682.7",
+      "itemId": 217
+    },
+    {
+      "name": "Toadflax seed",
+      "quantity": "1",
+      "rarity": "1/642.7",
+      "itemId": 5296
+    },
+    {
+      "name": "Irit seed",
+      "quantity": "1",
+      "rarity": "1/944",
+      "itemId": 5297
+    },
+    {
+      "name": "Belladonna seed",
+      "quantity": "1",
+      "rarity": "1/974.5",
+      "itemId": 5281
+    },
+    {
+      "name": "Poison ivy seed",
+      "quantity": "1",
+      "rarity": "1/1373.1",
+      "itemId": 5106
+    },
+    {
+      "name": "Avantoe seed",
+      "quantity": "1",
+      "rarity": "1/1373.1",
+      "itemId": 5298
+    },
+    {
+      "name": "Cactus seed",
+      "quantity": "1",
+      "rarity": "1/1438.5",
+      "itemId": 5280
+    },
+    {
+      "name": "Potato cactus seed",
+      "quantity": "1",
+      "rarity": "1/2013.9",
+      "itemId": 22873
+    },
+    {
+      "name": "Kwuarm seed",
+      "quantity": "1",
+      "rarity": "1/2013.9",
+      "itemId": 5299
+    },
+    {
+      "name": "Snapdragon seed",
+      "quantity": "1",
+      "rarity": "1/3020.8",
+      "itemId": 5300
+    },
+    {
+      "name": "Cadantine seed",
+      "quantity": "1",
+      "rarity": "1/4315.4",
+      "itemId": 5301
+    },
+    {
+      "name": "Lantadyme seed",
+      "quantity": "1",
+      "rarity": "1/6041.6",
+      "itemId": 5302
+    },
+    {
+      "name": "Snape grass seed",
+      "quantity": "3",
+      "rarity": "1/7552",
+      "itemId": 22879
+    },
+    {
+      "name": "Dwarf weed seed",
+      "quantity": "1",
+      "rarity": "1/10069.3",
+      "itemId": 5303
+    },
+    {
+      "name": "Torstol seed",
+      "quantity": "1",
+      "rarity": "1/15104",
+      "itemId": 5304
+    },
+    {
+      "name": "Air talisman",
+      "quantity": "1",
+      "rarity": "1/89.6",
+      "itemId": 1438
+    },
+    {
+      "name": "Body talisman",
+      "quantity": "1",
+      "rarity": "1/89.6",
+      "itemId": 1446
+    },
+    {
+      "name": "Earth talisman",
+      "quantity": "1",
+      "rarity": "1/89.6",
+      "itemId": 1440
+    },
+    {
+      "name": "Fire talisman",
+      "quantity": "1",
+      "rarity": "1/89.6",
+      "itemId": 1442
+    },
+    {
+      "name": "Mind talisman",
+      "quantity": "1",
+      "rarity": "1/89.6",
+      "itemId": 1448
+    },
+    {
+      "name": "Water talisman",
+      "quantity": "1",
+      "rarity": "1/89.6",
+      "itemId": 1444
+    },
+    {
+      "name": "Cosmic talisman",
+      "quantity": "1",
+      "rarity": "1/224",
+      "itemId": 1454
+    },
+    {
+      "name": "Chaos talisman",
+      "quantity": "1",
+      "rarity": "1/298.7",
+      "itemId": 1452
+    },
+    {
+      "name": "Nature talisman",
+      "quantity": "1",
+      "rarity": "1/298.7",
+      "itemId": 1462
+    },
+    {
+      "name": "Coins",
+      "quantity": "1–140",
+      "rarity": "10/128",
+      "itemId": 995
+    },
+    {
+      "name": "Raw lobster",
+      "quantity": "1",
+      "rarity": "10/128",
+      "itemId": 377
+    },
+    {
+      "name": "Raw bass",
+      "quantity": "1",
+      "rarity": "10/128",
+      "itemId": 363
+    },
+    {
+      "name": "Tinderbox",
+      "quantity": "1",
+      "rarity": "10/128",
+      "itemId": 590
+    },
+    {
+      "name": "Casket",
+      "quantity": "1",
+      "rarity": "2/128",
+      "itemId": 405
+    },
+    {
+      "name": "Rock-shell splinter",
+      "quantity": "1",
+      "rarity": "2/128",
+      "itemId": 6161
+    },
+    {
+      "name": "Rock-shell chunk",
+      "quantity": "1",
+      "rarity": "2/128",
+      "itemId": 6157
+    },
+    {
+      "name": "Rock-shell shard",
+      "quantity": "1",
+      "rarity": "2/128",
+      "itemId": 6159
+    },
+    {
+      "name": "Uncut sapphire",
+      "quantity": "1",
+      "rarity": "1/512",
+      "itemId": 1623
+    },
+    {
+      "name": "Uncut emerald",
+      "quantity": "1",
+      "rarity": "1/1024",
+      "itemId": 1621
+    },
+    {
+      "name": "Uncut ruby",
+      "quantity": "1",
+      "rarity": "1/2048",
+      "itemId": 1619
+    },
+    {
+      "name": "Uncut diamond",
+      "quantity": "1",
+      "rarity": "1/8192",
+      "itemId": 1617
+    },
+    {
+      "name": "Nature talisman",
+      "quantity": "1",
+      "rarity": "1/5461.33",
+      "itemId": 1462
+    },
+    {
+      "name": "Loop half of key",
+      "quantity": "1",
+      "rarity": "1/16384",
+      "itemId": 987
+    },
+    {
+      "name": "Tooth half of key",
+      "quantity": "1",
+      "rarity": "1/16384",
+      "itemId": 985
+    },
+    {
+      "name": "Rune javelin",
+      "quantity": "5",
+      "rarity": "1/16384",
+      "itemId": 830
+    },
+    {
+      "name": "Rune spear",
+      "quantity": "1",
+      "rarity": "1/262144",
+      "itemId": 1247
+    },
+    {
+      "name": "Shield left half",
+      "quantity": "1",
+      "rarity": "1/524288",
+      "itemId": 2366
+    },
+    {
+      "name": "Dragon spear",
+      "quantity": "1",
+      "rarity": "1/699050.67",
+      "itemId": 1249
+    },
+    {
+      "name": "Clue scroll (medium)",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 2829
+    },
+    {
+      "name": "Ancient shard",
+      "quantity": "1",
+      "rarity": "1/200",
+      "itemId": 19677
+    },
+    {
+      "name": "Dark totem base",
+      "quantity": "1",
+      "rarity": "1/300",
+      "itemId": 19679
+    },
+    {
+      "name": "Dark totem middle",
+      "quantity": "1",
+      "rarity": "1/300",
+      "itemId": 19681
+    },
+    {
+      "name": "Dark totem top",
+      "quantity": "1",
+      "rarity": "1/300",
+      "itemId": 19683
+    }
+  ]
+}

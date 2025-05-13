@@ -1,0 +1,12 @@
+{
+  "id": 4973,
+  "name": "Gnome troop",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    }
+  ]
+}

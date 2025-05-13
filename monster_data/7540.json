@@ -1,0 +1,42 @@
+{
+  "id": 7540,
+  "name": "Tekton",
+  "drops": [
+    {
+      "name": "Tekton's journal",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 20890
+    },
+    {
+      "name": "Stinkhorn mushroom",
+      "quantity": "5",
+      "rarity": "Always",
+      "itemId": 20910
+    },
+    {
+      "name": "Overload (+)(4)",
+      "quantity": "2",
+      "rarity": "Always",
+      "itemId": 20996
+    },
+    {
+      "name": "Prayer enhance (+)(4)",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 20972
+    },
+    {
+      "name": "Revitalisation (+)(4)",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 20960
+    },
+    {
+      "name": "Onyx",
+      "quantity": "1",
+      "rarity": "1/450",
+      "itemId": 6573
+    }
+  ]
+}

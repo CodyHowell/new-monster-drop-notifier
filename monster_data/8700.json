@@ -1,0 +1,132 @@
+{
+  "id": 8700,
+  "name": "Giant frog",
+  "drops": [
+    {
+      "name": "Big bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 532
+    },
+    {
+      "name": "Clue scroll (beginner)",
+      "quantity": "1",
+      "rarity": "1/64",
+      "itemId": 23182
+    },
+    {
+      "name": "Long bone",
+      "quantity": "1",
+      "rarity": "1/400",
+      "itemId": 10976
+    },
+    {
+      "name": "Curved bone",
+      "quantity": "1",
+      "rarity": "1/5012.5",
+      "itemId": 10977
+    },
+    {
+      "name": "Big bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 532
+    },
+    {
+      "name": "Mithril spear",
+      "quantity": "1",
+      "rarity": "2/128",
+      "itemId": 1243
+    },
+    {
+      "name": "Nature rune",
+      "quantity": "1",
+      "rarity": "10/128",
+      "itemId": 561
+    },
+    {
+      "name": "Nature rune",
+      "quantity": "3",
+      "rarity": "10/128",
+      "itemId": 561
+    },
+    {
+      "name": "Nature rune",
+      "quantity": "9",
+      "rarity": "10/128",
+      "itemId": 561
+    },
+    {
+      "name": "Blood rune",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 565
+    },
+    {
+      "name": "Cosmic rune",
+      "quantity": "5",
+      "rarity": "3/128",
+      "itemId": 564
+    },
+    {
+      "name": "Iron arrow",
+      "quantity": "22",
+      "rarity": "2/128",
+      "itemId": 884
+    },
+    {
+      "name": "Steel arrow",
+      "quantity": "45",
+      "rarity": "1/128",
+      "itemId": 886
+    },
+    {
+      "name": "Coins",
+      "quantity": "2",
+      "rarity": "8/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "30",
+      "rarity": "10/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "37",
+      "rarity": "5/128",
+      "itemId": 995
+    },
+    {
+      "name": "Giant frog legs",
+      "quantity": "1",
+      "rarity": "64/128",
+      "itemId": 4517
+    },
+    {
+      "name": "Coal",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 453
+    },
+    {
+      "name": "Spinach roll",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 1969
+    },
+    {
+      "name": "Long bone",
+      "quantity": "1",
+      "rarity": "1/400",
+      "itemId": 10976
+    },
+    {
+      "name": "Curved bone",
+      "quantity": "1",
+      "rarity": "1/5012.5",
+      "itemId": 10977
+    }
+  ]
+}

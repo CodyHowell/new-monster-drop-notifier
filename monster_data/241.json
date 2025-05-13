@@ -1,0 +1,36 @@
+{
+  "id": 241,
+  "name": "Baby blue dragon",
+  "drops": [
+    {
+      "name": "Babydragon bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 534
+    },
+    {
+      "name": "Baby dragon bone",
+      "quantity": "1",
+      "rarity": "1/4",
+      "itemId": 7839
+    },
+    {
+      "name": "Scaly blue dragonhide",
+      "quantity": "1",
+      "rarity": "1/100",
+      "itemId": 27897
+    },
+    {
+      "name": "Frozen tear",
+      "quantity": "6",
+      "rarity": "Rare",
+      "itemId": 29895
+    },
+    {
+      "name": "Brimstone key",
+      "quantity": "1",
+      "rarity": "1/640",
+      "itemId": 23083
+    }
+  ]
+}

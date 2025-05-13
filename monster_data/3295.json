@@ -1,0 +1,60 @@
+{
+  "id": 3295,
+  "name": "Hero",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    },
+    {
+      "name": "Coins",
+      "quantity": "200",
+      "rarity": "105/128",
+      "itemId": 995
+    },
+    {
+      "name": "Death rune",
+      "quantity": "2",
+      "rarity": "8/128",
+      "itemId": 560
+    },
+    {
+      "name": "Jug of wine",
+      "quantity": "1",
+      "rarity": "6/128",
+      "itemId": 1993
+    },
+    {
+      "name": "Blood rune",
+      "quantity": "1",
+      "rarity": "5/128",
+      "itemId": 565
+    },
+    {
+      "name": "Diamond",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 1601
+    },
+    {
+      "name": "Fire orb",
+      "quantity": "1",
+      "rarity": "2/128",
+      "itemId": 569
+    },
+    {
+      "name": "Gold ore",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 444
+    },
+    {
+      "name": "Clue scroll (elite)",
+      "quantity": "1",
+      "rarity": "1/1400",
+      "itemId": 21524
+    }
+  ]
+}

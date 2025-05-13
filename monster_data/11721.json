@@ -1,0 +1,18 @@
+{
+  "id": 11721,
+  "name": "Kephri",
+  "drops": [
+    {
+      "name": "Scabaras' capture",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 27306
+    },
+    {
+      "name": "Scarab dung",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 27214
+    }
+  ]
+}

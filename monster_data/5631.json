@@ -1,0 +1,12 @@
+{
+  "id": 5631,
+  "name": "Riyl shadow (Temple Trekking)",
+  "drops": [
+    {
+      "name": "Riyl remains",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 3400
+    }
+  ]
+}

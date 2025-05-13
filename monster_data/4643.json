@@ -1,0 +1,12 @@
+{
+  "id": 4643,
+  "name": "Shantay Guard",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    }
+  ]
+}

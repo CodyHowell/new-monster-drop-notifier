@@ -1,0 +1,696 @@
+{
+  "id": 2005,
+  "name": "Lesser demon",
+  "drops": [
+    {
+      "name": "Vile ashes",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 25769
+    },
+    {
+      "name": "Steel full helm",
+      "quantity": "1",
+      "rarity": "4/128",
+      "itemId": 1157
+    },
+    {
+      "name": "Steel axe",
+      "quantity": "1",
+      "rarity": "4/128",
+      "itemId": 1353
+    },
+    {
+      "name": "Steel scimitar",
+      "quantity": "1",
+      "rarity": "3/128",
+      "itemId": 1325
+    },
+    {
+      "name": "Mithril sq shield",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 1181
+    },
+    {
+      "name": "Mithril chainbody",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 1109
+    },
+    {
+      "name": "Rune med helm",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 1147
+    },
+    {
+      "name": "Fire rune",
+      "quantity": "60",
+      "rarity": "8/128",
+      "itemId": 554
+    },
+    {
+      "name": "Chaos rune",
+      "quantity": "12",
+      "rarity": "5/128",
+      "itemId": 562
+    },
+    {
+      "name": "Death rune",
+      "quantity": "3",
+      "rarity": "3/128",
+      "itemId": 560
+    },
+    {
+      "name": "Fire rune",
+      "quantity": "30",
+      "rarity": "1/128",
+      "itemId": 554
+    },
+    {
+      "name": "Grimy guam leaf",
+      "quantity": "1",
+      "rarity": "1/512",
+      "itemId": 199
+    },
+    {
+      "name": "Grimy marrentill",
+      "quantity": "1",
+      "rarity": "1/682.7",
+      "itemId": 201
+    },
+    {
+      "name": "Grimy tarromin",
+      "quantity": "1",
+      "rarity": "1/910.2",
+      "itemId": 203
+    },
+    {
+      "name": "Grimy harralander",
+      "quantity": "1",
+      "rarity": "1/1170.3",
+      "itemId": 205
+    },
+    {
+      "name": "Grimy ranarr weed",
+      "quantity": "1",
+      "rarity": "1/1489.5",
+      "itemId": 207
+    },
+    {
+      "name": "Grimy irit leaf",
+      "quantity": "1",
+      "rarity": "1/2048",
+      "itemId": 209
+    },
+    {
+      "name": "Grimy avantoe",
+      "quantity": "1",
+      "rarity": "1/2730.7",
+      "itemId": 211
+    },
+    {
+      "name": "Grimy kwuarm",
+      "quantity": "1",
+      "rarity": "1/3276.8",
+      "itemId": 213
+    },
+    {
+      "name": "Grimy cadantine",
+      "quantity": "1",
+      "rarity": "1/4096",
+      "itemId": 215
+    },
+    {
+      "name": "Grimy lantadyme",
+      "quantity": "1",
+      "rarity": "1/5461.3",
+      "itemId": 2485
+    },
+    {
+      "name": "Grimy dwarf weed",
+      "quantity": "1",
+      "rarity": "1/5461.3",
+      "itemId": 217
+    },
+    {
+      "name": "Coins",
+      "quantity": "120",
+      "rarity": "40/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "40",
+      "rarity": "29/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "200",
+      "rarity": "10/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "10",
+      "rarity": "7/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "450",
+      "rarity": "1/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "10",
+      "rarity": "1/128",
+      "itemId": 995
+    },
+    {
+      "name": "Jug of wine",
+      "quantity": "1",
+      "rarity": "3/128",
+      "itemId": 1993
+    },
+    {
+      "name": "Gold ore",
+      "quantity": "1",
+      "rarity": "2/128",
+      "itemId": 444
+    },
+    {
+      "name": "Uncut sapphire",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 1623
+    },
+    {
+      "name": "Uncut emerald",
+      "quantity": "1",
+      "rarity": "1/256",
+      "itemId": 1621
+    },
+    {
+      "name": "Uncut ruby",
+      "quantity": "1",
+      "rarity": "1/512",
+      "itemId": 1619
+    },
+    {
+      "name": "Uncut diamond",
+      "quantity": "1",
+      "rarity": "1/2048",
+      "itemId": 1617
+    },
+    {
+      "name": "Chaos talisman",
+      "quantity": "1",
+      "rarity": "1/1365.33",
+      "itemId": 1452
+    },
+    {
+      "name": "Nature talisman",
+      "quantity": "1",
+      "rarity": "1/1365.33",
+      "itemId": 1462
+    },
+    {
+      "name": "Loop half of key",
+      "quantity": "1",
+      "rarity": "1/4096",
+      "itemId": 987
+    },
+    {
+      "name": "Tooth half of key",
+      "quantity": "1",
+      "rarity": "1/4096",
+      "itemId": 985
+    },
+    {
+      "name": "Rune javelin",
+      "quantity": "5",
+      "rarity": "1/4096",
+      "itemId": 830
+    },
+    {
+      "name": "Rune spear",
+      "quantity": "1",
+      "rarity": "1/65536",
+      "itemId": 1247
+    },
+    {
+      "name": "Shield left half",
+      "quantity": "1",
+      "rarity": "1/131072",
+      "itemId": 2366
+    },
+    {
+      "name": "Dragon spear",
+      "quantity": "1",
+      "rarity": "1/174762.67",
+      "itemId": 1249
+    },
+    {
+      "name": "Looting bag",
+      "quantity": "1",
+      "rarity": "1/3",
+      "itemId": 11941
+    },
+    {
+      "name": "Ensouled demon head",
+      "quantity": "1",
+      "rarity": "1/50",
+      "itemId": 13502
+    },
+    {
+      "name": "Lesser demon champion scroll",
+      "quantity": "1",
+      "rarity": "1/5000",
+      "itemId": 6805
+    },
+    {
+      "name": "Ancient shard",
+      "quantity": "1",
+      "rarity": "1/275",
+      "itemId": 19677
+    },
+    {
+      "name": "Dark totem base",
+      "quantity": "1",
+      "rarity": "1/413",
+      "itemId": 19679
+    },
+    {
+      "name": "Dark totem middle",
+      "quantity": "1",
+      "rarity": "1/413",
+      "itemId": 19681
+    },
+    {
+      "name": "Dark totem top",
+      "quantity": "1",
+      "rarity": "1/413",
+      "itemId": 19683
+    },
+    {
+      "name": "Larran's key",
+      "quantity": "1",
+      "rarity": "1/98",
+      "itemId": 23490
+    },
+    {
+      "name": "Slayer's enchantment",
+      "quantity": "1",
+      "rarity": "1/256",
+      "itemId": 21257
+    },
+    {
+      "name": "Vile ashes",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 25769
+    },
+    {
+      "name": "Black full helm",
+      "quantity": "1",
+      "rarity": "4/39",
+      "itemId": 1165
+    },
+    {
+      "name": "Mithril axe",
+      "quantity": "1",
+      "rarity": "4/39",
+      "itemId": 1355
+    },
+    {
+      "name": "Adamant dagger",
+      "quantity": "1",
+      "rarity": "1/39",
+      "itemId": 1211
+    },
+    {
+      "name": "Adamant chainbody",
+      "quantity": "1",
+      "rarity": "1/39",
+      "itemId": 1111
+    },
+    {
+      "name": "Adamant platebody",
+      "quantity": "1",
+      "rarity": "1/39",
+      "itemId": 1123
+    },
+    {
+      "name": "Rune med helm",
+      "quantity": "1",
+      "rarity": "1/39",
+      "itemId": 1147
+    },
+    {
+      "name": "Chaos rune",
+      "quantity": "20",
+      "rarity": "5/39",
+      "itemId": 562
+    },
+    {
+      "name": "Death rune",
+      "quantity": "10",
+      "rarity": "3/39",
+      "itemId": 560
+    },
+    {
+      "name": "Death rune",
+      "quantity": "30",
+      "rarity": "1/39",
+      "itemId": 560
+    },
+    {
+      "name": "Blood rune",
+      "quantity": "10",
+      "rarity": "1/39",
+      "itemId": 565
+    },
+    {
+      "name": "Grimy guam leaf",
+      "quantity": "1",
+      "rarity": "1/156",
+      "itemId": 199
+    },
+    {
+      "name": "Grimy marrentill",
+      "quantity": "1",
+      "rarity": "1/208",
+      "itemId": 201
+    },
+    {
+      "name": "Grimy tarromin",
+      "quantity": "1",
+      "rarity": "1/277.3",
+      "itemId": 203
+    },
+    {
+      "name": "Grimy harralander",
+      "quantity": "1",
+      "rarity": "1/356.6",
+      "itemId": 205
+    },
+    {
+      "name": "Grimy ranarr weed",
+      "quantity": "1",
+      "rarity": "1/453.8",
+      "itemId": 207
+    },
+    {
+      "name": "Grimy irit leaf",
+      "quantity": "1",
+      "rarity": "1/624",
+      "itemId": 209
+    },
+    {
+      "name": "Grimy avantoe",
+      "quantity": "1",
+      "rarity": "1/832",
+      "itemId": 211
+    },
+    {
+      "name": "Grimy kwuarm",
+      "quantity": "1",
+      "rarity": "1/998.4",
+      "itemId": 213
+    },
+    {
+      "name": "Grimy cadantine",
+      "quantity": "1",
+      "rarity": "1/1248",
+      "itemId": 215
+    },
+    {
+      "name": "Grimy lantadyme",
+      "quantity": "1",
+      "rarity": "1/1664",
+      "itemId": 2485
+    },
+    {
+      "name": "Grimy dwarf weed",
+      "quantity": "1",
+      "rarity": "1/1664",
+      "itemId": 217
+    },
+    {
+      "name": "Coins",
+      "quantity": "100",
+      "rarity": "6/39",
+      "itemId": 995
+    },
+    {
+      "name": "Jug of wine",
+      "quantity": "1",
+      "rarity": "3/39",
+      "itemId": 1993
+    },
+    {
+      "name": "Gold ore",
+      "quantity": "5",
+      "rarity": "2/39",
+      "itemId": 444
+    },
+    {
+      "name": "Uncut sapphire",
+      "quantity": "1",
+      "rarity": "1/31.2",
+      "itemId": 1623
+    },
+    {
+      "name": "Uncut emerald",
+      "quantity": "1",
+      "rarity": "1/62.4",
+      "itemId": 1621
+    },
+    {
+      "name": "Uncut ruby",
+      "quantity": "1",
+      "rarity": "1/124.8",
+      "itemId": 1619
+    },
+    {
+      "name": "Uncut diamond",
+      "quantity": "1",
+      "rarity": "1/499.2",
+      "itemId": 1617
+    },
+    {
+      "name": "Chaos talisman",
+      "quantity": "1",
+      "rarity": "1/332.8",
+      "itemId": 1452
+    },
+    {
+      "name": "Loop half of key",
+      "quantity": "1",
+      "rarity": "1/998.4",
+      "itemId": 987
+    },
+    {
+      "name": "Tooth half of key",
+      "quantity": "1",
+      "rarity": "1/998.4",
+      "itemId": 985
+    },
+    {
+      "name": "Rune javelin",
+      "quantity": "5",
+      "rarity": "1/998.4",
+      "itemId": 830
+    },
+    {
+      "name": "Rune spear",
+      "quantity": "1",
+      "rarity": "1/15974.4",
+      "itemId": 1247
+    },
+    {
+      "name": "Shield left half",
+      "quantity": "1",
+      "rarity": "1/31948.8",
+      "itemId": 2366
+    },
+    {
+      "name": "Dragon spear",
+      "quantity": "1",
+      "rarity": "1/42598.4",
+      "itemId": 1249
+    },
+    {
+      "name": "Looting bag",
+      "quantity": "1",
+      "rarity": "1/3",
+      "itemId": 11941
+    },
+    {
+      "name": "Ensouled demon head",
+      "quantity": "1",
+      "rarity": "1/50",
+      "itemId": 13502
+    },
+    {
+      "name": "Lesser demon champion scroll",
+      "quantity": "1",
+      "rarity": "1/5000",
+      "itemId": 6805
+    },
+    {
+      "name": "Larran's key",
+      "quantity": "1",
+      "rarity": "1/83",
+      "itemId": 23490
+    },
+    {
+      "name": "Slayer's enchantment",
+      "quantity": "1",
+      "rarity": "1/232",
+      "itemId": 21257
+    },
+    {
+      "name": "Blighted anglerfish",
+      "quantity": "1–2",
+      "rarity": "~1/11.6",
+      "itemId": 24592
+    },
+    {
+      "name": "Blighted manta ray",
+      "quantity": "1–2",
+      "rarity": "~1/11.6",
+      "itemId": 24589
+    },
+    {
+      "name": "Blighted karambwan",
+      "quantity": "1–2",
+      "rarity": "~1/17.3",
+      "itemId": 24595
+    },
+    {
+      "name": "Blighted teleport spell sack",
+      "quantity": "1–10",
+      "rarity": "~1/17.3",
+      "itemId": 24615
+    },
+    {
+      "name": "Blighted ancient ice sack",
+      "quantity": "1–10",
+      "rarity": "~1/17.3",
+      "itemId": 24607
+    },
+    {
+      "name": "Blighted vengeance sack",
+      "quantity": "1–10",
+      "rarity": "~1/17.3",
+      "itemId": 24621
+    },
+    {
+      "name": "Blighted entangle sack",
+      "quantity": "1–10",
+      "rarity": "~1/8.7",
+      "itemId": 24613
+    },
+    {
+      "name": "Blighted super restore(4)",
+      "quantity": "1",
+      "rarity": "~1/34.7",
+      "itemId": 24598
+    },
+    {
+      "name": "Revenant cave teleport",
+      "quantity": "1",
+      "rarity": "~1/34.7",
+      "itemId": 21802
+    },
+    {
+      "name": "Dareeyak teleport (tablet)",
+      "quantity": "1",
+      "rarity": "~1/173.4",
+      "itemId": 12777
+    },
+    {
+      "name": "Wilderness crabs teleport",
+      "quantity": "1",
+      "rarity": "~1/173.4",
+      "itemId": 24251
+    },
+    {
+      "name": "Carrallanger teleport (tablet)",
+      "quantity": "1",
+      "rarity": "~1/173.4",
+      "itemId": 12776
+    },
+    {
+      "name": "Paddewwa teleport (tablet)",
+      "quantity": "1",
+      "rarity": "~1/173.4",
+      "itemId": 12781
+    },
+    {
+      "name": "Annakarl teleport (tablet)",
+      "quantity": "1",
+      "rarity": "~1/173.4",
+      "itemId": 12775
+    },
+    {
+      "name": "Lassar teleport (tablet)",
+      "quantity": "1",
+      "rarity": "~1/173.4",
+      "itemId": 12780
+    },
+    {
+      "name": "Kharyrll teleport (tablet)",
+      "quantity": "1",
+      "rarity": "~1/173.4",
+      "itemId": 12779
+    },
+    {
+      "name": "Senntisten teleport (tablet)",
+      "quantity": "1",
+      "rarity": "~1/173.4",
+      "itemId": 12782
+    },
+    {
+      "name": "Ghorrock teleport (tablet)",
+      "quantity": "1",
+      "rarity": "~1/173.4",
+      "itemId": 12778
+    },
+    {
+      "name": "Target teleport",
+      "quantity": "1",
+      "rarity": "~1/173.4",
+      "itemId": 24336
+    },
+    {
+      "name": "Magic shortbow scroll",
+      "quantity": "1",
+      "rarity": "~1/433.6",
+      "itemId": 12786
+    },
+    {
+      "name": "Ring of wealth scroll",
+      "quantity": "1",
+      "rarity": "~1/433.6",
+      "itemId": 12783
+    },
+    {
+      "name": "Trouver parchment",
+      "quantity": "2",
+      "rarity": "~1/1734.4",
+      "itemId": 24187
+    },
+    {
+      "name": "Looting bag note",
+      "quantity": "1",
+      "rarity": "~1/1734.4",
+      "itemId": 24585
+    }
+  ]
+}

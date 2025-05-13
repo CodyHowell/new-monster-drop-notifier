@@ -1,0 +1,114 @@
+{
+  "id": 2207,
+  "name": "Growler",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    },
+    {
+      "name": "Saradomin sword",
+      "quantity": "1",
+      "rarity": "3/16129",
+      "itemId": 11838
+    },
+    {
+      "name": "Coins",
+      "quantity": "1400–1500",
+      "rarity": "124/16129",
+      "itemId": 995
+    },
+    {
+      "name": "Godsword shard 1",
+      "quantity": "1",
+      "rarity": "1/1524",
+      "itemId": 11818
+    },
+    {
+      "name": "Godsword shard 2",
+      "quantity": "1",
+      "rarity": "1/1524",
+      "itemId": 11820
+    },
+    {
+      "name": "Godsword shard 3",
+      "quantity": "1",
+      "rarity": "1/1524",
+      "itemId": 11822
+    },
+    {
+      "name": "Coins",
+      "quantity": "1300–1400",
+      "rarity": "9/1524",
+      "itemId": 995
+    },
+    {
+      "name": "Steel arrow",
+      "quantity": "95–100",
+      "rarity": "8/127",
+      "itemId": 886
+    },
+    {
+      "name": "Steel dart",
+      "quantity": "95–100",
+      "rarity": "8/127",
+      "itemId": 808
+    },
+    {
+      "name": "Law rune",
+      "quantity": "5–10",
+      "rarity": "8/127",
+      "itemId": 563
+    },
+    {
+      "name": "Monkfish",
+      "quantity": "3",
+      "rarity": "8/127",
+      "itemId": 7946
+    },
+    {
+      "name": "Summer pie",
+      "quantity": "1",
+      "rarity": "8/127",
+      "itemId": 7218
+    },
+    {
+      "name": "Coins",
+      "quantity": "1300–1400",
+      "rarity": "62/127",
+      "itemId": 995
+    },
+    {
+      "name": "Grimy ranarr weed",
+      "quantity": "1",
+      "rarity": "8/127",
+      "itemId": 207
+    },
+    {
+      "name": "Snape grass",
+      "quantity": "5",
+      "rarity": "7/127",
+      "itemId": 231
+    },
+    {
+      "name": "Unicorn horn",
+      "quantity": "6",
+      "rarity": "8/127",
+      "itemId": 237
+    },
+    {
+      "name": "Frozen key piece (saradomin)",
+      "quantity": "1",
+      "rarity": "1/20",
+      "itemId": 26364
+    },
+    {
+      "name": "Clue scroll (hard)",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 3550
+    }
+  ]
+}

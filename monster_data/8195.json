@@ -1,0 +1,582 @@
+{
+  "id": 8195,
+  "name": "Bryophyta",
+  "drops": [
+    {
+      "name": "Big bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 532
+    },
+    {
+      "name": "Clue scroll (beginner)",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 23182
+    },
+    {
+      "name": "Ensouled giant head",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 13475
+    },
+    {
+      "name": "Rune longsword",
+      "quantity": "1",
+      "rarity": "6/118",
+      "itemId": 1303
+    },
+    {
+      "name": "Rune med helm",
+      "quantity": "2",
+      "rarity": "6/118",
+      "itemId": 1147
+    },
+    {
+      "name": "Rune chainbody",
+      "quantity": "1",
+      "rarity": "6/118",
+      "itemId": 1113
+    },
+    {
+      "name": "Rune plateskirt",
+      "quantity": "1",
+      "rarity": "6/118",
+      "itemId": 1093
+    },
+    {
+      "name": "Rune platelegs",
+      "quantity": "1",
+      "rarity": "6/118",
+      "itemId": 1079
+    },
+    {
+      "name": "Rune sq shield",
+      "quantity": "1",
+      "rarity": "6/118",
+      "itemId": 1185
+    },
+    {
+      "name": "Rune sword",
+      "quantity": "2",
+      "rarity": "5/118",
+      "itemId": 1289
+    },
+    {
+      "name": "Adamant platebody",
+      "quantity": "5",
+      "rarity": "3/118",
+      "itemId": 1123
+    },
+    {
+      "name": "Battlestaff",
+      "quantity": "3",
+      "rarity": "3/118",
+      "itemId": 1391
+    },
+    {
+      "name": "Adamant kiteshield",
+      "quantity": "3",
+      "rarity": "1/118",
+      "itemId": 1199
+    },
+    {
+      "name": "Nature rune",
+      "quantity": "100",
+      "rarity": "8/118",
+      "itemId": 561
+    },
+    {
+      "name": "Cosmic rune",
+      "quantity": "100",
+      "rarity": "6/118",
+      "itemId": 564
+    },
+    {
+      "name": "Law rune",
+      "quantity": "100",
+      "rarity": "6/118",
+      "itemId": 563
+    },
+    {
+      "name": "Death rune",
+      "quantity": "100",
+      "rarity": "5/118",
+      "itemId": 560
+    },
+    {
+      "name": "Chaos rune",
+      "quantity": "200",
+      "rarity": "6/118",
+      "itemId": 562
+    },
+    {
+      "name": "Chaos rune",
+      "quantity": "100",
+      "rarity": "5/118",
+      "itemId": 562
+    },
+    {
+      "name": "Blood rune",
+      "quantity": "100",
+      "rarity": "1/118",
+      "itemId": 565
+    },
+    {
+      "name": "Adamant arrow",
+      "quantity": "100",
+      "rarity": "1/118",
+      "itemId": 890
+    },
+    {
+      "name": "Grimy guam leaf",
+      "quantity": "1",
+      "rarity": "1/94.4",
+      "itemId": 199
+    },
+    {
+      "name": "Grimy marrentill",
+      "quantity": "1",
+      "rarity": "1/125.9",
+      "itemId": 201
+    },
+    {
+      "name": "Grimy tarromin",
+      "quantity": "1",
+      "rarity": "1/167.8",
+      "itemId": 203
+    },
+    {
+      "name": "Grimy harralander",
+      "quantity": "1",
+      "rarity": "1/215.8",
+      "itemId": 205
+    },
+    {
+      "name": "Grimy ranarr weed",
+      "quantity": "1",
+      "rarity": "1/274.6",
+      "itemId": 207
+    },
+    {
+      "name": "Grimy irit leaf",
+      "quantity": "1",
+      "rarity": "1/377.6",
+      "itemId": 209
+    },
+    {
+      "name": "Grimy avantoe",
+      "quantity": "1",
+      "rarity": "1/503.5",
+      "itemId": 211
+    },
+    {
+      "name": "Grimy kwuarm",
+      "quantity": "1",
+      "rarity": "1/604.2",
+      "itemId": 213
+    },
+    {
+      "name": "Grimy cadantine",
+      "quantity": "1",
+      "rarity": "1/755.2",
+      "itemId": 215
+    },
+    {
+      "name": "Grimy lantadyme",
+      "quantity": "1",
+      "rarity": "1/1006.9",
+      "itemId": 2485
+    },
+    {
+      "name": "Grimy dwarf weed",
+      "quantity": "1",
+      "rarity": "1/1006.9",
+      "itemId": 217
+    },
+    {
+      "name": "Limpwurt seed",
+      "quantity": "1",
+      "rarity": "1/150.4",
+      "itemId": 5100
+    },
+    {
+      "name": "Strawberry seed",
+      "quantity": "1",
+      "rarity": "1/157.3",
+      "itemId": 5323
+    },
+    {
+      "name": "Marrentill seed",
+      "quantity": "1",
+      "rarity": "1/164.9",
+      "itemId": 5292
+    },
+    {
+      "name": "Jangerberry seed",
+      "quantity": "1",
+      "rarity": "1/224",
+      "itemId": 5104
+    },
+    {
+      "name": "Tarromin seed",
+      "quantity": "1",
+      "rarity": "1/242.5",
+      "itemId": 5293
+    },
+    {
+      "name": "Wildblood seed",
+      "quantity": "1",
+      "rarity": "1/248.3",
+      "itemId": 5311
+    },
+    {
+      "name": "Watermelon seed",
+      "quantity": "1",
+      "rarity": "1/327.2",
+      "itemId": 5321
+    },
+    {
+      "name": "Harralander seed",
+      "quantity": "1",
+      "rarity": "1/368",
+      "itemId": 5294
+    },
+    {
+      "name": "Snape grass seed",
+      "quantity": "1",
+      "rarity": "1/515.3",
+      "itemId": 22879
+    },
+    {
+      "name": "Ranarr seed",
+      "quantity": "1",
+      "rarity": "1/528.5",
+      "itemId": 5295
+    },
+    {
+      "name": "Whiteberry seed",
+      "quantity": "1",
+      "rarity": "1/606.2",
+      "itemId": 5105
+    },
+    {
+      "name": "Mushroom spore",
+      "quantity": "1",
+      "rarity": "1/710.7",
+      "itemId": 5282
+    },
+    {
+      "name": "Toadflax seed",
+      "quantity": "1",
+      "rarity": "1/763.4",
+      "itemId": 5296
+    },
+    {
+      "name": "Belladonna seed",
+      "quantity": "1",
+      "rarity": "1/1145",
+      "itemId": 5281
+    },
+    {
+      "name": "Irit seed",
+      "quantity": "1",
+      "rarity": "1/1145",
+      "itemId": 5297
+    },
+    {
+      "name": "Poison ivy seed",
+      "quantity": "1",
+      "rarity": "1/1585.4",
+      "itemId": 5106
+    },
+    {
+      "name": "Avantoe seed",
+      "quantity": "1",
+      "rarity": "1/1717.6",
+      "itemId": 5298
+    },
+    {
+      "name": "Cactus seed",
+      "quantity": "1",
+      "rarity": "1/1717.6",
+      "itemId": 5280
+    },
+    {
+      "name": "Kwuarm seed",
+      "quantity": "1",
+      "rarity": "1/2290.1",
+      "itemId": 5299
+    },
+    {
+      "name": "Potato cactus seed",
+      "quantity": "1",
+      "rarity": "1/2576.3",
+      "itemId": 22873
+    },
+    {
+      "name": "Snapdragon seed",
+      "quantity": "1",
+      "rarity": "1/4122.1",
+      "itemId": 5300
+    },
+    {
+      "name": "Cadantine seed",
+      "quantity": "1",
+      "rarity": "1/5152.7",
+      "itemId": 5301
+    },
+    {
+      "name": "Lantadyme seed",
+      "quantity": "1",
+      "rarity": "1/6870.2",
+      "itemId": 5302
+    },
+    {
+      "name": "Dwarf weed seed",
+      "quantity": "1",
+      "rarity": "1/10305.3",
+      "itemId": 5303
+    },
+    {
+      "name": "Torstol seed",
+      "quantity": "1",
+      "rarity": "1/20610.7",
+      "itemId": 5304
+    },
+    {
+      "name": "Runite bar",
+      "quantity": "2",
+      "rarity": "6/118",
+      "itemId": 2363
+    },
+    {
+      "name": "Uncut ruby",
+      "quantity": "5",
+      "rarity": "4/118",
+      "itemId": 1619
+    },
+    {
+      "name": "Uncut diamond",
+      "quantity": "5",
+      "rarity": "4/118",
+      "itemId": 1617
+    },
+    {
+      "name": "Steel bar",
+      "quantity": "25",
+      "rarity": "3/118",
+      "itemId": 2353
+    },
+    {
+      "name": "Coins",
+      "quantity": "10000",
+      "rarity": "5/118",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "8000",
+      "rarity": "2/118",
+      "itemId": 995
+    },
+    {
+      "name": "Bryophyta's essence",
+      "quantity": "1",
+      "rarity": "1/118",
+      "itemId": 22372
+    },
+    {
+      "name": "Mossy key",
+      "quantity": "1",
+      "rarity": "1/16",
+      "itemId": 22374
+    },
+    {
+      "name": "Long bone",
+      "quantity": "1",
+      "rarity": "1/400",
+      "itemId": 10976
+    },
+    {
+      "name": "Giant champion scroll",
+      "quantity": "1",
+      "rarity": "1/5000",
+      "itemId": 6800
+    },
+    {
+      "name": "Curved bone",
+      "quantity": "1",
+      "rarity": "1/5012.5",
+      "itemId": 10977
+    },
+    {
+      "name": "Big bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 532
+    },
+    {
+      "name": "Clue scroll (beginner)",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 23182
+    },
+    {
+      "name": "Rune platelegs",
+      "quantity": "1",
+      "rarity": "12/118",
+      "itemId": 1079
+    },
+    {
+      "name": "Rune longsword",
+      "quantity": "1",
+      "rarity": "6/118",
+      "itemId": 1303
+    },
+    {
+      "name": "Rune sword",
+      "quantity": "2",
+      "rarity": "5/118",
+      "itemId": 1289
+    },
+    {
+      "name": "Rune med helm",
+      "quantity": "2",
+      "rarity": "6/118",
+      "itemId": 1147
+    },
+    {
+      "name": "Rune med helm",
+      "quantity": "1",
+      "rarity": "3/118",
+      "itemId": 1147
+    },
+    {
+      "name": "Rune chainbody",
+      "quantity": "1",
+      "rarity": "6/118",
+      "itemId": 1113
+    },
+    {
+      "name": "Rune plateskirt",
+      "quantity": "1",
+      "rarity": "6/118",
+      "itemId": 1093
+    },
+    {
+      "name": "Rune sq shield",
+      "quantity": "1",
+      "rarity": "6/118",
+      "itemId": 1185
+    },
+    {
+      "name": "Adamant kiteshield",
+      "quantity": "3",
+      "rarity": "1/118",
+      "itemId": 1199
+    },
+    {
+      "name": "Adamant platebody",
+      "quantity": "5",
+      "rarity": "3/118",
+      "itemId": 1123
+    },
+    {
+      "name": "Cosmic rune",
+      "quantity": "100",
+      "rarity": "6/118",
+      "itemId": 564
+    },
+    {
+      "name": "Law rune",
+      "quantity": "100",
+      "rarity": "6/118",
+      "itemId": 563
+    },
+    {
+      "name": "Nature rune",
+      "quantity": "100",
+      "rarity": "8/118",
+      "itemId": 561
+    },
+    {
+      "name": "Death rune",
+      "quantity": "100",
+      "rarity": "6/118",
+      "itemId": 560
+    },
+    {
+      "name": "Chaos rune",
+      "quantity": "200",
+      "rarity": "6/118",
+      "itemId": 562
+    },
+    {
+      "name": "Chaos rune",
+      "quantity": "100",
+      "rarity": "5/118",
+      "itemId": 562
+    },
+    {
+      "name": "Adamant arrow",
+      "quantity": "100",
+      "rarity": "1/118",
+      "itemId": 890
+    },
+    {
+      "name": "Runite bar",
+      "quantity": "2",
+      "rarity": "6/118",
+      "itemId": 2363
+    },
+    {
+      "name": "Uncut ruby",
+      "quantity": "5",
+      "rarity": "4/118",
+      "itemId": 1619
+    },
+    {
+      "name": "Uncut diamond",
+      "quantity": "5",
+      "rarity": "4/118",
+      "itemId": 1617
+    },
+    {
+      "name": "Steel bar",
+      "quantity": "25",
+      "rarity": "3/118",
+      "itemId": 2353
+    },
+    {
+      "name": "Coins",
+      "quantity": "10000",
+      "rarity": "5/118",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "8000",
+      "rarity": "2/118",
+      "itemId": 995
+    },
+    {
+      "name": "Strength potion(4)",
+      "quantity": "15",
+      "rarity": "5/118",
+      "itemId": 113
+    },
+    {
+      "name": "Bryophyta's essence",
+      "quantity": "1",
+      "rarity": "1/118",
+      "itemId": 22372
+    },
+    {
+      "name": "Mossy key",
+      "quantity": "1",
+      "rarity": "1/16",
+      "itemId": 22374
+    }
+  ]
+}

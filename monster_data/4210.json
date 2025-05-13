@@ -1,0 +1,48 @@
+{
+  "id": 4210,
+  "name": "Possessed Priest",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    },
+    {
+      "name": "Agility potion(4)",
+      "quantity": "1",
+      "rarity": "Random",
+      "itemId": 3032
+    },
+    {
+      "name": "Attack potion(4)",
+      "quantity": "1",
+      "rarity": "Random",
+      "itemId": 2428
+    },
+    {
+      "name": "Defence potion(4)",
+      "quantity": "1",
+      "rarity": "Random",
+      "itemId": 2432
+    },
+    {
+      "name": "Magic potion(4)",
+      "quantity": "1",
+      "rarity": "Random",
+      "itemId": 3040
+    },
+    {
+      "name": "Strength potion(4)",
+      "quantity": "1",
+      "rarity": "Random",
+      "itemId": 113
+    },
+    {
+      "name": "Coins",
+      "quantity": "1–1260",
+      "rarity": "Uncommon",
+      "itemId": 995
+    }
+  ]
+}

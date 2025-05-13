@@ -1,0 +1,12 @@
+{
+  "id": 12370,
+  "name": "Radiant sanguisphera",
+  "drops": [
+    {
+      "name": "Radiant fibre",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 28463
+    }
+  ]
+}

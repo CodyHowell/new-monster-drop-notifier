@@ -1,0 +1,42 @@
+{
+  "id": 6740,
+  "name": "Shade",
+  "drops": [
+    {
+      "name": "Shade robe top",
+      "quantity": "1",
+      "rarity": "32/128",
+      "itemId": 546
+    },
+    {
+      "name": "Shade robe",
+      "quantity": "1",
+      "rarity": "32/128",
+      "itemId": 548
+    },
+    {
+      "name": "Ancient shard",
+      "quantity": "1",
+      "rarity": "1/256",
+      "itemId": 19677
+    },
+    {
+      "name": "Dark totem base",
+      "quantity": "1",
+      "rarity": "1/385",
+      "itemId": 19679
+    },
+    {
+      "name": "Dark totem middle",
+      "quantity": "1",
+      "rarity": "1/385",
+      "itemId": 19681
+    },
+    {
+      "name": "Dark totem top",
+      "quantity": "1",
+      "rarity": "1/385",
+      "itemId": 19683
+    }
+  ]
+}

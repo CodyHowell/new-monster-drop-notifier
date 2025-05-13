@@ -1,0 +1,132 @@
+{
+  "id": 11088,
+  "name": "Necromancer (Great Kourend)",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    },
+    {
+      "name": "Air rune",
+      "quantity": "20–30",
+      "rarity": "4/52",
+      "itemId": 556
+    },
+    {
+      "name": "Water rune",
+      "quantity": "20–30",
+      "rarity": "4/52",
+      "itemId": 555
+    },
+    {
+      "name": "Earth rune",
+      "quantity": "20–30",
+      "rarity": "4/52",
+      "itemId": 557
+    },
+    {
+      "name": "Fire rune",
+      "quantity": "20–30",
+      "rarity": "4/52",
+      "itemId": 554
+    },
+    {
+      "name": "Mind rune",
+      "quantity": "20–30",
+      "rarity": "4/52",
+      "itemId": 558
+    },
+    {
+      "name": "Body rune",
+      "quantity": "20–30",
+      "rarity": "4/52",
+      "itemId": 559
+    },
+    {
+      "name": "Cosmic rune",
+      "quantity": "10–15",
+      "rarity": "3/52",
+      "itemId": 564
+    },
+    {
+      "name": "Chaos rune",
+      "quantity": "10–15",
+      "rarity": "3/52",
+      "itemId": 562
+    },
+    {
+      "name": "Nature rune",
+      "quantity": "10–15",
+      "rarity": "3/52",
+      "itemId": 561
+    },
+    {
+      "name": "Law rune",
+      "quantity": "10–15",
+      "rarity": "3/52",
+      "itemId": 563
+    },
+    {
+      "name": "Death rune",
+      "quantity": "4–8",
+      "rarity": "2/52",
+      "itemId": 560
+    },
+    {
+      "name": "Blood rune",
+      "quantity": "4–8",
+      "rarity": "2/52",
+      "itemId": 565
+    },
+    {
+      "name": "Cursed amulet of magic",
+      "quantity": "1",
+      "rarity": "1/5",
+      "itemId": 29486
+    },
+    {
+      "name": "Coins",
+      "quantity": "10–50",
+      "rarity": "2/52",
+      "itemId": 995
+    },
+    {
+      "name": "Staff",
+      "quantity": "1",
+      "rarity": "2/52",
+      "itemId": 1379
+    },
+    {
+      "name": "Air talisman",
+      "quantity": "1",
+      "rarity": "1/52",
+      "itemId": 1438
+    },
+    {
+      "name": "Water talisman",
+      "quantity": "1",
+      "rarity": "1/52",
+      "itemId": 1444
+    },
+    {
+      "name": "Earth talisman",
+      "quantity": "1",
+      "rarity": "1/52",
+      "itemId": 1440
+    },
+    {
+      "name": "Fire talisman",
+      "quantity": "1",
+      "rarity": "1/52",
+      "itemId": 1442
+    },
+    {
+      "name": "Clue scroll (medium)",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 2829
+    }
+  ]
+}

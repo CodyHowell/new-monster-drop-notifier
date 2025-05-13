@@ -1,0 +1,30 @@
+{
+  "id": 2645,
+  "name": "Blood Blamish Snail",
+  "drops": [
+    {
+      "name": "Fat snail",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 3367
+    },
+    {
+      "name": "Blamish red shell (round)",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 3347
+    },
+    {
+      "name": "Fat snail",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 3367
+    },
+    {
+      "name": "Blamish red shell (pointed)",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 3357
+    }
+  ]
+}

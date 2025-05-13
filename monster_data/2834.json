@@ -1,0 +1,24 @@
+{
+  "id": 2834,
+  "name": "Giant bat",
+  "drops": [
+    {
+      "name": "Bat bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 530
+    },
+    {
+      "name": "Giant bat wing",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 7827
+    },
+    {
+      "name": "Looting bag",
+      "quantity": "1",
+      "rarity": "1/5",
+      "itemId": 11941
+    }
+  ]
+}

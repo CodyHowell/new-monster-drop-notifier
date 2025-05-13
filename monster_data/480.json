@@ -1,0 +1,180 @@
+{
+  "id": 480,
+  "name": "Cave slime",
+  "drops": [
+    {
+      "name": "Swamp tar",
+      "quantity": "1–6",
+      "rarity": "Always",
+      "itemId": 1939
+    },
+    {
+      "name": "Bronze axe",
+      "quantity": "1",
+      "rarity": "3/128",
+      "itemId": 1351
+    },
+    {
+      "name": "Iron sword",
+      "quantity": "1",
+      "rarity": "7/128",
+      "itemId": 1279
+    },
+    {
+      "name": "Bronze full helm",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 1155
+    },
+    {
+      "name": "Iron kiteshield",
+      "quantity": "1",
+      "rarity": "2/128",
+      "itemId": 1191
+    },
+    {
+      "name": "Iron boots",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 4121
+    },
+    {
+      "name": "Water rune",
+      "quantity": "15",
+      "rarity": "5/128",
+      "itemId": 555
+    },
+    {
+      "name": "Earth rune",
+      "quantity": "5",
+      "rarity": "3/128",
+      "itemId": 557
+    },
+    {
+      "name": "Coins",
+      "quantity": "1",
+      "rarity": "7/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "4",
+      "rarity": "30/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "10",
+      "rarity": "39/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "22",
+      "rarity": "10/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "46",
+      "rarity": "2/128",
+      "itemId": 995
+    },
+    {
+      "name": "Unlit torch",
+      "quantity": "1",
+      "rarity": "11/128",
+      "itemId": 596
+    },
+    {
+      "name": "Oil lantern frame",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 4540
+    },
+    {
+      "name": "Gold bar",
+      "quantity": "1",
+      "rarity": "2/128",
+      "itemId": 2357
+    },
+    {
+      "name": "Uncut sapphire",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 1623
+    },
+    {
+      "name": "Uncut emerald",
+      "quantity": "1",
+      "rarity": "1/256",
+      "itemId": 1621
+    },
+    {
+      "name": "Uncut ruby",
+      "quantity": "1",
+      "rarity": "1/512",
+      "itemId": 1619
+    },
+    {
+      "name": "Uncut diamond",
+      "quantity": "1",
+      "rarity": "1/2048",
+      "itemId": 1617
+    },
+    {
+      "name": "Chaos talisman",
+      "quantity": "1",
+      "rarity": "1/1365.33",
+      "itemId": 1452
+    },
+    {
+      "name": "Nature talisman",
+      "quantity": "1",
+      "rarity": "1/1365.33",
+      "itemId": 1462
+    },
+    {
+      "name": "Loop half of key",
+      "quantity": "1",
+      "rarity": "1/4096",
+      "itemId": 987
+    },
+    {
+      "name": "Tooth half of key",
+      "quantity": "1",
+      "rarity": "1/4096",
+      "itemId": 985
+    },
+    {
+      "name": "Rune javelin",
+      "quantity": "5",
+      "rarity": "1/4096",
+      "itemId": 830
+    },
+    {
+      "name": "Rune spear",
+      "quantity": "1",
+      "rarity": "1/65536",
+      "itemId": 1247
+    },
+    {
+      "name": "Shield left half",
+      "quantity": "1",
+      "rarity": "1/131072",
+      "itemId": 2366
+    },
+    {
+      "name": "Dragon spear",
+      "quantity": "1",
+      "rarity": "1/174762.67",
+      "itemId": 1249
+    },
+    {
+      "name": "Clue scroll (easy)",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 12179
+    }
+  ]
+}

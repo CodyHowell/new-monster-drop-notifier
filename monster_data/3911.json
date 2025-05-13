@@ -1,0 +1,12 @@
+{
+  "id": 3911,
+  "name": "Black unicorn Foal",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    }
+  ]
+}

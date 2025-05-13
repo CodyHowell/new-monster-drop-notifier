@@ -1,0 +1,12 @@
+{
+  "id": 3020,
+  "name": "Jungle spider",
+  "drops": [
+    {
+      "name": "Spider carcass",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 6291
+    }
+  ]
+}

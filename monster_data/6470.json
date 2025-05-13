@@ -1,0 +1,12 @@
+{
+  "id": 6470,
+  "name": "Animated spade",
+  "drops": [
+    {
+      "name": "Spade",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 952
+    }
+  ]
+}

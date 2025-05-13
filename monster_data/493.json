@@ -1,0 +1,420 @@
+{
+  "id": 493,
+  "name": "Cave kraken",
+  "drops": [
+    {
+      "name": "Staff of water",
+      "quantity": "1",
+      "rarity": "4/200",
+      "itemId": 1383
+    },
+    {
+      "name": "Rune med helm",
+      "quantity": "1",
+      "rarity": "6.5/200",
+      "itemId": 1147
+    },
+    {
+      "name": "Adamant spear",
+      "quantity": "1",
+      "rarity": "4/200",
+      "itemId": 1245
+    },
+    {
+      "name": "Rune warhammer",
+      "quantity": "1",
+      "rarity": "4/200",
+      "itemId": 1347
+    },
+    {
+      "name": "Battlestaff",
+      "quantity": "1",
+      "rarity": "4/200",
+      "itemId": 1391
+    },
+    {
+      "name": "Water battlestaff",
+      "quantity": "1",
+      "rarity": "4/200",
+      "itemId": 1395
+    },
+    {
+      "name": "Mystic water staff",
+      "quantity": "1",
+      "rarity": "2/200",
+      "itemId": 1403
+    },
+    {
+      "name": "Uncharged trident",
+      "quantity": "1",
+      "rarity": "1/200",
+      "itemId": 11908
+    },
+    {
+      "name": "Steam rune",
+      "quantity": "7",
+      "rarity": "6/200",
+      "itemId": 4694
+    },
+    {
+      "name": "Water rune",
+      "quantity": "15",
+      "rarity": "10/200",
+      "itemId": 555
+    },
+    {
+      "name": "Water rune",
+      "quantity": "30",
+      "rarity": "10/200",
+      "itemId": 555
+    },
+    {
+      "name": "Water rune",
+      "quantity": "75",
+      "rarity": "10/200",
+      "itemId": 555
+    },
+    {
+      "name": "Fire rune",
+      "quantity": "30",
+      "rarity": "10/200",
+      "itemId": 554
+    },
+    {
+      "name": "Death rune",
+      "quantity": "30",
+      "rarity": "16/200",
+      "itemId": 560
+    },
+    {
+      "name": "Chaos rune",
+      "quantity": "50",
+      "rarity": "16/200",
+      "itemId": 562
+    },
+    {
+      "name": "Blood rune",
+      "quantity": "5",
+      "rarity": "8/200",
+      "itemId": 565
+    },
+    {
+      "name": "Grimy guam leaf",
+      "quantity": "1",
+      "rarity": "1/133.3",
+      "itemId": 199
+    },
+    {
+      "name": "Grimy marrentill",
+      "quantity": "1",
+      "rarity": "1/177.8",
+      "itemId": 201
+    },
+    {
+      "name": "Grimy tarromin",
+      "quantity": "1",
+      "rarity": "1/237",
+      "itemId": 203
+    },
+    {
+      "name": "Grimy harralander",
+      "quantity": "1",
+      "rarity": "1/304.8",
+      "itemId": 205
+    },
+    {
+      "name": "Grimy ranarr weed",
+      "quantity": "1",
+      "rarity": "1/387.9",
+      "itemId": 207
+    },
+    {
+      "name": "Grimy irit leaf",
+      "quantity": "1",
+      "rarity": "1/533.3",
+      "itemId": 209
+    },
+    {
+      "name": "Grimy avantoe",
+      "quantity": "1",
+      "rarity": "1/711.1",
+      "itemId": 211
+    },
+    {
+      "name": "Grimy kwuarm",
+      "quantity": "1",
+      "rarity": "1/853.3",
+      "itemId": 213
+    },
+    {
+      "name": "Grimy cadantine",
+      "quantity": "1",
+      "rarity": "1/1066.7",
+      "itemId": 215
+    },
+    {
+      "name": "Grimy lantadyme",
+      "quantity": "1",
+      "rarity": "1/1422.2",
+      "itemId": 2485
+    },
+    {
+      "name": "Grimy dwarf weed",
+      "quantity": "1",
+      "rarity": "1/1422.2",
+      "itemId": 217
+    },
+    {
+      "name": "Toadflax seed",
+      "quantity": "1",
+      "rarity": "1/167.4",
+      "itemId": 5296
+    },
+    {
+      "name": "Irit seed",
+      "quantity": "1",
+      "rarity": "1/245.8",
+      "itemId": 5297
+    },
+    {
+      "name": "Belladonna seed",
+      "quantity": "1",
+      "rarity": "1/253.8",
+      "itemId": 5281
+    },
+    {
+      "name": "Poison ivy seed",
+      "quantity": "1",
+      "rarity": "1/357.6",
+      "itemId": 5106
+    },
+    {
+      "name": "Avantoe seed",
+      "quantity": "1",
+      "rarity": "1/357.6",
+      "itemId": 5298
+    },
+    {
+      "name": "Cactus seed",
+      "quantity": "1",
+      "rarity": "1/374.6",
+      "itemId": 5280
+    },
+    {
+      "name": "Potato cactus seed",
+      "quantity": "1",
+      "rarity": "1/524.4",
+      "itemId": 22873
+    },
+    {
+      "name": "Kwuarm seed",
+      "quantity": "1",
+      "rarity": "1/524.4",
+      "itemId": 5299
+    },
+    {
+      "name": "Snapdragon seed",
+      "quantity": "1",
+      "rarity": "1/786.7",
+      "itemId": 5300
+    },
+    {
+      "name": "Cadantine seed",
+      "quantity": "1",
+      "rarity": "1/1123.8",
+      "itemId": 5301
+    },
+    {
+      "name": "Lantadyme seed",
+      "quantity": "1",
+      "rarity": "1/1573.3",
+      "itemId": 5302
+    },
+    {
+      "name": "Snape grass seed",
+      "quantity": "3",
+      "rarity": "1/1966.7",
+      "itemId": 22879
+    },
+    {
+      "name": "Dwarf weed seed",
+      "quantity": "1",
+      "rarity": "1/2622.2",
+      "itemId": 5303
+    },
+    {
+      "name": "Torstol seed",
+      "quantity": "1",
+      "rarity": "1/3933.3",
+      "itemId": 5304
+    },
+    {
+      "name": "Old boot",
+      "quantity": "1",
+      "rarity": "4/200",
+      "itemId": 685
+    },
+    {
+      "name": "Swamp tar",
+      "quantity": "60",
+      "rarity": "4/200",
+      "itemId": 1939
+    },
+    {
+      "name": "Seaweed",
+      "quantity": "30",
+      "rarity": "6/200",
+      "itemId": 401
+    },
+    {
+      "name": "Coins",
+      "quantity": "120–300",
+      "rarity": "10/200",
+      "itemId": 995
+    },
+    {
+      "name": "Bucket",
+      "quantity": "1",
+      "rarity": "1/240",
+      "itemId": 1925
+    },
+    {
+      "name": "Raw lobster",
+      "quantity": "3",
+      "rarity": "4/200",
+      "itemId": 377
+    },
+    {
+      "name": "Water orb",
+      "quantity": "2",
+      "rarity": "4/200",
+      "itemId": 571
+    },
+    {
+      "name": "Oyster",
+      "quantity": "1",
+      "rarity": "4/200",
+      "itemId": 407
+    },
+    {
+      "name": "Swordfish",
+      "quantity": "2",
+      "rarity": "6/200",
+      "itemId": 373
+    },
+    {
+      "name": "Shark",
+      "quantity": "1",
+      "rarity": "6/200",
+      "itemId": 385
+    },
+    {
+      "name": "Antidote++(4)",
+      "quantity": "1",
+      "rarity": "6/200",
+      "itemId": 5952
+    },
+    {
+      "name": "Vial of water",
+      "quantity": "50",
+      "rarity": "4/200",
+      "itemId": 227
+    },
+    {
+      "name": "Water talisman",
+      "quantity": "1",
+      "rarity": "4/200",
+      "itemId": 1444
+    },
+    {
+      "name": "Kraken tentacle",
+      "quantity": "1",
+      "rarity": "1/1200",
+      "itemId": 12004
+    },
+    {
+      "name": "Uncut sapphire",
+      "quantity": "1",
+      "rarity": "1/133.33",
+      "itemId": 1623
+    },
+    {
+      "name": "Uncut emerald",
+      "quantity": "1",
+      "rarity": "1/266.67",
+      "itemId": 1621
+    },
+    {
+      "name": "Uncut ruby",
+      "quantity": "1",
+      "rarity": "1/533.33",
+      "itemId": 1619
+    },
+    {
+      "name": "Uncut diamond",
+      "quantity": "1",
+      "rarity": "1/2133.33",
+      "itemId": 1617
+    },
+    {
+      "name": "Chaos talisman",
+      "quantity": "1",
+      "rarity": "1/1422.22",
+      "itemId": 1452
+    },
+    {
+      "name": "Loop half of key",
+      "quantity": "1",
+      "rarity": "1/4266.67",
+      "itemId": 987
+    },
+    {
+      "name": "Tooth half of key",
+      "quantity": "1",
+      "rarity": "1/4266.67",
+      "itemId": 985
+    },
+    {
+      "name": "Rune javelin",
+      "quantity": "5",
+      "rarity": "1/4266.67",
+      "itemId": 830
+    },
+    {
+      "name": "Rune spear",
+      "quantity": "1",
+      "rarity": "1/68266.67",
+      "itemId": 1247
+    },
+    {
+      "name": "Shield left half",
+      "quantity": "1",
+      "rarity": "1/136533.33",
+      "itemId": 2366
+    },
+    {
+      "name": "Dragon spear",
+      "quantity": "1",
+      "rarity": "1/182044.44",
+      "itemId": 1249
+    },
+    {
+      "name": "Brimstone key",
+      "quantity": "1",
+      "rarity": "1/76",
+      "itemId": 23083
+    },
+    {
+      "name": "Clue scroll (hard)",
+      "quantity": "1",
+      "rarity": "1/100",
+      "itemId": 3550
+    },
+    {
+      "name": "Clue scroll (elite)",
+      "quantity": "1",
+      "rarity": "1/1200",
+      "itemId": 21524
+    }
+  ]
+}

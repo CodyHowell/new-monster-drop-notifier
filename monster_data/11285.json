@@ -1,0 +1,36 @@
+{
+  "id": 11285,
+  "name": "Cruor",
+  "drops": [
+    {
+      "name": "Ancient ceremonial mask",
+      "quantity": "1",
+      "rarity": "1/1000",
+      "itemId": 26225
+    },
+    {
+      "name": "Ancient ceremonial top",
+      "quantity": "1",
+      "rarity": "1/1000",
+      "itemId": 26221
+    },
+    {
+      "name": "Ancient ceremonial legs",
+      "quantity": "1",
+      "rarity": "1/1000",
+      "itemId": 26223
+    },
+    {
+      "name": "Ancient ceremonial gloves",
+      "quantity": "1",
+      "rarity": "1/1000",
+      "itemId": 26227
+    },
+    {
+      "name": "Ancient ceremonial boots",
+      "quantity": "1",
+      "rarity": "1/1000",
+      "itemId": 26229
+    }
+  ]
+}

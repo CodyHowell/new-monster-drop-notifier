@@ -1,0 +1,180 @@
+{
+  "id": 3258,
+  "name": "Druid",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    },
+    {
+      "name": "Earth rune",
+      "quantity": "27",
+      "rarity": "4/128",
+      "itemId": 557
+    },
+    {
+      "name": "Water rune",
+      "quantity": "9",
+      "rarity": "2/128",
+      "itemId": 555
+    },
+    {
+      "name": "Earth rune",
+      "quantity": "9",
+      "rarity": "2/128",
+      "itemId": 557
+    },
+    {
+      "name": "Fire rune",
+      "quantity": "9",
+      "rarity": "2/128",
+      "itemId": 554
+    },
+    {
+      "name": "Chaos rune",
+      "quantity": "3",
+      "rarity": "2/128",
+      "itemId": 562
+    },
+    {
+      "name": "Law rune",
+      "quantity": "2",
+      "rarity": "1/128",
+      "itemId": 563
+    },
+    {
+      "name": "Grimy guam leaf",
+      "quantity": "1",
+      "rarity": "1/19.7",
+      "itemId": 199
+    },
+    {
+      "name": "Grimy marrentill",
+      "quantity": "1",
+      "rarity": "1/26.3",
+      "itemId": 201
+    },
+    {
+      "name": "Grimy tarromin",
+      "quantity": "1",
+      "rarity": "1/35",
+      "itemId": 203
+    },
+    {
+      "name": "Grimy harralander",
+      "quantity": "1",
+      "rarity": "1/45",
+      "itemId": 205
+    },
+    {
+      "name": "Grimy ranarr weed",
+      "quantity": "1",
+      "rarity": "1/57.3",
+      "itemId": 207
+    },
+    {
+      "name": "Grimy irit leaf",
+      "quantity": "1",
+      "rarity": "1/78.8",
+      "itemId": 209
+    },
+    {
+      "name": "Grimy avantoe",
+      "quantity": "1",
+      "rarity": "1/105",
+      "itemId": 211
+    },
+    {
+      "name": "Grimy kwuarm",
+      "quantity": "1",
+      "rarity": "1/126",
+      "itemId": 213
+    },
+    {
+      "name": "Grimy cadantine",
+      "quantity": "1",
+      "rarity": "1/157.5",
+      "itemId": 215
+    },
+    {
+      "name": "Grimy lantadyme",
+      "quantity": "1",
+      "rarity": "1/210.1",
+      "itemId": 2485
+    },
+    {
+      "name": "Grimy dwarf weed",
+      "quantity": "1",
+      "rarity": "1/210.1",
+      "itemId": 217
+    },
+    {
+      "name": "Coins",
+      "quantity": "2",
+      "rarity": "10/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "4",
+      "rarity": "4/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "1",
+      "rarity": "3/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "15",
+      "rarity": "3/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "20",
+      "rarity": "1/128",
+      "itemId": 995
+    },
+    {
+      "name": "Vial",
+      "quantity": "1",
+      "rarity": "10/128",
+      "itemId": 229
+    },
+    {
+      "name": "Iron dagger",
+      "quantity": "1",
+      "rarity": "6/128",
+      "itemId": 1203
+    },
+    {
+      "name": "Druid's robe top",
+      "quantity": "1",
+      "rarity": "6/128",
+      "itemId": 540
+    },
+    {
+      "name": "Druid's robe",
+      "quantity": "1",
+      "rarity": "5/128",
+      "itemId": 538
+    },
+    {
+      "name": "Limpwurt root",
+      "quantity": "1",
+      "rarity": "3/128",
+      "itemId": 225
+    },
+    {
+      "name": "Antipoison(3)",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 175
+    }
+  ]
+}

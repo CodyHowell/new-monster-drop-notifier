@@ -1,0 +1,246 @@
+{
+  "id": 4522,
+  "name": "Guard (H.A.M. Storerooms)",
+  "drops": [
+    {
+      "name": "Bronze arrow",
+      "quantity": "1–13",
+      "rarity": "9/500",
+      "itemId": 882
+    },
+    {
+      "name": "Bronze axe",
+      "quantity": "1",
+      "rarity": "9/500",
+      "itemId": 1351
+    },
+    {
+      "name": "Bronze dagger",
+      "quantity": "1",
+      "rarity": "9/500",
+      "itemId": 1205
+    },
+    {
+      "name": "Bronze pickaxe",
+      "quantity": "1",
+      "rarity": "9/500",
+      "itemId": 1265
+    },
+    {
+      "name": "Iron axe",
+      "quantity": "1",
+      "rarity": "9/500",
+      "itemId": 1349
+    },
+    {
+      "name": "Iron dagger",
+      "quantity": "1",
+      "rarity": "9/500",
+      "itemId": 1203
+    },
+    {
+      "name": "Iron pickaxe",
+      "quantity": "1",
+      "rarity": "9/500",
+      "itemId": 1267
+    },
+    {
+      "name": "Leather body",
+      "quantity": "1",
+      "rarity": "9/500",
+      "itemId": 1129
+    },
+    {
+      "name": "Ham boots",
+      "quantity": "1",
+      "rarity": "3/500",
+      "itemId": 4310
+    },
+    {
+      "name": "Ham cloak",
+      "quantity": "1",
+      "rarity": "3/500",
+      "itemId": 4304
+    },
+    {
+      "name": "Ham gloves",
+      "quantity": "1",
+      "rarity": "3/500",
+      "itemId": 4308
+    },
+    {
+      "name": "Ham hood",
+      "quantity": "1",
+      "rarity": "3/500",
+      "itemId": 4302
+    },
+    {
+      "name": "Ham logo",
+      "quantity": "1",
+      "rarity": "3/500",
+      "itemId": 4306
+    },
+    {
+      "name": "Ham robe",
+      "quantity": "1",
+      "rarity": "3/500",
+      "itemId": 4300
+    },
+    {
+      "name": "Ham shirt",
+      "quantity": "1",
+      "rarity": "3/500",
+      "itemId": 4298
+    },
+    {
+      "name": "Steel arrow",
+      "quantity": "1–13",
+      "rarity": "6/500",
+      "itemId": 886
+    },
+    {
+      "name": "Steel axe",
+      "quantity": "1",
+      "rarity": "6/500",
+      "itemId": 1353
+    },
+    {
+      "name": "Steel dagger",
+      "quantity": "1",
+      "rarity": "6/500",
+      "itemId": 1207
+    },
+    {
+      "name": "Steel pickaxe",
+      "quantity": "1",
+      "rarity": "6/500",
+      "itemId": 1269
+    },
+    {
+      "name": "Buttons",
+      "quantity": "1",
+      "rarity": "12/500",
+      "itemId": 688
+    },
+    {
+      "name": "Coin pouch",
+      "quantity": "1",
+      "rarity": "45/500",
+      "itemId": 22521
+    },
+    {
+      "name": "Feather",
+      "quantity": "1–7",
+      "rarity": "9/500",
+      "itemId": 314
+    },
+    {
+      "name": "Knife",
+      "quantity": "1",
+      "rarity": "6/500",
+      "itemId": 946
+    },
+    {
+      "name": "Logs",
+      "quantity": "1",
+      "rarity": "9/500",
+      "itemId": 1511
+    },
+    {
+      "name": "Needle",
+      "quantity": "1",
+      "rarity": "6/500",
+      "itemId": 1733
+    },
+    {
+      "name": "Raw anchovies",
+      "quantity": "1",
+      "rarity": "6/500",
+      "itemId": 321
+    },
+    {
+      "name": "Raw chicken",
+      "quantity": "1",
+      "rarity": "6/500",
+      "itemId": 2138
+    },
+    {
+      "name": "Thread",
+      "quantity": "1–10",
+      "rarity": "9/500",
+      "itemId": 1734
+    },
+    {
+      "name": "Tinderbox",
+      "quantity": "1",
+      "rarity": "6/500",
+      "itemId": 590
+    },
+    {
+      "name": "Uncut opal",
+      "quantity": "1",
+      "rarity": "6/500",
+      "itemId": 1625
+    },
+    {
+      "name": "Clue scroll (easy)",
+      "quantity": "1",
+      "rarity": "6/500",
+      "itemId": 12179
+    },
+    {
+      "name": "Coal",
+      "quantity": "1",
+      "rarity": "6/500",
+      "itemId": 453
+    },
+    {
+      "name": "Cowhide",
+      "quantity": "1",
+      "rarity": "9/500",
+      "itemId": 1739
+    },
+    {
+      "name": "Damaged armour",
+      "quantity": "1",
+      "rarity": "12/500",
+      "itemId": 697
+    },
+    {
+      "name": "Grimy guam leaf",
+      "quantity": "1",
+      "rarity": "18/2750",
+      "itemId": 199
+    },
+    {
+      "name": "Grimy marrentill",
+      "quantity": "1",
+      "rarity": "9/2750",
+      "itemId": 201
+    },
+    {
+      "name": "Grimy tarromin",
+      "quantity": "1",
+      "rarity": "6/2750",
+      "itemId": 203
+    },
+    {
+      "name": "Iron ore",
+      "quantity": "1",
+      "rarity": "6/500",
+      "itemId": 440
+    },
+    {
+      "name": "Rusty sword",
+      "quantity": "1",
+      "rarity": "12/500",
+      "itemId": 686
+    },
+    {
+      "name": "Uncut jade",
+      "quantity": "1",
+      "rarity": "6/500",
+      "itemId": 1627
+    }
+  ]
+}

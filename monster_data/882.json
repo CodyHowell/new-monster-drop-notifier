@@ -1,0 +1,30 @@
+{
+  "id": 882,
+  "name": "Slash Bash",
+  "drops": [
+    {
+      "name": "Zogre bones",
+      "quantity": "2",
+      "rarity": "Always",
+      "itemId": 4812
+    },
+    {
+      "name": "Ourg bones",
+      "quantity": "3",
+      "rarity": "Always",
+      "itemId": 4834
+    },
+    {
+      "name": "Ogre artefact",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 4818
+    },
+    {
+      "name": "Zombie champion scroll",
+      "quantity": "1",
+      "rarity": "1/5000",
+      "itemId": 6807
+    }
+  ]
+}

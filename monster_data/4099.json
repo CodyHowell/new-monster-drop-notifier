@@ -1,0 +1,144 @@
+{
+  "id": 4099,
+  "name": "Guard (Burthorpe)",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    },
+    {
+      "name": "Steel warhammer",
+      "quantity": "1",
+      "rarity": "8/128",
+      "itemId": 1339
+    },
+    {
+      "name": "Mithril warhammer",
+      "quantity": "1",
+      "rarity": "6/128",
+      "itemId": 1343
+    },
+    {
+      "name": "Mithril platebody",
+      "quantity": "1",
+      "rarity": "4/128",
+      "itemId": 1121
+    },
+    {
+      "name": "Mithril full helm",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 1159
+    },
+    {
+      "name": "Blood rune",
+      "quantity": "3",
+      "rarity": "1/128",
+      "itemId": 565
+    },
+    {
+      "name": "Chaos rune",
+      "quantity": "3",
+      "rarity": "1/128",
+      "itemId": 562
+    },
+    {
+      "name": "Nature rune",
+      "quantity": "4",
+      "rarity": "1/128",
+      "itemId": 561
+    },
+    {
+      "name": "Fire rune",
+      "quantity": "22",
+      "rarity": "2/128",
+      "itemId": 554
+    },
+    {
+      "name": "Earth rune",
+      "quantity": "23",
+      "rarity": "2/128",
+      "itemId": 557
+    },
+    {
+      "name": "Air rune",
+      "quantity": "25",
+      "rarity": "2/128",
+      "itemId": 556
+    },
+    {
+      "name": "Bronze arrow",
+      "quantity": "12",
+      "rarity": "3/128",
+      "itemId": 882
+    },
+    {
+      "name": "Steel arrow",
+      "quantity": "12",
+      "rarity": "2/128",
+      "itemId": 886
+    },
+    {
+      "name": "Coins",
+      "quantity": "2",
+      "rarity": "1/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "4",
+      "rarity": "37/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "12",
+      "rarity": "16/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "18",
+      "rarity": "9/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "32",
+      "rarity": "4/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "45",
+      "rarity": "4/128",
+      "itemId": 995
+    },
+    {
+      "name": "Coins",
+      "quantity": "50",
+      "rarity": "2/128",
+      "itemId": 995
+    },
+    {
+      "name": "Earth talisman",
+      "quantity": "1",
+      "rarity": "3/128",
+      "itemId": 1440
+    },
+    {
+      "name": "Mithril ore",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 447
+    },
+    {
+      "name": "Clue scroll (medium)",
+      "quantity": "1",
+      "rarity": "1/128",
+      "itemId": 2829
+    }
+  ]
+}

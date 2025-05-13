@@ -1,0 +1,24 @@
+{
+  "id": 9043,
+  "name": "Corrupted Unicorn",
+  "drops": [
+    {
+      "name": "Corrupted shards",
+      "quantity": "50–105",
+      "rarity": "Always",
+      "itemId": 23824
+    },
+    {
+      "name": "Raw paddlefish",
+      "quantity": "4",
+      "rarity": "Common",
+      "itemId": 23872
+    },
+    {
+      "name": "Corrupted teleport crystal",
+      "quantity": "1",
+      "rarity": "Uncommon",
+      "itemId": 23858
+    }
+  ]
+}

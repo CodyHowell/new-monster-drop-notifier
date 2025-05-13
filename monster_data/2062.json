@@ -1,0 +1,18 @@
+{
+  "id": 2062,
+  "name": "Oomlie bird",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    },
+    {
+      "name": "Raw oomlie",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 2337
+    }
+  ]
+}

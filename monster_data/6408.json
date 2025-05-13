@@ -1,0 +1,24 @@
+{
+  "id": 6408,
+  "name": "Broodoo victim",
+  "drops": [
+    {
+      "name": "Tribal mask (poison)",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 6335
+    },
+    {
+      "name": "Tribal mask (disease)",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 6337
+    },
+    {
+      "name": "Tribal mask (combat)",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 6339
+    }
+  ]
+}

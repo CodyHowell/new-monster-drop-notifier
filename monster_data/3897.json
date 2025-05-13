@@ -1,0 +1,12 @@
+{
+  "id": 3897,
+  "name": "Koschei the deathless",
+  "drops": [
+    {
+      "name": "Fremennik blade",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 3757
+    }
+  ]
+}

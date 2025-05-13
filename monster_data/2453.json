@@ -1,0 +1,30 @@
+{
+  "id": 2453,
+  "name": "Animated Black Armour",
+  "drops": [
+    {
+      "name": "Warrior guild token",
+      "quantity": "20",
+      "rarity": "Always",
+      "itemId": 8851
+    },
+    {
+      "name": "Black full helm",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 1165
+    },
+    {
+      "name": "Black platebody",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 1125
+    },
+    {
+      "name": "Black platelegs",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 1077
+    }
+  ]
+}

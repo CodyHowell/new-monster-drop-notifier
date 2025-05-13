@@ -1,0 +1,12 @@
+{
+  "id": 2920,
+  "name": "Confused barbarian",
+  "drops": [
+    {
+      "name": "Mangled bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 11337
+    }
+  ]
+}

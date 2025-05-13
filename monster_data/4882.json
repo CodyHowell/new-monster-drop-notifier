@@ -1,0 +1,12 @@
+{
+  "id": 4882,
+  "name": "Karamel",
+  "drops": [
+    {
+      "name": "Choc-ice",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 6794
+    }
+  ]
+}

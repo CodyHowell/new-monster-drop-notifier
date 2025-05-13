@@ -1,0 +1,24 @@
+{
+  "id": 2992,
+  "name": "Undead cow",
+  "drops": [
+    {
+      "name": "Cowhide",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 1739
+    },
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    },
+    {
+      "name": "Undead cow ribs",
+      "quantity": "1",
+      "rarity": "1/4",
+      "itemId": 7890
+    }
+  ]
+}

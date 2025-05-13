@@ -1,0 +1,12 @@
+{
+  "id": 3959,
+  "name": "Tormented Warrior",
+  "drops": [
+    {
+      "name": "Bones",
+      "quantity": "1",
+      "rarity": "Always",
+      "itemId": 526
+    }
+  ]
+}
